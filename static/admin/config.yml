@@ -4,7 +4,7 @@ backend:
   #repo: ali-baker/huss-gatsby
 media_folder: "src/images"
 public_folder: "/images"
-media_folder_relative: true
+media_folder_relative: flase
 
 collections:
   - label: "Pages"
