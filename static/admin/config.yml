@@ -32,3 +32,29 @@ collections:
             widget: "list"
             fields:
               - { label: "Title", name: "title", widget: "text" }
+      - label: "About Page"
+        name: "About Page"
+        file: "src/markdown-pages/about.md"
+        fields:
+          - { label: Main Title, name: title, widget: string }
+          - { label: SubTitle, name: subtitle, widget: text }
+          - { label: Button Text, name: buttontext, widget: string }
+          - { label: Button Email, name: buttonemail, widget: string }
+          - { label: Title Section 1, name: careertitle, widget: string }
+          - {
+              label: Description Section 1,
+              name: careerdescription,
+              widget: string,
+            }
+          - { label: Title Section 2, name: lifetitle, widget: string }
+          - {
+              label: Description Section 2,
+              name: lifedescription,
+              widget: string,
+            }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }

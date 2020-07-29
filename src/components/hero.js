@@ -8,7 +8,7 @@ const Hero = props => {
       <div className="main">
         <div className="container">
           <div className="main-content">
-            <div className="main-content-text" style={{ marginTop: "100px" }}>
+            <div className="main-content-text" style={{ marginTop: "140px" }}>
               <h1 className="hero-heading">{props.heading}</h1>
               <p style={{ maxWidth: "572px" }}>{props.subtitle}</p>
             </div>

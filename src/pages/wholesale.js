@@ -1,7 +1,4 @@
 import React from "react"
-import remark from "remark"
-import recommended from "remark-preset-lint-recommended"
-import remarkHtml from "remark-html"
 import { graphql, useStaticQuery } from "gatsby"
 import "../styles/style.css"
 import Header from "../components/header"
@@ -29,21 +26,6 @@ const Wholesale = () => {
       }
     }
   `)
-
-  //Below code converst markdown format to html
-
-  const toHTML = value =>
-    remark().use(recommended).use(remarkHtml).processSync(value).toString()
-
-  function createMarkup(data) {
-    const dataHtml = toHTML(data)
-
-    return { __html: dataHtml }
-  }
-
-  console.log(
-    data.markdownRemark.frontmatter.thumbnail.replace("/src/images/", "")
-  )
 
   return (
     <div>
