@@ -21,7 +21,9 @@ const Wholesale = () => {
           contacttitle
           email
           contact
-          listitems
+          listitems {
+            title
+          }
           thumbnail
         }
       }
