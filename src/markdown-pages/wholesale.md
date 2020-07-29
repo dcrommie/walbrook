@@ -1,6 +1,6 @@
 ---
-title: Ipsum
-subtitle: Lorem Ipsum
+title: For wholesale clients
+subtitle: "**Lorem** Ipsum *Lorem* Ipsum"
 thumbnail: /images/about.png
 title2: public_folder_relative
 subtitle2: new
@@ -11,4 +11,5 @@ listitems:
   - title: Mike
   - title: Dean
   - title: Snake
+list: d
 ---
