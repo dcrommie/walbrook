@@ -26,4 +26,3 @@ collections:
           - { label: Contact Section Title, name: contacttitle, widget: string }
           - { label: E-mail, name: email, widget: string }
           - { label: Contact, name: contact, widget: string }
-          - { label: List Items, name: list, widget: list }
