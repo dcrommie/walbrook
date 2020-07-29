@@ -41,6 +41,10 @@ const Wholesale = () => {
     return { __html: dataHtml }
   }
 
+  console.log(
+    data.markdownRemark.frontmatter.thumbnail.replace("/src/images/", "")
+  )
+
   return (
     <div>
       <Header />
@@ -48,7 +52,10 @@ const Wholesale = () => {
         heading={data.markdownRemark.frontmatter.title}
         subtitle={data.markdownRemark.frontmatter.subtitle}
         alt="Wholesale"
-        imageName={data.markdownRemark.frontmatter.thumbnail}
+        imageName={data.markdownRemark.frontmatter.thumbnail.replace(
+          "/images/",
+          ""
+        )}
       />
       <div className="offer">
         <div className="container">

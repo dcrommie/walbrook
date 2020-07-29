@@ -11,5 +11,4 @@ listitems:
   - title: Mike
   - title: Dean
   - title: Snake
-list: d
 ---
