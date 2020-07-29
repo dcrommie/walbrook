@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+.headers {
+  background: #f2f7f2;
+  width: 100%;
+}
+
+.headers ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  overflow: hidden;
+  background: #f2f7f2;
+}
+
+.headers li a {
+  display: block;
+  padding: 20px 20px;
+  text-decoration: none;
+  color: #000066;
+}
+
+ul li {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 140%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #000066;
+  padding-top: 15px;
+}
+ul button {
+  background: #000066;
+  border-radius: 8px;
+  padding: 14px 24px;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-left: 15px;
+}
+ul button:focus {
+  outline: none;
+}
+.headers {
+}
+.logo img {
+  padding-top: 20px;
+}
+
+/* menu */
+
+.headers .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height 0.5s ease-in-out;
+}
+
+/* menu icon */
+
+.headers .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 28px 20px;
+  position: relative;
+  user-select: none;
+}
+
+.headers .menu-icon .navicon {
+  background: #000066;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background 0.2s ease-out;
+  width: 18px;
+  margin-top: 15px;
+}
+
+.headers .menu-icon .navicon:before,
+.headers .menu-icon .navicon:after {
+  background: #000066;
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all 0.2s ease-out;
+  width: 100%;
+}
+
+.headers .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.headers .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+.headers .menu-btn {
+  display: none;
+}
+
+.headers .menu-btn:checked ~ .menu {
+  max-height: 550px;
+}
+
+.headers .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+
+.headers .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.headers .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.headers .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.headers .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+/* 75em = 1210px */
+
+@media (min-width: 75.625em) {
+  .headers li {
+    float: left;
+  }
+  /* .headers li a {
+    padding: 20px 30px;
+  } */
+  .headers .menu {
+    clear: none;
+    float: right;
+    max-height: none;
+  }
+  .headers .menu-icon {
+    display: none;
+  }
+  .headers {
+    padding-bottom: 20px;
+  }
+}
+@media screen and (max-width: 1210px) {
+  ul button {
+    margin-left: 0px;
+    margin-right: 0px !important;
+  }
+}
+@media screen and (max-width: 340px) {
+  .logo img {
+    padding-left: 0px;
+  }
+}
