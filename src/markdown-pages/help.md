@@ -59,16 +59,14 @@ helplist6:
   - title: |
       Private equity, on a fund or co-investment basis, including secondaries
   - title: Real estate, on a fund, direct or co-investment basis
+help1: sdhkjhsa
+helpdesc1: zxczxc
+help2: sdhkjhsa
+helpdesc2: zxczxc
+help3: sdhkjhsa
+helpdesc3: zxczxc
+help4: sdhkjhsa
+helpdesc4: zxczxc
 contacttitle: To be kept abreast of these opportunities, please contact us
-email: info@walbrook.com.au
-contact: +61 3 9013 6262
-listitems:
-  - title: |
-      Seed funding
-  - title: |
-      Pre-IPO equity, on a primary or secondary basis
-  - title: |
-      Private equity, on a fund or co-investment basis, including secondaries
-  - title: Real estate, on a fund, direct or co-investment basis
-list: d
+contactdesc: asdhahsdkhalskdhkas
 ---
