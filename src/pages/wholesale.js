@@ -1,4 +1,8 @@
 import React from "react"
+import remark from "remark"
+import recommended from "remark-preset-lint-recommended"
+import remarkHtml from "remark-html"
+import { graphql, useStaticQuery } from "gatsby"
 import "../styles/style.css"
 import Header from "../components/header"
 import Footer from "../components/footer"
@@ -6,29 +10,52 @@ import Hero from "../components/hero"
 import Form from "../components/form"
 
 const Wholesale = () => {
+  const data = useStaticQuery(graphql`
+    query WholesaleQuery {
+      markdownRemark(fileAbsolutePath: { regex: "/wholesale.md/" }) {
+        frontmatter {
+          title
+          subtitle
+          title2
+          subtitle2
+          contacttitle
+          email
+          contact
+          list
+          thumbnail
+        }
+      }
+    }
+  `)
+
+  //Below code converst markdown format to html
+
+  const toHTML = value =>
+    remark().use(recommended).use(remarkHtml).processSync(value).toString()
+
+  function createMarkup(data) {
+    const dataHtml = toHTML(data)
+
+    return { __html: dataHtml }
+  }
+
   return (
     <div>
       <Header />
       <Hero
-        heading="For wholesale clients"
-        subtitle="We offer specific opportunities available through our network only to Wholesale clients. We do this on a non-advised, introduction only basis to contacts with sufficient investment knowledge and experience who have previously expressed an interest."
+        heading={data.markdownRemark.frontmatter.title}
+        subtitle={data.markdownRemark.frontmatter.subtitle}
         alt="Wholesale"
-        imageName="wholesale.png"
+        imageName={data.markdownRemark.frontmatter.thumbnail}
       />
       <div className="offer">
         <div className="container">
           <div className="offer-content">
             <div>
-              <h3>
-                We offer an open-architecture service that meets the needs of
-                both Retail and Wholesale private clients and their families
-              </h3>
+              <h3>{data.markdownRemark.frontmatter.title2}</h3>
             </div>
             <div>
-              <h4>
-                We are typically asked to assist with introductions in the
-                following areas
-              </h4>
+              <h4>{data.markdownRemark.frontmatter.subtitle2}</h4>
               <ul className="offer-list">
                 <li> Seed funding</li>
                 <li> Pre-IPO equity, on a primary or secondary basis</li>
@@ -46,11 +73,9 @@ const Wholesale = () => {
         <div className="container">
           <div className="main-form-wholesale">
             <div className="form-text-wholesale">
-              <h2>
-                To be kept abreast of these opportunities, please contact us
-              </h2>
-              <p>info@walbrook.com.au</p>
-              <p>+61 3 9013 6262</p>
+              <h2>{data.markdownRemark.frontmatter.contacttitle} </h2>
+              <p>{data.markdownRemark.frontmatter.email}</p>
+              <p>{data.markdownRemark.frontmatter.contact}</p>
             </div>
             <div className="wholesale-form">
               <Form />

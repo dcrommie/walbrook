@@ -427,7 +427,8 @@ hr {
   font-weight: bold;
   font-size: 32px;
   line-height: 140%;
-  max-width: 421px;
+  max-width: 420px;
+  word-wrap: break-word;
   color: #000066;
   margin-right: 20px;
 }

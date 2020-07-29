@@ -1,0 +1,29 @@
+backend:
+  name: github
+  repo: MussadiqKhan/wallbrook
+  #repo: ali-baker/huss-gatsby
+media_folder: "src/images"
+public_folder: "/images"
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Wholesale"
+        name: "wholesale"
+        file: "src/markdown-pages/wholesale.md"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
+          - { label: Second Section Title, name: title2, widget: string }
+          - { label: Second Section SubTitle, name: subtitle2, widget: text }
+          - { label: Contact Section Title, name: contacttitle, widget: string }
+          - { label: E-mail, name: email, widget: string }
+          - { label: Contact, name: contact, widget: string }
+          - { label: List Items, name: list, widget: list }
