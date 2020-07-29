@@ -30,11 +30,13 @@ const HowWeHelp = () => {
               </div>
             </div>
             <hr />
-            <p>Risk profiling</p>
-            <p>Asset allocation</p>
-            <p>Portfolio construction</p>
-            <p>Managed Account selection</p>
-            <p>Ethical investment / ESG strategies</p>
+            <ul className="child-list">
+              <li>Risk profiling</li>
+              <li>Asset allocation</li>
+              <li>Portfolio construction</li>
+              <li>Managed Account selection</li>
+              <li>Ethical investment / ESG strategies</li>
+            </ul>
           </div>
           <div className="child">
             <div className="child-text">
@@ -47,15 +49,17 @@ const HowWeHelp = () => {
               </div>
             </div>
             <hr />
-            <p>Strategy reviews</p>
+            <ul className="child-list">
+              <li>Strategy reviews</li>
 
-            <p>Asset protection & transfer</p>
+              <li>Asset protection & transfer</li>
 
-            <p>Industry & retail superannuation</p>
+              <li>Industry & retail superannuation</li>
 
-            <p>Self Managed Superannuation (SMSF)</p>
+              <li>Self Managed Superannuation (SMSF)</li>
 
-            <p>Lump sum & income Stream strategies</p>
+              <li>Lump sum & income Stream strategies</li>
+            </ul>
           </div>
           <div className="child">
             <div className="child-text">
@@ -68,13 +72,15 @@ const HowWeHelp = () => {
               </div>
             </div>
             <hr />
-            <p>Cash flow planning</p>
+            <ul className="child-list">
+              <li>Cash flow planning</li>
 
-            <p>Contribution strategies</p>
+              <li>Contribution strategies</li>
 
-            <p>Tax efficient investment</p>
+              <li>Tax efficient investment</li>
 
-            <p>Geared investment strategies</p>
+              <li>Geared investment strategies</li>
+            </ul>
           </div>
           <div className="child">
             <div className="child-text">
@@ -84,13 +90,15 @@ const HowWeHelp = () => {
               </div>
             </div>
             <hr />
-            <p>Life Insurance</p>
+            <ul className="child-list">
+              <li>Life Insurance</li>
 
-            <p>Trauma / TPD</p>
+              <li>Trauma / TPD</li>
 
-            <p>Income Protection</p>
+              <li>Income Protection</li>
 
-            <p>Currency / Equity / Interest Rate Hedging</p>
+              <li>Currency / Equity / Interest Rate Hedging</li>
+            </ul>
           </div>
           <div className="child">
             <div className="child-text">
@@ -100,13 +108,15 @@ const HowWeHelp = () => {
               </div>
             </div>
             <hr />
-            <p> Setup and administration</p>
+            <ul className="child-list">
+              <li> Setup and administration</li>
 
-            <p>Asset allocation & risk monitoring overlays</p>
+              <li>Asset allocation & risk monitoring overlays</li>
 
-            <p>Cross border network of solution providers</p>
+              <li>Cross border network of solution providers</li>
 
-            <p>Alternative fund & co-investment opportunities</p>
+              <li>Alternative fund & co-investment opportunities</li>
+            </ul>
           </div>
           <div className="child">
             <div className="child-text">
@@ -116,13 +126,15 @@ const HowWeHelp = () => {
               </div>
             </div>
             <hr />
-            <p>Currency hedging</p>
+            <ul className="child-list">
+              <li>Currency hedging</li>
 
-            <p>Inbound / outbound expatriate planning</p>
+              <li>Inbound / outbound expatriate planning</li>
 
-            <p>Cross border network of solution providers</p>
+              <li>Cross border network of solution providers</li>
 
-            <p>Multi-currency deposits, portfolios & lending</p>
+              <li>Multi-currency deposits, portfolios & lending</li>
+            </ul>
           </div>
         </div>
       </div>

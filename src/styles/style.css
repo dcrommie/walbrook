@@ -346,16 +346,18 @@
   color: #000066;
   width: 370px;
 }
-.child p {
+.child-list li {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 120%;
-  margin-bottom: 16px;
-
+  list-style: none;
+  letter-spacing: 0;
+  text-transform: none;
   color: #000066;
 }
+
 hr {
   margin-bottom: 24px;
   border: 2px solid #000066;
