@@ -1,7 +1,7 @@
 ---
 title: Ipsum
 subtitle: Lorem Ipsum
-thumbnail: /src/images/family.png
+thumbnail: /src/images/advisoryframework.png
 title2: public_folder_relative
 subtitle2: new
 contacttitle: Hoye
