@@ -66,13 +66,11 @@ const Wholesale = () => {
             <div>
               <h4>{data.markdownRemark.frontmatter.subtitle2}</h4>
               <ul className="offer-list">
-                <li> Seed funding</li>
-                <li> Pre-IPO equity, on a primary or secondary basis</li>
-                <li>
-                  Private equity, on a fund or co-investment basis, including
-                  secondaries
-                </li>
-                <li>Real estate, on a fund, direct or co-investment basis</li>
+                {data.markdownRemark.frontmatter.listitems.map(
+                  (data, index) => (
+                    <li key={index}>{data.title}</li>
+                  )
+                )}
               </ul>
             </div>
           </div>
