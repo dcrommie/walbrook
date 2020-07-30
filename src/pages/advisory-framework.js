@@ -1,4 +1,5 @@
 import React from "react"
+import { graphql, useStaticQuery } from "gatsby"
 import "../styles/styles.css"
 import "../styles/style.css"
 import Image from "../components/image"
@@ -13,15 +14,39 @@ import group3 from "../images/group3.svg"
 import group4 from "../images/group4.svg"
 
 const AdvisoryFramework = () => {
+  const data = useStaticQuery(graphql`
+    query FAQQuery {
+      markdownRemark(fileAbsolutePath: { regex: "/advisory.md/" }) {
+        frontmatter {
+          title
+          subtitle
+          thumbnail
+          FAQ1
+          answer1
+          FAQ2
+          answer2
+          FAQ3
+          answer3
+          FAQ4
+          answer4
+          contacttitle
+          contactdesc
+        }
+      }
+    }
+  `)
+
   return (
     <div>
       <Header />
       <Hero
-        heading="Advisory
-        Framework"
-        subtitle="Our advisory framework, supported by great technology and access to institutional-grade investment management, guides our conversations and actions from the outset.                      "
+        heading={data.markdownRemark.frontmatter.title}
+        subtitle={data.markdownRemark.frontmatter.subtitle}
         alt="advisoryframework"
-        imageName="advisoryframework.png"
+        imageName={data.markdownRemark.frontmatter.thumbnail.replace(
+          "/images/",
+          ""
+        )}
       />
       <div className="container">
         <div className="main-faq">
@@ -31,15 +56,14 @@ const AdvisoryFramework = () => {
               <label class="tab-label" for="chck1">
                 <div>
                   <h3>01</h3>
-                  <h2>UnderStanding your objectives and your needs</h2>
+                  <h2>{data.markdownRemark.frontmatter.FAQ1}</h2>
                 </div>
                 <div class="acc-icon">
                   <img src={group1} />
                 </div>
               </label>
               <div class="tab-content">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum,
-                reiciendis!
+                {data.markdownRemark.frontmatter.answer1}
               </div>
             </div>
             <div class="accordion">
@@ -47,14 +71,14 @@ const AdvisoryFramework = () => {
               <label class="tab-label" for="chck2">
                 <div>
                   <h3>02</h3>
-                  <h2>Developing Recommended strategy</h2>
+                  <h2>{data.markdownRemark.frontmatter.FAQ2}</h2>
                 </div>
                 <div class="acc-icon">
                   <img src={group2} />
                 </div>
               </label>
               <div class="tab-content">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
+                {data.markdownRemark.frontmatter.answer2}{" "}
               </div>
             </div>
             <div class="accordion">
@@ -62,14 +86,14 @@ const AdvisoryFramework = () => {
               <label class="tab-label" for="chck3">
                 <div>
                   <h3>03</h3>
-                  <h2>Points of Interest</h2>
+                  <h2>{data.markdownRemark.frontmatter.FAQ3}</h2>
                 </div>
                 <div class="acc-icon">
                   <img src={group3} />
                 </div>
               </label>
               <div class="tab-content">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
+                {data.markdownRemark.frontmatter.answer3}{" "}
               </div>
             </div>
             <div class="accordion">
@@ -77,14 +101,14 @@ const AdvisoryFramework = () => {
               <label class="tab-label" for="chck4">
                 <div>
                   <h3>03</h3>
-                  <h2>Points of Interest</h2>
+                  <h2>{data.markdownRemark.frontmatter.FAQ4}</h2>
                 </div>
                 <div class="acc-icon">
                   <img src={group4} />
                 </div>
               </label>
               <div class="tab-content">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
+                {data.markdownRemark.frontmatter.answer4}{" "}
               </div>
             </div>
           </div>
@@ -94,11 +118,8 @@ const AdvisoryFramework = () => {
         <div className="container">
           <div className="main-form">
             <div className="form-text">
-              <h2>Take care of your future today</h2>
-              <p>
-                Independent provider of financial advice to private clients and
-                their families
-              </p>
+              <h2>{data.markdownRemark.frontmatter.contacttitle}</h2>
+              <p>{data.markdownRemark.frontmatter.contactdesc} </p>
             </div>
             <Form />
           </div>
