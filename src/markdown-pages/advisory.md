@@ -13,5 +13,5 @@ FAQ4: Monitoring and reviewing your progress
 answer4: Monitoring and reviewing your progress
 contacttitle: Take care of your future today
 contactdesc: Independent provider of financial advice to private clients and their families
-thumbnail: /images/advisory.png
+thumbnail: /images/advisoryframework.png
 ---
