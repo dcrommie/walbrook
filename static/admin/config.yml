@@ -58,6 +58,12 @@ collections:
               widget: "image",
               default: "wholesale.png",
             }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
       - label: "Advisory Page"
         name: "Advisory Page"
         file: "src/markdown-pages/advisory.md"
@@ -74,6 +80,12 @@ collections:
           - { label: FAQ4 Answer, name: answer4, widget: text }
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: text }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
       - label: "Help Page"
         name: "Help Page"
         file: "src/markdown-pages/help.md"
@@ -127,3 +139,9 @@ collections:
           - { label: Help Desc 4, name: helpdesc4, widget: text }
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: string }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
