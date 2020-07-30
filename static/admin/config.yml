@@ -58,12 +58,7 @@ collections:
               widget: "image",
               default: "wholesale.png",
             }
-          - {
-              label: "Featured Image",
-              name: "thumbnail",
-              widget: "image",
-              default: "wholesale.png",
-            }
+
       - label: "Advisory Page"
         name: "Advisory Page"
         file: "src/markdown-pages/advisory.md"
