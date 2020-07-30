@@ -58,10 +58,10 @@ collections:
               widget: "image",
               default: "wholesale.png",
             }
-     - label: "About Page"
-       name: "About Page"
-       file: "src/markdown-pages/about.md"
-       fields:
+      - label: "Advisory Page"
+        name: "Advisory Page"
+        file: "src/markdown-pages/advisory.md"
+        fields:
           - { label: Main Title, name: title, widget: string }
           - { label: SubTitle, name: subtitle, widget: text }
           - { label: FAQ1, name: FAQ1, widget: string }
