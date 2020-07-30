@@ -1,5 +1,4 @@
 ---
-thumbnail: /images/about.png
 title: Advisory Framework
 subtitle: Our advisory framework, supported by great technology and access to
   institutional-grade investment management, guides our conversations and
@@ -14,4 +13,5 @@ FAQ4: Monitoring and reviewing your progress
 answer4: Monitoring and reviewing your progress
 contacttitle: Take care of your future today
 contactdesc: Independent provider of financial advice to private clients and their families
+thumbnail: /images/advisory.png
 ---
