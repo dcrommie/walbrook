@@ -1,73 +1,64 @@
 ---
-title: For wholesale clients
-subtitle: We offer specific opportunities available through our network only to
-  Wholesale clients. We do this on a non-advised, introduction only basis to
-  contacts with sufficient investment knowledge and experience who have
-  previously expressed an interest.
+title: How we help
+helpdesc2: We use a structured advisory framework to assist and advise our
+  clients across asset classes, structures and jurisdictions, providing a
+  cohesive solution that incorporates all aspects of their wealth.
+helpdesc3: Our comprehensive, flexible advice service is made possible by our
+  independence from financial product providers and a fair, transparent flat fee
+  structure.
+helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
+  private equity and direct real estate across multiple countries calls for the
+  coordination of professionals and financial institutions.
 thumbnail: /images/wholesale.png
-helptitle1: We offer an open-architecture
+subtitle: Wealth, family, and legacy together like never before
+helptitle1: Investment Advisory
 helplist1:
-  - title: |
-      Seed funding
-  - title: |
-      Pre-IPO equity, on a primary or secondary basis
-  - title: |
-      Private equity, on a fund or co-investment basis, including secondaries
-  - title: Real estate, on a fund, direct or co-investment basis
-helptitle2: We offer an open-architecture2
+  - title: Risk profiling
+  - title: Asset allocation
+  - title: Portfolio construction
+  - title: Managed Account selection
+  - title: Ethical investment / ESG strategies
+helptitle2: Retirement Planning
 helplist2:
+  - title: Strategy reviews
+  - title: Asset protection & transfer
+  - title: Industry & retail superannuation
   - title: |
-      Seed funding2
-  - title: |
-      Pre-IPO equity, on a primary or secondary basis
-  - title: |
-      Private equity, on a fund or co-investment basis, including secondaries
-  - title: Real estate, on a fund, direct or co-investment basis
-helptitle3: We offer an open-architecture
+      Self Managed Superannuation (SMSF)
+  - title: Lump sum & income Stream strategies
+helptitle3: Wealth Creation
 helplist3:
+  - title: Cash flow planning
+  - title: Contribution strategies
   - title: |
-      Seed funding3
-  - title: |
-      Pre-IPO equity, on a primary or secondary basis
-  - title: |
-      Private equity, on a fund or co-investment basis, including secondaries
-  - title: Real estate, on a fund, direct or co-investment basis
-helptitle4: We offer an open-architecture
+      Tax efficient investment
+  - title: Geared investment strategies
+helptitle4: Risk Management
 helplist4:
-  - title: |
-      Seed funding
-  - title: |
-      Pre-IPO equity, on a primary or secondary basis
-  - title: |
-      Private equity, on a fund or co-investment basis, including secondaries
-  - title: Real estate, on a fund, direct or co-investment basis
-helptitle5: We offer an open-architecture
+  - title: Life Insurance
+  - title: Trauma / TPD
+  - title: Income Protection
+  - title: Currency / Equity / Interest Rate Hedging
+helptitle5: Family Office
 helplist5:
-  - title: |
-      Seed funding
-  - title: |
-      Pre-IPO equity, on a primary or secondary basis
-  - title: |
-      Private equity, on a fund or co-investment basis, including secondaries
-  - title: Real estate, on a fund, direct or co-investment basis
-helptitle6: We offer an open-architecture
+  - title: Setup and administration
+  - title: Asset allocation & risk monitoring overlays
+  - title: Cross border network of solution providers
+  - title: Alternative fund & co-investment opportunities
+helptitle6: Expatriates
 helplist6:
-  - title: |
-      Seed funding
-  - title: |
-      Pre-IPO equity, on a primary or secondary basis
-  - title: |
-      Private equity, on a fund or co-investment basis, including secondaries
-  - title: Real estate, on a fund, direct or co-investment basis
-helpmain: How we
-help1: sdhkjhsa
-helpdesc1: zxczxc
-help2: sdhkjhsa
-helpdesc2: zxczxc
-help3: sdhkjhsa
-helpdesc3: zxczxc
-help4: sdhkjhsa
-helpdesc4: zxczxc
-contacttitle: To be kept abreast of these opportunities, please contact us
-contactdesc: asdhahsdkhalskdhkas
+  - title: Currency hedging
+  - title: Inbound / outbound expatriate planning
+  - title: Cross border network of solution providers
+  - title: Multi-currency deposits, portfolios & lending
+helpmain: How we help
+help1: Client-centric approach
+helpdesc1: We understand that no two clients are the same and believe that each
+  client requires a tailored approach. We find that this is essential when
+  working with expatriates and complex clients.
+help2: Advisory framework
+help3: Independence
+help4: Coordination
+contacttitle: Take care of your future today
+contactdesc: Independent provider of financial advice to private clients and their families
 ---
