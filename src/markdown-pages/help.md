@@ -14,7 +14,7 @@ helplist1:
   - title: |
       Private equity, on a fund or co-investment basis, including secondaries
   - title: Real estate, on a fund, direct or co-investment basis
-helptitle2: We offer an open-architecture
+helptitle2: We offer an open-architecture2
 helplist2:
   - title: |
       Seed funding2
@@ -59,6 +59,7 @@ helplist6:
   - title: |
       Private equity, on a fund or co-investment basis, including secondaries
   - title: Real estate, on a fund, direct or co-investment basis
+helpmain: How we
 help1: sdhkjhsa
 helpdesc1: zxczxc
 help2: sdhkjhsa
