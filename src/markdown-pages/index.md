@@ -32,8 +32,6 @@ reviews:
       headache!”
     pic: /images/image-13-1-.png
     name: Irena Robin, CEO at Google
-contacttitle: Advisory Framework
-contactdesc: Our advisory framework, supported by great technology and access to
-  institutional-grade investment management, guides our conversations and
-  actions from the outset.
+contacttitle: Take care of your future today
+contactdesc: Independent provider of financial advice to private clients and their families
 ---
