@@ -144,6 +144,14 @@ collections:
         name: "Index Page"
         file: "src/markdown-pages/index.md"
         fields:
+          - { label: Main Title, name: title, widget: string }
+          - { label: SubTitle, name: subtitle, widget: text }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
           - { label: Second Section Main Title, name: title2, widget: string }
           - { label: First Description, name: desc1, widget: text }
           - { label: Second Description, name: desc2, widget: text }
@@ -167,9 +175,3 @@ collections:
               - { label: "Customer name", name: "name", widget: "string" }
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: string }
-          - {
-              label: "Featured Image",
-              name: "thumbnail",
-              widget: "image",
-              default: "wholesale.png",
-            }
