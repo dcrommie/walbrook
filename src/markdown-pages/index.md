@@ -25,7 +25,7 @@ reviews:
   - review: I am very happy with the service. They handle funds exceptionally well
       and are one of the bests in the market. I will surely ask my father to get
       in touch with them for his retirement planning.
-    pic: /images/brandlogo3.svg
+    pic: /images/gatsby-icon.png
     name: Liza
   - review: “Seriously, you guys have saved me. I need to manage many time-sensitive
       tasks for myself and my family. A deadline change? Boom, no more
