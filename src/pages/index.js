@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
 import "../styles/style.css"
 import { Helmet } from "react-helmet"
 import Image from "../components/image"
@@ -12,6 +12,39 @@ import third from "../images/3.svg"
 import Form from "../components/form"
 
 const IndexPage = () => {
+  const data = useStaticQuery(graphql`
+    query IndexQuery {
+      markdownRemark(fileAbsolutePath: { regex: "/index.md/" }) {
+        frontmatter {
+          title
+          subtitle
+          thumbnail
+          title2
+          desc1
+          desc2
+          desc3
+          services
+          servicestitle
+          service1
+          service2
+          service3
+          service4
+          service5
+          service6
+          advisorytitle
+          advisorydesc
+          reviews {
+            review
+            name
+            pic
+          }
+          contacttitle
+          contactdesc
+        }
+      }
+    }
+  `)
+
   return (
     <div>
       <div>
@@ -32,12 +65,18 @@ const IndexPage = () => {
           <div className="container">
             <div className="main-content">
               <div className="main-content-text">
-                <h1>Plan. Invest. Protect.</h1>
-                <p>Independent financial advice and wealth management</p>
+                <h1>{data.markdownRemark.frontmatter.title}</h1>
+                <p>{data.markdownRemark.frontmatter.subtitle}</p>
                 <button>Contact Us</button>
               </div>
               <div className="main-content-image">
-                <Image alt="family" name="family.png" />
+                <Image
+                  alt="family"
+                  name={data.markdownRemark.frontmatter.thumbnail.replace(
+                    "/images/",
+                    ""
+                  )}
+                />
               </div>
             </div>
           </div>
@@ -47,35 +86,20 @@ const IndexPage = () => {
           <div className="container">
             <div className="financial-content">
               <div className="financial-text">
-                <p>
-                  Independent provider of financial advice to private clients
-                  and their families
-                </p>
+                <p>{data.markdownRemark.frontmatter.title2}</p>
               </div>
               <div className="financial-parent">
                 <div className="financial-child">
                   <img src={first} alt="first" />
-                  <p>
-                    Our investment philosophy have origins in global wealth
-                    management and an open architecture approach to financial
-                    advice.
-                  </p>
+                  <p>{data.markdownRemark.frontmatter.desc1}</p>
                 </div>
                 <div className="financial-child">
                   <img src={second} alt="second" />
-                  <p>
-                    We focus on providing high-quality strategic advice,
-                    incorporating investment, risk and lending solutions from
-                    third parties in a cohesive plan.
-                  </p>
+                  <p>{data.markdownRemark.frontmatter.desc2}</p>
                 </div>
                 <div className="financial-child">
                   <img src={third} alt="third" />
-                  <p>
-                    We use best practices to help you with planning,
-                    investments, wealth protection and navigation of change over
-                    the long term.
-                  </p>
+                  <p>{data.markdownRemark.frontmatter.desc3}</p>
                 </div>
               </div>
             </div>
@@ -85,8 +109,8 @@ const IndexPage = () => {
           <div className="container">
             <div className="services-content">
               <div className="services-text">
-                <p>Our services</p>
-                <h2>Wealth, family, and legacy together like never before</h2>
+                <p> {data.markdownRemark.frontmatter.services}</p>
+                <h2> {data.markdownRemark.frontmatter.servicestitle}</h2>
                 <button>Learn More</button>
               </div>
               <div className="services">
@@ -103,7 +127,7 @@ const IndexPage = () => {
                       name="Investment Advisory.png"
                     />
                   </div>
-                  <h3>Investment Advisory</h3>
+                  <h3> {data.markdownRemark.frontmatter.service1}</h3>
                 </div>
                 <div className="service investment">
                   <div
@@ -116,7 +140,7 @@ const IndexPage = () => {
                   >
                     <Image alt="Risk Management" name="Risk Management.png" />
                   </div>
-                  <h3>Risk Management</h3>
+                  <h3>{data.markdownRemark.frontmatter.service2}</h3>
                 </div>
                 <div className="service investment">
                   <div
@@ -132,7 +156,7 @@ const IndexPage = () => {
                       name="Retirement Planning.png"
                     />
                   </div>
-                  <h3>Retirement Planning</h3>
+                  <h3>{data.markdownRemark.frontmatter.service3}</h3>
                 </div>
                 <div className="service investment">
                   <div
@@ -141,7 +165,7 @@ const IndexPage = () => {
                   >
                     <Image alt="Family Office" name="Family Office.png" />
                   </div>
-                  <h3>Family Office</h3>
+                  <h3>{data.markdownRemark.frontmatter.service4}</h3>
                 </div>
                 <div className="service investment">
                   <div
@@ -153,7 +177,7 @@ const IndexPage = () => {
                       name="Wealth Accumulation.png"
                     />
                   </div>
-                  <h3>Wealth Accumulation</h3>
+                  <h3>{data.markdownRemark.frontmatter.service5}</h3>
                 </div>
 
                 <div className="service investment">
@@ -163,7 +187,7 @@ const IndexPage = () => {
                   >
                     <Image alt="Expatriates" name="Expatriates.png" />
                   </div>
-                  <h3>Expatriates</h3>
+                  <h3>{data.markdownRemark.frontmatter.service6}</h3>
                 </div>
               </div>
               <button className="mobile">Learn More</button>
@@ -174,12 +198,8 @@ const IndexPage = () => {
           <div className="container">
             <div className="advisory-content">
               <div className="advisory-text">
-                <h2>Advisory Framework</h2>
-                <p>
-                  Our advisory framework, supported by great technology and
-                  access to institutional-grade investment management, guides
-                  our conversations and actions from the outset.
-                </p>
+                <h2>{data.markdownRemark.frontmatter.advisorytitle}</h2>
+                <p>{data.markdownRemark.frontmatter.advisorydesc}</p>
                 <button className="main-button">Learn More</button>
               </div>
               <div className="advisory-image">
@@ -196,25 +216,27 @@ const IndexPage = () => {
               data-ride="carousel"
             >
               <div className="carousel-inner">
-                <div className="carousel-item text-center active">
-                  <div className="rounded ">
-                    <img
-                      className="rounded-circle mx-auto d-block "
-                      src="https://static01.nyt.com/images/2020/06/19/arts/19mason-review/19mason-review-mediumSquareAt3X.jpg"
-                      alt="First slide"
-                    />
-                  </div>
+                {data.markdownRemark.frontmatter.reviews.map((data, index) => (
+                  <div
+                    className={
+                      index === 0
+                        ? "carousel-item text-center active"
+                        : "carousel-item text-center"
+                    }
+                  >
+                    <div className="rounded ">
+                      <Image
+                        name={data.pic.replace("/images/", "")}
+                        alt="First slide"
+                      />
+                    </div>
 
-                  <p className="review mx-auto">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
-                    eu sem tempor, consectetur adipiscing elit varius quam at,
-                    luctus dui. Mauris magna metus consectetur adipiscing elit.
-                  </p>
-                  <h6 className="customer-detail">
-                    Irena Robin, CEO at Google
-                  </h6>
-                </div>
+                    <p className="review mx-auto">{data.review}</p>
+                    <h6 className="customer-detail">{data.name} </h6>
+                  </div>
+                ))}
               </div>
+
               <a
                 className="carousel-control-prev"
                 href="#carouselTestimonial"
@@ -246,10 +268,9 @@ const IndexPage = () => {
           <div className="container">
             <div className="main-form">
               <div className="form-text">
-                <h2>Take care of your future today</h2>
-                <p>
-                  Independent provider of financial advice to private clients
-                  and their families
+                <h2>{data.markdownRemark.frontmatter.contacttitle}</h2>
+                <p style={{ margin: "0 auto", marginBottom: "32px" }}>
+                  {data.markdownRemark.frontmatter.contactdesc}
                 </p>
               </div>
               <Form />
