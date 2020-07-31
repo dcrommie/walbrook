@@ -67,7 +67,7 @@ const IndexPage = () => {
               <div className="main-content-text">
                 <h1>{data.markdownRemark.frontmatter.title}</h1>
                 <p>{data.markdownRemark.frontmatter.subtitle}</p>
-                <button>Contact Us</button>
+                <button className="main-button">Contact Us</button>
               </div>
               <div className="main-content-image">
                 <Image
