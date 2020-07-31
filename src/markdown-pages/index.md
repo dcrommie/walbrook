@@ -1,30 +1,39 @@
 ---
-title: Advisory Framework
-subtitle: Our advisory framework, supported by great technology and access to
+title: Plan. Invest. Protect.
+subtitle: Independent financial advice and wealth management
+thumbnail: /images/family.png
+title2: Independent provider of financial advice to private clients and their families
+desc1: Our investment philosophy have origins in global wealth management and an
+  open architecture approach to financial advice.
+desc2: We focus on providing high-quality strategic advice, incorporating
+  investment, risk and lending solutions from third parties in a cohesive plan.
+desc3: We use best practices to help you with planning, investments, wealth
+  protection and navigation of change over the long term.
+services: Our services
+servicestitle: Wealth, family, and legacy together like never before
+service1: Investment Advisory
+service2: Retirement Planning
+service3: Wealth Accumulation
+service4: Risk Management
+service5: Family Office
+service6: Expatriates
+advisorytitle: Advisory Framework
+advisorydesc: Our advisory framework, supported by great technology and access
+  to institutional-grade investment management, guides our conversations and
+  actions from the outset.
+reviews:
+  - review: I am very happy with the service. They handle funds exceptionally well
+      and are one of the bests in the market. I will surely ask my father to get
+      in touch with them for his retirement planning.
+    pic: /images/brandlogo3.svg
+    name: Liza
+  - review: “Seriously, you guys have saved me. I need to manage many time-sensitive
+      tasks for myself and my family. A deadline change? Boom, no more
+      headache!”
+    pic: /images/image-13-1-.png
+    name: Irena Robin, CEO at Google
+contacttitle: Advisory Framework
+contactdesc: Our advisory framework, supported by great technology and access to
   institutional-grade investment management, guides our conversations and
   actions from the outset.
-thumbnail: /images/advisoryframework.png
-title2: Understanding your objectives and needs
-desc1: Understanding your objectives and needs
-desc2: Developing recommended strategy
-desc3: Developing recommended strategy
-services: Implementing your recommended strategies
-servicestitle: Implementing your recommended strategies
-service1: Monitoring and reviewing your progress
-service2: Monitoring and reviewing your progress
-service3: Take care of your future today
-service4: Independent provider of financial advice to private clients and their families
-service5: Independent provider of financial advice to private clients and their families
-service6: Independent provider of financial advice to private clients and their families
-advisorytitle: asdasdas
-advisorydesc: sdfjhsdjhfl
-reviews:
-  - review: Expensive Fillers
-    name: Messy
-    pic: /images/advisoryframework.png
-  - review: Cheap Fillers
-    name: Hazard
-    pic: /images/advisory.png
-contacttitle: asdasdas
-contactdesc: sdfjhsdjhfl
 ---
