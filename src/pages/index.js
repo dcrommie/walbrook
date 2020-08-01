@@ -194,20 +194,7 @@ const IndexPage = () => {
             </div>
           </div>
         </div>
-        <section className="advisory">
-          <div className="container">
-            <div className="advisory-content">
-              <div className="advisory-text">
-                <h2>{data.markdownRemark.frontmatter.advisorytitle}</h2>
-                <p>{data.markdownRemark.frontmatter.advisorydesc}</p>
-                <button className="main-button">Learn More</button>
-              </div>
-              <div className="advisory-image">
-                <Image alt="Advisory" name="advisory.png" />
-              </div>
-            </div>
-          </div>
-        </section>
+
         <section className="main-carousel">
           <div className="container">
             <div
@@ -261,6 +248,20 @@ const IndexPage = () => {
                 ></span>
                 <span className="sr-only">Next</span>
               </a>
+            </div>
+          </div>
+        </section>
+        <section className="advisory">
+          <div className="container">
+            <div className="advisory-content">
+              <div className="advisory-text">
+                <h2>{data.markdownRemark.frontmatter.advisorytitle}</h2>
+                <p>{data.markdownRemark.frontmatter.advisorydesc}</p>
+                <button className="main-button">Learn More</button>
+              </div>
+              <div className="advisory-image">
+                <Image alt="Advisory" name="advisory.png" />
+              </div>
             </div>
           </div>
         </section>

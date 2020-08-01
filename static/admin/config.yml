@@ -32,6 +32,34 @@ collections:
             widget: "list"
             fields:
               - { label: "Title", name: "title", widget: "text" }
+      - label: "Footer"
+        name: "Footer"
+        file: "src/markdown-pages/footer.md"
+        fields:
+          - { label: Office Floor, name: office, widget: string }
+          - {
+              label: Office Street Address,
+              name: officestreet,
+              widget: markdown,
+            }
+          - { label: Office City, name: officecity, widget: string }
+          - { label: Postal GPO, name: postalgpo, widget: string }
+          - { label: Postal Address City, name: postalcity, widget: string }
+          - { label: E-mail, name: email, widget: string }
+          - { label: Contact, name: number, widget: string }
+          - { label: First Footer Description, name: footerdesc1, widget: text }
+          - {
+              label: Second Footer Description,
+              name: footerdesc2,
+              widget: text,
+            }
+          - { label: Third Footer Description, name: footerdesc3, widget: text }
+          - {
+              label: Fourth Footer Description,
+              name: footerdesc4,
+              widget: text,
+            }
+
       - label: "About Page"
         name: "About Page"
         file: "src/markdown-pages/about.md"
