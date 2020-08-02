@@ -23,7 +23,7 @@ class BlogRoll extends React.Component {
                       className="title has-text-primary is-size-4"
                       to={post.frontmatter.path}
                     >
-                      {post.frontmatter.title}
+                      {post.frontmatter.blogtitle}
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
@@ -66,7 +66,7 @@ export default () => (
               id
               frontmatter {
                 path
-                title
+                blogtitle
                 date(formatString: "MMMM DD, YYYY")
               }
             }
