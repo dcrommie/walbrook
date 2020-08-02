@@ -16,8 +16,6 @@ collections:
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
-
-collections:
   - label: "Pages"
     name: "pages"
     files:
