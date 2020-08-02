@@ -59,7 +59,10 @@ export default () => (
   <StaticQuery
     query={graphql`
       query BlogRollQuery {
-        allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+        allMarkdownRemark(
+          sort: { order: DESC, fields: [frontmatter___date] }
+          filter: { frontmatter: { markdown-pages: { ne: true } } }
+        ) {
           edges {
             node {
               excerpt(pruneLength: 400)
