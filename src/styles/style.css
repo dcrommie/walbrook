@@ -682,6 +682,9 @@ article span {
 .blog {
   padding: 40px 0px 136px 0px;
 }
+.blogpost-color {
+  background: #f2f7f2;
+}
 /* Media Queries */
 @media screen and (max-width: 768px) {
   h1 {
