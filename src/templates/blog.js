@@ -22,6 +22,7 @@ export const query = graphql`
 
 const Blog = props => {
   return (
+    {frontmatter !== null ? 
     <div>
       <Header />
       <div className="blogpost">
@@ -46,7 +47,7 @@ const Blog = props => {
         </div>
       </div>
       <Footer />
-    </div>
+    </div> : {}
   )
 }
 
