@@ -12,9 +12,11 @@ collections:
     folder: blog
     create: true
     fields:
+      - { name: blogtitle, label: Blog Title }
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
-      - { name: blogtitle, label: Blog Title }
+      - { name: author, label: Author, widget: string }
+
       - {
           label: "Featured Image",
           name: "thumbnail",

@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql, StaticQuery } from "gatsby"
+import Image from "../components/image"
 
 class BlogRoll extends React.Component {
   render() {
@@ -12,23 +13,23 @@ class BlogRoll extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-6" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? "is-featured" : ""
-                }`}
-              >
+              <article>
                 <header>
+                  <div className="featured-image">
+                    <Image
+                      alt="family"
+                      name={post.frontmatter.thumbnail.replace("/images/", "")}
+                    />
+                  </div>
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"
                       to={post.frontmatter.path}
                     >
-                      {post.frontmatter.blogtitle}
+                      <h2> {post.frontmatter.blogtitle}</h2>
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
+
+                    <span className="">{post.frontmatter.date}</span>
                   </p>
                 </header>
                 <p>
@@ -70,6 +71,7 @@ export default () => (
               frontmatter {
                 path
                 blogtitle
+                thumbnail
                 date(formatString: "MMMM DD, YYYY")
               }
             }
