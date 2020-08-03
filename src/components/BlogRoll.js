@@ -10,39 +10,46 @@ class BlogRoll extends React.Component {
 
     return (
       <div className="columns is-multiline">
-        {posts &&
-          posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article>
-                <header>
-                  <div className="featured-image">
-                    <Image
-                      alt="family"
-                      name={post.frontmatter.thumbnail.replace("/images/", "")}
-                    />
-                  </div>
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.frontmatter.path}
-                    >
-                      <h2> {post.frontmatter.blogtitle}</h2>
-                    </Link>
+        <div className="container">
+          <div className="sections">
+            <section>
+              {posts &&
+                posts.map(({ node: post }) => (
+                  <div className="is-parent column is-6" key={post.id}>
+                    <article>
+                      <header>
+                        <div className="featured-image">
+                          <Image
+                            alt="family"
+                            name={post.frontmatter.thumbnail.replace(
+                              "/images/",
+                              ""
+                            )}
+                          />
+                        </div>
+                        <p className="post-meta">
+                          <Link
+                            className="title has-text-primary is-size-4"
+                            to={post.frontmatter.path}
+                          >
+                            <h2> {post.frontmatter.blogtitle}</h2>
+                          </Link>
+                          <span>{post.frontmatter.author}</span>
+                          <span> &bull; </span>
+                          <span className="">{post.frontmatter.date}</span>
+                        </p>
 
-                    <span className="">{post.frontmatter.date}</span>
-                  </p>
-                </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.frontmatter.path}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </article>
-            </div>
-          ))}
+                        <p className="excerpt">{post.excerpt}</p>
+                      </header>
+                      <br />
+                      <br />
+                    </article>
+                  </div>
+                ))}
+            </section>
+            <section>Hello</section>
+          </div>
+        </div>
       </div>
     )
   }
@@ -71,6 +78,7 @@ export default () => (
               frontmatter {
                 path
                 blogtitle
+                author
                 thumbnail
                 date(formatString: "MMMM DD, YYYY")
               }
