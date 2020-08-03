@@ -70,7 +70,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
       path: `/blog/${edge.node.frontmatter.Slug}`,
 
       context: {
-        Slug: edge.node.frontmatter.Slug,
+        Slug: `${edge.node.frontmatter.Slug}`,
       }, // additional data can be passed via context
     })
   })
