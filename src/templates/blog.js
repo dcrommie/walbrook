@@ -29,23 +29,25 @@ const Blog = props => {
           <div className="blogpost-color">
             <div className="container">
               <h1>
-                {frontmatter
+                {props.data.markdownRemark.frontmatter
                   ? props.data.markdownRemark.frontmatter.blogtitle
                   : {}}
               </h1>
               <span>
-                {frontmatter
+                {props.data.markdownRemark.frontmatter
                   ? props.data.markdownRemark.frontmatter.author
                   : {}}
               </span>
               <span> &bull; </span>
               <span className="">
-                {frontmatter ? props.data.markdownRemark.frontmatter.date : {}}
+                {props.data.markdownRemark.frontmatter
+                  ? props.data.markdownRemark.frontmatter.date
+                  : {}}
               </span>
               <Image
                 alt="featured-image"
                 name={
-                  frontmatter
+                  props.data.markdownRemark.frontmatter
                     ? props.data.markdownRemark.frontmatter.thumbnail.replace(
                         "/images/",
                         ""
