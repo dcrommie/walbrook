@@ -1,6 +1,6 @@
 ---
 blogtitle: Lorem Ipsum
-Slug: lorem-ipsum
+Slug: /lorem-ipsum
 date: 2020-08-03T13:59:03.164Z
 author: Walbrook Wealth Management
 thumbnail: /images/image-37.png
