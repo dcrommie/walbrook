@@ -53,7 +53,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
 
   const result = await graphql(`
     {
-      allMarkdownRemark {
+      allMarkdownRemark(filter: { frontmatter: { page: { ne: true } } }) {
         edges {
           node {
             frontmatter {
