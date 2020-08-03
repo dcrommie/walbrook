@@ -637,6 +637,7 @@ h1 {
 .sections {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 article {
   display: flex;
@@ -677,6 +678,9 @@ article span {
 .featured-image {
   border-radius: 8px;
   max-width: 700px;
+}
+.blog {
+  padding: 40px 0px 136px 0px;
 }
 /* Media Queries */
 @media screen and (max-width: 768px) {
