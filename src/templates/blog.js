@@ -28,18 +28,32 @@ const Blog = props => {
         <div className="blogpost-header">
           <div className="blogpost-color">
             <div className="container">
-              <h1>{props.data.markdownRemark.frontmatter.blogtitle}</h1>
-              <span>{props.data.markdownRemark.frontmatter.author}</span>
+              <h1>
+                {props.data.markdownRemark.frontmatter
+                  ? props.data.markdownRemark.frontmatter.blogtitle
+                  : {}}
+              </h1>
+              <span>
+                {props.data.markdownRemark.frontmatter
+                  ? props.data.markdownRemark.frontmatter.author
+                  : {}}
+              </span>
               <span> &bull; </span>
               <span className="">
-                {props.data.markdownRemark.frontmatter.date}
+                {props.data.markdownRemark.frontmatter
+                  ? props.data.markdownRemark.frontmatter.date
+                  : {}}
               </span>
               <Image
                 alt="featured-image"
-                name={props.data.markdownRemark.frontmatter.thumbnail.replace(
-                  "/images/",
-                  ""
-                )}
+                name={
+                  props.data.markdownRemark.frontmatter
+                    ? props.data.markdownRemark.frontmatter.thumbnail.replace(
+                        "/images/",
+                        ""
+                      )
+                    : {}
+                }
               />
             </div>
           </div>
