@@ -49,7 +49,7 @@ const path = require(`path`)
 module.exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const blogTemplate = path.resolve(`/src/templates/blog.js`)
+  const blogTemplate = path.resolve(`./src/templates/blog.js`)
 
   const result = await graphql(`
     {
@@ -67,10 +67,10 @@ module.exports.createPages = async ({ graphql, actions }) => {
   result.data.allMarkdownRemark.edges.forEach(edge => {
     createPage({
       component: blogTemplate,
-      path: `${edge.node.frontmatter.Slug}`,
+      path: `/blog/${edge.node.frontmatter.Slug}`,
 
       context: {
-        Slug: `${edge.node.frontmatter.Slug}`,
+        Slug: edge.node.frontmatter.Slug,
       }, // additional data can be passed via context
     })
   })
