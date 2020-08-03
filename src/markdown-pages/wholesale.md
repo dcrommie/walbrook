@@ -20,4 +20,5 @@ listitems:
       Private equity, on a fund or co-investment basis, including secondaries
   - title: Real estate, on a fund, direct or co-investment basis
 list: d
+page: true
 ---

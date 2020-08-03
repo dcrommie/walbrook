@@ -61,4 +61,5 @@ helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
 contacttitle: Take care of your future today
 contactdesc: Independent provider of financial advice to private clients and their families
 thumbnail: /images/help.png
+page: true
 ---

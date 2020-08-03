@@ -1,4 +1,5 @@
 ---
+page: true
 title: Plan. Invest. Protect.
 subtitle: Independent financial advice and wealth management
 thumbnail: /images/family.png
@@ -22,12 +23,14 @@ advisorydesc: Our advisory framework, supported by great technology and access
   to institutional-grade investment management, guides our conversations and
   actions from the outset.
 reviews:
-  - review: I am very happy with the service. They handle funds exceptionally well
+  - review:
+      I am very happy with the service. They handle funds exceptionally well
       and are one of the bests in the market. I will surely ask my father to get
       in touch with them for his retirement planning.
     pic: /images/gatsby-icon.png
     name: Liza
-  - review: “Seriously, you guys have saved me. I need to manage many time-sensitive
+  - review:
+      “Seriously, you guys have saved me. I need to manage many time-sensitive
       tasks for myself and my family. A deadline change? Boom, no more
       headache!”
     pic: /images/image-13-1-.png

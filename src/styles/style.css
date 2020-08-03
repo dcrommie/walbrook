@@ -618,6 +618,22 @@ input:not(:placeholder-shown) {
   margin: 0 auto;
   margin-bottom: 65px;
 }
+
+.insight-hero {
+  background: #f2f7f2;
+  padding: 130px 0px 24px 0px;
+}
+
+h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 140%;
+  display: flex;
+  align-items: center;
+  color: #000066;
+}
 /* Media Queries */
 @media screen and (max-width: 768px) {
   .main-form-wholesale {

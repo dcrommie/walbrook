@@ -15,6 +15,12 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: blogtitle, label: Blog Title }
+      - {
+          label: "Featured Image",
+          name: "thumbnail",
+          widget: "image",
+          default: "wholesale.png",
+        }
       - { name: body, label: Body, widget: markdown }
   - label: "Pages"
     name: "pages"
