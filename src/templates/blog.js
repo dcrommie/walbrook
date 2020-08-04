@@ -6,12 +6,12 @@ import Footer from "../components/footer"
 import "../styles/style.css"
 
 export const query = graphql`
-  query($Slug: String!) {
-    markdownRemark(frontmatter: { Slug: { eq: $Slug } }) {
+  query($slug: String!) {
+    markdownRemark(frontmatter: { path: { eq: $slug } }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
-        Slug
+        path
         blogtitle
         author
         thumbnail

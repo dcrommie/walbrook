@@ -13,7 +13,7 @@ collections:
     create: true
     fields:
       - { name: blogtitle, label: Blog Title }
-      - { name: Slug, label: Path }
+      - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: author, label: Author, widget: string }
       - {

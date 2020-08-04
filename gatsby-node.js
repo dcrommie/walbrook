@@ -21,7 +21,7 @@ const path = require(`path`)
 //         edges {
 //           node {
 //             frontmatter {
-//               Slug
+//               path
 //             }
 //           }
 //         }
@@ -37,10 +37,10 @@ const path = require(`path`)
 
 //   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
 //     createPage({
-//       path: `${node.frontmatter.Slug}`,
+//       path: `${node.frontmatter.path}`,
 //       component: blogPostTemplate,
 //       context: {
-//         Slug: node.frontmatter.Slug,
+//         path: node.frontmatter.path,
 //       }, // additional data can be passed via context
 //     })
 //   })
@@ -57,7 +57,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
         edges {
           node {
             frontmatter {
-              Slug
+              path
             }
           }
         }
@@ -67,10 +67,10 @@ module.exports.createPages = async ({ graphql, actions }) => {
   result.data.allMarkdownRemark.edges.forEach(edge => {
     createPage({
       component: blogTemplate,
-      path: `/blog/${edge.node.frontmatter.Slug}`,
+      path: `/blog/${edge.node.frontmatter.path}`,
 
       context: {
-        Slug: edge.node.frontmatter.Slug,
+        slug: edge.node.frontmatter.path,
       }, // additional data can be passed via context
     })
   })

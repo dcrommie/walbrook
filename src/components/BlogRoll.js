@@ -30,7 +30,7 @@ class BlogRoll extends React.Component {
                         <p className="post-meta">
                           <Link
                             className="title has-text-primary is-size-4"
-                            to={post.frontmatter.Slug}
+                            to={post.frontmatter.path}
                           >
                             <h2> {post.frontmatter.blogtitle}</h2>
                           </Link>
@@ -76,7 +76,7 @@ export default () => (
               excerpt(pruneLength: 400)
               id
               frontmatter {
-                Slug
+                path
                 blogtitle
                 author
                 thumbnail
