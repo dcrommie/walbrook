@@ -4,7 +4,7 @@ subtitle: We offer specific opportunities available through our network only to
   Wholesale clients. We do this on a non-advised, introduction only basis to
   contacts with sufficient investment knowledge and experience who have
   previously expressed an interest.
-thumbnail: /images/wholesale.png
+thumbnail: images/wholesale.png
 title2: We offer an open-architecture service that meets the needs of both
   Retail and Wholesale private clients and their families
 subtitle2: We are typically asked to assist with introductions in the following areas
@@ -19,6 +19,6 @@ listitems:
   - title: |
       Private equity, on a fund or co-investment basis, including secondaries
   - title: Real estate, on a fund, direct or co-investment basis
-list: d
 page: true
+list: d
 ---
