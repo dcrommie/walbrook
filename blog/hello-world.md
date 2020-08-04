@@ -7,7 +7,7 @@ thumbnail: /images/advisory.png
 ---
 This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post.
 
-![](src/images/Retirement Planning.png)
+![](src/images/about.png)
 
 ## This is my first blog post:
 
