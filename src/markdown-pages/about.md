@@ -1,5 +1,4 @@
 ---
-page: true
 title: Damien Crommie CA
 subtitle: Damien is the principal of Walbrook Wealth Management. He is a fellow
   of the Chartered Institute of Securities & Investment. As well as holding
@@ -21,5 +20,6 @@ lifedescription: A keen cyclist, Damien used his time in Europe to ride The
   Challenge. He was a founding trustee of Akwaaba, a London based charity that
   provides support to refugees, asylum seekers and other migrants. Damien now
   lives in Melbourne with his wife and son.
-thumbnail: /images/about.png
+thumbnail: ../src/images/about.png
+page: true
 ---
