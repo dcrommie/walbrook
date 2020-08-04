@@ -3,7 +3,7 @@ backend:
   repo: MussadiqKhan/wallbrook
   #repo: ali-baker/huss-gatsby
 media_folder: "src/images"
-public_folder: "/images"
+public_folder: "src/images"
 media_folder_relative: true
 
 collections:
