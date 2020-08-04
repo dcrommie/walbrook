@@ -1,6 +1,7 @@
 ---
 blogtitle: Hello World
 Slug: hello-world
+path: hello-world
 date: 2020-08-03T13:57:19.131Z
 author: Walbrook Wealth Management
 thumbnail: ../src/images/wholesale.png
