@@ -7,7 +7,7 @@ thumbnail: ../src/images/wholesale.png
 ---
 This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post.
 
-![](src/images/about.png)
+![](../src/images/advisory.png)
 
 ## This is my first blog post:
 
