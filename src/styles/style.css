@@ -624,6 +624,22 @@ input:not(:placeholder-shown) {
   padding: 130px 0px 24px 0px;
 }
 
+.hero-heading {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px !important;
+  line-height: 120%;
+  /* or 86px */
+
+  display: flex;
+  align-items: center;
+
+  /* primary */
+
+  color: #000066;
+}
+
 h1 {
   font-family: Inter;
   font-style: normal;
