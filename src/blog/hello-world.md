@@ -1,6 +1,6 @@
 ---
 blogtitle: "Hellow "
-Slug: hEllo
+Slug: hello-world
 path: hello-world
 date: 2020-08-04T18:20:30.463Z
 author: wlasd
