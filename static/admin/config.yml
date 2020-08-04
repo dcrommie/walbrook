@@ -23,7 +23,6 @@ collections:
           default: "wholesale.png",
         }
       - { name: body, label: Body, widget: markdown }
-      slug: "{{blogtitle}}"
 
   - label: "Pages"
     name: "pages"
