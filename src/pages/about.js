@@ -47,7 +47,7 @@ const About = () => {
               <Image
                 alt="about"
                 name={data.markdownRemark.frontmatter.thumbnail.replace(
-                  "/images/",
+                  "../src/images/",
                   ""
                 )}
               />

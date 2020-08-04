@@ -38,7 +38,7 @@ const Blog = props => {
                 <Image
                   alt="featured-image"
                   name={props.data.markdownRemark.frontmatter.thumbnail.replace(
-                    "/images/",
+                    "../src/images/",
                     ""
                   )}
                 />
