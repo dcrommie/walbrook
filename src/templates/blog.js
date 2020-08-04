@@ -25,39 +25,34 @@ const Blog = props => {
     <div>
       <Header />
       <div className="blogpost">
-        <div className="blogpost-header">
-          <div className="blogpost-color">
-            <div className="container">
-              <h1>
-                {props.data.markdownRemark.frontmatter
-                  ? props.data.markdownRemark.frontmatter.blogtitle
-                  : {}}
-              </h1>
-              <span>
-                {props.data.markdownRemark.frontmatter
-                  ? props.data.markdownRemark.frontmatter.author
-                  : {}}
-              </span>
+        <div className="container">
+          <div className="blogpost-header">
+            <div className="blogpost-main">
+              <h1>{props.data.markdownRemark.frontmatter.blogtitle}</h1>
+              <span>{props.data.markdownRemark.frontmatter.author}</span>
               <span> &bull; </span>
               <span className="">
-                {props.data.markdownRemark.frontmatter
-                  ? props.data.markdownRemark.frontmatter.date
-                  : {}}
+                {props.data.markdownRemark.frontmatter.date}
               </span>
-              <Image
-                alt="featured-image"
-                name={
-                  props.data.markdownRemark.frontmatter
-                    ? props.data.markdownRemark.frontmatter.thumbnail.replace(
-                        "/images/",
-                        ""
-                      )
-                    : {}
-                }
-              />
+              <div className="blogpost-image">
+                <Image
+                  alt="featured-image"
+                  name={props.data.markdownRemark.frontmatter.thumbnail.replace(
+                    "/images/",
+                    ""
+                  )}
+                />
+              </div>
             </div>
+            <div>Hello</div>
           </div>
         </div>
+      </div>
+      <div className="container">
+        <div
+          className="blog-post-content"
+          dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
+        />
       </div>
       <Footer />
     </div>
