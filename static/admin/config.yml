@@ -11,6 +11,7 @@ collections:
     label: Blog
     folder: blog
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: blogtitle, label: Blog Title }
       - { name: Slug, label: Path }
