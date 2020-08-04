@@ -61,7 +61,7 @@ const HowWeHelp = () => {
         subtitle={data.markdownRemark.frontmatter.subtitle}
         alt="help"
         imageName={data.markdownRemark.frontmatter.thumbnail.replace(
-          "/images/",
+          "../src/images/",
           ""
         )}
       />
