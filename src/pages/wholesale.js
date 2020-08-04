@@ -35,7 +35,7 @@ const Wholesale = () => {
         subtitle={data.markdownRemark.frontmatter.subtitle}
         alt="Wholesale"
         imageName={data.markdownRemark.frontmatter.thumbnail.replace(
-          "/images/",
+          "../src/images/",
           ""
         )}
       />
