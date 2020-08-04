@@ -8,7 +8,7 @@ thumbnail: /images/advisory.png
 
 This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post. This is my first blog post.
 
-![](/images/advisoryframework.png)
+![](../images/advisoryframework.png)
 
 ## This is my first blog post:
 
