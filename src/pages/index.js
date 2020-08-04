@@ -73,7 +73,7 @@ const IndexPage = () => {
                 <Image
                   alt="family"
                   name={data.markdownRemark.frontmatter.thumbnail.replace(
-                    "/images/",
+                    "../src/images/",
                     ""
                   )}
                 />
@@ -213,7 +213,7 @@ const IndexPage = () => {
                   >
                     <div className="rounded ">
                       <Image
-                        name={data.pic.replace("/images/", "")}
+                        name={data.pic.replace("../src/images/", "")}
                         alt="First slide"
                       />
                     </div>
