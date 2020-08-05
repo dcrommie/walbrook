@@ -4,12 +4,13 @@ import "../styles/style.css"
 const Form = () => {
   return (
     <div>
-      <form name="contact" method="POST" data-netlify="true">
+      <form name="contact" action="/" method="POST" data-netlify="true">
         <input type="hidden" name="form-name" value="contact" />
 
         <div className="name-fields">
           <input
             name="firstname"
+            a
             className="first_name"
             type="text"
             placeholder="First Name"
