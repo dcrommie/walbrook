@@ -22,7 +22,7 @@ class BlogRoll extends React.Component {
                           <Image
                             alt="family"
                             name={post.frontmatter.thumbnail.replace(
-                              "/images/",
+                              "../src/images/",
                               ""
                             )}
                           />
