@@ -4,6 +4,7 @@ import Image from "../components/image"
 import Header from "../components/header"
 import Footer from "../components/footer"
 import "../styles/style.css"
+import BottomBlogRoll from "../components/bottom-blogroll"
 
 export const query = graphql`
   query($slug: String!) {
@@ -54,6 +55,7 @@ const Blog = props => {
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
         />
       </div>
+      <BottomBlogRoll />
       <Footer />
     </div>
   )

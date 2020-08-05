@@ -737,6 +737,23 @@ article span {
 .blog-post-content p {
   padding: 24px 0px;
 }
+.blogroll-bg {
+  background: #f2f7f2;
+}
+.sections-blogroll section {
+  display: flex;
+  flex-direction: row !important;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.blogroll-featured-image {
+  width: 350px;
+  height: 200px;
+  margin-bottom: 16px !important;
+}
+.blogroll-featured-image img {
+  border-radius: 8px;
+}
 /* Media Queries */
 @media screen and (max-width: 768px) {
   h1 {
