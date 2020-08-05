@@ -13,6 +13,7 @@ class BottomBlogRoll extends React.Component {
       <div className="blogroll-bg">
         <div className="container">
           <div className="sections-blogroll">
+            <h2 className="insights-h2"> More Insights</h2>
             <section>
               {posts &&
                 posts.map(({ node: post }) => (
@@ -65,7 +66,7 @@ export default () => (
       query BottomBlogRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          limit: 4
+          limit: 3
           filter: { frontmatter: { page: { ne: true } } }
         ) {
           edges {

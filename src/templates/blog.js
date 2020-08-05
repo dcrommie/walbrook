@@ -32,9 +32,7 @@ const Blog = props => {
               <h1>{props.data.markdownRemark.frontmatter.blogtitle}</h1>
               <span>{props.data.markdownRemark.frontmatter.author}</span>
               <span> &bull; </span>
-              <span className="">
-                {props.data.markdownRemark.frontmatter.date}
-              </span>
+              <span>{props.data.markdownRemark.frontmatter.date}</span>
               <div className="blogpost-image">
                 <Image
                   alt="featured-image"
