@@ -32,7 +32,7 @@ class BottomBlogRoll extends React.Component {
                         <p className="post-meta">
                           <Link
                             className="title has-text-primary is-size-4"
-                            to={post.frontmatter.path}
+                            to={`/blog/${post.frontmatter.path}`}
                           >
                             <h2> {post.frontmatter.blogtitle}</h2>
                           </Link>

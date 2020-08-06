@@ -758,7 +758,8 @@ article span {
   border-radius: 8px;
 }
 
-.insights-h2 {
+.insights-h2,
+.thankyou h2 {
   font-family: Inter;
   font-style: normal;
   font-weight: bold;
@@ -766,6 +767,26 @@ article span {
   line-height: 140%;
   margin-bottom: 32px;
   color: #000066;
+}
+.thankyou {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 136px 0px 136px 0px;
+  text-align: center;
+}
+.thankyou p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  color: #9999c2;
+  padding-bottom: 32px;
+}
+.sections-side-blog {
+  display: flex;
 }
 /* Media Queries */
 

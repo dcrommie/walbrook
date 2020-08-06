@@ -2,6 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql, StaticQuery } from "gatsby"
 import Image from "../components/image"
+import SideBlogRoll from "./side-blogroll"
 
 class BlogRoll extends React.Component {
   render() {
@@ -47,7 +48,9 @@ class BlogRoll extends React.Component {
                   </div>
                 ))}
             </section>
-            <section>Hello</section>
+            <section>
+              <SideBlogRoll />
+            </section>
           </div>
         </div>
       </div>
