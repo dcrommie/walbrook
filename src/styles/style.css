@@ -517,6 +517,7 @@ form {
 .email-fields {
   margin-bottom: 80px;
 }
+
 .email-fields input {
   padding: 15px;
   font-size: 18px;
@@ -793,6 +794,31 @@ article span {
   display: flex;
   margin-left: 5px;
 }
+
+.newsletter {
+  border-radius: 8px;
+  border: 2px solid #000066;
+  background: #f2f7f2;
+  padding: 40px 32px 40px 32px;
+  margin-top: 50px;
+  margin-left: 5px;
+}
+.newsletter h3 {
+  margin: 0 auto;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 140%;
+  text-align: center;
+  max-width: 299px;
+  margin-bottom: 38px;
+  color: #000066;
+}
+.newsletter-button {
+  width: 100% !important;
+  max-width: 299px;
+}
 /* Media Queries */
 
 @media screen and (max-width: 340px) {
@@ -804,6 +830,9 @@ article span {
 }
 
 @media screen and (max-width: 768px) {
+  .newsletter {
+    margin-left: 0px;
+  }
   .blogroll-featured-image {
     margin-bottom: 0px !important;
     height: auto;

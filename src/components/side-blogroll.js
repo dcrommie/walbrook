@@ -18,7 +18,7 @@ class SideBlogRoll extends React.Component {
                 <div className="" key={post.id}>
                   <article>
                     <header>
-                      <p className="post-meta">
+                      <p className="post-meta" style={{ marginBottom: "0px" }}>
                         <Link
                           className="title has-text-primary is-size-4"
                           to={`/blog/${post.frontmatter.path}`}

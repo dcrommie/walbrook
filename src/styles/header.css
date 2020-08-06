@@ -53,9 +53,15 @@ ul button {
   margin-top: 20px;
   cursor: pointer;
   margin-left: 15px;
+  transition: 0.5s;
+  border: 2px solid #000066;
 }
 ul button:focus {
   outline: none;
+}
+ul button:hover {
+  background: white;
+  color: #000066;
 }
 .headers {
 }

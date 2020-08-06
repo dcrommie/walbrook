@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 import { Link, graphql, StaticQuery } from "gatsby"
 import Image from "../components/image"
 import SideBlogRoll from "./side-blogroll"
+import NewsletterForm from "./newsletter-form"
 
 class BlogRoll extends React.Component {
   render() {
@@ -55,6 +56,7 @@ class BlogRoll extends React.Component {
             </section>
             <section>
               <SideBlogRoll />
+              <NewsletterForm />
             </section>
           </div>
         </div>
