@@ -1,5 +1,5 @@
 ---
-blogtitle: Lorem Ipsum
+blogtitle: What is Lorem Ipsum? And Why?
 Slug: lorem-ipsum
 path: lorem-ipsum-2
 date: 2020-08-05T18:37:31.021Z
