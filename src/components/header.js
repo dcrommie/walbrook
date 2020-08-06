@@ -10,7 +10,7 @@ const Header = () => {
     <div>
       <header className="headers">
         <div className="container">
-          <Link to="" className="logo">
+          <Link to="/" className="logo">
             <img src={logo} alt="logo" />
           </Link>
           <input className="menu-btn" type="checkbox" id="menu-btn" />
@@ -20,22 +20,22 @@ const Header = () => {
           </label>
           <ul className="menu">
             <li>
-              <Link to="#work">About us</Link>
+              <Link to="/about">About us</Link>
             </li>
             <li>
-              <Link to="#about">How we work</Link>
+              <Link to="/how-we-help">How we work</Link>
             </li>
             <li>
-              <Link to="#careers">Framework</Link>
+              <Link to="/advisory-framework">Framework</Link>
             </li>
             <li>
-              <Link to="#contact">Wholesale Clients</Link>
+              <Link to="/wholesale">Wholesale Clients</Link>
             </li>
             <li>
-              <Link to="#contact">Risk Profile</Link>
+              <Link to="">Risk Profile</Link>
             </li>
             <li>
-              <Link to="#contact">Login</Link>
+              <Link to="/">Login</Link>
             </li>
             <Link to="#contact">
               <button>Contact Us</button>

@@ -1,6 +1,9 @@
 .main-footer {
   background: #000066;
 }
+a {
+  text-decoration: none;
+}
 .container {
   max-width: 95%;
   width: 1280px;

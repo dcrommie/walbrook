@@ -15,7 +15,7 @@ class SideBlogRoll extends React.Component {
           <section>
             {posts &&
               posts.map(({ node: post }) => (
-                <div className="is-parent column is-6" key={post.id}>
+                <div className="" key={post.id}>
                   <article>
                     <header>
                       <p className="post-meta">
@@ -23,10 +23,27 @@ class SideBlogRoll extends React.Component {
                           className="title has-text-primary is-size-4"
                           to={`/blog/${post.frontmatter.path}`}
                         >
-                          <h2> {post.frontmatter.blogtitle}</h2>
+                          <h2
+                            style={{
+                              paddingTop: "0px",
+                              fontfamily: "Inter",
+                              fontWeight: "normal",
+                              fontSize: "16px",
+                              lineHeight: "160%",
+                              paddingBottom: "8px",
+                            }}
+                          >
+                            {" "}
+                            {post.frontmatter.blogtitle}
+                          </h2>
                         </Link>
                       </p>
-                      <hr />
+                      <hr
+                        style={{
+                          border: "1px solid #9999C2",
+                          marginBottom: "0px",
+                        }}
+                      />
                     </header>
                     <br />
                     <br />
@@ -54,7 +71,7 @@ export default () => (
       query SideBlogRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          limit: 3
+          limit: 4
           filter: { frontmatter: { page: { ne: true } } }
         ) {
           edges {

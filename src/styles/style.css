@@ -694,6 +694,10 @@ article span {
 .featured-image {
   border-radius: 8px;
   max-width: 700px;
+  margin-bottom: 24px;
+}
+.post-meta {
+  margin-bottom: 16px;
 }
 .blog {
   padding: 40px 0px 136px 0px;
@@ -787,6 +791,7 @@ article span {
 }
 .sections-side-blog {
   display: flex;
+  margin-left: 5px;
 }
 /* Media Queries */
 
@@ -965,6 +970,9 @@ article span {
   }
 }
 @media screen and (max-width: 1000px) {
+  .sections {
+    flex-direction: column;
+  }
   .carousel-inner,
   .main-carousel {
     height: 700px;

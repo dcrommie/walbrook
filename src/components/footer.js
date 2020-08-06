@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, useStaticQuery } from "gatsby"
+import { graphql, useStaticQuery, Link } from "gatsby"
 import Image from "./image"
 import "../styles/footer.css"
 
@@ -36,11 +36,24 @@ const Footer = () => {
               </div>
               <div className="pages">
                 <ul>
-                  <li>About us</li>
-                  <li>how we help</li>
-                  <li>Framework</li>
-                  <li>Wholesale Clients</li>
-                  <li>Insight</li>
+                  <Link to="/about">
+                    <li>About us</li>
+                  </Link>
+                  <Link to="/how-we-help">
+                    <li>how we help</li>
+                  </Link>
+                  <Link to="/advisory-framework">
+                    {" "}
+                    <li>Framework</li>
+                  </Link>
+                  <Link to="/wholesale">
+                    {" "}
+                    <li>Wholesale Clients</li>
+                  </Link>
+                  <Link to="/blog">
+                    {" "}
+                    <li>Insight</li>
+                  </Link>
                 </ul>
               </div>
               <div className="address">

@@ -20,13 +20,18 @@ class BlogRoll extends React.Component {
                     <article>
                       <header>
                         <div className="featured-image">
-                          <Image
-                            alt="family"
-                            name={post.frontmatter.thumbnail.replace(
-                              "../src/images/",
-                              ""
-                            )}
-                          />
+                          <Link
+                            className="title has-text-primary is-size-4"
+                            to={post.frontmatter.path}
+                          >
+                            <Image
+                              alt="family"
+                              name={post.frontmatter.thumbnail.replace(
+                                "../src/images/",
+                                ""
+                              )}
+                            />
+                          </Link>
                         </div>
                         <p className="post-meta">
                           <Link
@@ -34,10 +39,10 @@ class BlogRoll extends React.Component {
                             to={post.frontmatter.path}
                           >
                             <h2> {post.frontmatter.blogtitle}</h2>
+                            <span>{post.frontmatter.author}</span>
+                            <span> &bull; </span>
+                            <span className="">{post.frontmatter.date}</span>
                           </Link>
-                          <span>{post.frontmatter.author}</span>
-                          <span> &bull; </span>
-                          <span className="">{post.frontmatter.date}</span>
                         </p>
 
                         <p className="excerpt">{post.excerpt}</p>
