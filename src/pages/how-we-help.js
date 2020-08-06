@@ -6,6 +6,7 @@ import Footer from "../components/footer"
 import Hero from "../components/hero"
 import rectangle from "../images/Rectangle.svg"
 import Form from "../components/form"
+import SEO from "../components/seo"
 
 const HowWeHelp = () => {
   const data = useStaticQuery(graphql`
@@ -55,6 +56,7 @@ const HowWeHelp = () => {
   `)
   return (
     <div>
+      <SEO title="How we help" />
       <Header />
       <Hero
         heading={data.markdownRemark.frontmatter.title}

@@ -5,6 +5,7 @@ import Header from "../components/header"
 import Footer from "../components/footer"
 import Hero from "../components/hero"
 import Form from "../components/form"
+import SEO from "../components/seo"
 
 const Wholesale = () => {
   const data = useStaticQuery(graphql`
@@ -29,6 +30,7 @@ const Wholesale = () => {
 
   return (
     <div>
+      <SEO title="Wholesale" />
       <Header />
       <Hero
         heading={data.markdownRemark.frontmatter.title}

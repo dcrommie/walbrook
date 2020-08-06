@@ -12,6 +12,7 @@ import group1 from "../images/group1.svg"
 import group2 from "../images/group2.svg"
 import group3 from "../images/group3.svg"
 import group4 from "../images/group4.svg"
+import SEO from "../components/seo"
 
 const AdvisoryFramework = () => {
   const data = useStaticQuery(graphql`
@@ -38,6 +39,7 @@ const AdvisoryFramework = () => {
 
   return (
     <div>
+      <SEO title="Advisory Framework" />
       <Header />
       <Hero
         heading={data.markdownRemark.frontmatter.title}

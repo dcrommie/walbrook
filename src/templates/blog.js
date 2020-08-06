@@ -5,6 +5,7 @@ import Header from "../components/header"
 import Footer from "../components/footer"
 import "../styles/style.css"
 import BottomBlogRoll from "../components/bottom-blogroll"
+import SEO from "../components/seo"
 
 export const query = graphql`
   query($slug: String!) {
@@ -24,6 +25,7 @@ export const query = graphql`
 const Blog = props => {
   return (
     <div>
+      <SEO title={props.data.markdownRemark.frontmatter.blogtitle} />
       <Header />
       <div className="blogpost">
         <div className="container">

@@ -5,6 +5,7 @@ import Image from "../components/image"
 import Header from "../components/header"
 import Footer from "../components/footer"
 import Form from "../components/form"
+import SEO from "../components/seo"
 
 const About = () => {
   const data = useStaticQuery(graphql`
@@ -27,6 +28,7 @@ const About = () => {
 
   return (
     <div>
+      <SEO title="About" />
       <Header />
       <div className="main">
         <div className="container">

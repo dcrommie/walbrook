@@ -3,10 +3,13 @@ import { Link } from "gatsby"
 import "../styles/style.css"
 import Header from "../components/header"
 import Footer from "../components/footer"
+import SEO from "../components/seo"
 
 const ThankYou = () => {
   return (
     <div>
+      <SEO title="Thank you" />
+
       <Header />
       <div className="thankyou">
         <div className="container">
