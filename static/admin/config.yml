@@ -13,7 +13,7 @@ collections:
     create: true
     fields:
       - { name: blogtitle, label: Blog Title }
-      - { name: path, label: Path }
+      - { name: path, label: Path (post url) }
       - { name: date, label: Date, widget: datetime }
       - { name: author, label: Author, widget: string }
       - {
@@ -82,6 +82,12 @@ collections:
         fields:
           - { label: Main Title, name: title, widget: string }
           - { label: SubTitle, name: subtitle, widget: text }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
           - { label: Button Text, name: buttontext, widget: string }
           - { label: Button Email, name: buttonemail, widget: string }
           - { label: Title Section 1, name: careertitle, widget: string }
@@ -96,12 +102,6 @@ collections:
               name: lifedescription,
               widget: string,
             }
-          - {
-              label: "Featured Image",
-              name: "thumbnail",
-              widget: "image",
-              default: "wholesale.png",
-            }
 
       - label: "Advisory Page"
         name: "Advisory Page"
@@ -109,6 +109,12 @@ collections:
         fields:
           - { label: Main Title, name: title, widget: string }
           - { label: SubTitle, name: subtitle, widget: text }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
           - { label: FAQ1, name: FAQ1, widget: string }
           - { label: FAQ1 Answer, name: answer1, widget: text }
           - { label: FAQ2, name: FAQ2, widget: string }
@@ -119,18 +125,19 @@ collections:
           - { label: FAQ4 Answer, name: answer4, widget: text }
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: text }
-          - {
-              label: "Featured Image",
-              name: "thumbnail",
-              widget: "image",
-              default: "wholesale.png",
-            }
+
       - label: "Help Page"
         name: "Help Page"
         file: "src/markdown-pages/help.md"
         fields:
           - { label: Main Title, name: title, widget: string }
           - { label: SubTitle, name: subtitle, widget: text }
+          - {
+              label: "Featured Image",
+              name: "thumbnail",
+              widget: "image",
+              default: "wholesale.png",
+            }
           - { label: First Help Title, name: helptitle1, widget: string }
           - label: "Help data 1"
             name: "helplist1"
@@ -178,12 +185,7 @@ collections:
           - { label: Help Desc 4, name: helpdesc4, widget: text }
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: string }
-          - {
-              label: "Featured Image",
-              name: "thumbnail",
-              widget: "image",
-              default: "wholesale.png",
-            }
+
       - label: "Index Page"
         name: "Index Page"
         file: "src/markdown-pages/index.md"
