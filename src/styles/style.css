@@ -714,6 +714,14 @@ article span {
 .blogpost-main {
   width: 700px;
 }
+.blogpost-main h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 140%;
+  color: #000066;
+}
 .blogpost-main span {
   font-family: Inter;
   font-style: normal;
@@ -727,6 +735,11 @@ article span {
   max-width: 700px;
   padding-bottom: 43px;
   padding-top: 32px;
+}
+.blogpost-new {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 .blog-post-content {
   max-width: 700px;
@@ -821,8 +834,13 @@ article span {
 }
 
 .large {
-  margin-top: 105px;
+  margin-top: 5%;
 }
+
+.mobile-1 {
+  display: none;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 340px) {
@@ -1003,6 +1021,12 @@ article span {
   }
 }
 @media screen and (max-width: 1000px) {
+  .mobile-1 {
+    display: block;
+  }
+  .large {
+    display: none;
+  }
   .sections {
     flex-direction: column;
   }

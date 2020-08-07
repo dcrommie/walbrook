@@ -57,7 +57,11 @@ const Blog = props => {
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
         />
+        <div className="mobile-1">
+          <NewsletterForm />
+        </div>
       </div>
+
       <BottomBlogRoll />
       <Footer />
     </div>
