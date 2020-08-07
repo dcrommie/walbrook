@@ -819,6 +819,10 @@ article span {
   width: 100% !important;
   max-width: 299px;
 }
+
+.large {
+  margin-top: 105px;
+}
 /* Media Queries */
 
 @media screen and (max-width: 340px) {

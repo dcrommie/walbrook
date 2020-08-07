@@ -6,6 +6,7 @@ import Footer from "../components/footer"
 import "../styles/style.css"
 import BottomBlogRoll from "../components/bottom-blogroll"
 import SEO from "../components/seo"
+import NewsletterForm from "../components/newsletter-form"
 
 export const query = graphql`
   query($slug: String!) {
@@ -45,7 +46,9 @@ const Blog = props => {
                 />
               </div>
             </div>
-            <div>Hello</div>
+            <div className="large">
+              <NewsletterForm />
+            </div>
           </div>
         </div>
       </div>
