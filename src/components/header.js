@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import { Helmet } from "react-helmet"
 
 import "../styles/header.css"
-import logo from "../images/logo.png"
+import logo from "../images/logo.svg"
 
 const Header = () => {
   return (

@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, useStaticQuery, Link } from "gatsby"
+import logo from "../images/logo-footer.svg"
 import Image from "./image"
 import "../styles/footer.css"
 
@@ -31,7 +32,7 @@ const Footer = () => {
             <div className="footer ">
               <div className="image">
                 <div className="image-footer">
-                  <Image alt="logo footer" name="logo-footer.png" />
+                  <img src={logo} alt="logo" />
                 </div>
               </div>
               <div className="pages">

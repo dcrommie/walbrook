@@ -47,7 +47,6 @@ ul button {
   background: #000066;
   border-radius: 8px;
   padding: 14px 24px;
-  color: white;
   border: none;
   text-transform: uppercase;
   margin-top: 20px;
@@ -55,6 +54,15 @@ ul button {
   margin-left: 15px;
   transition: 0.5s;
   border: 2px solid #000066;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 140%;
+  text-align: center;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 ul button:focus {
   outline: none;
