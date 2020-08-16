@@ -32,7 +32,7 @@ const Header = () => {
               <Link to="/wholesale">Wholesale Clients</Link>
             </li>
             <li>
-              <Link to="">Risk Profile</Link>
+              <Link to="https://walbrook.com.au/risk-profile/ ">Risk Profile</Link>
             </li>
             <li>
               <Link to="/">Login</Link>

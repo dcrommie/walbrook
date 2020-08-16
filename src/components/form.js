@@ -19,12 +19,14 @@ const Form = () => {
             className="first_name"
             type="text"
             placeholder="First Name"
+            required
           />
           <input
             name="lastname"
             className="name"
             type="text"
             placeholder="Last Name"
+            required
           />
         </div>
         <div className="email-fields">
@@ -33,6 +35,7 @@ const Form = () => {
             className="email"
             type="email"
             placeholder="Email"
+            required
           />
         </div>
         <button className="main-button" style={{ margin: "0 auto" }}>

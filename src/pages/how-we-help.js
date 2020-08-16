@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { graphql, useStaticQuery } from "gatsby"
 import Image from "../components/image"
 import Header from "../components/header"
@@ -40,6 +41,7 @@ const HowWeHelp = () => {
           helplist6 {
             title
           }
+          helpmain
           help1
           helpdesc1
           help2
@@ -57,6 +59,14 @@ const HowWeHelp = () => {
   return (
     <div>
       <SEO title="How we help" />
+      <Helmet>
+        <link
+          rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+          crossorigin="anonymous"
+        />
+      </Helmet>
       <Header />
       <Hero
         heading={data.markdownRemark.frontmatter.title}

@@ -9,7 +9,14 @@ a {
   width: 1280px;
   margin: 0 auto;
 }
-
+.pages ul li:hover{
+  text-decoration: underline;
+  text-underline-offset: 22px;
+  -ms-text-underline-offset: 20%;
+  -webkit-text-underline-offset: 20%;
+  -ms-text-underline-position: below;
+  text-underline-position: under;
+}
 .footer {
   width: 100%;
   display: flex;
@@ -29,7 +36,7 @@ a {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: #f2f7f2;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 .pages {
   margin-top: -10px;

@@ -1,6 +1,9 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { graphql, useStaticQuery } from "gatsby"
 import "../styles/style.css"
+import career from '../images/career.svg'
+import life from '../images/life.svg'
 import Image from "../components/image"
 import Header from "../components/header"
 import Footer from "../components/footer"
@@ -28,8 +31,19 @@ const About = () => {
 
   return (
     <div>
+      <div>
       <SEO title="About" />
       <Header />
+      </div>
+      <Helmet>
+        <link
+          rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+          crossorigin="anonymous"
+        />
+      </Helmet>
+      <div>
       <div className="main">
         <div className="container">
           <div className="main-content">
@@ -62,14 +76,14 @@ const About = () => {
           <div className="about-content">
             <div className="about-us" style={{ marginRight: "15px" }}>
               <div className="about-image">
-                <Image alt="career" name="career.png" />
+                <img src={career} alt="career" />
               </div>
               <h3> {data.markdownRemark.frontmatter.careertitle}</h3>
               <p>{data.markdownRemark.frontmatter.careerdescription}</p>
             </div>
             <div className="about-us">
               <div className="about-image">
-                <Image alt="life" name="life.png" />
+                <img src={life} alt="life" />
               </div>
               <h3> {data.markdownRemark.frontmatter.lifetitle}</h3>
               <p>{data.markdownRemark.frontmatter.lifedescription}</p>
@@ -78,6 +92,7 @@ const About = () => {
         </div>
       </div>
       <Footer />
+    </div>
     </div>
   )
 }

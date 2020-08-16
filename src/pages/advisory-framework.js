@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { graphql, useStaticQuery } from "gatsby"
 import "../styles/styles.css"
 import "../styles/style.css"
@@ -41,6 +42,14 @@ const AdvisoryFramework = () => {
     <div>
       <SEO title="Advisory Framework" />
       <Header />
+      <Helmet>
+        <link
+          rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+          crossorigin="anonymous"
+        />
+      </Helmet>
       <Hero
         heading={data.markdownRemark.frontmatter.title}
         subtitle={data.markdownRemark.frontmatter.subtitle}
@@ -52,8 +61,8 @@ const AdvisoryFramework = () => {
       />
       <div className="container">
         <div className="main-faq">
-          <div class="custom-accordions">
-            <div class="accordion">
+          <div class="custom-accordionss">
+            <div class="accordions">
               <input type="checkbox" id="chck1" />
               <label class="tab-label" for="chck1">
                 <div>
@@ -64,11 +73,11 @@ const AdvisoryFramework = () => {
                   <img src={group1} />
                 </div>
               </label>
-              <div class="tab-content">
+              <div class="tab-contents">
                 {data.markdownRemark.frontmatter.answer1}
               </div>
             </div>
-            <div class="accordion">
+            <div class="accordions">
               <input type="checkbox" id="chck2" />
               <label class="tab-label" for="chck2">
                 <div>
@@ -79,11 +88,11 @@ const AdvisoryFramework = () => {
                   <img src={group2} />
                 </div>
               </label>
-              <div class="tab-content">
+              <div class="tab-contents">
                 {data.markdownRemark.frontmatter.answer2}{" "}
               </div>
             </div>
-            <div class="accordion">
+            <div class="accordions">
               <input type="checkbox" id="chck3" />
               <label class="tab-label" for="chck3">
                 <div>
@@ -94,11 +103,11 @@ const AdvisoryFramework = () => {
                   <img src={group3} />
                 </div>
               </label>
-              <div class="tab-content">
+              <div class="tab-contents">
                 {data.markdownRemark.frontmatter.answer3}{" "}
               </div>
             </div>
-            <div class="accordion">
+            <div class="accordions">
               <input type="checkbox" id="chck4" />
               <label class="tab-label" for="chck4">
                 <div>
@@ -109,7 +118,7 @@ const AdvisoryFramework = () => {
                   <img src={group4} />
                 </div>
               </label>
-              <div class="tab-content">
+              <div class="tab-contents">
                 {data.markdownRemark.frontmatter.answer4}{" "}
               </div>
             </div>

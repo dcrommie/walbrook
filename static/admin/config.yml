@@ -174,7 +174,7 @@ collections:
             widget: "list"
             fields:
               - { label: "Title", name: "title", widget: "text" }
-          - { label: Helo Main, name: helpmain, widget: string }
+          - { label: Help Main, name: helpmain, widget: string }
           - { label: Help Section 1, name: help1, widget: string }
           - { label: Help Desc 1, name: helpdesc1, widget: text }
           - { label: Help Section 2, name: help2, widget: string }

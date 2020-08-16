@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, useStaticQuery } from "gatsby"
+import { graphql, useStaticQuery, Link } from "gatsby"
 import "../styles/style.css"
 import { Helmet } from "react-helmet"
 import Image from "../components/image"
@@ -68,7 +68,7 @@ const IndexPage = () => {
               <div className="main-content-text">
                 <h1>{data.markdownRemark.frontmatter.title}</h1>
                 <p>{data.markdownRemark.frontmatter.subtitle}</p>
-                <button className="main-button">Contact Us</button>
+                <Link to='#contact'><button className="main-button">Contact Us</button></Link>
               </div>
               <div className="main-content-image">
                 <Image
@@ -112,7 +112,7 @@ const IndexPage = () => {
               <div className="services-text">
                 <p> {data.markdownRemark.frontmatter.services}</p>
                 <h2> {data.markdownRemark.frontmatter.servicestitle}</h2>
-                <button>Learn More</button>
+               <Link to='how-we-help'> <button>Learn More</button></Link>
               </div>
               <div className="services">
                 <div className="service investment">
@@ -258,7 +258,7 @@ const IndexPage = () => {
               <div className="advisory-text">
                 <h2>{data.markdownRemark.frontmatter.advisorytitle}</h2>
                 <p>{data.markdownRemark.frontmatter.advisorydesc}</p>
-                <button className="main-button">Learn More</button>
+              <Link to='advisory-framework'>  <button className="main-button">Learn More</button></Link>
               </div>
               <div className="advisory-image">
                 <Image alt="Advisory" name="advisory.png" />
@@ -266,7 +266,7 @@ const IndexPage = () => {
             </div>
           </div>
         </section>
-        <div className="form">
+        <div className="form" id='contact'>
           <div className="container">
             <div className="main-form">
               <div className="form-text">
@@ -274,7 +274,7 @@ const IndexPage = () => {
                 <p style={{ margin: "0 auto", marginBottom: "32px" }}>
                   {data.markdownRemark.frontmatter.contactdesc}
                 </p>
-              </div>
+              </div >
               <Form />
             </div>
           </div>

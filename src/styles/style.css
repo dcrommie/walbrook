@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 .main {
   background: #f2f7f2;
@@ -9,7 +12,7 @@
 .main-content {
   display: flex;
   justify-content: space-between;
-  padding: 135px 0px;
+  padding: 40px 0px;
 }
 .main-content-text {
   display: flex;
@@ -54,7 +57,7 @@
   outline: none;
 }
 .main-content-image {
-  width: 60% !important;
+  width: 58% !important;
 }
 .financial-content {
   display: flex;
@@ -106,7 +109,7 @@
 }
 
 .carousel-control-prev-icon {
-  background-image: url("../images/back.png") !important;
+  background-image: url("../images/prev.svg") !important;
   background: #ffffff;
   width: 64px !important;
   height: 64px !important;
@@ -122,7 +125,7 @@
   height: 450px;
 }
 .carousel-control-next-icon {
-  background-image: url("../images/next.png") !important;
+  background-image: url("../images/next.svg") !important;
   background: #ffffff;
   width: 64px !important;
   height: 64px !important;
@@ -321,7 +324,7 @@
 .child {
   display: flex;
   flex-direction: column;
-  width: 570px;
+  width: 500px;
   padding: 45px;
   background: #f2f7f2;
   border-radius: 8px;
@@ -360,6 +363,7 @@
 
 hr {
   margin-bottom: 24px;
+  width: 360px;
   border: 2px solid #000066;
 }
 .how-we-help {
@@ -615,7 +619,7 @@ input:not(:placeholder-shown) {
 .rounded {
   width: 96px;
   border-radius: 24px;
-  transform: rotate(-45deg);
+  transform: rotate(0deg);
   margin: 0 auto;
   margin-bottom: 65px;
 }
@@ -641,7 +645,7 @@ input:not(:placeholder-shown) {
   color: #000066;
 }
 
-h1 {
+.blog-container h1 {
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
@@ -669,6 +673,7 @@ article h2 {
   line-height: 140%;
   padding: 24px 0px 8px 0px;
   color: #000066;
+  max-width: 350px;
 }
 article a {
   text-decoration: none !important;
@@ -840,18 +845,37 @@ article span {
 .mobile-1 {
   display: none;
 }
-
+.container-main{
+  padding-left: 70px;
+  background-color: #f2f7f2;
+}
 /* Media Queries */
-
+@media screen and (max-width: 370px){
+  hr{
+    width: 270px;
+  }
+}
 @media screen and (max-width: 340px) {
   .blogroll-featured-image {
     width: 260px;
     height: 200px;
     margin-bottom: 0px !important;
   }
+ 
 }
 
 @media screen and (max-width: 768px) {
+
+  .container-main{
+    padding-left: 24px;
+  }
+
+  .hero-heading{
+    font-size: 40px !important;
+    text-align: center;
+    margin: auto;
+
+  }
   .newsletter {
     margin-left: 0px;
   }

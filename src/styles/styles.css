@@ -1,13 +1,16 @@
-.accordion input[type="checkbox"] {
+.accordions input[type="checkbox"] {
   position: absolute;
   opacity: 0;
   z-index: -1;
 }
-.accordion {
+.accordions {
   width: 100%;
   color: white;
   margin-bottom: 40px;
   border-radius: 5px;
+}
+label{
+  margin-bottom: 0px !important;
 }
 .tab-label {
   color: #000066;
@@ -21,15 +24,23 @@
 }
 .tab-label h3 {
   margin: 0 0 20px 0;
+  font-family: Inter !important;
+font-style: normal;
+font-weight: bold !important;
+font-size: 32px !important;
+line-height: 140% !important;
 }
 .tab-label h2 {
   margin: 0;
+  font-family: Inter;
+font-style: normal;
+font-weight: bold !important;
+font-size: 32px !important;
+line-height: 140% !important;
+color: #000066;
   padding-bottom: 15px;
   border-bottom: 2px solid #000066;
   position: relative;
-  font-size: 18px;
-  line-height: 140%;
-  font-weight: 600;
   padding-right: 40px;
 }
 .tab-label .acc-icon {
@@ -60,22 +71,24 @@
   top: calc(50% - 10px);
   transform: translateY(-50%);
   transition: all 0.15s linear;
+  
 }
-.tab-content {
+.tab-contents {
   transition: all 0.15s linear;
   max-height: 0;
-  color: #000066;
+  font-style: normal;
+font-size: 22px !important;
+line-height: 140% !important;
+color: #000066;
   overflow: hidden;
   border-radius: 0 0 5px 5px;
-  font-size: 16px;
-  font-weight: 400;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
 }
 input:checked + .tab-label h2::after {
   -webkit-transform: translateY(-50%) rotate(45deg);
   transform: translateY(-50%) rotate(45deg);
 }
-input:checked ~ .tab-content {
+input:checked ~ .tab-contents {
   background: #f2f7f2;
   padding: 0px 50px 50px 50px;
   max-height: 100vh;
@@ -86,7 +99,14 @@ input:checked ~ .tab-content {
 @media (min-width: 768px) and (max-width: 992px) {
 }
 @media (max-width: 767px) {
-  .accordion {
+  .tab-label h2 {
+    font-size: 18px !important;
+
+  }
+  .tab-contents{
+    font-size: 16px !important;
+  }
+  .accordions {
     margin-bottom: 50px;
   }
   .acc-icon img {
@@ -97,8 +117,12 @@ input:checked ~ .tab-content {
   }
   .tab-label h3 {
     margin: 0 0 30px 0;
+    font-size: 18px !important;
+
+    
   }
-  input:checked ~ .tab-content {
+
+  input:checked ~ .tab-contents {
     padding: 0 15px 15px 15px;
   }
 }
