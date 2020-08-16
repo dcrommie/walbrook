@@ -711,7 +711,7 @@ article span {
 .blogpost-header {
   display: flex;
   justify-content: space-between;
-  padding-top: 136px;
+  padding-top: 50px;
 }
 .blogpost {
   background: #f2f7f2;
@@ -814,13 +814,17 @@ article span {
 }
 
 .newsletter {
+  position: fixed;
+ margin: auto;
+  max-width: 360px;
   border-radius: 8px;
   border: 2px solid #000066;
   background: #f2f7f2;
   padding: 40px 32px 40px 32px;
-  margin-top: 50px;
-  margin-left: 5px;
-}
+  margin-top: 65px;
+  
+  z-index: 1;
+  }
 .newsletter h3 {
   margin: 0 auto;
   font-family: Inter;
@@ -839,6 +843,8 @@ article span {
 }
 
 .large {
+  position: relative;
+width: 350px;
   margin-top: 5%;
 }
 
@@ -1045,12 +1051,8 @@ article span {
   }
 }
 @media screen and (max-width: 1000px) {
-  .mobile-1 {
-    display: block;
-  }
-  .large {
-    display: none;
-  }
+  
+  
   .sections {
     flex-direction: column;
   }
@@ -1110,6 +1112,17 @@ article span {
 @media screen and (max-width: 1220px) {
   .child {
     max-width: 500px;
+  }
+  .large {
+    display: none;
+  }
+  .mobile-1 {
+    display: block;
+  }
+  .newsletter{
+    position: unset;
+    left: 0;
+    margin-bottom: 70px;
   }
 }
 @media screen and (max-width: 1050px) {

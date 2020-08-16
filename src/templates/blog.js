@@ -1,4 +1,6 @@
 import React from "react"
+import { Helmet } from "react-helmet"
+
 import { graphql } from "gatsby"
 import Image from "../components/image"
 import Header from "../components/header"
@@ -26,8 +28,17 @@ export const query = graphql`
 const Blog = props => {
   return (
     <div>
+      <Helmet>
+        <link
+          rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+          crossorigin="anonymous"
+        />
+      </Helmet>
       <SEO title={props.data.markdownRemark.frontmatter.blogtitle} />
       <Header />
+
       <div className="blogpost">
         <div className="container">
           <div className="blogpost-header">
