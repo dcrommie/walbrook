@@ -1,4 +1,4 @@
-import React from "react"
+import React , {useEffect, useState} from "react"
 import { Link } from "gatsby"
 import { Helmet } from "react-helmet"
 
@@ -6,14 +6,24 @@ import "../styles/header.css"
 import logo from "../images/logo.svg"
 
 const Header = () => {
+  const [show,setShow] = useState(false);
+const onClick = () => {
+setShow(!show);
+}
+
+
+useEffect(() => {
+  show && (document.body.style.overflow = 'hidden');
+  !show && (document.body.style.overflow = 'unset');
+}, [show ]);
   return (
     <div>
       <header className="headers">
-        <div className="container">
+        <div className="container nav_container">
           <Link to="/" className="logo">
             <img src={logo} alt="logo" />
           </Link>
-          <input className="menu-btn" type="checkbox" id="menu-btn" />
+          <input className="menu-btn" type="checkbox" id="menu-btn" onClick={onClick} />
           <label htmlFor="menu-btn" className="menu-icon" id="menu">
             <input style={{ display: "none" }} />
             <span className="navicon"></span>

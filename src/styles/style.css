@@ -871,6 +871,9 @@ width: 350px;
 }
 
 @media screen and (max-width: 768px) {
+  .main-content-text{
+    margin-top: 0px !important;
+  }
 
   .container-main{
     padding-left: 24px;
@@ -954,8 +957,9 @@ width: 350px;
     text-align: center;
     margin: auto;
   }
-  .main-content-text button {
-    margin: auto;
+  .main-content-text a {
+    margin: 0 auto;
+    
     margin-top: 20px;
   }
   .services {

@@ -132,7 +132,12 @@ ul button:hover {
 }
 
 .headers .menu-btn:checked ~ .menu {
-  max-height: 550px;
+  max-height: 100vh;
+  padding-bottom: 30px;
+  
+}
+.headers .menu-btn:checked ~ .menu body{
+  background-color: red;
 }
 
 .headers .menu-btn:checked ~ .menu-icon .navicon {
@@ -183,4 +188,5 @@ ul button:hover {
   .logo img {
     padding-left: 0px;
   }
+ 
 }
