@@ -125,7 +125,7 @@ const AdvisoryFramework = () => {
           </div>
         </div>
       </div>
-      <div className="form">
+      <div className="form" id='contact'>
         <div className="container">
           <div className="main-form">
             <div className="form-text">

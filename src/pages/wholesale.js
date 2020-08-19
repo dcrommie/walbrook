@@ -69,7 +69,7 @@ const Wholesale = () => {
           </div>
         </div>
       </div>
-      <div className="form">
+      <div className="form" id='contact'>
         <div className="container">
           <div className="main-form-wholesale">
             <div className="form-text-wholesale">
