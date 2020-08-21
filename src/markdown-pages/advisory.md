@@ -12,16 +12,21 @@ answer1: >-
   position?
 
 
+
   You may have an obvious, specific objective.  Or you may be looking for assistance to define your needs and goals.  Before considering the future state, due to administrative or business complexity, some clients first want to clearly establish their current position.
+
 
 
   We help you to define your current situation, needs and objectives to ensure we have a complete reference point on which to base your advice and management plans.
 
 
+
   To bring the various elements together, we work with you and your current financial institutions.  You may also decide to introduce us to your other professional advisers, such as your accountants, lawyers and professional trustees.
 
 
+
   Your investment risk profile is also assessed, first with our generic risk profile assessment.  The risk profile report is reviewed and discussed with you, in the context of your objectives and personal situation, to agree a risk profile and ensure that recommended actions align with your willingness and ability to take risk.
+
 
 
   Click to view samples of our risk profile report and past performance reports.  Alternatively, click below to complete our risk profile assessment and receive a copy of the generic risk profile report by email.
