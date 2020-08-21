@@ -9,7 +9,7 @@ FAQ1: Understanding your objectives and needs
 answer1: |-
   Hello
 
-  May new is Khan
+  May new 
 
   # Hello
 FAQ2: Developing recommended strategy
@@ -19,10 +19,6 @@ answer2: >-
 
 
   We aim to deliver straight forward solutions to complex problems, balancing cost, required capabilities and your preferred level of engagement in the ongoing investment process.
-
-
-
-
 
 
   Where possible, our investment advice will typically incorporate a preference for institutional-grade investment management, given the value offered in terms of process, resourcing, access and global reach.
@@ -56,17 +52,24 @@ answer3: >-
 
   Foreign Trusts
 
+
   Domestic Trusts
+
 
   Foreign Companies
 
+
   Life Assurance Bonds
+
 
   International Pension Plans
 
+
   Self Invested Personal Pensions
 
+
   Superannuation (public offer, SMSF, industry)
+
 
   Recognised Overseas Pension Schemes (ROPS/QROPS)
 FAQ4: Monitoring and reviewing your progress
