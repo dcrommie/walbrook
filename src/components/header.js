@@ -33,13 +33,14 @@ useEffect(() => {
               <Link to="/about">About us</Link>
             </li>
             <li>
-              <Link to="/how-we-help">How we work</Link>
+              <Link to="/how-we-help">How we help</Link>
             </li>
             <li>
               <Link to="/advisory-framework">Framework</Link>
             </li>
+            
             <li>
-              <Link to="/wholesale">Wholesale Clients</Link>
+              <Link to="/blog">Insights</Link>
             </li>
             <li>
               <Link to="https://walbrook.com.au/risk-profile/ ">Risk Profile</Link>

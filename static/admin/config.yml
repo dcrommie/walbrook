@@ -116,13 +116,13 @@ collections:
               default: "wholesale.png",
             }
           - { label: FAQ1, name: FAQ1, widget: string }
-          - { label: FAQ1 Answer, name: answer1, widget: text }
+          - { label: FAQ1 Answer, name: answer1, widget: markdown }
           - { label: FAQ2, name: FAQ2, widget: string }
-          - { label: FAQ2 Answer, name: answer2, widget: text }
+          - { label: FAQ2 Answer, name: answer2, widget: markdown }
           - { label: FAQ3, name: FAQ3, widget: string }
-          - { label: FAQ3 Answer, name: answer3, widget: text }
+          - { label: FAQ3 Answer, name: answer3, widget: markdown }
           - { label: FAQ4, name: FAQ4, widget: string }
-          - { label: FAQ4 Answer, name: answer4, widget: text }
+          - { label: FAQ4 Answer, name: answer4, widget: markdown }
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: text }
 

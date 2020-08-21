@@ -110,7 +110,7 @@ const IndexPage = () => {
           <div className="container">
             <div className="services-content">
               <div className="services-text">
-                <p> {data.markdownRemark.frontmatter.services}</p>
+                {/* <p> {data.markdownRemark.frontmatter.services}</p> */}
                 <h2> {data.markdownRemark.frontmatter.servicestitle}</h2>
                <Link to='how-we-help'> <button>Learn More</button></Link>
               </div>

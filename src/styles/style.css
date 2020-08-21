@@ -871,6 +871,11 @@ width: 350px;
 }
 
 @media screen and (max-width: 768px) {
+
+  .text-about{
+    margin-top: 10px !important;
+    text-align: justify !important;
+  }
   .main-content-text{
     margin-top: 0px !important;
   }
@@ -951,6 +956,7 @@ width: 350px;
   .main-content-text h1 {
     font-size: 48px;
     text-align: center;
+    margin: 0 auto;
     max-width: 312px !important;
   }
   .main-content-text p {

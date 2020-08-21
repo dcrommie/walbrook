@@ -24,8 +24,8 @@ a {
   justify-content: space-between;
   padding-top: 80px;
 }
-.image {
-  width: 125px;
+.image img {
+  width: 140px;
 }
 .pages ul li {
   position: relative;
@@ -171,27 +171,33 @@ line-height: 170%;
   .image {
     order: -1;
     flex: 1 0 100%;
+    margin-bottom: 40px;
   }
-  .image-footer {
-    width: 125px;
-    margin: auto;
-    margin-bottom: 50px;
+  .image img{
+    margin: 0 auto;
   }
 }
 @media screen and (max-width: 768px) {
-  .footer,
+  .footer
+   {
+    
+    flex-direction: column;
+align-content: center;
+  }
   .policies,
-  .liability {
+  .liability{
     flex-direction: column;
   }
+
   .image {
-    margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   .pages,
   .address,
   .contact {
+    
     margin-bottom: 40px;
+
   }
   .trademark {
     margin-top: 24px;

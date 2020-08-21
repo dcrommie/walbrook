@@ -49,7 +49,7 @@ const About = () => {
           <div className="main-content">
             <div className="main-content-text">
               <h1>{data.markdownRemark.frontmatter.title}</h1>
-              <p style={{ maxWidth: "572px" }}>
+              <p style={{ maxWidth: "572px" }} className='text-about'>
                 {data.markdownRemark.frontmatter.subtitle}
               </p>
               <a href={"mailto:" + data.markdownRemark.frontmatter.buttonemail}>

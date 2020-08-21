@@ -31,7 +31,7 @@ const Footer = () => {
           <div className="container">
             <div className="footer ">
               <div className="image">
-                <div className="image-footer">
+                <div className="">
                   <img src={logo} alt="logo" />
                 </div>
               </div>
@@ -53,7 +53,7 @@ const Footer = () => {
                   </Link>
                   <Link to="/blog">
                     {" "}
-                    <li>Insight</li>
+                    <li>Insights</li>
                   </Link>
                 </ul>
               </div>
