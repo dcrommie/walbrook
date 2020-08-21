@@ -68,7 +68,7 @@ The S&P/ASX 200 Index gained 0.5% over the month, dragged down by the energy and
 
 Global equities continued their March higher in July, rising 0.6% in Australian dollar terms and 3.5% in local currency terms. With around half of S&P 500 companies having reported at the time of writing, it is clear earnings have been severely affected by the pandemic. However, it has not been as severe as anticipated.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/08/image.png)
+![](https://walbrook.com.au/wp-content/uploads/2020/08/image.png "China's markets have been charging")
 
 The ‘big four’ tech giants (Amazon, Apple, Facebook, and Google), have supported the US share market, with all beating earnings estimates. Adding Microsoft to this group, the five companies now represent approximately 22% of the S&P 500. However, they now represent more than 80% of 2020 earnings (per share) growth and 18% of earnings.
 
@@ -81,8 +81,6 @@ According to Credit Suisse, over the past 12 months the top five stocks in the i
 The net effect of the earnings and share price growth is that the value of the top four companies exceeds that of the entire Japanese stock market, which is the third-largest in the world behind the US and China.
 
 ![](https://walbrook.com.au/wp-content/uploads/2020/08/Picture-4.png)
-
-
 
 ### Property
 
@@ -129,9 +127,5 @@ Silver also experienced its largest weekly move in almostfour4 decades, as the g
 The Australian dollar continued its upward trend in July, appreciating 3.2% in trade-weighted terms and rising from US$0.69 to $0.72.
 
 Ballooning twin deficits in the US and expectations that the Federal Reserve is taking a more relaxed view on inflation are both contributing to a weaker US currency. At the same time, Australia’s relative success in containing the pandemic has supported the Australian dollar.
-
-![A picture containing object, fence
-
-Description automatically generated](https://walbrook.com.au/wp-content/uploads/2020/08/Picture-1.png)
 
 ![](../src/images/advisory.png)
