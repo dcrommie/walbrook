@@ -34,6 +34,10 @@ answer2: >-
   We aim to deliver straight forward solutions to complex problems, balancing cost, required capabilities and your preferred level of engagement in the ongoing investment process.
 
 
+
+
+
+
   Where possible, our investment advice will typically incorporate a preference for institutional-grade investment management, given the value offered in terms of process, resourcing, access and global reach.
 
 
