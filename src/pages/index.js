@@ -191,7 +191,7 @@ const IndexPage = () => {
                   <h3>{data.markdownRemark.frontmatter.service6}</h3>
                 </div>
               </div>
-              <button className="mobile">Learn More</button>
+              <Link to='how-we-help'> <button className="mobile">Learn More</button> </Link>
             </div>
           </div>
         </div>
