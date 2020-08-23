@@ -91,7 +91,7 @@ input:checked + .tab-label h2::after {
 input:checked ~ .tab-contents {
   background: #f2f7f2;
   padding: 0px 50px 50px 50px;
-  max-height: 100vh;
+  max-height: 100%;
 }
 .main-faq {
   padding: 136px 0px;
@@ -107,7 +107,7 @@ input:checked ~ .tab-contents {
     font-size: 16px !important;
   }
   .accordions {
-    margin-bottom: 50px;
+    margin: 50px 0px;
   }
   .acc-icon img {
     width: 90%;

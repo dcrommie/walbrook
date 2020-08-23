@@ -75,16 +75,23 @@ const Footer = () => {
               </div>
             </div>
             <div className="terms">
-              <div className="copyright" style={{paddingRight:'102px'}}>
-                <p style={{maxWidth: '375px'}}>©2020 Walbrook Wealth Management. All rights reserved.</p>
+              <div className="copyright" style={{ paddingRight: "102px" }}>
+                <p style={{ maxWidth: "375px" }}>
+                  ©2020 Walbrook Wealth Management. All rights reserved.
+                </p>
               </div>
-              <div className="policy-link" >
-                <p style={{maxWidth: '46px'}}>Privacy</p>
+              <div className="policy-link">
+                <p style={{ maxWidth: "46px" }}>Privacy</p>
               </div>
-              <div >                <p style={{ color: '#FFFFFF'}}>Financial Services Guide (FSG)</p>
-</div>
-              <div className="cdc-policy" >
-                <p style={{maxWidth: '315px'}}>Continuing Professional Development (CPD) Policy</p>
+              <div className="policy-link">
+                <p style={{ color: "#FFFFFF", fontSize: "13px" }}>
+                  Financial Services Guide (FSG)
+                </p>
+              </div>
+              <div className="cdc-policy">
+                <p style={{ maxWidth: "315px" }}>
+                  Continuing Professional Development (CPD) Policy
+                </p>
               </div>
             </div>
           </div>

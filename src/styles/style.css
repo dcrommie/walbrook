@@ -309,7 +309,7 @@ html {
 }
 .advisory {
   padding-top: 145px;
-  padding-bottom: 170px;
+  padding-bottom: 145px;
 }
 .advisory-image {
   width: 424px;
@@ -319,7 +319,7 @@ html {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding: 100px 0px 136px 0px;
+  padding: 206px 0px 136px 0px;
 }
 .child {
   display: flex;
@@ -372,7 +372,7 @@ hr {
 .help-content {
   display: flex;
   flex-direction: column;
-  padding: 136px 0px;
+  padding: 176px 0px 136px 0px;
 }
 .help-text h3 {
   font-family: Inter;
@@ -597,6 +597,9 @@ input:not(:placeholder-shown) {
   align-items: center;
   margin: 0 auto;
 }
+.form-text p {
+  margin: 0 auto;
+}
 .form {
   background: #f2f7f2;
 }
@@ -815,16 +818,16 @@ article span {
 
 .newsletter {
   position: fixed;
- margin: auto;
+  margin: auto;
   max-width: 360px;
   border-radius: 8px;
   border: 2px solid #000066;
   background: #f2f7f2;
   padding: 30px 32px 30px 32px;
   margin-top: 65px;
-  
+
   z-index: 1;
-  }
+}
 .newsletter h3 {
   margin: 0 auto;
   font-family: Inter;
@@ -844,20 +847,37 @@ article span {
 
 .large {
   position: relative;
-width: 350px;
+  width: 350px;
   margin-top: 5%;
 }
 
 .mobile-1 {
   display: none;
 }
-.container-main{
+.container-main {
   padding-left: 70px;
   background-color: #f2f7f2;
 }
+.privacy-title {
+  background: #f2f7f2;
+  padding: 40px 0;
+}
+.privacy-title h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 140%;
+  color: #000066;
+  max-width: 702px;
+}
+.privacy-content {
+  padding: 130px 0;
+}
+
 /* Media Queries */
-@media screen and (max-width: 370px){
-  hr{
+@media screen and (max-width: 370px) {
+  hr {
     width: 270px;
   }
 }
@@ -867,28 +887,28 @@ width: 350px;
     height: 200px;
     margin-bottom: 0px !important;
   }
- 
 }
 
 @media screen and (max-width: 768px) {
-
-  .text-about{
+  .privacy-title h1 {
+    font-size: 40px;
+  }
+  .text-about {
     margin-top: 10px !important;
     text-align: justify !important;
   }
-  .main-content-text{
+  .main-content-text {
     margin-top: 0px !important;
   }
 
-  .container-main{
+  .container-main {
     padding-left: 24px;
   }
 
-  .hero-heading{
+  .hero-heading {
     font-size: 40px !important;
     text-align: center;
     margin: auto;
-
   }
   .newsletter {
     margin-left: 0px;
@@ -960,12 +980,12 @@ width: 350px;
     max-width: 312px !important;
   }
   .main-content-text p {
-    text-align: center;
+    text-align: justify;
     margin: auto;
   }
   .main-content-text a {
     margin: 0 auto;
-    
+
     margin-top: 20px;
   }
   .services {
@@ -1061,8 +1081,6 @@ width: 350px;
   }
 }
 @media screen and (max-width: 1000px) {
-  
-  
   .sections {
     flex-direction: column;
   }
@@ -1129,7 +1147,7 @@ width: 350px;
   .mobile-1 {
     display: block;
   }
-  .newsletter{
+  .newsletter {
     position: unset;
     left: 0;
     margin-bottom: 70px;

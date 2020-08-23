@@ -176,17 +176,38 @@ line-height: 170%;
   .image img{
     margin: 0 auto;
   }
+  .terms{
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1200px){
+  .terms{
+    flex-wrap: wrap;
+  }
 }
 @media screen and (max-width: 768px) {
+  .text {
+    max-width: 100% !important;
+  }
+  .text p{
+    max-width: 100% !important;
+  }
+  .terms{
+flex-direction: column; 
+
+  
+  }
+ 
   .footer
    {
-    
     flex-direction: column;
-align-content: center;
+    
   }
   .policies,
   .liability{
     flex-direction: column;
+    align-items: center;
+    align-content: center;
   }
 
   .image {
@@ -200,11 +221,11 @@ align-content: center;
 
   }
   .trademark {
+    margin: 0 auto;
     margin-top: 24px;
   }
-  .terms {
-    flex-flow: row wrap;
-  }
+ 
+  
   .terms .copyright {
     order: 3;
   }

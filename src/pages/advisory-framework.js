@@ -1,5 +1,8 @@
 import React from "react"
 import { Helmet } from "react-helmet"
+import remark from "remark"
+import recommended from "remark-preset-lint-recommended"
+import remarkHtml from "remark-html"
 import { graphql, useStaticQuery } from "gatsby"
 import "../styles/styles.css"
 import "../styles/style.css"
@@ -37,6 +40,14 @@ const AdvisoryFramework = () => {
       }
     }
   `)
+  const toHTML = value =>
+    remark().use(recommended).use(remarkHtml).processSync(value).toString()
+
+  function createMarkup(data) {
+    const dataHtml = toHTML(data)
+
+    return { __html: dataHtml }
+  }
 
   return (
     <div>
@@ -73,8 +84,13 @@ const AdvisoryFramework = () => {
                   <img src={group1} />
                 </div>
               </label>
-              <div class="tab-contents">
-                {data.markdownRemark.frontmatter.answer1}
+              <div class="tab-contents"
+              
+              dangerouslySetInnerHTML={createMarkup(
+                data.markdownRemark.frontmatter.answer1
+              )}>
+                
+                {}
               </div>
             </div>
             <div class="accordions">
@@ -88,8 +104,9 @@ const AdvisoryFramework = () => {
                   <img src={group2} />
                 </div>
               </label>
-              <div class="tab-contents">
-                {data.markdownRemark.frontmatter.answer2}{" "}
+              <div class="tab-contents" dangerouslySetInnerHTML={createMarkup(
+                data.markdownRemark.frontmatter.answer2
+              )}>
               </div>
             </div>
             <div class="accordions">
@@ -103,8 +120,9 @@ const AdvisoryFramework = () => {
                   <img src={group3} />
                 </div>
               </label>
-              <div class="tab-contents">
-                {data.markdownRemark.frontmatter.answer3}{" "}
+              <div class="tab-contents" dangerouslySetInnerHTML={createMarkup(
+                data.markdownRemark.frontmatter.answer3
+              )}>
               </div>
             </div>
             <div class="accordions">
@@ -118,8 +136,10 @@ const AdvisoryFramework = () => {
                   <img src={group4} />
                 </div>
               </label>
-              <div class="tab-contents">
-                {data.markdownRemark.frontmatter.answer4}{" "}
+              <div class="tab-contents"
+              dangerouslySetInnerHTML={createMarkup(
+                data.markdownRemark.frontmatter.answer4
+              )}>
               </div>
             </div>
           </div>
@@ -130,7 +150,7 @@ const AdvisoryFramework = () => {
           <div className="main-form">
             <div className="form-text">
               <h2>{data.markdownRemark.frontmatter.contacttitle}</h2>
-              <p>{data.markdownRemark.frontmatter.contactdesc} </p>
+              <p style={{ margin: '0 auto'}}>{data.markdownRemark.frontmatter.contactdesc} </p>
             </div>
             <Form />
           </div>

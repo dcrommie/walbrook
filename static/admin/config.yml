@@ -102,6 +102,11 @@ collections:
               name: lifedescription,
               widget: string,
             }
+      - label: "Privacy Page"
+        name: "Privacy Page"
+        file: "src/markdown-pages/privacy-policy.md"
+        fields:
+          - { label: Policy, name: policy, widget: markdown }
 
       - label: "Advisory Page"
         name: "Advisory Page"
