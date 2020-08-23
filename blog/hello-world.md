@@ -68,7 +68,7 @@ The S&P/ASX 200 Index gained 0.5% over the month, dragged down by the energy and
 
 Global equities continued their March higher in July, rising 0.6% in Australian dollar terms and 3.5% in local currency terms. With around half of S&P 500 companies having reported at the time of writing, it is clear earnings have been severely affected by the pandemic. However, it has not been as severe as anticipated.
 
-![](../src/images/cc.gif "China's markets have been charging")
+![](../src/images/cc.jpg "China's markets have been charging")
 
 The ‘big four’ tech giants (Amazon, Apple, Facebook, and Google), have supported the US share market, with all beating earnings estimates. Adding Microsoft to this group, the five companies now represent approximately 22% of the S&P 500. However, they now represent more than 80% of 2020 earnings (per share) growth and 18% of earnings.
 
