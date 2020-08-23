@@ -72,7 +72,7 @@ Global equities continued their March higher in July, rising 0.6% in Australian 
 
 The ‘big four’ tech giants (Amazon, Apple, Facebook, and Google), have supported the US share market, with all beating earnings estimates. Adding Microsoft to this group, the five companies now represent approximately 22% of the S&P 500. However, they now represent more than 80% of 2020 earnings (per share) growth and 18% of earnings.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/08/image-1.png)
+![](../src/images/cc.gif)
 
 According to Credit Suisse, over the past 12 months the top five stocks in the index have grown revenues at 11.2% v just 0.8% for the rest of the S&P 500, and added more than $12 per share to the S&P 500 earnings per share number, while the rest of the index has subtracted c.$17.
 
