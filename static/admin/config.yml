@@ -102,7 +102,12 @@ collections:
               name: lifedescription,
               widget: string,
             }
-      - label: "Privacy Page"
+      - label: "Financial Services Guide"
+        name: "Financial Services Guide"
+        file: "src/markdown-pages/financial-services-guide.md"
+        fields:
+          - { label: Policy, name: policy, widget: markdown }
+      - label: ""
         name: "Privacy Page"
         file: "src/markdown-pages/privacy-policy.md"
         fields:
