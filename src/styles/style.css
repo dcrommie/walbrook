@@ -873,6 +873,11 @@ article span {
 }
 .privacy-content {
   padding: 130px 0;
+  font-family: Inter;
+  font-style: normal;
+  line-height: 170%;
+  color: #000066;
+  text-align: justify;
 }
 
 /* Media Queries */

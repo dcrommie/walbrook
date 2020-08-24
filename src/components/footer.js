@@ -81,17 +81,23 @@ const Footer = () => {
                 </p>
               </div>
               <div className="policy-link">
-                <p style={{ maxWidth: "46px" }}>Privacy</p>
+                <Link to="/privacy">
+                  <p style={{ maxWidth: "46px", color: "#FFFFFF" }}>Privacy</p>
+                </Link>
               </div>
               <div className="policy-link">
-                <p style={{ color: "#FFFFFF", fontSize: "13px" }}>
-                  Financial Services Guide (FSG)
-                </p>
+                <Link to="/financial-services-guide">
+                  <p style={{ color: "#FFFFFF", fontSize: "13px" }}>
+                    Financial Services Guide (FSG)
+                  </p>
+                </Link>
               </div>
               <div className="cdc-policy">
-                <p style={{ maxWidth: "315px" }}>
-                  Continuing Professional Development (CPD) Policy
-                </p>
+                <Link to="/continuing-professional-development-policy">
+                  <p style={{ maxWidth: "315px", color: "#FFFFFF" }}>
+                    Continuing Professional Development (CPD) Policy
+                  </p>
+                </Link>
               </div>
             </div>
           </div>

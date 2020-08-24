@@ -6,6 +6,7 @@ import remarkHtml from "remark-html"
 import { Helmet } from "react-helmet"
 import Header from "../components/header"
 import Footer from "../components/footer"
+import SEO from "../components/seo"
 
 const FinancialServicesGuide = () => {
   const data = useStaticQuery(graphql`
@@ -30,6 +31,7 @@ const FinancialServicesGuide = () => {
 
   return (
     <div>
+      <SEO title="Financial Services Guide Policy" />
       <Helmet>
         <link
           rel="stylesheet"

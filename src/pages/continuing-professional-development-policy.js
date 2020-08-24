@@ -6,6 +6,7 @@ import remarkHtml from "remark-html"
 import { Helmet } from "react-helmet"
 import Header from "../components/header"
 import Footer from "../components/footer"
+import SEO from "../components/seo"
 
 const ContinuingProfessionalDevelopmentPolicy = () => {
   const data = useStaticQuery(graphql`
@@ -32,6 +33,7 @@ const ContinuingProfessionalDevelopmentPolicy = () => {
 
   return (
     <div>
+      <SEO title="CPD Policy" />
       <Helmet>
         <link
           rel="stylesheet"
@@ -43,7 +45,7 @@ const ContinuingProfessionalDevelopmentPolicy = () => {
       <Header />
       <div className="privacy-title">
         <div className="container">
-          <h1>Continuing Professional Development (CPD) Policy</h1>
+          <h1>CPD Policy</h1>
         </div>
       </div>
       <div className="container">
