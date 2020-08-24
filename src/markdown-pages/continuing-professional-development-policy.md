@@ -1,20 +1,5 @@
 ---
 policy: >-
-  ## INTERPRETATION
-
-
-  The following words and phrases, when capitalised herein, have the meanings ascribed to them below:
-
-
-  "Agreement" -- the contract between the Parties, comprising the Terms, the Privacy Policy, the Data Protection Policy, the Sub-processor List and such other terms concerning the Service as the Parties may agree to;
-
-
-  "Customer" -- anyone other than the Supplier that has a User Account. Each Customer is also a User (i.e., a particular type of User) and, unless the context otherwise requires, should interpret the term "Customer" as referring specifically to him;
-
-
-  "Data Protection Policy" -- the Supplier's data protection policy, available at https://toggl.com/plan/data-protection.
-
-
   ## OBJECT, FORMATION AND TERM OF CONTRACT
 
 
