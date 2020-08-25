@@ -58,7 +58,7 @@ const HowWeHelp = () => {
   `)
   return (
     <div>
-      <SEO title="How we help" />
+      <SEO title="What we do" />
       <Helmet>
         <link
           rel="stylesheet"
@@ -206,7 +206,7 @@ const HowWeHelp = () => {
           </div>
         </div>
       </div>
-      <div className="form" id='contact'>
+      <div className="form" id="contact">
         <div className="container">
           <div className="main-form">
             <div className="form-text">

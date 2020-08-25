@@ -51,7 +51,7 @@ const AdvisoryFramework = () => {
 
   return (
     <div>
-      <SEO title="Advisory Framework" />
+      <SEO title="How we do it" />
       <Header />
       <Helmet>
         <link
@@ -84,12 +84,12 @@ const AdvisoryFramework = () => {
                   <img src={group1} />
                 </div>
               </label>
-              <div class="tab-contents"
-              
-              dangerouslySetInnerHTML={createMarkup(
-                data.markdownRemark.frontmatter.answer1
-              )}>
-                
+              <div
+                class="tab-contents"
+                dangerouslySetInnerHTML={createMarkup(
+                  data.markdownRemark.frontmatter.answer1
+                )}
+              >
                 {}
               </div>
             </div>
@@ -104,10 +104,12 @@ const AdvisoryFramework = () => {
                   <img src={group2} />
                 </div>
               </label>
-              <div class="tab-contents" dangerouslySetInnerHTML={createMarkup(
-                data.markdownRemark.frontmatter.answer2
-              )}>
-              </div>
+              <div
+                class="tab-contents"
+                dangerouslySetInnerHTML={createMarkup(
+                  data.markdownRemark.frontmatter.answer2
+                )}
+              ></div>
             </div>
             <div class="accordions">
               <input type="checkbox" id="chck3" />
@@ -120,10 +122,12 @@ const AdvisoryFramework = () => {
                   <img src={group3} />
                 </div>
               </label>
-              <div class="tab-contents" dangerouslySetInnerHTML={createMarkup(
-                data.markdownRemark.frontmatter.answer3
-              )}>
-              </div>
+              <div
+                class="tab-contents"
+                dangerouslySetInnerHTML={createMarkup(
+                  data.markdownRemark.frontmatter.answer3
+                )}
+              ></div>
             </div>
             <div class="accordions">
               <input type="checkbox" id="chck4" />
@@ -136,21 +140,24 @@ const AdvisoryFramework = () => {
                   <img src={group4} />
                 </div>
               </label>
-              <div class="tab-contents"
-              dangerouslySetInnerHTML={createMarkup(
-                data.markdownRemark.frontmatter.answer4
-              )}>
-              </div>
+              <div
+                class="tab-contents"
+                dangerouslySetInnerHTML={createMarkup(
+                  data.markdownRemark.frontmatter.answer4
+                )}
+              ></div>
             </div>
           </div>
         </div>
       </div>
-      <div className="form" id='contact'>
+      <div className="form" id="contact">
         <div className="container">
           <div className="main-form">
             <div className="form-text">
               <h2>{data.markdownRemark.frontmatter.contacttitle}</h2>
-              <p style={{ margin: '0 auto'}}>{data.markdownRemark.frontmatter.contactdesc} </p>
+              <p style={{ margin: "0 auto" }}>
+                {data.markdownRemark.frontmatter.contactdesc}{" "}
+              </p>
             </div>
             <Form />
           </div>

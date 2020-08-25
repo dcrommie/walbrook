@@ -33,7 +33,7 @@ class BottomBlogRollEdu extends React.Component {
                         <p className="post-meta">
                           <Link
                             className="title has-text-primary is-size-4"
-                            to={`/blog/${post.frontmatter.path}`}
+                            to={`/education/${post.frontmatter.path}`}
                           >
                             <h2> {post.frontmatter.blogtitle}</h2>
                           </Link>

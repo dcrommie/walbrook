@@ -44,16 +44,20 @@ const Footer = () => {
                     <li>What we do</li>
                   </Link>
                   <Link to="/how-we-do-it">
-                    {" "}
                     <li>How we do it</li>
+                  </Link>
+                  <Link to="/blog">
+                    <li>Insights</li>
+                  </Link>
+                  <Link to="/education">
+                    <li>Education</li>
                   </Link>
                   <Link to="/wholesale">
                     {" "}
                     <li>Wholesale Clients</li>
                   </Link>
-                  <Link to="/blog">
-                    {" "}
-                    <li>Insights</li>
+                  <Link to="https://walbrook.com.au/risk-profile/ ">
+                    <li> Risk Profile</li>
                   </Link>
                 </ul>
               </div>

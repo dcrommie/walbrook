@@ -21,7 +21,7 @@ class SideBlogRollEdu extends React.Component {
                       <p className="post-meta" style={{ marginBottom: "0px" }}>
                         <Link
                           className="title has-text-primary is-size-4"
-                          to={`/blog/${post.frontmatter.path}`}
+                          to={`/education/${post.frontmatter.path}`}
                         >
                           <h2
                             style={{

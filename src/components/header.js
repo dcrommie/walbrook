@@ -46,11 +46,7 @@ const Header = () => {
             <li>
               <Link to="/blog">Insights</Link>
             </li>
-            <li>
-              <Link to="https://walbrook.com.au/risk-profile/ ">
-                Risk Profile
-              </Link>
-            </li>
+
             <li>
               <Link to="/">Login</Link>
             </li>
