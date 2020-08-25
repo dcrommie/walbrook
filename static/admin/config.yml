@@ -7,7 +7,7 @@ public_folder: "../src/images"
 media_folder_relative: true
 
 collections:
-  - name: blog
+  - name: education
     label: Education
     folder: education
     create: true
