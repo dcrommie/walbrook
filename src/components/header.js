@@ -11,10 +11,12 @@ const Header = () => {
     setShow(!show)
   }
 
-  useEffect(() => {
+  {
+    /*useEffect(() => {
     show && (document.body.style.overflow = "hidden")
     !show && (document.body.style.overflow = "unset")
-  }, [show])
+  }, [show])*/
+  }
   return (
     <div>
       <header className="headers">
