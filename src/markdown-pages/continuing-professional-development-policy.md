@@ -1,6 +1,6 @@
 ---
 policy: >-
-  ## OBJECT, FORMATION AND TERM OF CONTRACT
+  ## Object, Formation and Term Of Contract
 
 
   A separate Agreement shall form between the Parties as to each of the following aspects of their relations:

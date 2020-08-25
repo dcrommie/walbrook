@@ -17,6 +17,12 @@ collections:
       - { name: date, label: Date, widget: datetime }
       - { name: author, label: Author, widget: string }
       - {
+          label: "Blog Page",
+          name: "blog page",
+          widget: "hidden",
+          default: "true",
+        }
+      - {
           label: "Featured Image",
           name: "thumbnail",
           widget: "image",
