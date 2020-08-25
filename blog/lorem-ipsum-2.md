@@ -4,6 +4,7 @@ Slug: lorem-ipsum
 path: lorem-ipsum-2
 date: 2020-08-05T18:37:31.021Z
 author: Walbrook Wealth Management
+blogpage: true
 thumbnail: ../src/images/image-37.png
 ---
 

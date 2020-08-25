@@ -4,8 +4,10 @@ Slug: hello-world
 path: hello-world-2
 date: 2020-08-03T13:57:19.131Z
 author: Walbrook Wealth Management
+blogpage: true
 thumbnail: ../src/images/faang-ex-n.jpeg
 ---
+
 The impact of the Covid-19 pandemic on the global economy has been profound, especially in emerging, low-income economies with limited health care capacity.
 
 Hopes of a V-shaped recovery faded in July as Covid19 cases worldwide ticked over 15 million. However, policy settings remain incredibly favourable as central banks and governments support economies via monetary easing and fiscal measures.
@@ -18,13 +20,13 @@ In Australia, the government warned that the economy likely shrunk at its fastes
 
 The resurgence in Coronavirus cases over the last month and the deteriorating situation in Victoria have rocked consumer sentiment. The Westpac-Melbourne Institute Index of Consumer Sentiment fell to 87.9 in July from 93.7 in June, reversing the impressive gains made in the previous month. The ‘economy, next 12 months’ sub-index recorded the most significant decline, slumping 14% in July to be 25% below pre-COVID levels.
 
-Harsher lockdowns in Victoria will reduce GDP by between $7 billion and $9 billion in the September quarter, while the total hit to GDP is forecast to be around $12 billion. The recovery will be gradual and highly contingent on how the pandemic evolves.
+Harsher lockdowns in Victoria will reduce GDP by between $7 billion and $9 billion in the September quarter, while the total hit to GDP is forecast to be around \$12 billion. The recovery will be gradual and highly contingent on how the pandemic evolves.
 
 The June quarter CPI release reported a 1.9% fall in consumer prices (versus -2.0% expected), the largest recorded fall in the index’s 72-year history. The quarterly fall was driven mainly by plunging childcare (-95.0%), slumping automotive fuel prices (-19.3%), and a fall in pre-school and primary education (-16.2%).
 
 Retail sales rose slightly more than expected in June, gaining 2.7% (versus 2.4% expected) and following on from the 16.9% increase in the month prior. Cafes and restaurants saw the most significant recovery over the month, rising 27.9%, but department stores are still feeling the pinch, falling 12.1%.
 
-The trade surplus increased from a downwardly revised $7.34 billion in May to $8.20 billion in June, less than the $8.80 billion surplus expected. Exports rose more than imports, increasing by 3.0% and 1.0%, respectively.
+The trade surplus increased from a downwardly revised $7.34 billion in May to $8.20 billion in June, less than the \$8.80 billion surplus expected. Exports rose more than imports, increasing by 3.0% and 1.0%, respectively.
 
 The AIG Manufacturing PMI moved further into positive territory, lifting 2.0 points to 53.5 in July. The two largest manufacturing sectors, food & beverage and machinery & equipment, drove the expansion in July. All other areas are reporting challenging trading conditions due to the impact of Covid19 and the underlying weakness of residential construction.
 
@@ -58,7 +60,7 @@ China’s June quarter GDP came in above expectations, with the yearly rate incr
 
 The Caixin Manufacturing PMI for July rose to 52.8, posting the third consecutive rise in factory activity as consumer demand continues to pick up following the impacts of the coronavirus.
 
-Flooding in southern China has destroyed roads, property and farmland, and displaced millions of people from their homes. China’s Ministry of Emergency Management estimated the direct economic cost of the disaster is around $21 billion. Preliminary research indicates that the floods could shave 0.17% from China’s 2020 GDP.
+Flooding in southern China has destroyed roads, property and farmland, and displaced millions of people from their homes. China’s Ministry of Emergency Management estimated the direct economic cost of the disaster is around \$21 billion. Preliminary research indicates that the floods could shave 0.17% from China’s 2020 GDP.
 
 ### Equities
 

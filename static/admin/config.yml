@@ -8,6 +8,28 @@ media_folder_relative: true
 
 collections:
   - name: blog
+    label: Education
+    folder: education
+    create: true
+    fields:
+      - { name: blogtitle, label: Blog Title }
+      - { name: path, label: Path (post url) }
+      - { name: date, label: Date, widget: datetime }
+      - { name: author, label: Author, widget: string }
+      - {
+          label: "Education Page",
+          name: "educationpage",
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Featured Image",
+          name: "thumbnail",
+          widget: "image",
+          default: "wholesale.png",
+        }
+      - { name: body, label: Body, widget: markdown }
+  - name: blog
     label: Blog
     folder: blog
     create: true
@@ -18,9 +40,9 @@ collections:
       - { name: author, label: Author, widget: string }
       - {
           label: "Blog Page",
-          name: "blog page",
+          name: "blogpage",
           widget: "hidden",
-          default: "true",
+          default: true,
         }
       - {
           label: "Featured Image",
