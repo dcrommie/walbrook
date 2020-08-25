@@ -1,17 +1,8 @@
 ---
-helpdesc2: We use a structured advisory framework to assist and advise our
-  clients across asset classes, structures and jurisdictions, providing a
-  cohesive solution that incorporates all aspects of their wealth.
-helpdesc3: Our comprehensive, flexible advice service is made possible by our
-  independence from financial product providers and a fair, transparent flat fee
-  structure.
-helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
-  private equity and direct real estate across multiple countries calls for the
-  coordination of professionals and financial institutions.
-thumbnail: ../src/images/help.png
-page: true
 title: What we do
-subtitle: Wealth, family, and legacy together like never before
+subtitle: Our advice and execution can be tailored in the best way in order to
+  meet your investment objectives and to realise your vision.
+thumbnail: ../src/images/help.png
 helptitle1: Investment Advisory
 helplist1:
   - title: Risk profiling
@@ -58,6 +49,16 @@ helpdesc1: We understand that no two clients are the same and believe that each
   client requires a tailored approach. We find that this is essential when
   working with expatriates and complex clients.
 help2: Advisory framework
+helpdesc2: We use a structured advisory framework to assist and advise our
+  clients across asset classes, structures and jurisdictions, providing a
+  cohesive solution that incorporates all aspects of their wealth.
+helpdesc3: Our comprehensive, flexible advice service is made possible by our
+  independence from financial product providers and a fair, transparent flat fee
+  structure.
+helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
+  private equity and direct real estate across multiple countries calls for the
+  coordination of professionals and financial institutions.
+page: true
 help3: Independence
 help4: Coordination
 contacttitle: Take care of your future today
