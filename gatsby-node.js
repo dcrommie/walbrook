@@ -50,6 +50,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
   const blogTemplate = path.resolve(`./src/templates/blog.js`)
+  const eduTemplate = path.resolve(`./src/templates/education.js`)
 
   const result = await graphql(`
     {
@@ -68,6 +69,30 @@ module.exports.createPages = async ({ graphql, actions }) => {
     createPage({
       component: blogTemplate,
       path: `/blog/${edge.node.frontmatter.path}`,
+
+      context: {
+        slug: edge.node.frontmatter.path,
+      }, // additional data can be passed via context
+    })
+  })
+
+  const results = await graphql(`
+    {
+      allMarkdownRemark(filter: { frontmatter: { page: { ne: true } } }) {
+        edges {
+          node {
+            frontmatter {
+              path
+            }
+          }
+        }
+      }
+    }
+  `)
+  results.data.allMarkdownRemark.edges.forEach(edge => {
+    createPage({
+      component: eduTemplate,
+      path: `/education/${edge.node.frontmatter.path}`,
 
       context: {
         slug: edge.node.frontmatter.path,

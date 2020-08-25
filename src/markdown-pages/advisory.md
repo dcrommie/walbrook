@@ -1,7 +1,7 @@
 ---
 thumbnail: ../src/images/advisoryframework.png
 page: true
-title: Advisory Framework
+title: How we do it
 subtitle: Our advisory framework, supported by great technology and access to
   institutional-grade investment management, guides our conversations and
   actions from the outset.

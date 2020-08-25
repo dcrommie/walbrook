@@ -676,7 +676,7 @@ article h2 {
   line-height: 140%;
   padding: 24px 0px 8px 0px;
   color: #000066;
-  max-width: 350px;
+  max-width: 500px;
 }
 article a {
   text-decoration: none !important;
@@ -762,7 +762,7 @@ article span {
   line-height: 160%;
 }
 .blog-post-content p {
-  padding: 24px 0px;
+  padding: 5px 0px;
 }
 .blogroll-bg {
   background: #f2f7f2;
@@ -778,12 +778,15 @@ article span {
 }
 .blogroll-featured-image {
   width: 350px;
+  height: 200px;
   margin-bottom: 16px !important;
 }
-.blogroll-featured-image img {
-  border-radius: 8px;
+.blogroll-featured-image > .gatsby-image-wrapper {
+  height: 200px !important;
 }
-
+.featured-image > .gatsby-image-wrapper {
+  height: 450px !important;
+}
 .insights-h2,
 .thankyou h2 {
   font-family: Inter;

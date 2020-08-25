@@ -56,7 +56,7 @@ const Blog = props => {
                 />
               </div>
             </div>
-            <div className="large">
+            <div className="large news">
               <NewsletterForm />
             </div>
           </div>

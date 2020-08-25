@@ -68,7 +68,9 @@ const IndexPage = () => {
               <div className="main-content-text">
                 <h1>{data.markdownRemark.frontmatter.title}</h1>
                 <p>{data.markdownRemark.frontmatter.subtitle}</p>
-                <Link to='#contact'><button className="main-button">Contact Us</button></Link>
+                <Link to="#contact">
+                  <button className="main-button">Contact Us</button>
+                </Link>
               </div>
               <div className="main-content-image">
                 <Image
@@ -112,7 +114,10 @@ const IndexPage = () => {
               <div className="services-text">
                 {/* <p> {data.markdownRemark.frontmatter.services}</p> */}
                 <h2> {data.markdownRemark.frontmatter.servicestitle}</h2>
-               <Link to='how-we-help'> <button>Learn More</button></Link>
+                <Link to="/what-we-do">
+                  {" "}
+                  <button>Learn More</button>
+                </Link>
               </div>
               <div className="services">
                 <div className="service investment">
@@ -191,7 +196,10 @@ const IndexPage = () => {
                   <h3>{data.markdownRemark.frontmatter.service6}</h3>
                 </div>
               </div>
-              <Link to='how-we-help'> <button className="mobile">Learn More</button> </Link>
+              <Link to="/what-we-do">
+                {" "}
+                <button className="mobile">Learn More</button>{" "}
+              </Link>
             </div>
           </div>
         </div>
@@ -258,7 +266,10 @@ const IndexPage = () => {
               <div className="advisory-text">
                 <h2>{data.markdownRemark.frontmatter.advisorytitle}</h2>
                 <p>{data.markdownRemark.frontmatter.advisorydesc}</p>
-              <Link to='advisory-framework'>  <button className="main-button">Learn More</button></Link>
+                <Link to="/how-we-do-it">
+                  {" "}
+                  <button className="main-button">Learn More</button>
+                </Link>
               </div>
               <div className="advisory-image">
                 <Image alt="Advisory" name="advisory.png" />
@@ -266,7 +277,7 @@ const IndexPage = () => {
             </div>
           </div>
         </section>
-        <div className="form" id='contact'>
+        <div className="form" id="contact">
           <div className="container">
             <div className="main-form">
               <div className="form-text">
@@ -274,7 +285,7 @@ const IndexPage = () => {
                 <p style={{ margin: "0 auto", marginBottom: "32px" }}>
                   {data.markdownRemark.frontmatter.contactdesc}
                 </p>
-              </div >
+              </div>
               <Form />
             </div>
           </div>

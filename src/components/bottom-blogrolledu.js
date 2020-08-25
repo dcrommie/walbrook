@@ -4,7 +4,7 @@ import "../styles/style.css"
 import { Link, graphql, StaticQuery } from "gatsby"
 import Image from "../components/image"
 
-class BottomBlogRoll extends React.Component {
+class BottomBlogRollEdu extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
@@ -53,7 +53,7 @@ class BottomBlogRoll extends React.Component {
   }
 }
 
-BottomBlogRoll.propTypes = {
+BottomBlogRollEdu.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -64,12 +64,12 @@ BottomBlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BottomBlogRollQuery {
+      query BottomBlogRollEduQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           limit: 3
           filter: {
-            frontmatter: { page: { ne: true }, educationpage: { ne: true } }
+            frontmatter: { page: { ne: true }, blogpage: { ne: true } }
           }
         ) {
           edges {
@@ -86,6 +86,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BottomBlogRoll data={data} count={count} />}
+    render={(data, count) => <BottomBlogRollEdu data={data} count={count} />}
   />
 )

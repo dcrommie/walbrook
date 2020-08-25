@@ -72,7 +72,9 @@ export default () => (
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           limit: 4
-          filter: { frontmatter: { page: { ne: true } } }
+          filter: {
+            frontmatter: { page: { ne: true }, educationpage: { ne: true } }
+          }
         ) {
           edges {
             node {

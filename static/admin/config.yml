@@ -146,8 +146,8 @@ collections:
         fields:
           - { label: Policy, name: policy, widget: markdown }
 
-      - label: "Advisory Page"
-        name: "Advisory Page"
+      - label: "How we do it"
+        name: "How we do it"
         file: "src/markdown-pages/advisory.md"
         fields:
           - { label: Main Title, name: title, widget: string }
@@ -169,8 +169,8 @@ collections:
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: text }
 
-      - label: "Help Page"
-        name: "Help Page"
+      - label: "What we do"
+        name: "What we do"
         file: "src/markdown-pages/help.md"
         fields:
           - { label: Main Title, name: title, widget: string }

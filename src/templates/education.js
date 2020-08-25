@@ -5,7 +5,7 @@ import Image from "../components/image"
 import Header from "../components/header"
 import Footer from "../components/footer"
 import "../styles/style.css"
-import BottomBlogRoll from "../components/bottom-blogroll"
+import BottomBlogRollEdu from "../components/bottom-blogrolledu"
 import SEO from "../components/seo"
 import NewsletterForm from "../components/newsletter-form"
 
@@ -72,7 +72,7 @@ const Blog = props => {
         </div>
       </div>
 
-      <BottomBlogRoll />
+      <BottomBlogRollEdu />
       <Footer />
     </div>
   )

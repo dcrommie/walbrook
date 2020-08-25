@@ -10,7 +10,7 @@ helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
   coordination of professionals and financial institutions.
 thumbnail: ../src/images/help.png
 page: true
-title: How we help
+title: What we do
 subtitle: Wealth, family, and legacy together like never before
 helptitle1: Investment Advisory
 helplist1:

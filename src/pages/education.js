@@ -1,6 +1,5 @@
 import React from "react"
 import { Helmet } from "react-helmet"
-
 import BlogRollEdu from "../components/BlogRollEdu"
 import Header from "../components/header"
 import Footer from "../components/footer"
@@ -18,11 +17,11 @@ export default class BlogIndexPage extends React.Component {
             crossorigin="anonymous"
           />
         </Helmet>
-        <SEO title="Insights" />
+        <SEO title="Education" />
         <Header />
         <section className="insight-hero">
           <div className="container blog-container">
-            <h1>Insights</h1>
+            <h1>Education</h1>
           </div>
         </section>
         <section>
