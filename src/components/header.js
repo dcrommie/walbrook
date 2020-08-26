@@ -50,7 +50,12 @@ const Header = () => {
             </li>
 
             <li>
-              <Link to="/">Login</Link>
+              <Link
+                to="https://www.adviserlogic.com/Default.aspx"
+                target="_blank"
+              >
+                Login
+              </Link>
             </li>
             <Link to="#contact">
               <button>Contact Us</button>
