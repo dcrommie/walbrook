@@ -73,9 +73,7 @@ line-height: 170%;
   color: #f2f7f2;
   margin-bottom: 0.2rem;
 }
-.contact p {
-  word-break: break-all;
-}
+
 .policies {
   display: flex;
   justify-content: space-between;
