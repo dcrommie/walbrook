@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import PropTypes from "prop-types"
 import { Link, graphql, StaticQuery } from "gatsby"
 import Image from "../components/image"
-import SideBlogRollEdu from "./side-BlogRollEdu"
+import SideBlogRollEdu from "./side-blogrolledu"
 import addToMailchimp from "gatsby-plugin-mailchimp"
 
 const BlogRollEdu = props => {
