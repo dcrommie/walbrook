@@ -83,8 +83,6 @@ When you withdraw your funds, the following taxation implications will apply for
 | Tax-Free Component | Tax free               | Tax free                   | Tax free        |
 | Taxable Component  | 20% plus Medicare      | First $205,000 T           |                 |
 
-
-
 ### Insurance within Superannuation
 
 Many superannuation funds provide you with the range of personal insurance options designed to protect you in the event of serious injury, if you can no longer work or if you die. One of the key benefits of buying insurance through your superannuation fund is that it's usually much cheaper than if you organised it on your own.
@@ -98,8 +96,6 @@ Most financial experts agree that insurances such as income protection, life ins
 | Trauma                              | Pays you a lump sum if you suffer a specified serious illness.                                 |
 | Income Protection                   | Replaces part of your income if you are sick or injured and can't work.                        |
 
-
-
 Speak to your financial adviser about whether you should hold insurance inside or outside superannuation.
 
 ### Superannuation Death Benefits
@@ -107,3 +103,9 @@ Speak to your financial adviser about whether you should hold insurance inside o
 The tax payable on death benefits depends on your age when you die, and/or whether your beneficiary is a dependant (as defined under tax legislation).
 
 A tax dependant is a current or former spouse, child under 18, financial dependant or someone who was in an interdependency relationship with you prior to your death.
+
+
+
+**Important Information**
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs, unless expressly indicated otherwise. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. The author has based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
