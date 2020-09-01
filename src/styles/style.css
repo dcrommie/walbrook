@@ -162,7 +162,7 @@ html {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding-top: 146px;
+  padding-top: 136px;
   padding-bottom: 46px;
 }
 .services-text {
@@ -324,11 +324,15 @@ html {
 .child {
   display: flex;
   flex-direction: column;
-  width: 500px;
+  max-width: 500px !important;
+  width: 100%;
   padding: 45px;
   background: #f2f7f2;
   border-radius: 8px;
   margin-bottom: 70px;
+}
+.image-child {
+  width: 35px;
 }
 .child-text {
   display: flex;
@@ -915,6 +919,12 @@ article span {
 }
 
 @media screen and (max-width: 768px) {
+  .services-content {
+    padding: 56px 0px;
+  }
+  .parents {
+    padding: 56px 0px 56px 0px;
+  }
   .privacy-title h1 {
     font-size: 40px;
   }
@@ -1005,8 +1015,9 @@ article span {
     max-width: 312px !important;
   }
   .main-content-text p {
-    text-align: justify;
+    text-align: center;
     margin: auto;
+    padding-top: 16px;
   }
   .main-content-text a {
     margin: 0 auto;
@@ -1067,7 +1078,11 @@ article span {
   }
   .child-text h3 {
     font-size: 20px;
-    max-width: 100px !important;
+    max-width: 300px !important;
+  }
+  .image-child {
+    width: 80px !important;
+    margin-top: 0px !important;
   }
   .child {
     padding: 45px 20px;
@@ -1102,7 +1117,7 @@ article span {
     margin-bottom: 60px;
   }
   .about {
-    padding: 60px 0px;
+    padding: 56px 0px;
   }
 }
 @media screen and (max-width: 1000px) {
@@ -1163,9 +1178,6 @@ article span {
   }
 }
 @media screen and (max-width: 1220px) {
-  .child {
-    max-width: 500px;
-  }
   .large {
     display: none;
   }
