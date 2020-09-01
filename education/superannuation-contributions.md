@@ -130,13 +130,7 @@ Extra superannuation contributions are not always welcome as breaching contribut
 
 Regular contributions enable you to grow your superannuation faster by way of compounding your investment returns.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 While the government wants to encourage people to save for retirement, it doesn't want us treating superannuation as a tax haven . For this reason limits have been placed on both concessional (before tax) and non-concessional (after tax) contributions.
-
-
 
 ##### [](<>)There is no restriction to the amount of concessional contributions allowed to be contributed to superannuation; however, contributions over the annual cap will be refunded and taxed at a marginal tax rates plus Medicare. A penalty interest charge is also apply. Additionally any excess will count towards the non-concessional contributions limit (explained further on).
 
@@ -146,73 +140,25 @@ Non-concessional contributions limit is $100,000 per year, effective from July 1
 
 [What happens if I exceed these limits?](<>)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Excess Concessional contributions are taxed at 31.5% (In addition to ordinary 15% contributions tax) with the amount of your excess contributions also counting towards the Non-concessional limit. Excess Non-concessional contributions are taxed at 46.5%.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Exceeding the contribution limits is not uncommon, particularly as many people don't realise that their employer superannuation guarantee contributions count towards Concessional contributions limit.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
+Exceeding the contribution limits is not uncommon, particularly as many people don't realise that their employer superannuation guarantee contributions count towards Concessional contributions limits.
 
 [What do I do if I am unsure of my contribution amounts?](<>)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Given the potential consequences of breaching the contribution limits, it is important to speak to your financial adviser if you are unsure about your contributions amounts.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 
 [How do I find out more?](<>)
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
 Talk to your financial adviser to learn more about how to maximise your superannuation contributions and stay within the limits of the contribution limits.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
 
 ### Advantages and Disadvantages
 
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-
 Stock prices are influenced not only by the individual company’s economic success but also by large-scale economic trends.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 
 Depending on the stocks and legislation, shares can include the right to purchase additional stocks when the company raises its capital basis. The price of this right is usually included in the stock price. Rights can also be traded as an individual product; the use of such products requires a basic knowledge of derivatives and the risks involved.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-
-<!-- wp:column -->
-
-<!-- wp:paragraph -->
-
 Advantages
-
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
 
 * Superannuation fund earnings are taxed at a maximum rate of 15% (10% for crystallised capital gains on assets held for at least 12 months). Additionally income tax of 15% may be offset by imputation credits derived from Australian equity-based investments within the fund. You can also reduce the tax payable by paying insurance premiums from superannuation money.
 * You may be able to claim a tax deduction for contributions, a tax offset or co-contribution.
@@ -222,121 +168,15 @@ Advantages
 * If you are under age 60, you can receive income from a superannuation retirement income stream and receive concessional tax treatment possibly including a tax-free amount and a 15% tax offset on the taxable income.
 * Superannuation in the accumulation phase does not count under the Centrelink assets test or income test for persons under age pension age.
 
-<!-- /wp:list -->
-
-<!-- wp:list -->
-
-*
-
-<!-- /wp:list -->
-
-<!-- wp:list -->
-
-*
-
-<!-- /wp:list -->
-
-<!-- /wp:column -->
-
-<!-- wp:column -->
-
-<!-- wp:paragraph -->
-
 Disadvantages
 
-<!-- /wp:paragraph -->
 
-<!-- wp:list -->
-
-*
-
-<!-- /wp:list -->
-
-<!-- /wp:column -->
-
-<!-- /wp:columns -->
-
-<!-- wp:heading -->
 
 ## Risks
 
-<!-- /wp:heading -->
 
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
 
-Shares are traded according to the balance between supply and demand. The price of a share expresses the expectation of all invsetors int eh future value and return from teh share.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-
-When deciding about this expectation, the investor evaluates two main risk factors: the economic environment (market risk) and the specifics of the company invested in (company-specific risk).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-
-<!-- wp:column {"width":33.33} -->
-
-<!-- wp:paragraph {"customTextColor":"#ffffff","customBackgroundColor":"#000066"} -->
-
-Market Risks
-
-<!-- /wp:paragraph -->
-
-<!-- /wp:column -->
-
-<!-- wp:column {"width":66.66} -->
-
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-
-The investor is exposed to the general economic environment, e.g. interest rate changes,\
-exchange rates (when not denominated in home currency).
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-
-The psychology of the market\
-participants tends to enforce trends. In a market of expectations, not all expectations may be rational.
-
-<!-- /wp:paragraph -->
-
-<!-- /wp:column -->
-
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-
-<!-- wp:column {"width":33.33} -->
-
-<!-- wp:paragraph {"align":"center","customTextColor":"#ffffff","customBackgroundColor":"#000066"} -->
-
-Company Risks
-
-<!-- /wp:paragraph -->
-
-<!-- /wp:column -->
-
-<!-- wp:column {"width":66.66} -->
-
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-
-Risks caused by the economic situation or environment specific to the company invested in. The professional quality of the company and its management will determine its value and the return from the investment e.g profitability. As the investor participates directly in the company’s financial success a dividend payment and/or capital gain is not\
-guaranteed.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-
-If the company defaults, share owners only participate in the liquidation capital after all\
-other investors are satisfied.
-
-<!-- /wp:paragraph -->
-
-<!-- /wp:column -->
-
-<!-- /wp:columns -->
 
 **Important Information**
 
