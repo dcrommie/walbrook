@@ -59,6 +59,8 @@ const HowWeHelp = () => {
   return (
     <div>
       <SEO title="What we do" />
+      <Header />
+
       <Helmet>
         <link
           rel="stylesheet"
@@ -67,7 +69,6 @@ const HowWeHelp = () => {
           crossorigin="anonymous"
         />
       </Helmet>
-      <Header />
       <Hero
         heading={data.markdownRemark.frontmatter.title}
         subtitle={data.markdownRemark.frontmatter.subtitle}
@@ -83,7 +84,7 @@ const HowWeHelp = () => {
           <div className="child">
             <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle1}</h3>
-              <div style={{ width: "35px", marginTop: "10px" }}>
+              <div className="image-child" style={{ marginTop: "10px" }}>
                 <Image
                   alt="Investment Advisory"
                   name="Investment Advisory2.png"
@@ -100,7 +101,7 @@ const HowWeHelp = () => {
           <div className="child">
             <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle2}</h3>
-              <div style={{ width: "35px", marginTop: "15px" }}>
+              <div className="image-child" style={{ marginTop: "15px" }}>
                 <Image
                   alt="Retirement Planning"
                   name="Retirement Planning2.png"
@@ -117,7 +118,7 @@ const HowWeHelp = () => {
           <div className="child">
             <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle3}</h3>
-              <div style={{ width: "35px", marginTop: "10px" }}>
+              <div className="image-child" style={{ marginTop: "10px " }}>
                 <Image
                   alt="Wealth Accumulation"
                   name="Wealth Accumulation2.png"
@@ -134,7 +135,10 @@ const HowWeHelp = () => {
           <div className="child">
             <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle4}</h3>
-              <div style={{ width: "35px", marginTop: "15px" }}>
+              <div
+                className="image-child"
+                style={{ marginTop: "15px !important" }}
+              >
                 <Image alt="Risk Management" name="Risk Management2.png" />
               </div>
             </div>
@@ -148,7 +152,7 @@ const HowWeHelp = () => {
           <div className="child">
             <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle5}</h3>
-              <div style={{ width: "35px", marginTop: "8px" }}>
+              <div className="image-child" style={{ marginTop: "8px" }}>
                 <Image alt="Family Office" name="Family Office2.png" />
               </div>
             </div>
@@ -162,7 +166,7 @@ const HowWeHelp = () => {
           <div className="child">
             <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle6}</h3>
-              <div style={{ width: "35px", marginTop: "10px" }}>
+              <div className="image-child" style={{ marginTop: "10px" }}>
                 <Image alt="Expatriates" name="Expatriates2.png" />
               </div>
             </div>
