@@ -104,6 +104,44 @@ The tax payable on death benefits depends on your age when you die, and/or wheth
 
 A tax dependant is a current or former spouse, child under 18, financial dependant or someone who was in an interdependency relationship with you prior to your death.
 
+### **Key Features of Superannuation**
+
+
+
+#### Investment Horizon
+
+
+
+#### Income Expectation
+
+#### Market Expectation
+
+#### Maximum Gain
+
+#### Maximum Loss
+
+#### Profit / Loss
+
+
+
+### Advantages and Disadvantages
+
+
+
+#### Advantages
+
+* Superannuation fund earnings are taxed at a maximum rate of 15% (10% for crystallised capital gains on assets held for at least 12 months). Additionally income tax of 15% may be offset by imputation credits derived from Australian equity-based investments within the fund. You can also reduce the tax payable by paying insurance premiums from superannuation money.
+* You may be able to claim a tax deduction for contributions, a tax offset or co-contribution.
+* There are no personal income tax implications from the returns earned by superannuation funds as no income is distributed.
+* By rolling over superannuation funds rather than cashing out, the payment of lump sum tax can be deferred and possibly eliminated.
+* If you are age 60 or over, you can withdraw from superannuation, either as income or lump sum tax free.
+* If you are under age 60, you can receive income from a superannuation retirement income stream and receive concessional tax treatment possibly including a tax-free amount and a 15% tax offset on the taxable income.
+* Superannuation in the accumulation phase does not count under the Centrelink assets test or income test for persons under age pension age.
+
+#### Disadvantages
+
+## Risks
+
 
 
 **Important Information**
