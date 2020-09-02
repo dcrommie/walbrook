@@ -1,5 +1,5 @@
 ---
-blogtitle: Understanding Transition to Retirement Strategies
+blogtitle: Understanding Transition to Retirement Strategies (DRAFT)
 path: transition-to-retirement
 date: 2020-09-02T11:25:39.643Z
 author: Walbrook Wealth Management
