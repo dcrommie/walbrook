@@ -3,10 +3,11 @@ title: Plan. Invest. Protect.
 subtitle: Independent financial advice and wealth management
 thumbnail: ../src/images/family.png
 title2: Independent provider of financial advice to private clients and their families
-desc1: Our investment philosophy have origins in global wealth management and an
-  open architecture approach to financial advice.
-desc2: We focus on providing high-quality strategic advice, incorporating
-  investment, risk and lending solutions from third parties in a cohesive plan.
+desc1: Our investment philosophy has its origins in global wealth management and
+  an open architecture approach to financial advice.
+desc2: We focus on providing high-quality strategic advice and incorporating
+  investment, risk and lending solutions from third parties into a cohesive
+  plan.
 desc3: We use best practices to help you with planning, investments, wealth
   protection and navigation of change over the long term.
 services: Our services
@@ -27,7 +28,7 @@ reviews:
       and are one of the bests in the market. I will surely ask my father to get
       in touch with them for his retirement planning.
     pic: ../src/images/gatsby-icon.png
-    name: Liza
+    name: Ben, Retired, Melbourne
   - review: “Seriously, you guys have saved me. I need to manage many time-sensitive
       tasks for myself and my family. A deadline change? Boom, no more
       headache!”
