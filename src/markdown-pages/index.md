@@ -10,31 +10,29 @@ desc2: We focus on providing high-quality strategic advice, incorporating
 desc3: We use best practices to help you with planning, investments, wealth
   protection and navigation of change over the long term.
 services: Our services
-servicestitle: Wealth, family, and legacy together like never before
+servicestitle: Creating wealth and planning for change over the long term.
 service2: Retirement Planning
 service5: Family Office
 service6: Expatriates
-advisorydesc: Our advisory framework, supported by great technology and access
-  to institutional-grade investment management, guides our conversations and
-  actions from the outset.
+advisorydesc: Supported by great technology and institutional-grade investment
+  management, our advisory framework guides our conversations and actions from
+  the outset.
 page: true
 service1: Investment Advisory
 service3: Wealth Accumulation
 service4: Risk Management
 advisorytitle: How we do it
 reviews:
-  - review:
-      I am very happy with the service. They handle funds exceptionally well
+  - review: I am very happy with the service. They handle funds exceptionally well
       and are one of the bests in the market. I will surely ask my father to get
       in touch with them for his retirement planning.
     pic: ../src/images/gatsby-icon.png
     name: Liza
-  - review:
-      “Seriously, you guys have saved me. I need to manage many time-sensitive
+  - review: “Seriously, you guys have saved me. I need to manage many time-sensitive
       tasks for myself and my family. A deadline change? Boom, no more
       headache!”
-    pic: ../src/images/image-13-1-.png
-    name: Irena Robin, CEO at Google
+    pic: ../src/images/Favicon.png
+    name: Mitchel, NED, London
 contacttitle: Take care of your future today
-contactdesc: Independent provider of financial advice to private clients and their families
+contactdesc: Get in touch so we can get you started.
 ---
