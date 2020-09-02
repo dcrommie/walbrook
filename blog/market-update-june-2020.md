@@ -4,7 +4,7 @@ path: market-update-june-2020
 date: 2020-09-02T04:27:59.652Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/social_distancing_notice_at_shorncliffe_pier_queensland_2020_during_covid-19_pandemic_in_australia-1200x800.jpg
 ---
 Major economies avoided a resurgence in COVID-19 cases in May, though it continues to spread rapidly in some regions and health authorities warn of a possible second wave.
 
