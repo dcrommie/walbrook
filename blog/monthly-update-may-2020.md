@@ -4,7 +4,7 @@ path: market-update-may-2020
 date: 2020-05-11T03:58:44.665Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/image-37.png
 ---
 Uncertainty about the economic and social damage caused by the COVID-19 pandemic persisted in April. To limit damage, governments began planning to ease restrictions under the shadow of growing social unease and the threat of a second wave of infections.
 
