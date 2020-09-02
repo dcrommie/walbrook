@@ -150,5 +150,3 @@ Fears of inflation are not referencing the prices of soft commodities. With plen
 To protect domestic supplies, significant exporters like Russia and Romania limited exports during the public health crisis. While some measures remain in place, there hasn’t been a significant impact on trade and supplies should keep rising.
 
 ![Wheat Glut](../src/images/wheat-glut.png "Wheat Glut")
-
-*
