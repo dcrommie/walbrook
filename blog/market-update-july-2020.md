@@ -1,7 +1,7 @@
 ---
 blogtitle: Market Update - July 2020
 path: market-update-july-2020
-date: 2020-09-02T09:42:02.783Z
+date: 2020-07-14T09:42:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
 thumbnail: ../src/images/coverphotoblmrally.png
