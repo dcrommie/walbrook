@@ -1,7 +1,7 @@
 ---
-blogtitle: Market Update - February 2020
-path: market-update-february-2020
-date: 2020-09-02T10:05:39.565Z
+blogtitle: Market Update - March 2020
+path: market-update-march-2020
+date: 2020-03-13T09:13:49.710Z
 author: Walbrook Wealth Management
 blogpage: true
 thumbnail: ../src/images/disinfecting_stadium-150x150.jpeg
