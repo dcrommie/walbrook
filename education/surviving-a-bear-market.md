@@ -1,7 +1,7 @@
 ---
 blogtitle: Surviving a bear market
 path: surviving-a-bear-market
-date: 2020-09-02T11:19:01.545Z
+date: 2020-03-27T10:19:00.000Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/final-surviving-a-bear-market.gif
