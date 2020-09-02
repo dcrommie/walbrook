@@ -11,7 +11,7 @@ desc2: We focus on providing high-quality strategic advice and incorporating
 desc3: We use best practices to help you with planning, investments, wealth
   protection and navigation of change over the long term.
 services: Our services
-servicestitle: Creating wealth and planning for change over the long term.
+servicestitle: Creating wealth and planning for change over the long term
 service2: Retirement Planning
 service5: Family Office
 service6: Expatriates
@@ -20,7 +20,7 @@ advisorydesc: Supported by great technology and institutional-grade investment
   the outset.
 page: true
 service1: Investment Advisory
-service3: Wealth Accumulation
+service3: Wealth Creation
 service4: Risk Management
 advisorytitle: How we do it
 reviews:
@@ -35,5 +35,5 @@ reviews:
     pic: ../src/images/Favicon.png
     name: Mitchel, NED, London
 contacttitle: Take care of your future today
-contactdesc: Get in touch so we can get you started.
+contactdesc: Get in touch so we can get you started
 ---
