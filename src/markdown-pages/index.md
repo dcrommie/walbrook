@@ -24,16 +24,22 @@ service3: Wealth Creation
 service4: Risk Management
 advisorytitle: How we do it
 reviews:
-  - review: I am very happy with the service. They handle funds exceptionally well
-      and are one of the bests in the market. I will surely ask my father to get
-      in touch with them for his retirement planning.
+  - review: I had several meetings with Damien to sort out my finances and to help
+      set up my income stream from my super. Damien spent some time
+      understanding my needs and wants as well as my risk appetite. Once Damien
+      had the information he then put in place a financial plan that suited my
+      needs. Within a couple of weeks my income stream was in place and my
+      finances were in order... Damien did all the interactions with all the
+      financial institutions and took all the stress out of the process. Damien
+      has great attention to detail and follows up to keep you informed. I now
+      have a financial plan that works for me ... thanks Damien !!
     pic: ../src/images/gatsby-icon.png
     name: Ben, Retired, Melbourne
-  - review: “Seriously, you guys have saved me. I need to manage many time-sensitive
-      tasks for myself and my family. A deadline change? Boom, no more
-      headache!”
+  - review: Damien has helped me and my wife to structure our superannuation to
+      allow for transition to retirement. I am pleased that we are going down a
+      safe path.
     pic: ../src/images/Favicon.png
-    name: Mitchel, NED, London
+    name: Sean, Business Owner, Melbourne
 contacttitle: Take care of your future today
 contactdesc: Get in touch so we can get you started
 ---
