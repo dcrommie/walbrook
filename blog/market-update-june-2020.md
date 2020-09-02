@@ -1,7 +1,7 @@
 ---
 blogtitle: Market Update - June 2020
 path: market-update-june-2020
-date: 2020-09-02T04:27:59.652Z
+date: 2020-06-12T04:27:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
 thumbnail: wholesale.png
