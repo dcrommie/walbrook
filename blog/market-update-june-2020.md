@@ -14,11 +14,11 @@ While tentative steps are being taken to re-open non-essential services, overall
 
 More broadly, Oxford Economics expects global GDP to shrink by 4.7% in 2020, factoring in a strong rebound of 7.4% in the last two quarters of 2020. To put this in context, in 2009, the worst year for GDP growth during the global financial crisis, global GDP fell by ‘just’ 1.1%.
 
-![]()
+![Global GDP Change](../src/images/global-gdp-change.png "Global GDP Change")
 
 Despite forecasting GDP growth of 7% in 2021, which would be the most vigorous expansion since the post-war period, Oxford Economics expects the level of global GDP by the end of 2021 to still be 2% below the level they had anticipated in January before the pandemic emerged. This shortfall will continue beyond 2022, reflecting a permanent scar on the economy.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-16.png)
+![Pandemic Responses](../src/images/pandemic-response.png "Pandemic Responses")
 
 Disturbingly, the New York Federal Reserve published a [paper](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr921.pdf) linking the 1918 flu pandemic with the rise of the Nazi Party in Germany. The study showed that cities with the highest fatalities saw a reduction in social expenditure and that ‘influenza deaths of 1918 are correlated with an increase in the share of votes won by right-wing extremists’. The paper argues that the 1918 pandemic may have especially changed ‘societal preferences’ in younger people, as well as spurring resentment of foreigners.
 
@@ -28,7 +28,7 @@ US-China tensions also re-emerged, this time over Beijing’s introduction of na
 
 Despite all of this, sharemarkets are in the midst of one of the best bull runs ever, even though the economy remains extremely weak, thanks to record stimulus and hopes over a vaccine.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-5.png)
+![Governments no longer fearing debt](../src/images/estimated-fiscal-stimulus.png "Governments no longer fearing debt")
 
 ### Australian Economy
 
@@ -38,7 +38,7 @@ The cash rate remains at a record low of 0.25%, in line with the RBA rhetoric th
 
 At face value, the one percentage point rise in the unemployment rate to 6.2% was better than expected. However, the sharp fall in the participation rate played a part in keeping the unemployment rate low. If an unemployed worker is not actively looking for a job (participating), even when the economy is in lockdown, then they are not counted in the unemployment rate.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-14.png)
+![Fewer jobs and fewer hours](../src/images/fewer-jobs-but-much-fewer-hours.png "Fewer jobs and fewer hours")
 
 Hours worked is also becoming a focus as staff on the JobKeeper scheme are counted as employed but work zero hours. Hours worked declined by 8% year-over-year in April, a much more significant drop than in the number of employed.
 
@@ -74,7 +74,7 @@ Across Europe, COVID-19 restrictions are slowly being lifted as governments atte
 
 Eurozone unemployment rose 0.2% to 7.3%, less than expected, and the eurozone Markit Manufacturing PMI final reading came in as expected at 39.4, an increase from 33.4 in April.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-10.png)
+![Pandemic Fallout](../src/images/pandemic-fallout.png "Pandemic Fallout")
 
 Recession in Germany was confirmed, with German GDP fell 2.2% in the March quarter, following a fall of 0.1% in the December quarter. It was the steepest contraction since the March quarter of 2009, with household consumption slumping 3.2% and fixed investment in machinery plunging 6.9%.
 
@@ -102,7 +102,7 @@ Positive economic news and unprecedented easing measures from central banks and 
 
 U.S. shares were boosted by mega-cap names like Apple (+9.8%) and Facebook (+10.0%), despite increased chatter about the introduction of yield curve control in the U.S. This would involve the Fed targeting their purchases to cap interest rates at a specific maturity. If targeting maturities of 2-3 years, this strategy may lead to steeper yield curves, which is great for financials but less so for growth stocks, which typically love a flat yield curve.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-6.png)
+![Treasury Cap](../src/images/treasury-cap.png "Treasury Cap")
 
 ## Rates & Credit
 
@@ -112,11 +112,11 @@ The U.S. 10-year yield rose slightly over May from 0.64% to 0.65% before moving 
 
 U.S. corporate bond issuance from investment-grade companies — which sit in the top half of the credit-rating table — has crossed $1tn this year, according to data from Refinitiv. That total, which includes debt raised by financial institutions, outpaces the $540bn issued over the same period in 2019, and is closing in on the $1.3tn full-year average over the past five years.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-4.png)
+![Issuance](../src/images/total-raised.png "Issuance")
 
 Since March, the Fed has announced the establishment of no fewer than nine new facilities to support the flow of credit to households and businesses, which has helped to restore confidence to financial markets. While the Fed has no explicit yield curve control measure in place, markets are banking on the Fed keeping yields low.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-8.png)
+![FANG v 2s10s spread](../src/images/fang.png "FANG v 2s10s spread")
 
 In Australia, the RBA paused its bond-buying as order returned to markets, having made around $50 billion in purchases. The Australian 10-year yield was flat over May, ending the month at 0.89% before rising to 1.09% early in June, while the 3-year bond yield held around the RBA’s 0.25% target.
 
@@ -144,11 +144,11 @@ Metals gained over the month, with rises in the price of Copper (+3.6%), Alumini
 
 Gold rose 2.5% to USD 1,730.27 per ounce, with some of the world’s most prominent investors raising alarm bells over the looming threat of inflation, and turning to gold for protection.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-3.png)
+![Gold Futures](../src/images/gold-futures.png "Gold Futures")
 
 Fears of inflation are not referencing the prices of soft commodities. With plentiful harvests looming in many nations, global wheat stockpiles are expected to hit a record this year and climb even higher in 2021.\
 To protect domestic supplies, significant exporters like Russia and Romania limited exports during the public health crisis. While some measures remain in place, there hasn’t been a significant impact on trade and supplies should keep rising.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-2.png)
+![Wheat Glut](../src/images/wheat-glut.png "Wheat Glut")
 
 *
