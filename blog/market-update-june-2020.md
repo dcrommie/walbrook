@@ -4,7 +4,7 @@ path: market-update-june-2020
 date: 2020-09-02T04:27:59.652Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/social_distancing_notice_at_shorncliffe_pier_queensland_2020_during_covid-19_pandemic_in_australia-1200x800.jpg
+thumbnail: wholesale.png
 ---
 Major economies avoided a resurgence in COVID-19 cases in May, though it continues to spread rapidly in some regions and health authorities warn of a possible second wave.
 
@@ -14,7 +14,7 @@ While tentative steps are being taken to re-open non-essential services, overall
 
 More broadly, Oxford Economics expects global GDP to shrink by 4.7% in 2020, factoring in a strong rebound of 7.4% in the last two quarters of 2020. To put this in context, in 2009, the worst year for GDP growth during the global financial crisis, global GDP fell by ‘just’ 1.1%.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/06/image-17.png)
+![]()
 
 Despite forecasting GDP growth of 7% in 2021, which would be the most vigorous expansion since the post-war period, Oxford Economics expects the level of global GDP by the end of 2021 to still be 2% below the level they had anticipated in January before the pandemic emerged. This shortfall will continue beyond 2022, reflecting a permanent scar on the economy.
 
@@ -104,8 +104,6 @@ U.S. shares were boosted by mega-cap names like Apple (+9.8%) and Facebook (+10.
 
 ![](https://walbrook.com.au/wp-content/uploads/2020/06/image-6.png)
 
-
-
 ## Rates & Credit
 
 After reaching record lows in April, unprecedented action from central banks has helped restore order to credit markets, while positive economic news saw an uplift in yields.
@@ -121,8 +119,6 @@ Since March, the Fed has announced the establishment of no fewer than nine new f
 ![](https://walbrook.com.au/wp-content/uploads/2020/06/image-8.png)
 
 In Australia, the RBA paused its bond-buying as order returned to markets, having made around $50 billion in purchases. The Australian 10-year yield was flat over May, ending the month at 0.89% before rising to 1.09% early in June, while the 3-year bond yield held around the RBA’s 0.25% target.
-
-
 
 ## Property
 
