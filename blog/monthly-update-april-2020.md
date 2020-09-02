@@ -1,6 +1,6 @@
 ---
-blogtitle: Monthly Update - April 2020
-path: monthly-update-april-2020
+blogtitle: Market Update - April 2020
+path: market-update-april-2020
 date: 2020-04-13T03:41:47.990Z
 author: Walbrook Wealth Management
 blogpage: true
