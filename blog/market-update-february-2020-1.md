@@ -1,7 +1,7 @@
 ---
 blogtitle: Market Update - February 2020
 path: market-update-february-2020
-date: 2020-09-02T10:20:47.566Z
+date: 2020-02-15T09:20:47.566Z
 author: Walbrook Wealth Management
 blogpage: true
 thumbnail: ../src/images/us-china-chess-image-150x150.jpg
