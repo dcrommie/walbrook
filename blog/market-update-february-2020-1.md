@@ -4,7 +4,7 @@ path: market-update-february-2020
 date: 2020-02-15T09:20:47.566Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/us-china-chess-image-150x150.jpg
+thumbnail: ../src/images/us-china-chess-image.jpg
 ---
 Just as some of the risks that had fuelled uncertainty in 2019 faded – notably trade tensions and Brexit uncertainties – new risks emerged across the globe.
 
