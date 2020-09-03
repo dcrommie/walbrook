@@ -3,13 +3,18 @@ title: Plan. Invest. Protect.
 subtitle: Independent financial advice and wealth management
 thumbnail: ../src/images/family.png
 title2: Independent provider of financial advice to private clients and their families
-desc1: Our investment philosophy has its origins in global wealth management and
-  an open architecture approach to financial advice.
-desc2: We focus on providing high-quality strategic advice and incorporating
-  investment, risk and lending solutions from third parties into a cohesive
-  plan.
-desc3: We use best practices to help you with planning, investments, wealth
-  protection and navigation of change over the long term.
+desc1: >-
+  We are 100% independent from banks and product providers, which means that we
+  are free to act in our clients’ best interests. 
+
+
+  Our advice and execution can be tailored in the best way in order to meet your investment objectives and to realise your vision.
+desc2: Our breadth of knowledge with origins in global wealth management,
+  combined with our flexible, fair, and transparent fee structure allows us to
+  determine the most appropriate, comprehensive solutions for our clients.
+desc3: We are small enough to care about and to meet the personalised needs of
+  our clients, and savvy enough to have created excellent key partnerships with
+  local and international experts.
 services: Our services
 servicestitle: Creating wealth and planning for change over the long term
 service2: Retirement Planning
