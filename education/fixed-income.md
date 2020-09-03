@@ -4,13 +4,13 @@ path: superannuation
 date: 2020-09-01T03:54:50.219Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/superannuation-blog-post.png
 ---
-# Understanding Superanuation
+# **Understanding Superannuation**
 
-We are committed to providing you with investment advice tailored to your needs, requirements, objectives, and degree of investment experience. Whatever the extent of your prior experience of financial products and markets, we strongly recommend you familiarise yourself with the explanatory material provided in this document.
 
-**What is Superannuation?**
+
+## **What is Superannuation?**
 
 Superannuation is an investment vehicle designed to assist Australians save for retirement. The federal government encourages saving through superannuation by providing generous tax incentives for contributions, during investment, and in retirement.
 
@@ -106,11 +106,7 @@ A tax dependant is a current or former spouse, child under 18, financial dependa
 
 ### **Key Features of Superannuation**
 
-
-
 #### Investment Horizon
-
-
 
 #### Income Expectation
 
@@ -122,11 +118,7 @@ A tax dependant is a current or former spouse, child under 18, financial dependa
 
 #### Profit / Loss
 
-
-
 ### Advantages and Disadvantages
-
-
 
 #### Advantages
 
@@ -141,8 +133,6 @@ A tax dependant is a current or former spouse, child under 18, financial dependa
 #### Disadvantages
 
 ## Risks
-
-
 
 **Important Information**
 
