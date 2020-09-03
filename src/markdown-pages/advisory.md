@@ -96,5 +96,5 @@ answer4: >-
 
   We can provide you with this oversight and continuity of care.
 contacttitle: Take care of your future today
-contactdesc: Independent provider of financial advice to private clients and their families
+contactdesc: Get in touch so we can get you started
 ---
