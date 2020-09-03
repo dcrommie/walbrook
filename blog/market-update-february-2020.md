@@ -4,7 +4,7 @@ path: market-update-march-2020
 date: 2020-03-13T09:13:49.710Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/disinfecting_stadium-150x150.jpeg
+thumbnail: ../src/images/disinfecting_stadium.jpeg
 ---
 The focus over the past month has been almost entirely on the coronavirus outbreak, the measures taken to contain it, and the potential economic fallout.
 
