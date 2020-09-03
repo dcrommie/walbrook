@@ -1,7 +1,7 @@
 ---
-blogtitle: Monthly Update - August 2020
+blogtitle: Market Update - August 2020
 Slug: hello-world
-path: hello-world-2
+path: market-update-august-2020
 date: 2020-08-03T13:57:19.131Z
 author: Walbrook Wealth Management
 blogpage: true
