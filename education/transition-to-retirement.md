@@ -4,7 +4,7 @@ path: transition-to-retirement
 date: 2020-09-02T11:25:39.643Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/transition-to-retirement-blog-post.png
 ---
 **We are committed to providing you with financial advice tailored to your needs, requirements, objectives, and degree of investment experience. Whatever the extent of your prior experience of financial products and markets, we strongly recommend you familiarise yourself with the explanatory material provided in this document.**
 
