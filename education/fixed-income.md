@@ -1,13 +1,11 @@
 ---
-blogtitle: Understanding Superannuation (DRAFT)
+blogtitle: Understanding Superannuation
 path: superannuation
 date: 2020-09-01T03:54:50.219Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/superannuation-blog-post.png
 ---
-# **Understanding Superannuation**
-
 ## **What is Superannuation?**
 
 Superannuation is an investment vehicle designed to assist Australians save for retirement. The federal government encourages saving through superannuation by providing generous tax incentives on contributions, investment earnings, and withdrawals in retirement.
@@ -107,8 +105,6 @@ You can nominate a beneficiary or beneficiaries to your superannuation fund trus
 You may wish to provide a binding nomination, to ensure that your preferred beneficiaries receive the benefits.  The use of binding nominations is common in complicated family situations.
 
 It is essential to review any nominations regularly, to ensure that they remain aligned with your wishes.
-
-
 
 ###### **Important Information**
 
