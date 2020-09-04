@@ -30,7 +30,8 @@ For more information, refer to Understanding Superannuation Contributions.
 There are two key components of your superannuation balance:
 
 * The tax-free component of your superannuation balance typically derives from the non-concessional contributions that you have made.
-* The taxable component is the total value of your superannuation, less the tax-free balance. The taxable part typically consists of concessional contributions, made by you or your employer, as well as investment earnings.
+
+  The taxable component is the total value of your superannuation, less the tax-free balance. The taxable part typically consists of concessional contributions, made by you or your employer, as well as investment earnings.
 
 The taxable component can be split further, into:
 
@@ -44,19 +45,26 @@ Government legislation aims to preserve your superannuation balance to ensure th
 Conditions of release relevant to retirement include:
 
 * Reaching age 65
-* Retirement from the workforce after reaching your preservation age
-* Transition to retirement after reaching your preservative age
-* Ceasing an employment arrangement after age 60
+
+  Retirement from the workforce after reaching your preservation age
+
+  Transition to retirement after reaching your preservative age
+
+  Ceasing an employment arrangement after age 60
 
 Preservation ages are based on your date of birth, and can be found [here](https://www.ato.gov.au/rates/key-superannuation-rates-and-thresholds/?page=11). If you were born after 30 June 1964, your preservation age is 60.
 
 Your superannuation fund trustee may also authorise a withdrawal if you meet one or more of the following conditions of release.
 
 * Total and permanent disablement
-* Terminal medical condition
-* Permanent departure from Australia for eligible temporary residents
-* Severe financial hardship, at trustee discretion
-* Compassionate grounds, at trustee discretion
+
+  Terminal medical condition
+
+  Permanent departure from Australia for eligible temporary residents
+
+  Severe financial hardship, at trustee discretion
+
+  Compassionate grounds, at trustee discretion
 
 Death is also considered a condition of release.
 
