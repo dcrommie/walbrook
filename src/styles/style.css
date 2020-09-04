@@ -6,6 +6,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.post-title{
+ max-width: 500px !important; 
+}
+
 .main {
   background: #f2f7f2;
 }
