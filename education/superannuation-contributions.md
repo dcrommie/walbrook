@@ -4,7 +4,7 @@ path: superannuation-contributions
 date: 2020-09-01T04:07:55.995Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/superannuation-contributions-blog-post.png
 ---
 **What is Superannuation?**
 
