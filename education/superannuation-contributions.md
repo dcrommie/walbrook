@@ -1,5 +1,5 @@
 ---
-blogtitle: Fact Sheet - Superannuation Contributions (DRAFT)
+blogtitle: Fact Sheet - Superannuation Contributions
 path: superannuation-contributions
 date: 2020-09-01T04:07:55.995Z
 author: Walbrook Wealth Management
