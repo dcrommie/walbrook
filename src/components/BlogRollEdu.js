@@ -73,7 +73,7 @@ const BlogRollEdu = props => {
                           className="title has-text-primary is-size-4"
                           to={post.frontmatter.path}
                         >
-                          <h2> {post.frontmatter.blogtitle}</h2>
+                          <h2 className='post-title'> {post.frontmatter.blogtitle}</h2>
                           <span>{post.frontmatter.author}</span>
                           <span> &bull; </span>
                           <span className="">{post.frontmatter.date}</span>
