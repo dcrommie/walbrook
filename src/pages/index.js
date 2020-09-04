@@ -48,7 +48,7 @@ const IndexPage = () => {
   return (
     <div>
       <div>
-        <SEO title="Wallbrook - Home" />
+        <SEO title="Walbrook - Home" />
 
         <Header />
       </div>
