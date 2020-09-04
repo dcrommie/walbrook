@@ -46,11 +46,11 @@ Conditions of release relevant to retirement include:
 
 * Reaching age 65
 
-  Retirement from the workforce after reaching your preservation age
+* Retirement from the workforce after reaching your preservation age
 
-  Transition to retirement after reaching your preservative age
+* Transition to retirement after reaching your preservative age
 
-  Ceasing an employment arrangement after age 60
+* Ceasing an employment arrangement after age 60
 
 Preservation ages are based on your date of birth, and can be found [here](https://www.ato.gov.au/rates/key-superannuation-rates-and-thresholds/?page=11). If you were born after 30 June 1964, your preservation age is 60.
 
@@ -58,13 +58,13 @@ Your superannuation fund trustee may also authorise a withdrawal if you meet one
 
 * Total and permanent disablement
 
-  Terminal medical condition
+* Terminal medical condition
 
-  Permanent departure from Australia for eligible temporary residents
+* Permanent departure from Australia for eligible temporary residents
 
-  Severe financial hardship, at trustee discretion
+* Severe financial hardship, at trustee discretion
 
-  Compassionate grounds, at trustee discretion
+* Compassionate grounds, at trustee discretion
 
 Death is also considered a condition of release.
 
