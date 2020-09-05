@@ -769,6 +769,13 @@ article span {
   color: #000066;
   line-height: 160%;
 }
+.blog-post-content ul li,
+blog-post-content ol li{
+font-size:16px !important;
+  font-weight: 400 !important;
+    line-height: 160%;
+
+}
 .blog-post-content p {
   padding: 5px 0px;
 }
