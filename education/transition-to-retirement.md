@@ -33,7 +33,8 @@ The combination of a TTR pension and salary sacrifice arrangement is best suited
 A couple of points you need to be aware of regarding TTR pension:
 
 * You can select a pension between a set minimum and maximum limit each year,
-* Pension payments are paid tax-free if you are age 60 or over or concessional taxed if aged between 55 and 60 (a portion of your pension payments may be tax-free, and you may be eligible for a tax offset),
+
+  Pension payments are paid tax-free if you are age 60 or over or concessional taxed if aged between 55 and 60 (a portion of your pension payments may be tax-free, and you may be eligible for a tax offset),
 * You cannot make lump sum withdrawals from the pension (unless you fully retire or reach age 65),
 * Tax on investment earnings is capped at 15%,
 * You can stop the pension at any time and your money will be ‘rolled' backed to superannuation,
