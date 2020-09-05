@@ -8,6 +8,8 @@ thumbnail: ../src/images/understanding-risk-version-2.png
 ---
 The trade-off between risk and return is central to investing: investors are compensated for taking risks by the possibility of realising higher returns. For example, the ‘Maximum Growth’ portfolio shown below has the highest expected return, but this comes with increased risk.
 
+![Efficient Frontier](../src/images/efficient-frontier.png "Efficient Frontier")
+
 Optimal investment configurations, with the maximum expected return for each given level of risk, lie on a theoretical line called the 'efficient frontier'.
 
 Risks are not to be avoided entirely, but rather to be managed. The key is to under­stand what risks to take on and to what degree. Identifying your investment objectives is an essential precursor to determining the investments you should make.
