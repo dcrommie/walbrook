@@ -1,5 +1,5 @@
 ---
-blogtitle: Understanding your Investment Profile
+blogtitle: Understanding your Investment Profile (DRAFT)
 path: your-investment-profile
 date: 2020-09-02T11:38:46.166Z
 author: Walbrook Wealth Management
