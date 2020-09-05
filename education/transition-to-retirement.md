@@ -6,9 +6,7 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/transition-to-retirement-blog-post.png
 ---
-**We are committed to providing you with financial advice tailored to your needs, requirements, objectives, and degree of investment experience. Whatever the extent of your prior experience of financial products and markets, we strongly recommend you familiarise yourself with the explanatory material provided in this document.**
-
-
+We are committed to providing you with financial advice tailored to your needs, requirements, objectives, and degree of investment experience. Whatever the extent of your prior experience of financial products and markets, we strongly recommend you familiarise yourself with the explanatory material provided in this document.
 
 **What are Transition to Retirement Pensions?**
 
@@ -27,8 +25,10 @@ You can combine the TTR pension with salary sacrifice contributions in to supera
 The combination of a TTR pension and salary sacrifice arrangement is best suited if you:
 
 * Are age 55 or more,
-* Are working full-time, and
-* Have some superannuation savings already.
+
+  Are working full-time, and
+
+  Have some superannuation savings already.
 
 A couple of points you need to be aware of regarding TTR pension:
 
@@ -66,8 +66,6 @@ As salary sacrifice uses pre-tax dollars, James can actually contribute more to 
 A TTR pension combined with salary sacrifice can be a tax-effective way to boost your superannuation savings. We recommend you see a financial adviser to help you decide of the TTR pension strategy option is right for you.
 
 ### Key Features
-
-
 
 ### Advantages and Disadvantages
 
