@@ -49,7 +49,7 @@ There is also a distinction between products with limited risks and those where 
 
 By contrast, more complex products may incur liabilities above the original invested capital, with potentially unlimited losses. In the case of products with an unlimited loss potential, banks typically require coverage as compensation in the case of losses. Such so-called ‘margins’ may take the form of collateral or a credit line.
 
-Diversification by investing across asset classes can help mitigate unsystematic risks. This process is known as asset allocation.
+Diversification by investing across asset classes can help mitigate unsystematic risks. This process is known as asset allocation, and for more information please see [Understanding Asset Allocation](asset-allocation).
 
 ## Key Investment Risks
 
