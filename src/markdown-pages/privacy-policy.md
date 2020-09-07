@@ -6,6 +6,9 @@ policy: >-
   This Privacy Policy applies to Barbacane Advisors Pty Ltd trading as Walbrook Wealth Management (“Walbrook”), and all our representatives. It sets out how we collect, maintain, use and disclose personal information we collect from you, in accordance with the Privacy Act 1988 (Cth) (Act) and the Australian Privacy Principles.
 
 
+  ## Our commitment to you
+
+
   ## **Our commitment to you**
 
 
@@ -246,9 +249,9 @@ policy: >-
   You can find us at Level 16, 414 La Trobe Street, Melbourne, VIC 3000. If you have any questions, please contact us on +61 3 9013 62 62. If you prefer to write, our email is [info@walbrook.com.au](mailto:info@walbrook.com.au) and our postal address is:
 
 
-  Walbrook Wealth Management\
+  Walbrook Wealth Management
 
-  GPO Box 1717\
+  GPO Box 1717
 
   Melbourne VIC 3001
 page: true
