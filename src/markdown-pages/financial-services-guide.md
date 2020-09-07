@@ -9,7 +9,7 @@ policy: >-
   Issued 23 March 2020
 
 
-  Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management
+  Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465).
 
 
   **Why you are receiving this document**
