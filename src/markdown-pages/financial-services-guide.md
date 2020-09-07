@@ -1,8 +1,5 @@
 ---
 policy: >-
-  ## Financial Services Guide
-
-
   Version 1.30
 
 
@@ -12,7 +9,7 @@ policy: >-
   Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465).
 
 
-  **Why you are receiving this document**
+  ## **Why you are receiving this document**
 
 
   This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services.
@@ -52,7 +49,7 @@ policy: >-
   * Compensation arrangements
 
 
-  Who we are
+  ## Who we are
 
 
   We are an independent wealth management business and hold our own AFSL to provide you with the financial services outlined in this FSG.
@@ -70,9 +67,9 @@ policy: >-
   **Visiting address:**
 
 
-  Level 16\
+  Level 16
 
-  414 La Trobe Street\
+  414 La Trobe Street
 
   Melbourne  VIC  3000
 
@@ -80,7 +77,7 @@ policy: >-
   **By post:**
 
 
-  GPO Box 1717\
+  GPO Box 1717
 
   Melbourne VIC 3001
 
@@ -170,7 +167,7 @@ policy: >-
   We may provide disclosure documents, including this FSG and the documents outlined above, by making them available digitally, e.g. by email attachment or as a hyperlink in a document or email. You can contact us to opt-out of this method of disclosure at any time.
 
 
-  ### **How we provide you with personal financial advice**
+  ## **How we provide you with personal financial advice**
 
 
   Personal financial advice is advice that considers your financial objectives, financial situation and financial needs. We must act in your best interests when providing you with personal financial advice. Within the subject matter of the advice we provide to you, we must ensure that:
@@ -194,7 +191,7 @@ policy: >-
   We will always provide our advice to you in a Statement of Advice, unless it is further advice.
 
 
-  ### **Further advice**
+  ## **Further advice**
 
 
   If you require further advice, we must ensure that the basis on which we provided the original advice has not significantly changed. Therefore, we may need to recheck your circumstances before giving any further advice.
@@ -274,7 +271,7 @@ policy: >-
   We do not charge transaction or administration fees on advised trades, including off-market transfers. Where we are asked to process transactions on an execution-only basis, we may charge a fee of up to 1.00% of the transaction value (minimum AUD 200). This fee does not include third-party costs.
 
 
-  ### Fees you pay for using other financial services or products
+  ## Fees you pay for using other financial services or products
 
 
   The total initial and ongoing costs of using our service will depend on the fees charged by third-party issuers of the financial products and services we recommend.
@@ -283,7 +280,7 @@ policy: >-
   These fees will be outlined in the Statements of Advice and Records of Advice that we prepare, to provide you with a clear understanding of the total initial and ongoing costs of the recommended actions. The Product Disclosure Statements that we will provide, issued by the relevant third parties, will also give more detail.
 
 
-  ### Conflicts of interest, associations or relationships that may affect our advice
+  ## Conflicts of interest, associations or relationships that may affect our advice
 
 
   As an independent wealth manager that is not owned by a bank or product manufacturer, we do not manage or distribute our own financial products. Any help we provide is concerning financial products from non-related product providers.
@@ -298,19 +295,19 @@ policy: >-
   We may receive non-monetary benefits from product providers, such as training. Per the relevant professional standard (APES 230 Financial Planning Services), we and our representatives may only accept non-monetary benefits that are valued at less than $300. These must be recorded in our Alternative Forms of Remuneration Register, which is available for inspection by our clients, regulators and professional bodies. Please contact us should you wish to review the Register.
 
 
-  ### Employee Trading
+  ## Employee Trading
 
 
   We and our representatives may invest in similar or the same investments as those recommended to you. These holdings are not capable of influencing the price or expected returns of the investments.
 
 
-  ### Referral arrangements
+  ## Referral arrangements
 
 
   We do not currently pay anyone to refer clients to us, nor do we accept payments for referrals to other professionals. If you have been referred to us and we do decide to pay a referral fee, the details will be disclosed in your Statement of Advice and paid as agreed with you and permitted by law.
 
 
-  ### **How we protect your personal information**
+  ## **How we protect your personal information**
 
 
   Protecting your privacy is important to us and central to our commitment to meeting the highest level of professional standards. We will handle your personal information per our privacy policy, which outlines how the information we collect from you is used, stored and disclosed.
@@ -388,6 +385,8 @@ policy: >-
 
   **By post:**\
 
+  \
+
   AFCA\
 
   GPO Box 3\
@@ -396,6 +395,8 @@ policy: >-
 
 
   **By email:**\
+
+  \
 
   info@afca.org.au
 
@@ -407,7 +408,7 @@ policy: >-
   1800 931 678
 
 
-  **What compensation arrangements are in place?**
+  ## **What compensation arrangements are in place?**
 
 
   In compliance with the requirements of section 912B of the Corporations Act 2001, we have professional indemnity insurance cover in place in respect of financial services we provide to our clients. This insurance also covers claims concerning the conduct of representatives no longer working for us (but who did at the time of the relevant conduct).
@@ -416,7 +417,7 @@ policy: >-
   Please note that as our Principal is the holder of a Certificate of Public Practice issued by Chartered Accountants Australia & New Zealand, liability is limited by a scheme approved under Professional Standards Legislation.
 
 
-  **Contact Us**
+  ## **Contact Us**
 
 
   If you have any questions, please don't hesitate to contact us on +61 3 9013 6262 or via email at info@walbrook.com.au.
