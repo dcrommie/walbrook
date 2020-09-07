@@ -59,7 +59,7 @@ const HowWeHelp = () => {
   return (
     <div>
       <SEO title="What we do" />
-      <Header />
+      <Header header="#contact" />
 
       <Helmet>
         <link

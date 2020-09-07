@@ -18,7 +18,7 @@ export default class BlogIndexPage extends React.Component {
           />
         </Helmet>
         <SEO title="Education" />
-        <Header />
+        <Header header="/contact" />
         <section className="insight-hero">
           <div className="container blog-container">
             <h1>Education</h1>

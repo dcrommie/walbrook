@@ -39,7 +39,7 @@ const Privacy = () => {
           crossorigin="anonymous"
         />
       </Helmet>
-      <Header />
+      <Header header="/contact" />
       <div className="privacy-title">
         <div className="container">
           <h1>Privacy</h1>

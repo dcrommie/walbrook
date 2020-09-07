@@ -18,7 +18,7 @@ const Contact = () => {
           crossorigin="anonymous"
         />
       </Helmet>
-      <Header />
+      <Header header="#contact" />
       <div className="form" id="contact">
         <div className="container">
           <div className="main-form">

@@ -40,7 +40,7 @@ const FinancialServicesGuide = () => {
           crossorigin="anonymous"
         />
       </Helmet>
-      <Header />
+      <Header header="/contact" />
       <div className="privacy-title">
         <div className="container">
           <h1>Financial Services Guide</h1>

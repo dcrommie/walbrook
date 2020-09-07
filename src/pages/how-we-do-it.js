@@ -52,7 +52,7 @@ const AdvisoryFramework = () => {
   return (
     <div>
       <SEO title="How we do it" />
-      <Header />
+      <Header header="#contact" />
       <Helmet>
         <link
           rel="stylesheet"

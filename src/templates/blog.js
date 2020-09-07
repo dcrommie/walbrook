@@ -36,7 +36,7 @@ const Blog = props => {
         />
       </Helmet>
       <SEO title={props.data.markdownRemark.frontmatter.blogtitle} />
-      <Header />
+      <Header header="/contact" />
 
       <div className="blogpost">
         <div className="container">

@@ -10,7 +10,7 @@ const ThankYou = () => {
     <div>
       <SEO title="Thank you" />
 
-      <Header />
+      <Header header="/contact" />
       <div className="thankyou">
         <div className="container">
           <h2>Thank you for contacting us!</h2>

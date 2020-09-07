@@ -34,7 +34,7 @@ const ContinuingProfessionalDevelopmentPolicy = () => {
   return (
     <div>
       <SEO title="CPD Policy" />
-      <Helmet>
+      <Helmet header="/contact">
         <link
           rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
