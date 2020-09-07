@@ -50,7 +50,7 @@ const IndexPage = () => {
       <div>
         <SEO title="Walbrook - Home" />
 
-        <Header />
+        <Header header="#contact" />
       </div>
       <Helmet>
         <link

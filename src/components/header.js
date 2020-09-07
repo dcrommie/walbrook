@@ -5,7 +5,7 @@ import { Helmet } from "react-helmet"
 import "../styles/header.css"
 import logo from "../images/logo.svg"
 
-const Header = () => {
+const Header = props => {
   const [show, setShow] = useState(false)
   const onClick = () => {
     setShow(!show)
@@ -57,7 +57,7 @@ const Header = () => {
                 Login
               </Link>
             </li>
-            <Link to="#contact">
+            <Link to={props.header}>
               <button>Contact Us</button>
             </Link>
           </ul>
