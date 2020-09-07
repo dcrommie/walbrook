@@ -935,23 +935,23 @@ article span {
 
 .section .error {
   font-size: 150px;
-  color: #006ec7;
-  text-shadow: 1px 1px 1px #006ec7, 2px 2px 1px #006ec7, 3px 3px 1px #006ec7,
-    4px 4px 1px #006ec7, 5px 5px 1px #006ec7, 6px 6px 1px #006ec7,
-    7px 7px 1px #006ec7, 8px 8px 1px #006ec7, 25px 25px 8px rgba(0, 0, 0, 0.2);
+  color: #006;
+  text-shadow: 1px 1px 1px #006, 2px 2px 1px #006, 3px 3px 1px #006,
+    4px 4px 1px #006, 5px 5px 1px #006, 6px 6px 1px #006, 7px 7px 1px #006,
+    8px 8px 1px #006, 25px 25px 8px rgba(0, 0, 0, 0.2);
 }
 
 .page {
   margin: 2rem 0;
   font-size: 20px;
   font-weight: 600;
-  color: #006ec7;
+  color: #006;
 }
 
 .back-home {
   display: inline-block;
-  border: 2px solid #006ec7;
-  color: #006ec7;
+  border: 2px solid #006;
+  color: #006;
   text-transform: uppercase;
   font-weight: 600;
   padding: 0.75rem 1rem 0.6rem;
@@ -959,7 +959,7 @@ article span {
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
 }
 .back-home:hover {
-  background: #006ec7;
+  background: #006;
   color: #ddd;
 }
 
