@@ -37,10 +37,10 @@ reviews:
       the financial institutions and took all the stress out of the process.
     pic: ../src/images/1.svg
     name: Ben, Retired, Melbourne
-  - review: Damien has helped me and my wife to structure our superannuation to
-      allow for transition to retirement. I am pleased that we are going down a
-      safe path.
-    pic: ../src/images/Favicon.png
+  - review: Walbrook helped me and my wife to structure our superannuation and allow
+      for transition to retirement. I am pleased that we are going down a safe
+      path.
+    pic: ../src/images/2.svg
     name: Sean, Business Owner, Melbourne
 contacttitle: Take care of your future today
 contactdesc: Get in touch so we can get you started
