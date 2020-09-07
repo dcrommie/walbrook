@@ -29,16 +29,13 @@ service3: Wealth Creation
 service4: Risk Management
 advisorytitle: How we do it
 reviews:
-  - review: I had several meetings with Damien to sort out my finances and to help
-      set up my income stream from my super. Damien spent some time
-      understanding my needs and wants as well as my risk appetite. Once Damien
-      had the information he then put in place a financial plan that suited my
-      needs. Within a couple of weeks my income stream was in place and my
-      finances were in order... Damien did all the interactions with all the
-      financial institutions and took all the stress out of the process. Damien
-      has great attention to detail and follows up to keep you informed. I now
-      have a financial plan that works for me ... thanks Damien !!
-    pic: ../src/images/gatsby-icon.png
+  - review: I had several meetings to sort out my finances and help set up an income
+      stream from my super. Damien spent time understanding my needs and wants
+      as well as my risk appetite, then put in place a financial plan that
+      suited my needs. Within a couple of weeks, my income stream was in place
+      and my finances were in order... Walbrook handled the interactions with
+      the financial institutions and took all the stress out of the process.
+    pic: ../src/images/1.svg
     name: Ben, Retired, Melbourne
   - review: Damien has helped me and my wife to structure our superannuation to
       allow for transition to retirement. I am pleased that we are going down a
