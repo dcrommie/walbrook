@@ -9,7 +9,7 @@ policy: >-
   Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465).
 
 
-  ## **Why you are receiving this document**
+  ## Why you are receiving this document
 
 
   This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services.
@@ -94,7 +94,7 @@ policy: >-
   +61 3 9013 6262
 
 
-  ## **The financial services we may provide to you**
+  ## The financial services we may provide to you
 
 
   The financial services and products we are authorised to advise on and deal in for Retail and Wholesale clients are:
@@ -134,7 +134,7 @@ policy: >-
   In addition to this FSG, you can expect to receive the following important documents over the course of your relationship with us. 
 
 
-  ### **Statement of Advice**
+  ### Statement of Advice
 
 
   By law, you are entitled to receive a Statement of Advice on the first occasion that we provide you with personal advice.
@@ -143,7 +143,7 @@ policy: >-
   The Statement of Advice will contain the advice, the basis of the advice, information about fees, payments and any associations we have that may influence the advice we provide to you.
 
 
-  ### **Record of Advice**
+  ### Record of Advice
 
 
   Subsequent personal advice that we provide to you will be documented in a Record of Advice, provided there has not been a significant change in your circumstances or the basis upon which we prepared your last Statement of Advice. In limited circumstances, where initial advice relates to specific products with amounts under certain thresholds, we may provide a Record of Advice in place of a Statement of Advice.
@@ -152,7 +152,7 @@ policy: >-
   We will retain copies of each Statement of Advice and Record of Advice on your file. You may request a copy by contacting your financial adviser.
 
 
-  ### **Product Disclosure Statements**
+  ### Product Disclosure Statements
 
 
   Where a recommendation has been made to acquire a financial product, we will provide you with a Product Disclosure Statement. The product provider issues the Product Disclosure Statement, which contains information about the features, costs, risks and benefits. It will help you to make an informed decision about whether or not to invest in or buy the financial product.
@@ -161,13 +161,13 @@ policy: >-
   It is essential that you read and understand this document before implementing any recommendation made in the Statement of Advice or Record of Advice. We will readily explain any part of this document that you do not understand.
 
 
-  ## **Electronic Disclosure**
+  ## Electronic Disclosure
 
 
   We may provide disclosure documents, including this FSG and the documents outlined above, by making them available digitally, e.g. by email attachment or as a hyperlink in a document or email. You can contact us to opt-out of this method of disclosure at any time.
 
 
-  ## **How we provide you with personal financial advice**
+  ## How we provide you with personal financial advice
 
 
   Personal financial advice is advice that considers your financial objectives, financial situation and financial needs. We must act in your best interests when providing you with personal financial advice. Within the subject matter of the advice we provide to you, we must ensure that:
@@ -191,7 +191,7 @@ policy: >-
   We will always provide our advice to you in a Statement of Advice, unless it is further advice.
 
 
-  ## **Further advice**
+  ## Further advice
 
 
   If you require further advice, we must ensure that the basis on which we provided the original advice has not significantly changed. Therefore, we may need to recheck your circumstances before giving any further advice.
@@ -206,7 +206,7 @@ policy: >-
   As our ongoing advice will refer to previous documentation, you should keep all Statements of Advice provided to you.
 
 
-  ## **Your instructions to us**
+  ## Your instructions to us
 
 
   You may give us your instructions verbally or in writing, such as by email or letter. In limited circumstances and where required by third parties, we may require your instructions in writing.
@@ -220,7 +220,7 @@ policy: >-
   * We may require you to sign a document that records your intention to proceed without or against advice to acquire the financial products.
 
 
-  ## **How you pay for the financial services we provide to you**
+  ## How you pay for the financial services we provide to you
 
 
   We believe in a transparent and straightforward fee structure and do not accept upfront or trailing commissions on any investments or insurance products that we recommend to you, nor do we accept volume-based benefits from platform or product providers.
@@ -235,7 +235,7 @@ policy: >-
   We will agree the following fees with you, before commencing work at each stage:
 
 
-  ### **Initial Advice Fee**
+  ### Initial Advice Fee
 
 
   Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.
@@ -244,7 +244,7 @@ policy: >-
   The minimum initial advice fee is AUD 2,500, inclusive of GST.
 
 
-  ### **Implementation Fee**
+  ### Implementation Fee
 
 
   On completion of the Statement of Advice, we will calculate an implementation fee. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
@@ -253,7 +253,7 @@ policy: >-
   There is no minimum implementation fee.
 
 
-  ### **Ongoing Service Fee**
+  ### Ongoing Service Fee
 
 
   Where we recommend an ongoing service, we will calculate a fixed annual fee and disclose this, along with the specific ongoing services that we will provide, in the Statement of Advice.
@@ -265,7 +265,7 @@ policy: >-
   The minimum ongoing service fee is AUD 3,500 per annum, inclusive of GST.
 
 
-  ### **Transaction and Administration Fees**
+  ### Transaction and Administration Fees
 
 
   We do not charge transaction or administration fees on advised trades, including off-market transfers. Where we are asked to process transactions on an execution-only basis, we may charge a fee of up to 1.00% of the transaction value (minimum AUD 200). This fee does not include third-party costs.
@@ -307,7 +307,7 @@ policy: >-
   We do not currently pay anyone to refer clients to us, nor do we accept payments for referrals to other professionals. If you have been referred to us and we do decide to pay a referral fee, the details will be disclosed in your Statement of Advice and paid as agreed with you and permitted by law.
 
 
-  ## **How we protect your personal information**
+  ## How we protect your personal information
 
 
   Protecting your privacy is important to us and central to our commitment to meeting the highest level of professional standards. We will handle your personal information per our privacy policy, which outlines how the information we collect from you is used, stored and disclosed.
@@ -348,7 +348,7 @@ policy: >-
   If you have concerns about the accuracy and completeness of the information we hold, you may request access to your data by contacting the Privacy Officer on +61 3 9013 6262.
 
 
-  ## **How you can make a complaint**
+  ## How you can make a complaint
 
 
   If you would like to make a complaint, please contact us in the first instance using the details below:
@@ -408,7 +408,7 @@ policy: >-
   1800 931 678
 
 
-  ## **What compensation arrangements are in place?**
+  ## What compensation arrangements are in place?
 
 
   In compliance with the requirements of section 912B of the Corporations Act 2001, we have professional indemnity insurance cover in place in respect of financial services we provide to our clients. This insurance also covers claims concerning the conduct of representatives no longer working for us (but who did at the time of the relevant conduct).
@@ -417,7 +417,7 @@ policy: >-
   Please note that as our Principal is the holder of a Certificate of Public Practice issued by Chartered Accountants Australia & New Zealand, liability is limited by a scheme approved under Professional Standards Legislation.
 
 
-  ## **Contact Us**
+  ## Contact Us
 
 
   If you have any questions, please don't hesitate to contact us on +61 3 9013 6262 or via email at info@walbrook.com.au.
