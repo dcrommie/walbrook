@@ -57,9 +57,9 @@ Diversification by investing across asset classes can help mitigate unsystematic
 
 Most of the investment techniques, asset classes, and financial instruments mentioned in this document involve the following common risk types:
 
-* **Portfolio Risks**
-* **Market Risks**
-* **Other Common Risks**
+* Portfolio Risks
+* Market Risks
+* Other Common Risks
 
 Investors should consider the impact and likelihood of these risks occurring before making any investment.
 
@@ -77,19 +77,29 @@ The risk of not having sufficient diversification in an investment portfolio is 
 
 **Correlation Risk**
 
-Understanding the correlation between different assets in a portfolio is important in managing risk. Correlation is a term used to compare how an asset might behave in comparison to another asset or asset class. Combining assets with low (or negative) correla­tion means that the fluctuations of individual holdings have a partial offsetting effect as they react differently to market conditions, resulting in less volatile overall returns and lower overall portfolio risk. Correlation risk refers to the probability that the actual correlation between two assets or varia­bles will be different from what was assumed. As a result, the portfolio could be riskier than anticipated.
+Understanding the correlation between different assets in a portfolio is important in managing risk. 
+
+Correlation is a term used to compare how an asset might behave in comparison to another asset or asset class. Combining assets with low (or negative) correla­tion means that the fluctuations of individual holdings have a partial offsetting effect as they react differently to market conditions, resulting in less volatile overall returns and lower overall portfolio risk. 
+
+Correlation risk refers to the probability that the actual correlation between two assets or varia­bles will be different from what was assumed. As a result, the portfolio could be riskier than anticipated.
 
 **Leverage Risk**
 
-Leverage involves gaining exposure to an asset using borrowed funds or derivatives, with the aim of amplifying gains. However, it can also amplify losses. An investor may be exposed to leverage risk directly, from their own actions, or indirectly by investing with a company or investment manager using leverage. In addition to increased volatility and the risk of amplified losses wiping out an investors equity, leverage risk incorporates the risks of not meeting margin calls, not being able to refinance borrowings and counterparty risks when using derivatives to leverage. For more information, refer to **Understanding Leverage**.
+Leverage involves gaining exposure to an asset using borrowed funds or derivatives, with the aim of amplifying gains. However, it can also amplify losses. An investor may be exposed to leverage risk directly, from their own actions, or indirectly by investing with a company or investment manager using leverage. 
+
+In addition to increased volatility and the risk of amplified losses wiping out an investors equity, leverage risk incorporates the risks of not meeting margin calls, not being able to refinance borrowings and counterparty risks when using derivatives to leverage. 
 
 **Liquidity Risk**
 
-The risk that an investment cannot be sold at a fair price within a normal timeframe is called Liquidity Risk. Listing on a stock exchange does not negate liquidity risk, as there still needs to be a willing buyer. It is common for the shares of small or micro companies ('small caps' and 'micro caps') to present liquidity risks, given there are few shares in issuance and trading volumes are low. Listed investment companies and investment trusts, especially listed private equity vehicles, may also present a liquidity risk. Liquidity Risk is even more prevalent in unlisted assets, including structured products and alternative investments such as private equity or real estate, where no secondary market exists and the underlying assets are themselves illiquid.
+The risk that an investment cannot be sold at a fair price within a normal timeframe is called Liquidity Risk. 
+
+Listing on a stock exchange does not negate liquidity risk, as there still needs to be a willing buyer. It is common for the shares of small or micro companies ('small caps' and 'micro caps') to present liquidity risks, given there are few shares in issuance and trading volumes are low. Listed investment companies and investment trusts, especially listed private equity vehicles, may also present a liquidity risk. 
+
+Liquidity risk is even more prevalent in unlisted assets, including structured products and alternative investments such as private equity or real estate, where no secondary market exists and the underlying assets are themselves illiquid.
 
 **Manager Risk**
 
-Manager Risk is the risk that an investment manager or investment management team fail to meet their investment objectives, or drifts from their stated investment mandate or style.
+Manager Risk is the risk that an investment manager or investment management team fail to meet their investment objectives or drifts from their stated investment mandate or style.
 
 **Order Placement Risk**
 
@@ -105,11 +115,15 @@ Defining investment objectives is an important precursor to making investment de
 
 **Timing Risk**
 
-An investor is exposed to timing risk when attempting to time market entry or exit after committing to the action. It is impossible to consistently time the market. Timing risk can also be used to describe the risk borne by investors when they invest in long term assets, with a view to making short term gains. If the investors time horizon is short due to financing costs or other commitments, they may be forced to sell their investment at a loss.
+An investor is exposed to timing risk when attempting to time market entry or exit after committing to the action. It is impossible to consistently time the market. 
+
+Timing risk can also be used to describe the risk borne by investors when they invest in long term assets, with a view to making short term gains. If the investors time horizon is short due to financing costs or other commitments, they may be forced to sell their investment at a loss.
 
 **Turnover Risk**
 
-When investors or investment professionals are managing investment portfolios, a high number of short-term transactions can result in higher brokerage costs, or other transaction fees and expenses. These costs erode the final returns to investors. The possibility that the cost of high levels of trading exceeds the benefits of the trading activity, and may adversely affect performance, is known as turnover risk.
+When investors or investment professionals are managing investment portfolios, a high number of short-term transactions can result in higher brokerage costs, or other transaction fees and expenses. These costs erode the final returns to investors. 
+
+The possibility that the cost of high levels of trading exceeds the benefits of the trading activity, and may adversely affect performance, is known as turnover risk.
 
 **Volatility Risk**
 
@@ -117,7 +131,7 @@ Volatility Risk refers to the impact that changes in expected volatility have on
 
 ### Market Risks
 
-Market risks are systematic risks that affect all investors, such as fluctations in broad market returns.
+Market risks are systematic risks that affect all investors, such as fluctuations in broad market returns.
 
 There are four main market risks:
 
@@ -147,7 +161,11 @@ Refers to the risk of loss arising from a debtor who does not make payments as p
 
 **Country Risk**
 
-Refers to the risk of loss when investing in foreign countries. Country risk tends to be relatively low in developed markets, where governments are typically stable and companies adhere to strict levels of industry standards. In emerging markets, there is generally less government supervision of business and industry. Country risk in emerging markets is therefore greater. An investment's value can be affected by changes in a country's business environment, including financial factors (currency controls, devaluation or regulatory changes) and stability factors (wars, riots and political risks) that may result in an investor not being able to recover their investment.
+Refers to the risk of loss when investing in foreign countries. Country risk tends to be relatively low in developed markets, where governments are typically stable and companies adhere to strict levels of industry standards. 
+
+In emerging markets, there is generally less government supervision of business and industry. Country risk in emerging markets is therefore greater. 
+
+An investment's value can be affected by changes in a country's business environment, including financial factors (currency controls, devaluation or regulatory changes) and stability factors (wars, riots and political risks) that may result in an investor not being able to recover their investment.
 
 **Economic Risk**
 
@@ -155,15 +173,19 @@ Refers to the risk posed by macroeconomic conditions, such as exchange rates, po
 
 **Emerging Market Risk**
 
-Many emerging markets countries are undergoing, or have undergone in recent years, significant political change which has affected government policy. The relative inexperience with such policies and instability of these political systems leaves them more vulnerable to economic hardship, public unrest or popular dissatisfaction with reform, political or diplomatic developments, social, ethnic or religious instability or changes in government policies. The equity and debt markets of many emerging markets countries are in the early stages of development and generally lack the level of transparency, liquidity, efficiency and regulation found in more developed markets. It is important to be familiar with secondary market trading in emerging markets investments. Price volatility in many of these markets can be extreme.
+Many emerging markets countries are undergoing, or have undergone in recent years, significant political change which has affected government policy. The relative inexperience with such policies and instability of these political systems leaves them more vulnerable to economic hardship, public unrest or popular dissatisfaction with reform, political or diplomatic developments, social, ethnic or religious instability or changes in government policies. 
+
+The equity and debt markets of many emerging markets countries are in the early stages of development and generally lack the level of transparency, liquidity, efficiency and regulation found in more developed markets. It is important to be familiar with secondary market trading in emerging markets investments. Price volatility in many of these markets can be extreme.
 
 **Inflation Risk**
 
-Refers to the risk of increases in the general price level of goods in an economy undermining investment performance. It is not the risk that inflation will occur: rather, it is the risk that inflation will be higher than expected when investment objectives were set. As rising prices cause money to lose its real value (purchasing power), most investments are exposed to inflation risk. As such, inflation risk is a particular worry for income investors. If an investor is dependent on the income from their portfolio and earns a lower real (inflation-adjusted) return than they initially expected, they may risk capital erosion.
+Refers to the risk of increases in the general price level of goods in an economy undermining investment performance. It is not the risk that inflation will occur: rather, it is the risk that inflation will be higher than expected when investment objectives were set. 
+
+As rising prices cause money to lose its real value (purchasing power), most investments are exposed to inflation risk. As such, inflation risk is a particular worry for income investors. If an investor is dependent on the income from their portfolio and earns a lower real (inflation-adjusted) return than they initially expected, they may risk capital erosion.
 
 **Issuer Risk**
 
-Issuer Risk is a form of counterparty risk. It refers to the risk that the issuer of a security, either a corporate or a sovereign, will default on its financial obligations. Issuer risk is measured by the issuer's creditworthiness and reflects their solvency. in the case of a soverign issuer, credit quality is also determined by the state of its finances adn economic stability.
+Issuer Risk is a form of counterparty risk. It refers to the risk that the issuer of a security, either a corporate or a sovereign, will default on its financial obligations. Issuer risk is measured by the issuer's creditworthiness and reflects their solvency. In the case of a sovereign issuer, credit quality is also determined by the state of its finances and economic stability.
 
 **Operational Risk**
 
@@ -171,11 +193,15 @@ Refers to the potential loss resulting from inadequate or failed processes, peop
 
 **Political Risk**
 
-Encompasses a broad range of consequences including confiscatory taxation, exchange controls, compulsory re-acquisition, nationalisa­tion or expropriation of foreign-owned assets without adequate compensation. Whilst political risk is relevant for all developed and emerging market countries, the impact of changes in policies may be more pronounced for emerging market countries.
+Encompasses a broad range of consequences including confiscatory taxation, exchange controls, compulsory re-acquisition, nationalisa­tion or expropriation of foreign-owned assets without adequate compensation. 
+
+Whilst political risk is relevant for all developed and emerging market countries, the impact of changes in policies may be more pronounced for emerging market countries.
 
 **Regulatory Risk**
 
-Refers to the risk of investments being affected by chang­es in the law, accounting code, or market rules. While these risks are present in every jurisdiction and industry, some are more affected than others. Regulatory risk extends beyond financial markets and taxation to cover environmental, political, and legal regula­tion that may affect the operations of a company.
+Refers to the risk of investments being affected by chang­es in the law, accounting code, or market rules. While these risks are present in every jurisdiction and industry, some are more affected than others. 
+
+Regulatory risk extends beyond financial markets and taxation to cover environmental, political, and legal regula­tion that may affect the operations of a company.
 
 **Sector Risk**
 
