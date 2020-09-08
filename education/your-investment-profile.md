@@ -38,22 +38,6 @@ You want to grow the value of your investments and accumulate wealth over time t
 
 Our understanding of your ability to bear the financial risks of your investments, and your willingness to accept fluctuations in your investments over time.
 
-#### Low
-
-You are willing and able to take only small risks resulting in almost no capital losses. You will only accept low fluctuations in the value of your investment. You prefer income-generating investments with small growth.
-
-#### Moderate
-
-You are willing and able to accept occasional short-term losses for potential positive returns. You can accept moderate fluctuations in the value of your capital. You want a combination of modest income and growth.
-
-#### Considerable
-
-You are willing and able to accept some investment risk for potentially higher returns. You know that there will be fluctuations in market value. You want to achieve the potential for capital growth and income.
-
-#### High
-
-You are willing and able to accept a significant risk, including the possible loss of principal for the potential to maximise long-term returns. You know that your capital will undergo significant fluctuations. You want maximum growth opportunities for your investment.
-
 ### Overall Investment Strategy
 
 Our implementation plan to achieve your investment objectives based on your risk profile. Your investment strategy directly depends on your personal investment objectives and your financial risk ability and risk tolerance.
@@ -62,22 +46,38 @@ Our implementation plan to achieve your investment objectives based on your risk
 
 Long-term preservation of assets. Your return is from ongoing interest earnings. Minimum volatility of capital.
 
+You are willing and able to take only small risks resulting in almost no capital losses. You will only accept low fluctuations in the value of your investment. You prefer income-generating investments with small growth.
+
 #### Conservative
 
 Long-term preservation / moderate growth of assets. Your return is primarily from ongoing interest and dividend earnings and supplemented by modest capital gains. Low volatility of capital.
 
+You are willing and able to accept occasional short-term losses for potential positive returns. You can accept moderate fluctuations in the value of your capital. You want a combination of modest income and growth.
+
+Risk Group 2 and lower contains the bottom 4.5% of the population. These individuals are typically significantly more concerned with potential losses than potential gains and will tolerate one year losses of up to 10% of their portfolio value to achieve their objectives.
+
 #### Moderate
+
+You are willing and able to accept some investment risk for potentially higher returns. You know that there will be fluctuations in market value. You want to achieve the potential for capital growth and income.
 
 #### Balanced
 
 Long-term asset growth. Your return is from ongoing interest and dividend earnings as well as from capital gains. Medium volatility of capital.
 
+Risk Group 4 contains the middle 38% of the population. These individuals are typically equally concerned with potential losses as potential gains and will tolerate one year losses of up to 25% of their portfolio value to achieve their objectives.
+
 #### Growth
 
 Long-term maximisation of asset growth. Your return is mainly from capital gains, supplemented by very low ongoing interest and dividend earnings. High volatility of capital.
 
+Risk Group 5 and higher contains the top 27.5% of the population. These individuals are typically less concerned with potential losses than potential gains and will tolerate one year losses of up to 30% of their portfolio value to achieve their objectives.
+
 #### High Growth
+
+Risk Group 6 and higher contains the top 4.5% of the population. These individuals are typically significantly less concerned with potential losses than potential gains and will tolerate one year losses of up to 40% of their portfolio value to achieve their objectives.
 
 #### Maximum Growth
 
 Maximisation of asset growth. Your return is from capital gains. Very high volatility of capital
+
+You are willing and able to accept a significant risk, including the possible loss of principal for the potential to maximise long-term returns. You know that your capital will undergo significant fluctuations. You want maximum growth opportunities for your investment.
