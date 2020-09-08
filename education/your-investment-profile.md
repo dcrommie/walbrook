@@ -68,8 +68,6 @@ Long-term preservation / moderate growth of assets. Your return is primarily fro
 
 #### Moderate
 
-
-
 #### Balanced
 
 Long-term asset growth. Your return is from ongoing interest and dividend earnings as well as from capital gains. Medium volatility of capital.
@@ -79,8 +77,6 @@ Long-term asset growth. Your return is from ongoing interest and dividend earnin
 Long-term maximisation of asset growth. Your return is mainly from capital gains, supplemented by very low ongoing interest and dividend earnings. High volatility of capital.
 
 #### High Growth
-
-
 
 #### Maximum Growth
 
