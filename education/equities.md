@@ -4,7 +4,7 @@ path: equities
 date: 2020-09-08T09:57:44.959Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/understanding-equities.png
 ---
 The term ‘equity’ refers to the residual value of a company after deducting all liabilities from the company’s assets.
 
