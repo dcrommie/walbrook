@@ -21,7 +21,7 @@ servicestitle: Creating wealth and planning for change over the long term
 service2: Retirement Planning
 service5: Family Office
 service6: Expatriates
-advisorydesc: Supported by great technology and institutional-grade investment
+advisorydesc: Supported by great technology and institutional investment
   management, our advisory framework guides our conversations and actions from
   the outset.
 page: true
