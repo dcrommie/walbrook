@@ -87,3 +87,7 @@ The investor is exposed to the general economic environment, e.g. interest rate 
 Company risk stems from the economic situation or environment specific to the company, including the quality of the company, its management and its competitors.
 
 Company risk is an unsystematic risk, meaning that an investor can reduce its impact on a portfolio basis by including exposure to other companies, sectors and countries in your portfolio.
+
+**Important Information**
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs.  You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
