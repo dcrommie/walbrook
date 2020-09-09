@@ -4,7 +4,7 @@ path: coronavirus-impact
 date: 2020-03-02T10:42:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/coronvirus-impact-blog-banner.png
 ---
 News that a form of coronavirus - known as COVID-19 - has spread to over 60 countries led to sharp falls in global markets last week, with many down over 10% for the week and 5% year to date.
 
