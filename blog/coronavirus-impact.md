@@ -72,7 +72,7 @@ This is manifesting in sharply lower sea traffic and freight rates. SeaIntellige
 
 Anecdotally, we are hearing many stories of projects being delayed due to goods being quarantined or not manufactured at all, which is impacting small to medium enterprises in Australia. This will likely have an impact on growth and unemployment, even if the outbreak is relatively contained.
 
-### Financial Contagion
+## Financial Contagion
 
 For investors that don't have direct exposure to China or other affected regions, attention should be given to the effect of the crisis on the earnings of domestically listed companies.
 
@@ -102,9 +102,13 @@ There is no 'safe' approach for investors to take in these situations - liquidat
 
 It is worth noting that pullbacks and market corrections happen and are part of long-term investing. In fact, since 1980 the average year has experienced a pullback in the S&P 500 from peak to trough of 13.7%. Even more impressive, looking at the 29 years that the S&P 500 has been green since 1980, the average year had a correction of 10.9%.
 
-### **Sources:**
+### Sources:
 
 * 'Coronavirus: An investment perspective' - Morningstar Investment Management
 * 'Monitoring the global impact of COVID-19' - J.P. Morgan Asset Management
 * 'Dominoes falling' in global shipping as coronavirus continues to grip China's economy' - www.telegraph.co.uk
 * 'Beware the long tail of coronavirus risk' Lonsec. This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019
+
+### **Important Information**
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
