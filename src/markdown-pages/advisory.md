@@ -2,9 +2,8 @@
 thumbnail: ../src/images/advisoryframework.png
 page: true
 title: How we do it
-subtitle: Supported by great technology and institutional-grade investment
-  management, our advisory framework guides our conversations and actions from
-  the outset.
+subtitle: Supported by great technology and institutional investment management,
+  our advisory framework guides our conversations and actions from the outset.
 FAQ1: Understanding your objectives and needs
 answer1: >-
   What is important to you? How comfortable are you with investment and risk? Do
@@ -30,10 +29,10 @@ answer2: >-
   We aim to deliver straight forward solutions to complex problems, balancing cost, required capabilities and your preferred level of engagement in the ongoing investment process.
 
 
-  Where possible, our investment advice will typically incorporate a preference for institutional-grade investment management, given the value offered in terms of process, resourcing, access and global reach.
+  Where possible, our investment advice will typically incorporate a preference for institutional investment management, given the value offered in terms of process, resourcing, access and global reach.
 
 
-  We also allow for constraints and opportunities that are specific to the client situation, such as legacy assets with embedded capital gains, foreign pensions with limited investment options or deferred cash and equity bonuses that pose a concentration risk.
+  We also allow for constraints and opportunities that are specific to the client situation, such as legacy assets with embedded capital gains, foreign pensions with fixed or limited investment options or deferred cash and equity bonuses that pose a concentration risk.
 
 
   Any recommendations we make need to consider and align with the advice of your tax and legal advisers, as well as any rules or regulations that your investment structures are subject to.
@@ -57,30 +56,6 @@ answer3: >-
 
 
   This capability typically means that we can provide you with our service across your entire asset base, reducing your ongoing administrative burden and increasing oversight.
-
-
-  Foreign Trusts
-
-
-  Domestic Trusts
-
-
-  Foreign Companies
-
-
-  Life Assurance Bonds
-
-
-  International Pension Plans
-
-
-  Self Invested Personal Pensions
-
-
-  Superannuation (public offer, SMSF, industry)
-
-
-  Recognised Overseas Pension Schemes (ROPS/QROPS)
 FAQ4: Monitoring and reviewing your progress
 answer4: >-
   The key to successfully meeting your goals is ‘staying the course’ while
