@@ -5,7 +5,7 @@ path: market-update-august-2020
 date: 2020-08-03T13:57:19.131Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/faang-ex-n.jpeg
+thumbnail: ../src/images/august-2020-blog-banner.png
 ---
 
 The impact of the Covid-19 pandemic on the global economy has been profound, especially in emerging, low-income economies with limited health care capacity.
