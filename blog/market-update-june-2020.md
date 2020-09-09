@@ -149,4 +149,6 @@ Gold rose 2.5% to USD 1,730.27 per ounce, with some of the world’s most promin
 Fears of inflation are not referencing the prices of soft commodities. With plentiful harvests looming in many nations, global wheat stockpiles are expected to hit a record this year and climb even higher in 2021.\
 To protect domestic supplies, significant exporters like Russia and Romania limited exports during the public health crisis. While some measures remain in place, there hasn’t been a significant impact on trade and supplies should keep rising.
 
+
+
 ![Wheat Glut](../src/images/wheat-glut.png "Wheat Glut")
