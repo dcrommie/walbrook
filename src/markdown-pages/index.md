@@ -4,12 +4,8 @@ subtitle: Independent financial advice and wealth management
 thumbnail: ../src/images/family.png
 title2: We excel in providing tailored investment advice and expertise for
   professionals interested in building wealth for the future.
-desc1: >-
-  We are 100% independent from banks and product providers, which means that we
-  are free to act in our clients’ best interests. 
-
-
-  Our advice and execution can be tailored in the best way in order to meet your investment objectives and to realise your vision.
+desc1: "We are 100% independent from banks and product providers, which means
+  that we are free to act in our clients’ best interests. "
 desc2: Our breadth of knowledge with origins in global wealth management,
   combined with our flexible, fair, and transparent fee structure allows us to
   determine the most appropriate, comprehensive solutions for our clients.
