@@ -4,7 +4,7 @@ path: market-update-july-2020
 date: 2020-07-14T09:42:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/coverphotoblmrally.png
+thumbnail: ../src/images/july-2020-blog-banner.png
 ---
 The rise in the number of COVID-19 cases globally continues to create uncertainty about the shape of economic recovery. Some countries which were initially successful in suppressing the virus are experiencing a second wave, while others are reopening amidst a resurgent first wave.
 
@@ -61,6 +61,8 @@ The ISM Manufacturing Index jumped from 43.1 in May to 52.6 in June, beating exp
 The risk of a second wave of infections remains, while the further deterioration in US-China trade relations and other geopolitical events are creating additional uncertainty. Some U.S. states reversed course in late June to reimpose social distancing and shelter in place warnings as a result of a rise in new confirmed cases.
 
 The Federal Reserve's FOMC minutes discussed policy tools, including forward guidance, asset purchases, and yield curve control (YCC). At this stage, the FOMC appears to prefer to focus on forward guidance and large-scale asset purchases. However, the possible design and implementation of YCC, as well as the economic and financial effects, is being considered.
+
+
 
 The Citigroup Economic Surprise Index, or CESI, tracks how the economic data fare compared with expectations. The index rises when economic data exceeds Bloomberg consensus estimates and falls when data is below forecasts.
 

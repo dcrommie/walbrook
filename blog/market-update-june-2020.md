@@ -4,7 +4,7 @@ path: market-update-june-2020
 date: 2020-06-12T04:27:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/social_distancing_notice_at_shorncliffe_pier_queensland_2020_during_covid-19_pandemic_in_australia-1200x800.jpg
+thumbnail: ../src/images/may-2020-blog-banner.png
 ---
 Major economies avoided a resurgence in COVID-19 cases in May, though it continues to spread rapidly in some regions and health authorities warn of a possible second wave.
 
@@ -148,5 +148,7 @@ Gold rose 2.5% to USD 1,730.27 per ounce, with some of the world’s most promin
 
 Fears of inflation are not referencing the prices of soft commodities. With plentiful harvests looming in many nations, global wheat stockpiles are expected to hit a record this year and climb even higher in 2021.\
 To protect domestic supplies, significant exporters like Russia and Romania limited exports during the public health crisis. While some measures remain in place, there hasn’t been a significant impact on trade and supplies should keep rising.
+
+
 
 ![Wheat Glut](../src/images/wheat-glut.png "Wheat Glut")

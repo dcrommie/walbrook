@@ -4,7 +4,7 @@ path: market-update-april-2020
 date: 2020-04-10T10:15:16.445Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/times-square.jpg
+thumbnail: ../src/images/april-2020-blog-banner.png
 ---
 The coronavirus situation moved quickly in the past six weeks from something many people felt was an exaggerated response to a nasty version of the flu to a global pandemic that has killed tens of thousands and shut down large swathes of the world economy.
 
