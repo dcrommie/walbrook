@@ -1,5 +1,4 @@
 ---
-page: true
 office: "Level 16  "
 officestreet: 414 La Trobe Street
 officecity: Melbourne VIC 3000
@@ -22,5 +21,6 @@ footerdesc4: The information contained on this website is general in nature and
   offer the most current, correct and clearly expressed information possible
   within this website; however, inadvertent errors can occur and applicable
   laws, rules and regulations may change. You should not act or fail to act
-  based on information contained herein.
+  based on information contained herein. Version 3.0
+page: true
 ---
