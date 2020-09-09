@@ -4,7 +4,7 @@ path: market-update-july-2020
 date: 2020-07-14T09:42:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/coverphotoblmrally.png
+thumbnail: ../src/images/july-2020-blog-banner.png
 ---
 The rise in the number of COVID-19 cases globally continues to create uncertainty about the shape of economic recovery. Some countries which were initially successful in suppressing the virus are experiencing a second wave, while others are reopening amidst a resurgent first wave.
 
