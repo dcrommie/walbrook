@@ -62,6 +62,8 @@ The risk of a second wave of infections remains, while the further deterioration
 
 The Federal Reserve's FOMC minutes discussed policy tools, including forward guidance, asset purchases, and yield curve control (YCC). At this stage, the FOMC appears to prefer to focus on forward guidance and large-scale asset purchases. However, the possible design and implementation of YCC, as well as the economic and financial effects, is being considered.
 
+
+
 The Citigroup Economic Surprise Index, or CESI, tracks how the economic data fare compared with expectations. The index rises when economic data exceeds Bloomberg consensus estimates and falls when data is below forecasts.
 
 ![Economic Projections](../src/images/economic-projections.png "Economic Projections")
