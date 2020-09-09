@@ -1,5 +1,5 @@
 ---
-blogtitle: Understanding Equities (FINAL)
+blogtitle: Understanding Equities
 path: equities
 date: 2020-09-08T09:57:44.959Z
 author: Walbrook Wealth Management
