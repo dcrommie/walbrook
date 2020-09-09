@@ -13,8 +13,8 @@ const Page404 = () => {
         <div className="page">
           Ooops!!! The page you are looking for is not found
         </div>
-        <Link className="main-button" to="/">
-          Back to home
+        <Link to="/">
+          <button className="main-button"> Back to home</button>
         </Link>
       </div>
       <Footer />
