@@ -1,5 +1,5 @@
 ---
-blogtitle: Understanding Superannuation (FINAL)
+blogtitle: Understanding Superannuation
 path: superannuation
 date: 2020-09-01T03:54:50.219Z
 author: Walbrook Wealth Management
