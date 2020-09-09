@@ -1,7 +1,6 @@
 ---
 title: What we do
-subtitle: Our advice and execution can be tailored in the best way in order to
-  meet your investment objectives and to realise your vision.
+subtitle: We help our clients create wealth and plan for change over the long term.
 thumbnail: ../src/images/help.png
 helptitle1: Investment Advisory
 helplist1:
@@ -45,19 +44,18 @@ helplist6:
   - title: Multi-currency deposits, portfolios & lending
 helpmain: How we help
 help1: Client-centric approach
-helpdesc1: We understand that no two clients are the same and believe that each
-  client requires a tailored approach. We find that this is essential when
-  working with expatriates and complex clients.
+helpdesc1: No two clients are the same so we implement an individual, tailored
+  approach to help all of our clients realise their financial goals.
 help2: Advisory framework
 helpdesc2: We use a structured advisory framework to assist and advise our
   clients across asset classes, structures and jurisdictions, providing a
   cohesive solution that incorporates all aspects of their wealth.
-helpdesc3: Our comprehensive, flexible advice service is made possible by our
+helpdesc3: Our comprehensible, flexible advice service is made possible by our
   independence from financial product providers and a fair, transparent flat fee
   structure.
 helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
-  private equity and direct real estate across multiple countries calls for the
-  coordination of professionals and financial institutions.
+  private equity, and direct real estate across multiple countries calls for the
+  skilled coordination of professionals and financial institutions.
 page: true
 help3: Independence
 help4: Coordination
