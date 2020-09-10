@@ -24,6 +24,9 @@ policy: >-
   This FSG provides you with the following important information:
 
 
+  <!--EndFragment-->
+
+
   * Who we are
 
   * How you can contact us
