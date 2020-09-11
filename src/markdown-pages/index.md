@@ -37,7 +37,7 @@ reviews:
       investment recommendations that best fit these goals and was able to
       explain the details in understandable terms to a relative financial
       novice. My knowledge of investing increased dramatically, enabling further
-      growth and understanding going forward.
+      growth and understanding.
     pic: ../src/images/help.png
     name: Ewan, Osteopath, Melbourne
   - review: Damien managed my savings for eight years while he was living in the UK
@@ -50,7 +50,7 @@ reviews:
       Baer.  Damien ensured that the transfer process was smooth, timely and
       tax-efficient.  Post the transfer, he co-ordinated investment advisory,
       tax and financial planning, rewriting of wills and setting up of our Power
-      of Attorneys.  All in all an amazing job.
+      of Attorneys. An amazing job.
     pic: ../src/images/wholesale.png
     name: Mitchel, NED, London
 contacttitle: Take care of your future today
