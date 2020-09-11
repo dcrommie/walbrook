@@ -31,14 +31,14 @@ reviews:
       plan. Within a couple of weeks, our income streams were in place. Walbrook
       handled the interactions with the financial institutions and took all the
       stress out of the process.
-    pic: ../src/images/1.svg
+    pic: ../src/images/advisoryframework.png
     name: Ben, Retired, Melbourne
   - review: Damien helped me to create a goals-based financial plan.  He prepared
       investment recommendations that best fit these goals and was able to
       explain the details in understandable terms to a relative financial
       novice. My knowledge of investing increased dramatically, enabling further
       growth and understanding going forward.
-    pic: ../src/images/2.svg
+    pic: ../src/images/help.png
     name: Ewan, Osteopath, Melbourne
   - review: Damien managed my savings for eight years while he was living in the UK
       and I enjoyed our relationship.  He is very trustworthy, straight-forward
