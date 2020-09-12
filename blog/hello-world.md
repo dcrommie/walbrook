@@ -61,6 +61,8 @@ The Caixin Manufacturing PMI for July rose to 52.8, posting the third consecutiv
 
 Flooding in southern China has destroyed roads, property and farmland, and displaced millions of people from their homes. China’s Ministry of Emergency Management estimated the direct economic cost of the disaster is around $21 billion. Preliminary research indicates that the floods could shave 0.17% from China’s 2020 GDP.
 
+![China charging](../src/images/chinas-markets-charging.png "China charging")
+
 ### Equities
 
 The recovery in Australian shares was cut short in July amid reports of growing Covid-19 cases and anticipation of harsher restrictions in Victoria.
@@ -69,17 +71,17 @@ The S&P/ASX 200 Index gained 0.5% over the month, dragged down by the energy and
 
 Global equities continued their March higher in July, rising 0.6% in Australian dollar terms and 3.5% in local currency terms. With around half of S&P 500 companies having reported at the time of writing, it is clear earnings have been severely affected by the pandemic. However, it has not been as severe as anticipated.
 
-![](../src/images/cc.jpg "Macbook")
+![Tech v SPX ex Tech](../src/images/tech-v-rest-of-spx.png "Tech v SPX ex Tech")
 
 The ‘big four’ tech giants (Amazon, Apple, Facebook, and Google), have supported the US share market, with all beating earnings estimates. Adding Microsoft to this group, the five companies now represent approximately 22% of the S&P 500. However, they now represent more than 80% of 2020 earnings (per share) growth and 18% of earnings.
 
 According to Credit Suisse, over the past 12 months the top five stocks in the index have grown revenues at 11.2% v just 0.8% for the rest of the S&P 500, and added more than $12 per share to the S&P 500 earnings per share number, while the rest of the index has subtracted c.$17.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/08/image-2.png)
+![Tech earnings](../src/images/tech-market-cap-share-earnings.png "Tech earnings")
 
 The net effect of the earnings and share price growth is that the value of the top four companies exceeds that of the entire Japanese stock market, which is the third-largest in the world behind the US and China.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/08/Picture-4.png)
+![Four largest tech stocks v Japan](../src/images/tech-over-japan.png "Four largest tech stocks v Japan")
 
 ### Property
 
@@ -97,7 +99,7 @@ In the US, the Fed intends to hold the funds rate near zero until the economy ha
 
 While the 10-year Treasury yield has traded in a narrow range since early April, the equivalent real yield, as represented by inflation-protected Treasuries (TIPS) has continued to fall. While this may mean market expectations for growth are lower, it can also mean higher inflation expectations, with 10-year break-even rates well off their recent lows.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/08/Picture-3.png)
+![Declining TIPS yields](../src/images/declining-tips-yields.png "Declining TIPS yields")
 
 Negative real yields are being felt in other asset classes, particularly precious metals, and will have severe implications for savers. With an interest rate of 0.25% and an inflation rate of 3%, we are talking about a real interest rate of minus 3.25%.
 
@@ -115,11 +117,11 @@ Metals gained strongly over the month, with increases in Zinc (+13.2%), Nickel (
 
 With the continued collapse in real yields amidst inflation and geopolitical concerns, gold rallied 10.8% in July to US$1,975.86 per ounce and pushed above $2000 in early August. Ultra-low interest rates and a flood of stimulus programs by the world’s central banks and governments are also supporting demand from investors expecting an eventual rise in consumer prices that outpaces any interest-rate increases
 
-![](https://walbrook.com.au/wp-content/uploads/2020/08/image-3.png)
+![Bullion all time high as real yields drop](../src/images/gold-real-yields.png "Bullion all time high as real yields drop")
 
-Silver also experienced its largest weekly move in almostfour4 decades, as the gold:silver ratio reverted sharply from extreme levels.
+Silver also experienced its largest weekly move in almost four decades, as the gold:silver ratio reverted sharply from extreme levels.
 
-![](https://walbrook.com.au/wp-content/uploads/2020/08/Picture-2.png)
+![Silver biggest weekly gain four decades](../src/images/moves-in-silver.png "Spot silver biggest weekly gain")
 
 ### FX
 
@@ -127,8 +129,8 @@ The Australian dollar continued its upward trend in July, appreciating 3.2% in t
 
 Ballooning twin deficits in the US and expectations that the Federal Reserve is taking a more relaxed view on inflation are both contributing to a weaker US currency. At the same time, Australia’s relative success in containing the pandemic has supported the Australian dollar.
 
+![USD Worst Month Decade](../src/images/usd-worst-month-in-decade.png "USD worst month in a decade")
+
 ## **Important Information**
 
 Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
-
-![]()
