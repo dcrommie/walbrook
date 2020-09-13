@@ -62,8 +62,6 @@ The risk of a second wave of infections remains, while the further deterioration
 
 The Federal Reserve's FOMC minutes discussed policy tools, including forward guidance, asset purchases, and yield curve control (YCC). At this stage, the FOMC appears to prefer to focus on forward guidance and large-scale asset purchases. However, the possible design and implementation of YCC, as well as the economic and financial effects, is being considered.
 
-
-
 The Citigroup Economic Surprise Index, or CESI, tracks how the economic data fare compared with expectations. The index rises when economic data exceeds Bloomberg consensus estimates and falls when data is below forecasts.
 
 ![Economic Projections](../src/images/economic-projections.png "Economic Projections")
@@ -171,3 +169,9 @@ It has been a volatile year for the USD, which has given back nearly all of its 
 Historically a net importer, the resulting trade deficit is twinned with a ballooning budget deficit following the passage of the record setting CARES Act, the first trillion-dollar stimulus package. Changes in the twin deficits have usually been an accurate predictor of the long-term trends in the value of the USD.
 
 ![Twin Deficits](../src/images/twin-deficits.png "Twin Deficits")
+
+### **Important Information**
+
+This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019.
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
