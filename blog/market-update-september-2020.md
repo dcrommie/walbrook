@@ -52,6 +52,8 @@ Fears of resurgent COVID-19 infection rates, most notably in Spain and Italy, is
 
 The Markit Composite PMI for the eurozone slipped from 54.9 to 51.9 in August, with the services PMI falling to 50.5. Both measures are still in expansion territory but slowing on the previous month.
 
+![Eurozone PMI](../src/images/eurozone-pmi.png "Eurozone PMI")
+
 Germany’s unemployment rate was unchanged at 6.4% in August. However, employment fell by 9,000 against expectations for a gain of 1,000.
 
 In the UK, while August’s Markit Composite PMI came in at a healthy 59.1, it missed expectations of 60.3, mainly due to the services PMI which came in at 58.8, below expectations of 60.1.
@@ -69,6 +71,8 @@ Australian shares rose 2.8% in August, with IT and Consumer Discretionary the to
 The S&P 500 Index rose 7.2% in US dollar terms, ending August at record highs and fully recovered from its March low.
 
 The rebound in global equities has been led by large-cap growth companies, which have benefited from the persistent low rate, low growth environment.
+
+![Real Rates and Value - Growth Ratio](../src/images/real-rates-and-value-growth-ratio.jpg "Real Rates and Value - Growth Ratio")
 
 One of the heroes of remote work, Zoom Communications, released its June quarter results at the end of August, which included a 355% rise in revenue on the prior corresponding period, soundly beating expectations. Zoom’s share price rose 28.0% in August but fell 19.2% in the first week of September.
 
@@ -94,9 +98,11 @@ As widely expected, the Reserve Bank of Australia left the cash rate and yield c
 
 The RBA noted the government has balance sheet scope for continued fiscal support while also stating it is considering further monetary policy measures to support the economy.
 
-The US Federal Reserve issued a revised Statement on Longer-Run Goals and Monetary Policy Strategy, which introduces flexible average inflation targeting (coined FAIT by some) to compensate for periods where inflation runs below the 2 per cent target (such as following an economic downturn). This change represents a relaxation of the inflation target in the short to medium term.
+The US Federal Reserve issued a revised Statement on Longer-Run Goals and Monetary Policy Strategy, which introduces flexible average inflation targeting (coined FAIT by some) to compensate for periods where inflation runs below the 2 per cent target (such as following an economic downturn). 
 
-Yield curve targeting, which is used by some central banks, including the RBA, went unsupported, with the consensus view that it “would likely provide only modest benefits in the current environment.”
+This change represents a relaxation of the inflation target in the short to medium term, and real yields on some high-quality US corporate bonds slipped below zero in August. The real yield on a bond is the basic nominal yield adjusted for inflation expectations.  Maturities of 1-3 years printed negative real yields for the first time since 2017, when expectations of massive tax cuts boosted inflation expectations, while for 5-7 year maturities the last time we saw negative real yields was 2013.  
+
+![Real US IG Rates](../src/images/real-ig-rates.png "Real US IG Rates")
 
 ## Commodities
 
@@ -105,6 +111,8 @@ Oil prices rose through August with the Brent crude spot price increasing 4.9% t
 Metals were positive over the month, with increases in Nickel (+11.5%), Zinc (+8.5%), Aluminium (+5.0%), Lead (+4.9%) and Copper (+4.0%), while Tin (-0.3%) was flat.
 
 Gold softened over August, falling from US $1,975.86 per ounce to $1,971.90 after pushing above $2,000 earlier in the month.
+
+![Gold ETF Holdings v Central Banks](../src/images/gold-etf-bullion-holdings-v-central-banks.jpg "Gold ETF Holdings v Central Banks")
 
 ## FX
 
