@@ -48,6 +48,8 @@ Key economic indicators suggest that Europe’s recovery is losing momentum this
 
 Fears of resurgent COVID-19 infection rates, most notably in Spain and Italy, is leading to greater caution from consumers, while the spectre of deflation is reemerging for the first time since the euro crisis. Inflation in the eurozone is estimated to be -0.2% year-on-year in August, missing against the expected positive 0.2% rate and down from 0.4% in the previous month.
 
+![Eurozone Deflation](../src/images/euro-deflation.jpg "Eurozone Deflation")
+
 The Markit Composite PMI for the eurozone slipped from 54.9 to 51.9 in August, with the services PMI falling to 50.5. Both measures are still in expansion territory but slowing on the previous month.
 
 Germany’s unemployment rate was unchanged at 6.4% in August. However, employment fell by 9,000 against expectations for a gain of 1,000.
