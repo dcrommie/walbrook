@@ -163,3 +163,9 @@ Gold moved from USD 1,585.7 per ounce to USD 1,597.9 over the month, but it was 
 Prices of essential agricultural commodities rose as consumers loaded up on pasta, rice and bread at the same time as farm supply lines experienced disruption and countries began restricting agricultural exports.
 
 Difficulties moving grain within countries and across borders, coupled with frenzied buying, could exacerbate the impact of the pandemic on the global food market.
+
+### **Important Information**
+
+This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019.
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
