@@ -8,7 +8,9 @@ thumbnail: ../src/images/democrat-convention.jpg
 ---
 The COVID-19 pandemic continues to spread, with data from the World Health Organisation showing confirmed cases were above 27 million at the end of August and rising. 
 
-Globally, the economic recovery continues following severe contractions in the first half of 2020. Still, growth is uneven across countries and regions, with fears of a second wave dampening hopes of a sustained rebound. 
+Globally, the economic recovery continues following severe contractions in the first half of 2020. Shipping volumes are already back at levels that took more than a year to reach following the collapse of Lehman Brothers. Still, growth is uneven across countries and regions, with fears of a second wave dampening hopes of a sustained rebound. 
+
+![Shipping volumes](../src/images/faster-recovery-than-post-lehman.png "Shipping volumes")
 
 ## Australia
 
