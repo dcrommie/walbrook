@@ -4,7 +4,7 @@ path: market-update-september-2020
 date: 2020-09-12T05:15:56.894Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/democrat-convention.jpg
+thumbnail: ../src/images/september-2020-blog-banner.png
 ---
 The COVID-19 pandemic continues to spread, with data from the World Health Organisation showing confirmed cases were above 27 million at the end of August and rising. 
 
@@ -51,8 +51,6 @@ Fears of resurgent COVID-19 infection rates, most notably in Spain and Italy, is
 ![Eurozone Deflation](../src/images/euro-deflation.jpg "Eurozone Deflation")
 
 The Markit Composite PMI for the eurozone slipped from 54.9 to 51.9 in August, with the services PMI falling to 50.5. Both measures are still in expansion territory but slowing on the previous month.
-
-![Eurozone PMI](../src/images/eurozone-pmi.png "Eurozone PMI")
 
 Germany’s unemployment rate was unchanged at 6.4% in August. However, employment fell by 9,000 against expectations for a gain of 1,000.
 
