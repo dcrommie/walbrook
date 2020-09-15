@@ -26,19 +26,33 @@ service3: Wealth Creation
 service4: Risk Management
 advisorytitle: How we do it
 reviews:
-  - review: I had several meetings to sort out my finances and help set up an income
-      stream from my super. Damien spent time understanding my needs and wants
-      as well as my risk appetite, then put in place a financial plan that
-      suited my needs. Within a couple of weeks, my income stream was in place
-      and my finances were in order... Walbrook handled the interactions with
-      the financial institutions and took all the stress out of the process.
-    pic: ../src/images/1.svg
+  - review: Damien helped us sort out our finances and set up an income stream from
+      my super. He discussed our needs with us and then prepared a financial
+      plan. Within a couple of weeks, our income streams were in place. Walbrook
+      handled the interactions with the financial institutions and took all the
+      stress out of the process.
+    pic: ../src/images/advisoryframework.png
     name: Ben, Retired, Melbourne
-  - review: Walbrook helped me and my wife to structure our superannuation and allow
-      for transition to retirement. I am pleased that we are going down a safe
-      path.
-    pic: ../src/images/2.svg
-    name: Sean, Business Owner, Melbourne
+  - review: Damien helped me to create a goals-based financial plan.  He prepared
+      investment recommendations that best fit these goals and was able to
+      explain the details in understandable terms to a relative financial
+      novice. My knowledge of investing increased dramatically, enabling further
+      growth and understanding.
+    pic: ../src/images/help.png
+    name: Ewan, Osteopath, Melbourne
+  - review: Damien managed my savings for eight years while he was living in the UK
+      and I enjoyed our relationship.  He is very trustworthy, straight-forward
+      and always available when needed.  He is a great professional and if he
+      had stayed in the UK I would have continued to use his services.
+    pic: ../src/images/wholesale.png
+    name: Enrico, Founder, London
+  - review: We consolidated our private wealth accounts with Damien at Julius
+      Baer.  Damien ensured that the transfer process was smooth, timely and
+      tax-efficient.  Post the transfer, he co-ordinated investment advisory,
+      tax and financial planning, rewriting of wills and setting up Power of
+      Attorneys. An amazing job.
+    pic: ../src/images/wholesale.png
+    name: Mitchel, NED, London
 contacttitle: Take care of your future today
 contactdesc: Get in touch so we can get you started
 ---

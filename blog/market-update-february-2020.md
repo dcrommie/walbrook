@@ -4,7 +4,7 @@ path: market-update-march-2020
 date: 2020-03-13T09:13:49.710Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/disinfecting_stadium.jpeg
+thumbnail: ../src/images/blackswan.png
 ---
 The focus over the past month has been almost entirely on the coronavirus outbreak, the measures taken to contain it, and the potential economic fallout.
 
@@ -91,3 +91,9 @@ Markets recognise that monetary policy alone is limited in what it can achieve i
 The Australian dollar fell from US $0.6692 to $0.6515 in February, hitting an 11-year low. The dollar is down from $0.7024 at the start of 2020 and has endured bushfires, droughts, floods and now the coronavirus. This, along with a plunge in oil prices, saw flows move from riskier currencies like the Australian dollar to safer currencies like the Japanese yen.
 
 Over the three months to the end of February 2020 the Australian dollar fell 3.7% against the US dollar, 3.8% against the euro, 5.0% against the Japanese yen and 2.9% against the British pound.
+
+### **Important Information**
+
+This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019.
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.

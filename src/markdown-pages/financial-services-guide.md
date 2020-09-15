@@ -1,14 +1,5 @@
 ---
 policy: >-
-  Version 1.30
-
-
-  Issued 23 March 2020
-
-
-  Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465).
-
-
   ## Why you are receiving this document
 
 
@@ -22,6 +13,9 @@ policy: >-
 
 
   This FSG provides you with the following important information:
+
+
+  <!--EndFragment-->
 
 
   * Who we are
@@ -421,5 +415,16 @@ policy: >-
 
 
   If you have any questions, please don't hesitate to contact us on +61 3 9013 6262 or via email at info@walbrook.com.au.
+
+
+
+
+  Version 1.30
+
+
+  Issued 23 March 2020
+
+
+  Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465).
 page: true
 ---
