@@ -56,7 +56,7 @@ const Footer = () => {
                     {" "}
                     <li>Wholesale Clients</li>
                   </Link>
-                  <Link to="https://walbrook.com.au/risk-profile/ ">
+                  <Link to="/risk-profile/ ">
                     <li> Risk Profile</li>
                   </Link>
                 </ul>
