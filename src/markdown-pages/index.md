@@ -49,8 +49,8 @@ reviews:
   - review: We consolidated our private wealth accounts with Damien at Julius
       Baer.  Damien ensured that the transfer process was smooth, timely and
       tax-efficient.  Post the transfer, he co-ordinated investment advisory,
-      tax and financial planning, rewriting of wills and setting up of our Power
-      of Attorneys. An amazing job.
+      tax and financial planning, rewriting of wills and setting up Power of
+      Attorneys. An amazing job.
     pic: ../src/images/wholesale.png
     name: Mitchel, NED, London
 contacttitle: Take care of your future today
