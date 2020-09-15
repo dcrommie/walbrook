@@ -6,7 +6,7 @@ import Header from "../components/header"
 const RiskProfile = () => {
   return (
     <div className="risk">
-      <SEO title="Risk Profile" />
+      <SEO title="Risk Profile " />
 
       <Header />
       <iframe
