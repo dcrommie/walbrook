@@ -68,7 +68,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
   result.data.allMarkdownRemark.edges.forEach(edge => {
     createPage({
       component: blogTemplate,
-      path: `/blog/${edge.node.frontmatter.path}`,
+      path: `/insight/${edge.node.frontmatter.path}`,
 
       context: {
         slug: edge.node.frontmatter.path,

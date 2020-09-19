@@ -4,6 +4,7 @@
 }
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 .post-title {
@@ -921,9 +922,14 @@ article span {
 }
 
 .risk iframe {
-  width: 97vw !important;
+  width: 100vw !important;
   height: 90vh !important;
+  overflow-x: hidden;
 }
+
+/* Track */
+
+/* Handle */
 
 /* 404 */
 
