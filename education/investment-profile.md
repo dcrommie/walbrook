@@ -100,11 +100,15 @@ Investors in the Conservative strategy are typically seeking to generate an inco
 
 The Conservative strategy will usually contain around 85% in defensive assets such as fixed-interest and cash, with the remaining 15% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
 
+The minimum suggested investment timeframe is three years.
+
 #### Moderate
 
 Investors in the Moderate strategy are typically seeking to generate an income and some capital growth, to aim to preserve the inflation-adjusted value of their assets. They are willing and able to accept some investment risk for potentially higher capital growth and income returns.
 
 The Moderate strategy will usually contain around 70% in defensive assets such as fixed-interest and cash, with the remaining 30% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
+
+The minimum suggested investment timeframe is three years.
 
 #### Balanced
 
@@ -112,11 +116,15 @@ Investors in the Balanced strategy are typically seeking to generate both capita
 
 The Balanced strategy will usually contain around 50% in defensive assets such as fixed-interest and cash, with the remaining 50% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
 
+The minimum suggested investment timeframe is five years.
+
 #### Growth
 
 Investors in the Growth strategy are typically seeking to generate capital growth. They are less concerned with potential losses than with potential gains.
 
 The Growth strategy will usually contain around 30% in defensive assets such as fixed-interest and cash, with the remaining 70% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
+
+The minimum suggested investment timeframe is seven years.
 
 #### High Growth
 
@@ -124,10 +132,14 @@ Investors in the High Growth strategy are typically seeking to generate capital 
 
 The High Growth strategy will usually contain around 15% in defensive assets such as fixed-interest and cash, with the remaining 85% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
 
+The minimum suggested investment timeframe is seven years.
+
 #### Maximum Growth
 
 Investors in the Maximum Growth strategy are typically seeking to maximise the capital growth potential of their portfolio. They are willing and able to accept significant risk, including the permanent loss of principal, for the possibility to maximise long-term returns.
 
 The Maximum Growth strategy will usually contain a maximum of 5% in cash, with the remaining 95% - 100% allocated to growth-oriented investments such as listed shares, private equity or property. Other assets that exhibit both growth and defensive characteristics may be included, including high-yield and emerging market debt, derivatives and hedge funds.
+
+The minimum suggested investment timeframe is seven years.
 
 *Please let us know if you have any questions, or if there are any changes to your financial goals or circumstances that may impact your current investment profile.*
