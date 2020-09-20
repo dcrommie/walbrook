@@ -13,7 +13,7 @@ There are two main types of contributions:
 * Concessional contributions, which are made by you or your employer and on which the contributor claims a tax deduction (before-tax contributions)
 * Non-concessional contributions, which are made by you and on which you do not claim a tax deduction (after-tax contributions)
 
-## Concessional Contributions
+## Concessional contributions
 
 The government offers generous tax concessions to encourage you to save for your retirement.
 
@@ -47,7 +47,7 @@ An employee may ask their employer to direct part of their pre-tax salary to sup
 
 Salary sacrifice contributions are subject to 15% tax, which is generally a much lower rate than an individual's marginal tax rate, helping reduce their tax liability while building wealth for their retirement. While an individual who earns more than $250,000 per annum has their contributions taxed at 30%, this still provides a tax saving.
 
-### Personal Concessional contributions
+### Personal concessional contributions
 
 You are not limited to making concessional contributions via your employer. Any eligible person can make a personal concessional contribution to their superannuation fund, and claim a tax deduction on their personal tax return. A disadvantage of this approach, when compared with salary sacrifice, is having to fund your contributions from after-tax salary, then wait until the end of the financial year to lodge your tax return and receive your refund.
 
@@ -65,28 +65,21 @@ These contributions may attract benefits such as:
 * Spouse contribution tax offsets
 * Tax concessions in retirement and on death
 
-As with concessional contributions, non-concessional contributions are subject to a cap, which in 2020/21 is $100,000. The amount allowed under the annual cap can be 'brought-forward' three years, as long as the individual has not triggered the 'bring-forward' rule in the previous two years.
+As with concessional contributions, non-concessional contributions are subject to a cap. The legislation sets the non-concessional limit at four times the concessional contribution limit.
+
+The amount allowed under the annual cap can be 'brought-forward' three years, as long as the individual has not triggered the 'bring-forward' rule in the previous two years and their total superannuation balance was below $1,400,000 at the end of the last financial year. You can find further information on the caps and treatment where the total superannuation balance is above $1,400,000 [here](https://www.ato.gov.au/Rates/Key-superannuation-rates-and-thresholds/?page=4#Non_concessional_contributions_cap).
 
 ### Government co-contributions
 
 By making a non-concessional superannuation contribution of $1,000, you may be eligible for a co-contribution from the government.
 
-You are eligible to receive the government co-contribution providing you:
-
-* Have assessable income, reportable fringe benefit and reportable employer superannuation contributions (RESC) in the income year less than the upper-income threshold
-* Have a made a personal superannuation contribution
-* Have earned at least 10% of your assessable income, reportable fringe benefits and RESC from employment or business income
-* Are not the holder of an eligible temporary resident visa
-* Are less than 71 years old at the end of the income year and
-* Have lodged a tax return.
-
-Once eligible, the income test determines the amount of co-contribution you may receive.
+You can find the eligibility requirements [here](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Super-co-contribution/?anchor=Eligibilityforthesupercocontribution#Eligibilityforthesupercocontribution). Once eligible, the income test determines the amount of co-contribution you may receive.
 
 You do not need to apply for the government co-contribution. The ATO automatically calculates whether you are entitled to it, using information from your superannuation fund and your tax return.
 
 The government co-contribution is a non-concessional contribution but does not count towards the non-concessional contribution limit.
 
-### Spouse contribution
+### Spouse contributions
 
 An individual may make non-concessional contributions on behalf of their spouse as long as the spouse is under age 70.
 
@@ -100,17 +93,7 @@ A legal or a de facto husband or wife meets the definition of a spouse under the
 
 The maximum rebate is 18% of eligible spouse contributions, up to a maximum rebate of $540 on contributions of $3,000. The maximum rebate applies where the recipient spouse has a total income of less than $40,000 per annum.
 
-Spouse contributions are non-concessional contributions.
-
-## Contribution caps
-
-There are limits on the amount you can contribute to superannuation each year. Concessional contributions are subject to a limit of $25,000 per year, with 'carry-forward' rules providing some flexibility by allowing you to carry forward any unused capacity for up to five years.
-
-Non-concessional contributions are subject to an annual limit which is four times the concessional contribution limit, with the ability to 'bring-forward' three years of non-concessional contributions depending on your age.
-
-Contributions can be a complex area, and you should seek advice to maximise your superannuation contribution capacity while staying within the contribution limits.
-
-### What happens if you exceed the contribution caps
+## What happens if you exceed the contribution caps
 
 Extra superannuation contributions are not always welcome as breaching contribution limits can result in substantial penalties.
 
