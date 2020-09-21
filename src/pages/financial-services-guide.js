@@ -1,4 +1,5 @@
 import React from "react"
+import PrintComponents from "react-print-components"
 import { graphql, useStaticQuery, Link } from "gatsby"
 import remark from "remark"
 import recommended from "remark-preset-lint-recommended"
@@ -40,7 +41,7 @@ const FinancialServicesGuide = () => {
           crossorigin="anonymous"
         />
       </Helmet>
-      <Header header="/contact" />
+      <Header />
       <div className="privacy-title">
         <div className="container">
           <h1>Financial Services Guide</h1>
@@ -53,6 +54,20 @@ const FinancialServicesGuide = () => {
             data.markdownRemark.frontmatter.policy
           )}
         ></div>
+        <PrintComponents
+          trigger={
+            <button className="main-button" style={{ marginBottom: "50px" }}>
+              Print
+            </button>
+          }
+        >
+          <div
+            className="privacy-content"
+            dangerouslySetInnerHTML={createMarkup(
+              data.markdownRemark.frontmatter.policy
+            )}
+          ></div>
+        </PrintComponents>
       </div>
       <Footer />
     </div>
