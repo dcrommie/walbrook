@@ -57,16 +57,17 @@ const FinancialServicesGuide = () => {
             data.markdownRemark.frontmatter.policy
           )}
         ></div>
+        <div className="no-print">
+          <button
+            onClick={onClick}
+            className="main-button"
+            style={{ marginBottom: "50px" }}
+          >
+            Print
+          </button>
+        </div>
       </div>
-      <div className="no-print">
-        <button
-          onClick={onClick}
-          className="main-button"
-          style={{ marginBottom: "50px" }}
-        >
-          Print
-        </button>
-      </div>
+
       <div className="no-print">
         <Footer />
       </div>
