@@ -29,6 +29,10 @@ const FinancialServicesGuide = () => {
     return { __html: dataHtml }
   }
 
+  const onClick = () => {
+    window.print()
+  }
+
   return (
     <div>
       <SEO title="Financial Services Guide Policy" />
@@ -54,7 +58,18 @@ const FinancialServicesGuide = () => {
           )}
         ></div>
       </div>
-      <Footer />
+      <div className="no-print">
+        <button
+          onClick={onClick}
+          className="main-button"
+          style={{ marginBottom: "50px" }}
+        >
+          Print
+        </button>
+      </div>
+      <div className="no-print">
+        <Footer />
+      </div>
     </div>
   )
 }
