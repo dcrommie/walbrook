@@ -30,7 +30,9 @@ const FinancialServicesGuide = () => {
   }
 
   const onClick = () => {
-    window.print()
+    setTimeout(function () {
+      window.print()
+    }, 100)
   }
 
   return (
