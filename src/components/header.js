@@ -11,6 +11,11 @@ const Header = props => {
     setShow(!show)
   }
 
+  useEffect(() => {
+    if (typeof window === "undefined" || !window.document) {
+      return
+    }
+  }, [])
   {
     /*useEffect(() => {
     show && (document.body.style.overflow = "hidden")
