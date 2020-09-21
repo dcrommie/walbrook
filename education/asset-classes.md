@@ -4,7 +4,7 @@ path: asset-classes
 date: 2020-09-21T03:54:25.219Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/asset-classes-education-banner.png
 ---
 An asset class is a group of securities which exhibit similar characteristics and market behaviour. Below is a brief description of the major asset classes.
 
