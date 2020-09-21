@@ -8,6 +8,8 @@ import Header from "../components/header"
 import Footer from "../components/footer"
 import SEO from "../components/seo"
 
+var PrintTemplate = require("react-print")
+
 const FinancialServicesGuide = () => {
   const data = useStaticQuery(graphql`
     query FinancialServicesQuery {
@@ -27,6 +29,10 @@ const FinancialServicesGuide = () => {
     const dataHtml = toHTML(data)
 
     return { __html: dataHtml }
+  }
+
+  const onClick = () => {
+    window.print()
   }
 
   return (
@@ -53,8 +59,24 @@ const FinancialServicesGuide = () => {
             data.markdownRemark.frontmatter.policy
           )}
         ></div>
+        <PrintTemplate>
+          <div
+            className="privacy-content"
+            dangerouslySetInnerHTML={createMarkup(
+              data.markdownRemark.frontmatter.policy
+            )}
+          ></div>
+        </PrintTemplate>
+        <div id="react-no-print" style={{ marginBottom: "50px" }}>
+          <button className="main-button" onClick={onClick}>
+            Print
+          </button>
+        </div>
       </div>
-      <Footer />
+
+      <div id="react-no-print">
+        <Footer />
+      </div>
     </div>
   )
 }
