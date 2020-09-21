@@ -55,11 +55,11 @@ const FinancialServicesGuide = () => {
           )}
         ></div>
         <PrintComponents
-          trigger={
-            <button className="main-button" style={{ marginBottom: "50px" }}>
-              Print
-            </button>
-          }
+        // trigger={
+        //   <button className="main-button" style={{ marginBottom: "50px" }}>
+        //     Print
+        //   </button>
+        // }
         >
           <div
             className="privacy-content"
