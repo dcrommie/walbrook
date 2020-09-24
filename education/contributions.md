@@ -6,6 +6,14 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/superannuation-contributions-blog-post.png
 ---
+This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice concerning superannuation contributions.
+
+We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
+
+Please contact your adviser if you need further information or clarification.
+
+## Understanding super contributions
+
 You may contribute to your superannuation balance, or that of your spouse, subject to limits on [annual contribution](https://www.ato.gov.au/rates/key-superannuation-rates-and-thresholds/?anchor=Contributionscaps#Contributionscaps)s, [age and work status](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Claiming-deductions-for-personal-super-contributions/?page=2#Agerestrictions). Limits exist due to the tax benefits that superannuation balances enjoy.
 
 There are two main types of contributions:
