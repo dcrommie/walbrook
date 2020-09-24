@@ -4,7 +4,7 @@ path: estate-planning
 date: 2020-09-24T03:19:16.413Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/estate-planning-education-banner.png
 ---
 This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice concerning estate planning.
 
