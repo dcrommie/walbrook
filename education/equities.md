@@ -6,6 +6,14 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-equities.png
 ---
+This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice concerning equities.
+
+We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
+
+Please contact your adviser if you need further information or clarification.
+
+## What are equities?
+
 The term ‘equity’ refers to the residual value of a company after deducting all liabilities from the company’s assets.
 
 Equities are any security that claims participation in the ownership of a company, with the most common being the ‘ordinary share’.
