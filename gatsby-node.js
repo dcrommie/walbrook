@@ -49,7 +49,7 @@ const path = require(`path`)
 module.exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const blogTemplate = path.resolve(`./src/templates/blog.js`)
+  const blogTemplate = path.resolve(`./src/templates/insight.js`)
   const eduTemplate = path.resolve(`./src/templates/education.js`)
 
   const result = await graphql(`
