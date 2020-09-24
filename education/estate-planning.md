@@ -145,13 +145,11 @@ The legislative definition of a beneficiary is not exhaustive, and the trustee m
 
 ### Superannuation payments
 
-The following table summarises the beneficiary options for superannuation death benefits.
+A spouse, child (under age 18, 18-25 and financially dependent, or disabled), financial dependant, or person who was in an interdependency relationship with the deceased, can receive an income stream or a lump-sum.
 
-**<insert table>**
+A non-dependent, including the deceased's estate, may only receive a lump-sum. 
 
-\*An income stream can only be paid to a spouse, child (under age 18, 18-25 and financially dependent, or disabled), financial dependant, or person who was in an interdependency relationship with you.
-
-Please refer to Understanding Superannuation for more details on the taxation of superannuation death benefits.
+Please refer to [Understanding Superannuation](https://www.walbrook.com.au/education/superannuation) for more details on the taxation of superannuation death benefits.
 
 ## Capital Gains Tax and Deceased Estates
 
