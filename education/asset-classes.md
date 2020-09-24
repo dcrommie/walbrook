@@ -80,7 +80,7 @@ Perhaps unfairly, given the complexity and volatility that can reside in the tra
 
 Alternative investments do, however, expose investors to additional risks that require consideration, including liquidity risks, counterparty risks, manager risks and leverage risks. These are not always apparent from fund documentation, which may also be lighter on detail than traditional asset classes if the investment is offered only to sophisticated investors.
 
-## **Property**
+## Property
 
 An alternative to direct property investment is to gain exposure via financial instruments.
 
@@ -92,7 +92,7 @@ As with investing in property directly, the risks include those posed by rising 
 
 As with direct investment, the investment manager will often use leverage to acquire the properties held by a REIT. If property values fall or the company cannot refinancing their existing loans, the company may call for more capital or default on their loans, causing the loss of some or all of your investment.
 
-## **Commodities**
+## Commodities
 
 Commodities are 'homogenous' assets that do not vary to a large degree from producer to producer. They conform to a standard measurement and grade of quality - for example, a barrel of oil or a tonne of iron ore.
 
@@ -100,7 +100,7 @@ Future exchanges host the bulk of the trading in standardised commodity contract
 
 Commodity prices can be volatile and fluctuate sub­stantially if a natural disaster, such as a hurricane or an earthquake, affects their supply or production. Not all commodities exhibit the same characteristics. Investors often view gold and other precious metals as a store of value and safe havens during times of crisis or uncertainty.
 
-## **Hedge Funds**
+## Hedge Funds
 
 Hedge funds are collective investment schemes that aim to generate returns that do not correlate with the returns of traditional asset classes.
 
@@ -114,7 +114,7 @@ Hedge Funds commonly use derivatives for leveraging returns and engage in practi
 
 As well as the risks posed by leverage and shorting, given the unconstrained nature of most hedge fund strategies, Manager Risk is a key risk to consider when investing in hedge funds.
 
-## **Private Equity Funds**
+## Private Equity Funds
 
 Private Equity (PE) funds are unregulated collective investment schemes that typically invest in private companies.
 
