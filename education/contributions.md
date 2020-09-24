@@ -14,7 +14,7 @@ Please contact your adviser if you need further information or clarification.
 
 ## Understanding superannuation contributions
 
-You may contribute to your superannuation balance, or that of your spouse, subject to limits on [annual contribution](https://www.ato.gov.au/rates/key-superannuation-rates-and-thresholds/?anchor=Contributionscaps#Contributionscaps)s, [age and work status](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Claiming-deductions-for-personal-super-contributions/?page=2#Agerestrictions). Limits exist due to the tax benefits that superannuation balances enjoy.
+You may contribute to your superannuation balance, or that of your spouse, subject to [limits](https://www.ato.gov.au/rates/key-superannuation-rates-and-thresholds/?anchor=Contributionscaps#Contributionscaps) on annual contributions, [age and work status](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Claiming-deductions-for-personal-super-contributions/?page=2#Agerestrictions). Limits exist due to the tax benefits that superannuation balances enjoy.
 
 There are two main types of contributions:
 
