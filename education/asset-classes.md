@@ -6,6 +6,14 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/asset-classes-education-banner.png
 ---
+This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice concerning asset allocation.
+
+We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
+
+Please contact your adviser if you need further information or clarification.
+
+## What are asset classes?
+
 An asset class is a group of securities which exhibit similar characteristics and market behaviour. Below is a brief description of the major asset classes.
 
 ## Cash, Deposits & Money Market Instruments
