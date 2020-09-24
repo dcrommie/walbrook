@@ -6,6 +6,12 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/superannuation-blog-post.png
 ---
+This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice concerning superannuation.
+
+We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
+
+Please contact your adviser if you need further information or clarification.
+
 ## **What is Superannuation?**
 
 Superannuation is an investment vehicle designed to assist Australians save for retirement. The federal government encourages saving through superannuation by providing generous tax incentives on contributions, investment earnings, and withdrawals in retirement.
