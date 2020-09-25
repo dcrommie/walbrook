@@ -96,7 +96,7 @@ Capital Gain
 
 Increasing / Decreasing
 
-![Futures Matrix](../src/images/futures-long-short-matrix.png "Futures Matrix")
+![Futures Matrix]( "Futures Matrix")
 
 ## Advantages and Disadvantages
 
