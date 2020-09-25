@@ -25,7 +25,7 @@ There are two basic types of options:
 
 Both types of options can be bought or sold, resulting in four different vanilla option positions.
 
-![Option Matrix]( "Option Matrix")
+![Option Matrix](../src/images/option-matrix-table.png "Option Matrix")
 
 ## **Key Features of Options**
 
@@ -68,9 +68,9 @@ Capital Gain
 
 Option strategies cater to investors for all market conditions, in high and low volatility environments, whether the expectation is for the market to trade up, down or sideways.
 
-![Long Short Matrix]( "Long Short Matrix")
+![Long Short Matrix](../src/images/option-long-short-matrix.png "Long Short Matrix")
 
-## Time Value
+## Time Value 
 
 The time value of an option is higher the longer the time remaining to exercise date, due to two factors:
 
