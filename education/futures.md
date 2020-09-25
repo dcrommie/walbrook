@@ -96,7 +96,7 @@ Capital Gain
 
 Increasing / Decreasing
 
-![Futures Matrix]( "Futures Matrix")
+![Futures Matrix](../src/images/futures-long-short-matrix.png "Futures Matrix")
 
 ## Advantages and Disadvantages
 
@@ -107,7 +107,7 @@ Increasing / Decreasing
 * Wide range of underlying assets
 * Liquidity
 
-### Disadvantages
+### Disadvantages 
 
 * Complexity
 * Minimum contract sizes
