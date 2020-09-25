@@ -40,7 +40,7 @@ If permitted by the pension provider, you may also make lump sum withdrawals, wh
 
 If you have met a condition of release and are over the age of 60, the earnings and capital gains generated in your account-based pension account will no longer incur earnings tax.
 
-## Tax Components
+## Tax Components 
 
 An account-based pension has a taxable component and a tax-free component, based on the proportionate split of the superannuation balance transferred to the pension.
 
