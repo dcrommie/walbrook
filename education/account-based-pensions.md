@@ -80,15 +80,15 @@ The most important thing to note is that while superannuation law allows for all
 
 ## Risks of account-based pensions
 
-### **Taxation and Legislative Risk**
+### Taxation and Legislative Risk
 
 Decisions on pension commencement rely on interpretations of current regulations and legislative practices of the Australian Taxation Office (ATO) and other relevant government bodies, which is subject to regular change.
 
-### **Market Risk**
+### Market Risk
 
 An account-based pension may contain a mix of cash, capital stable, diversified and specialist fund. The value of units in each fund may rise and fall, in line with the value of underlying assets as determined by market conditions.
 
-### **Longevity Risk**
+### Longevity Risk
 
 Account-based pensions do not provide a guaranteed lifetime income. Your starting balance, investment earnings, how much income you withdraw and any lump sum withdrawals you may make determine the longevity of your account-based pension account. Payments will only continue while there is a balance in the account.
 
