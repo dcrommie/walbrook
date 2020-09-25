@@ -32,7 +32,7 @@ The income that you draw can vary from year to year, but you must draw a minimum
 
 The table below shows the minimum pension factors for account-based pensions.
 
-**<Insert Table>**
+![Minimum Pensions](../src/images/minimum-pension-payments.png "Minimum Pensions")
 
 While there is no maximum amount that you can draw once you have retired or reached age 65, if you draw an income that exceeds the amount of income or capital gains the account is generating, you will erode the capital in your account.
 
