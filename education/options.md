@@ -6,6 +6,12 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/option-education-banner.png
 ---
+This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice.
+
+We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
+
+Please contact your adviser if you do not understand anything, or need further information or clarification.
+
 ## What are Options?
 
 An option represents a right (if “long”) or an obligation (if “short”) to sell or buy an asset (underlying) at a specific price (strike price) on a specific date (maturity date).
