@@ -7,7 +7,6 @@ import life from "../images/life.svg"
 import Image from "../components/image"
 import Header from "../components/header"
 import Footer from "../components/footer"
-import Form from "../components/form"
 import SEO from "../components/seo"
 
 const About = () => {

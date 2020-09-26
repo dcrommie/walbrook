@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
-
 * {
   padding: 0;
   margin: 0;
@@ -134,9 +132,8 @@ ul button:hover {
 .headers .menu-btn:checked ~ .menu {
   max-height: 100vh;
   padding-bottom: 100px;
-  
 }
-.headers .menu-btn:checked ~ .menu body{
+.headers .menu-btn:checked ~ .menu body {
   background-color: red;
 }
 
@@ -188,5 +185,4 @@ ul button:hover {
   .logo img {
     padding-left: 0px;
   }
- 
 }

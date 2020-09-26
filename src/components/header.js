@@ -11,11 +11,6 @@ const Header = props => {
     setShow(!show)
   }
 
-  useEffect(() => {
-    if (typeof window === "undefined" || !window.document) {
-      return
-    }
-  }, [])
   {
     /*useEffect(() => {
     show && (document.body.style.overflow = "hidden")
@@ -24,6 +19,14 @@ const Header = props => {
   }
   return (
     <div>
+      <Helmet>
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+
+        <link
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+          rel="stylesheet"
+        />
+      </Helmet>
       <header className="headers">
         <div className="container nav_container">
           <Link to="/" className="logo">
