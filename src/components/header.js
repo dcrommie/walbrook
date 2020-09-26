@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React from "react"
 import { Link } from "gatsby"
 import { Helmet } from "react-helmet"
 
@@ -6,10 +6,10 @@ import "../styles/header.css"
 import logo from "../images/logo.svg"
 
 const Header = props => {
-  const [show, setShow] = useState(false)
-  const onClick = () => {
-    setShow(!show)
-  }
+  //   const [show, setShow] = useState(false)
+  //   const onClick = () => {
+  //     setShow(!show)
+  //   }
 
   {
     /*useEffect(() => {
@@ -36,7 +36,7 @@ const Header = props => {
             className="menu-btn"
             type="checkbox"
             id="menu-btn"
-            onClick={onClick}
+            //onClick={onClick}
           />
           <label htmlFor="menu-btn" className="menu-icon" id="menu">
             <input style={{ display: "none" }} />
