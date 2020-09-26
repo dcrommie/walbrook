@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, useStaticQuery, Link } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
 import remark from "remark"
 import recommended from "remark-preset-lint-recommended"
 import remarkHtml from "remark-html"
@@ -62,7 +62,7 @@ const FinancialServicesGuide = () => {
           )}
         ></div>
 
-        {browser && browser.name == "firefox" ? (
+        {browser && browser.name === "firefox" ? (
           <div></div>
         ) : (
           <div className="no-print">
