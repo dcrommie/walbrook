@@ -2,7 +2,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import "../styles/style.css"
 import { Link, graphql, StaticQuery } from "gatsby"
-import Image from "../components/image"
 
 class SideBlogRollEdu extends React.Component {
   render() {
