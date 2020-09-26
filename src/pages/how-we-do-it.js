@@ -80,7 +80,7 @@ const AdvisoryFramework = () => {
                   <h2>{data.markdownRemark.frontmatter.FAQ1}</h2>
                 </div>
                 <div class="acc-icon">
-                  <img src={group1} />
+                  <img src={group1} alt="group" loading="lazy" />
                 </div>
               </label>
               <div
@@ -100,7 +100,7 @@ const AdvisoryFramework = () => {
                   <h2>{data.markdownRemark.frontmatter.FAQ2}</h2>
                 </div>
                 <div class="acc-icon">
-                  <img src={group2} />
+                  <img src={group2} alt="group" loading="lazy" />
                 </div>
               </label>
               <div
@@ -118,7 +118,7 @@ const AdvisoryFramework = () => {
                   <h2>{data.markdownRemark.frontmatter.FAQ3}</h2>
                 </div>
                 <div class="acc-icon">
-                  <img src={group3} />
+                  <img src={group3} alt="group" loading="lazy" />
                 </div>
               </label>
               <div
@@ -136,7 +136,7 @@ const AdvisoryFramework = () => {
                   <h2>{data.markdownRemark.frontmatter.FAQ4}</h2>
                 </div>
                 <div class="acc-icon">
-                  <img src={group4} />
+                  <img src={group4} alt="group" loading="lazy" />
                 </div>
               </label>
               <div

@@ -12,6 +12,7 @@ const RiskProfile = () => {
         width="100vw"
         height="100vh"
         title="iframe"
+        loading="lazy"
       ></iframe>
 
       <Footer />
