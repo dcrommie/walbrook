@@ -1,5 +1,5 @@
 ---
-blogtitle: Global Economic Outlook Report
+blogtitle: Q4 Global Economic Outlook Report
 path: q4-outlook
 date: 2020-09-28T01:15:18.783Z
 author: ICAEW / Oxford Economics
