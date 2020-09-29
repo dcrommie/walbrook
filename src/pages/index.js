@@ -48,7 +48,10 @@ const IndexPage = () => {
   return (
     <div>
       <div>
-        <SEO title="Walbrook - Home" />
+        <SEO
+          title="Walbrook - Home"
+          description="We excel in providing tailored investment advice and expertise for professionals interested in building wealth for the future"
+        />
 
         <Header header="#contact" />
       </div>
