@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://www.walbrook.com.au/`,
   },
   plugins: [
-    // `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-sharp`,
