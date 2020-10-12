@@ -12,8 +12,6 @@ The presidential race is also fuelling uncertainty, with polls still pointing to
 
 Just days after a fiery debate with former Vice President Biden, Trump tested positive to COVID-19 and was rushed to Walter Reed hospital, only adding to the sense of drama.
 
-![Shipping volumes]( "Shipping volumes")
-
 ## Australia
 
 In Australia, the federal budget has gone some way to meeting calls for fiscal policy to do some heavy lifting, with a singular focus on supporting incomes and employment in the face of the pandemic. 
@@ -56,8 +54,6 @@ The recovery in GDP continued into July, lifting 6.6% for the month and broadly 
 
 In the UK, final June quarter GDP came in at -19.8%, an improvement on the -20.4% expected. As expected, the Bank of England left its policy settings unchanged, with the bank rate at 0.10% and the QE ceiling at £745 billion. The Bank noted that it does not intend to tighten monetary policy until there is significant progress towards eliminating spare capacity in the labour market and achieving the 2% inflation target.
 
-![Eurozone Deflation]( "Eurozone Deflation")
-
 ## China
 
 Chinese industrial production and infrastructure spending are supporting the recovery, along with liquidity measures funded by a record bond issuance. However, the scale and speed of infrastructure spending are not on par with previous years as the authorities struggle to find projects with an adequate return. 
@@ -70,7 +66,9 @@ The Australian government forecasts China’s growth to be 1.75% in 2020 and to 
 
 ## Equities
 
-Global shares were down in September as rising infections in Europe and uncertainty around further fiscal support in the US dampened the outlook.  The MSCI World Ex-Australia Index fell 0.3% in Australian dollar terms, and the MSCI Emerging Markets Index rose 1.5%.  
+Global shares were down in September as rising infections in Europe and uncertainty around further fiscal support in the US dampened the outlook.  The MSCI World Ex-Australia Index fell 0.3% in Australian dollar terms, and the MSCI Emerging Markets Index rose 1.5%, while global small indices traded at the most significant discount to large caps in 17 years.
+
+![MSCI AC World Small Cap v MSCI AC World](../src/images/glbl-smaller-companies.png "MSCI AC World Small Cap v MSCI AC World")
 
 Australian shares followed global markets down as the focus shifted to the uncertain path of recovery and the ongoing public health risks due to the pandemic. 
 In early October, President Trump walked back his pledge of no additional stimulus cash before the presidential election, giving the market hope for further support.
@@ -80,14 +78,6 @@ The S&P 500 Index fell 3.8% in US dollar terms, and the Nasdaq Composite Index d
 In Europe, the STOXX Europe 600 Index fell 3.3% in euro terms in September, with banks and insurance sectors down, while retail and health care were positive. The German DAX Index fell 1.4%, with online food delivery services the big winners as fears of a second wave of infections intensified. 
 
 In Asia, Hong Kong’s Hang Seng Index fell 6.4%, and China’s CSI 300 Index fell 4.7%, while Japan’s Nikkei 225 Index rose 0.8%.
-
-![Real Rates and Value - Growth Ratio]( "Real Rates and Value - Growth Ratio")
-
-<!--StartFragment-->
-
-**Global smaller companies are currently trading at the most significant discount to global large caps in 17 years.**
-
-<!--EndFragment-->
 
 ## Property
 
@@ -103,7 +93,9 @@ The retail sector has been subjected to forced store closures (excluding superma
 
 The market volatility throughout the pandemic has seen global sovereign bond yields rally, meaning lower yields.
 
-Governments have embarked on a series of large-scale fiscal programs that have resulted in substantial sovereign bond issuance. Yet all this issuance has been soaked up by massive central bank bond-buying, which has reduced the cost of funding for governments and their banking systems.
+Governments have embarked on a series of large-scale fiscal programs that have resulted in substantial sovereign bond issuance, while capital markets have also seen strong investment grade corporate issuance.  Yet all this issuance has been soaked up by massive central bank bond-buying, which has reduced the cost of funding for governments and their banking systems.
+
+![US IG issuance](../src/images/debt-issuance.jpg "US IG issuance")
 
 In Australia, the RBA flagged that the high rate of unemployment was now a national priority and would keep interest rates at the record low of 0.25% and continue to buy government bonds and provide banks with cheap credit for quite some time to stimulate the economy out of recession. 
 
@@ -111,7 +103,7 @@ Financial markets continue to speculate that the RBA may have to consider a furt
 
 In the US, minutes from the September FOMC meeting revealed members were pricing in additional fiscal stimulus from Congress. The staff projections “assumed the enactment of some additional fiscal policy support this year,” adding “without that additional policy action, the pace of the economic recovery would likely be slower.”
 
-![Real US IG Rates]( "Real US IG Rates")
+![5 Year UST](../src/images/5-year-yield.jpg "5 Year UST")
 
 ## Commodities
 
@@ -121,13 +113,13 @@ Metals were down over the month, with falls in Lead (-7.5%), Nickel (-5.5%), Zin
 
 The spot price of Gold eased, falling 3.4% from USD 1,964.83 to USD 1,897.90 per ounce.
 
-![Gold ETF Holdings v Central Banks]( "Gold ETF Holdings v Central Banks")
-
 ## FX
 
 The Australian dollar fell 3.4% in September to USD 0.71 as risk aversion returned to markets. Both the US and Australian central banks have emphasised a “lower for longer” approach to interest rates. Still, there is speculation that the RBA could cut to 0.10% at its November meeting, pushing up against the self-imposed ‘zero’ lower bound. 
 
-The Australian dollar was also down against the Japanese yen (-3.4%) and euro (-1.9%).
+The Australian dollar was also down against the Japanese yen (-3.4%) and euro (-1.9%), while the British pound suffered as fears of an eventual hard Brexit increased.
+
+![GBP fears](../src/images/gbp-suffering.png "GBP fears")
 
 ### **Important Information**
 
