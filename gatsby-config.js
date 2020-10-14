@@ -1,5 +1,9 @@
 module.exports = {
  
+
+  siteMetadata: {
+    siteUrl: `https://walbrook.com.au/`,
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
