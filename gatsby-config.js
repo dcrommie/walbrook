@@ -3,6 +3,8 @@ module.exports = {
 
   siteMetadata: {
     siteUrl: `https://walbrook.com.au/`,
+    description: `We excel in providing tailored investment advice and expertise for professionals interested in building wealth for the future.`,
+    author: `MusadiqKhan`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
