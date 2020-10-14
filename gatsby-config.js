@@ -1,10 +1,5 @@
 module.exports = {
-  siteMetadata: {
-    title: `Walbrook`,
-    description: ``,
-    author: `Mussadiq Khan`,
-    siteUrl: `https://www.walbrook.com.au/`,
-  },
+ 
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
