@@ -15,9 +15,6 @@ policy: >-
   This FSG provides you with the following important information:
 
 
-  <!--EndFragment-->
-
-
   * Who we are
 
   * How you can contact us
@@ -194,7 +191,7 @@ policy: >-
   If there has not been a material change in circumstances and a new Statement of Advice is not required, further advice will be in the form of a Record of Advice. We will keep the Record of Advice on file for seven (7) years, during which time you may request a copy from your financial adviser.
 
 
-  We are not required to provide you with a Statement of Advice or a Record of Advice where the advice relates to certain basic deposit productsor other approved financial products.
+  We are not required to provide you with a Statement of Advice or a Record of Advice where the advice relates to certain basic deposit products or other approved financial products.
 
 
   As our ongoing advice will refer to previous documentation, you should keep all Statements of Advice provided to you.
@@ -336,7 +333,7 @@ policy: >-
   * Mail houses.
 
 
-  We are also permitted to collect and disclose your personal information when required or authorised to do so by law.To obtain a copy of our Privacy Policy, please contact us or visit www.walbrook.com.au.
+  We are also permitted to collect and disclose your personal information when required or authorised to do so by law. To obtain a copy of our Privacy Policy, please contact us or visit [www.walbrook.com.au](www.walbrook.com.au).
 
 
   If you have concerns about the accuracy and completeness of the information we hold, you may request access to your data by contacting the Privacy Officer on +61 3 9013 6262.
@@ -415,8 +412,6 @@ policy: >-
 
 
   If you have any questions, please don't hesitate to contact us on +61 3 9013 6262 or via email at info@walbrook.com.au.
-
-
 
 
   Version 1.30
