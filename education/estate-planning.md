@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Estate Planning
-path: estate-planning
+path: understanding-estate-planning
 date: 2020-09-24T03:19:16.413Z
 author: Walbrook Wealth Management
 educationpage: true
