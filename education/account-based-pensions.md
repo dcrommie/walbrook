@@ -6,11 +6,9 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/account-based-pension-blog-banner.png
 ---
-This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice.
+This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
 
-We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
-
-Please contact your adviser if you do not understand anything, or need further information or clarification.
+Please contact your adviser if there is any aspect on which you need further information or clarification.
 
 ## What is an account-based pension?
 
@@ -40,7 +38,7 @@ If permitted by the pension provider, you may also make lump sum withdrawals, wh
 
 If you have met a condition of release and are over the age of 60, the earnings and capital gains generated in your account-based pension account will no longer incur earnings tax.
 
-## Tax Components 
+## Tax Components
 
 An account-based pension has a taxable component and a tax-free component, based on the proportionate split of the superannuation balance transferred to the pension.
 
