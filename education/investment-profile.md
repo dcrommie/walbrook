@@ -10,11 +10,9 @@ It is fundamental to the quality and relevance of our advice that we have a shar
 
 We regularly check that your investment profile is up to date to ensure that we continue to serve you in your best interests and that we keep abreast of any changes that may have a bearing on the advice that we provide.
 
-This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice. 
+This fact sheet provides further information to help you understand some of the investment, tax and financial planning concepts discussed in your Statement of Advice.
 
-We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
-
-Please contact your adviser if you need further information or clarification.
+Please contact your adviser if there is any aspect on which you need further information or clarification.
 
 ## What is your investment profile?
 
