@@ -6,6 +6,14 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-risk-version-2.png
 ---
+This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice.
+
+We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
+
+Please contact your adviser if there is any aspect that you do not understand, or if you need further information or clarification.
+
+## The Risk and Return Relationship
+
 The trade-off between risk and return is central to investing: the possibility of realising higher returns compensates investors for taking risks.
 
 Optimal investment configurations, with the maximum expected return for each given level of risk, lie on a theoretical line called the 'efficient frontier'.
