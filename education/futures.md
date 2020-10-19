@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Futures
-path: futures
+path: understanding-futures
 date: 2020-09-25T06:29:15.341Z
 author: Walbrook Wealth Management
 educationpage: true
