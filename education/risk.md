@@ -6,11 +6,9 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-risk-version-2.png
 ---
-This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice.
+This fact sheet provides additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice.
 
-We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
-
-Please contact your adviser if there is any aspect that you do not understand, or if you need further information or clarification.
+Please contact your adviser if there is any aspect on which you need further information or clarification.
 
 ## The Risk and Return Relationship
 
