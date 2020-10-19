@@ -10,7 +10,7 @@ This document provides some additional information to help you understand the in
 
 We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
 
-Please contact your adviser if you do not understand anything, or need further information or clarification.
+Please contact your adviser if there is any aspect that you do not understand, or if you need further information or clarification.
 
 ## What is a Transition to Retirement strategy?
 
