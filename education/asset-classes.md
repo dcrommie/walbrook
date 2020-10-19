@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Asset Classes
-path: asset-classes
+path: understanding-asset-classes
 date: 2020-09-21T03:54:25.219Z
 author: Walbrook Wealth Management
 educationpage: true
