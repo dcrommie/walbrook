@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Superannuation Contributions
-path: contributions
+path: understanding-superannuation-contributions
 date: 2020-09-20T09:51:36.867Z
 author: Walbrook Wealth Management
 educationpage: true
