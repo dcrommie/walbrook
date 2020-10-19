@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Foreign Exchange (FX)
-path: foreign-exchange
+path: understanding-foreign-exchange
 date: 2020-09-24T05:54:47.447Z
 author: Walbrook Wealth Management
 educationpage: true
