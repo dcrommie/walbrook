@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Options
-path: options
+path: understanding-options
 date: 2020-09-25T04:22:29.848Z
 author: Walbrook Wealth Management
 educationpage: true
