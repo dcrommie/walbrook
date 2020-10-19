@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Account-Based Pensions
-path: account-based-pensions
+path: understanding-account-based-pensions
 date: 2020-09-25T01:15:58.372Z
 author: Walbrook Wealth Management
 educationpage: true
