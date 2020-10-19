@@ -1,6 +1,6 @@
 ---
 blogtitle: Understanding Transition to Retirement Pensions
-path: understanding-transition-to-retirement-strategies
+path: understanding-transition-to-retirement-pensions
 date: 2020-09-29T01:02:28.110Z
 author: Walbrook Wealth Management
 educationpage: true
