@@ -6,11 +6,9 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/option-education-banner.png
 ---
-This document provides some additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice.
+This fact sheet provides additional information to help you understand the investment, tax and other financial planning concepts discussed in your Statement of Advice.
 
-We recommend that you read this document to help you understand the benefits of the strategies recommended to you and the associated costs and risks.
-
-Please contact your adviser if you do not understand anything, or need further information or clarification.
+Please contact your adviser if there is any aspect on which you need further information or clarification.
 
 ## What are Options?
 
@@ -70,7 +68,7 @@ Option strategies cater to investors for all market conditions, in high and low 
 
 ![Long Short Matrix](../src/images/option-long-short-matrix.png "Long Short Matrix")
 
-## Time Value 
+## Time Value
 
 The time value of an option is higher the longer the time remaining to exercise date, due to two factors:
 
