@@ -105,7 +105,7 @@ policy: >-
 
   * Of the 40 hours, a minimum in each knowledge area per below table.
 
-    ![FASEA Area Table](../src/images/fasea-area-table.png "FASEA Area Table")
+    ![FASEA Table](../src/images/fasea-area-table.png "FASEA Area Table")
 
   A maximum of 4 hours professional reading time counts towards the 40 hours requirement.
 
