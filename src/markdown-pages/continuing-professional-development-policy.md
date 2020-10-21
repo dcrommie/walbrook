@@ -1,6 +1,6 @@
 ---
 policy: >-
-  ## Purpose
+  #### Purpose
 
 
   This Continuing Professional Development (CPD) policy has been prepared and approved by Barbacane Advisors Pty Ltd trading as Walbrook Wealth Management (“Walbrook”)(ACN 626 694 139, AFSL512465) and must be made available to both Representatives and the public via the company website.
@@ -15,31 +15,31 @@ policy: >-
   “You must develop, maintain and apply a high level of relevant knowledge and skills.”
 
 
-  ## Scope
+  #### Scope
 
 
   This policy applies to all Representatives (employees) of Walbrook. Where this policy refers to a Representative that is a Relevant Provider as defined by FASEA, reference will be made to Relevant Provider rather than Representative.
 
 
-  ## CPD Year
+  #### CPD Year
 
 
   The Walbrook CPD year runs from 1 March to 28 February.
 
 
-  ## Our approach to CPD
+  #### Our approach to CPD
 
 
   Walbrook has a three-tier approach to CPD.
 
 
-  ### Tier 1 ‐ Representative led development
+  ##### Tier 1 ‐ Representative led development
 
 
   Notwithstanding requirements under the Act, Walbrook expects Representatives to drive their development and continuing professional development. Also, our Representatives are expected, at all times, to ensure they meet or exceed the standards and requirements set out in their CPD Plans and the standards set by FASEA (where applicable). 
 
 
-  ### Tier 2 ‐ Guidance and monitoring by the Responsible Manager (RM)
+  ##### Tier 2 ‐ Guidance and monitoring by the Responsible Manager (RM)
 
 
   Representatives are guided on their development by the Responsible Manager (RM). This guidance will include a CPD Plan and ongoing coaching and supervision. 
@@ -48,13 +48,13 @@ policy: >-
   The RM monitors the completion of training, the progress towards meeting annual CPD requirements and reports to the Board regularly. 
 
 
-  ### Tier 3 ‐ Governance and accountability by the Board
+  ##### Tier 3 ‐ Governance and accountability by the Board
 
 
   The Board provides a governance and supervision function by approving the CPD policy and reviewing CPD completion reports.
 
 
-  ## Process for approving CPD activities & allocating CPD hours
+  #### Process for approving CPD activities & allocating CPD hours
 
 
   When a representative has completed or is contemplating a learning and development activity, they should forward details of the activity to the RM. The RM will then confirm whether the activity qualifies for CPD, for how many hours and in what specialist area.
@@ -83,7 +83,7 @@ policy: >-
   The RM will evidence this in their sign-off of the representative’s CPD Plan.
 
 
-  ## Requirement for Annual CPD Plans
+  #### Requirement for Annual CPD Plans
 
 
   Before the beginning of each CPD year (1 March), the RM sets tailored CPD targets for each representative, based upon assessment, review and individual development needs. The RM captures these targets and objectives in a CPD Plan. This Plan must be in place before the start of the CPD year.
@@ -122,7 +122,7 @@ policy: >-
   * formal education or training study towards qualifications or designations relevant to practice as a relevant provider.
 
 
-  ## Organisational Training
+  #### Organisational Training
 
 
   In addition to FASEA-relevant product training, general financial services training and industry development, Walbrook will provide training on the following areas:
@@ -142,7 +142,7 @@ policy: >-
   Representatives who are not Relevant Providers will also receive organisational training, and the Compliance & Quality Control Manager will maintain CPD Plans for them.
 
 
-  ## Appropriate providers of CPD activities
+  #### Appropriate providers of CPD activities
 
 
   Activities that are assessed by Walbrook as qualifying for CPD should be provided by persons or entities that hold appropriate qualifications, accreditations and or practical experience, relevant to the training provided.
@@ -154,7 +154,7 @@ policy: >-
   Independent providers must have relevant experience or education in the field in which they are training. They must declare the learning outcomes and be able to demonstrate how the content or training provided meets the learning outcomes. Walbrook will then determine if the training is appropriate for the Representatives CPD Plan.
 
 
-  ## Considerations for Relevant Providers returning to work
+  #### Considerations for Relevant Providers returning to work
 
 
   If a Relevant Provider has not been practising or authorised as a Relevant Provider for a continuous period of 2 years or more, the RM must take the following into account:
@@ -165,13 +165,13 @@ policy: >-
   * Walbrook must not approve a CPD plan under this section unless satisfied that it is appropriate to address gaps in the Relevant Provider’s competence, knowledge and skills arising from the Relevant Provider’s absence from practice.
 
 
-  ## Evidencing outcomes of CPD
+  #### Evidencing outcomes of CPD
 
 
   Where available, the Relevant Provider must obtain written confirmation from the training provider, which indicates the training provider, activities undertaken, learning outcomes, the knowledge area and applicable CPD hours. Where the training provider has not noted learning outcomes on the confirmation, these should be included by the Relevant Provider in their own words in the Kaplan OnTrack system. 
 
 
-  ## Record keeping
+  #### Record keeping
 
 
   The Responsible Manager is responsible for ensuring that Walbrook adequately trains its Relevant Providers. Under the changes introduced by FASEA, evidence of CPD completion is required to be maintained by the Relevant Provider or Walbrook for approved CPD.
@@ -193,7 +193,7 @@ policy: >-
   Walbrook must keep the training records for seven years.
 
 
-  ## Checking Compliance with this Policy
+  #### Checking Compliance with this Policy
 
 
   Walbrook monitors progress towards the completion of CPD Plans every month. Representatives must record all CPD activities that count towards the CPD Plan, as they are completed.
@@ -202,13 +202,13 @@ policy: >-
   CPD records will be checked on an annual basis by Walbrook. The check will use a 100% sample size and seek to confirm that each entry has appropriate evidence and that evidence supports the knowledge areas indicated.
 
 
-  ## Publication
+  #### Publication
 
 
   Walbrook must publish this Policy on the Walbrook website.
 
 
-  ## Implementation Date
+  #### Implementation Date
 
 
   This version 1.20 is approved for publication on 30 October 2019.
