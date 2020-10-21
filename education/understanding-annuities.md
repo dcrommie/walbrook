@@ -6,6 +6,12 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/annuity-education-banner.png
 ---
+This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
+
+Please contact your adviser if there is any aspect on which you need further information or clarification.
+
+## What is an annuity?
+
 An annuity is a contract, typically with a life insurance company, that allows the purchaser to exchange a cash lump sum for a regular stream of income payments over the selected term.
 
 The income stream is paid without reference to changes in interest rates and investment markets, providing a degree of certainty and security to future cash flow requirements.
