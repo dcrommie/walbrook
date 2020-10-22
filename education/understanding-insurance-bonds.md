@@ -6,7 +6,9 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: wholesale.png
 ---
+This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
 
+Please contact your adviser if there is any aspect on which you need further information or clarification.
 
 ## What is an insurance bond?
 
