@@ -4,7 +4,7 @@ path: understanding-investment-bonds
 date: 2020-10-22T02:24:15.697Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/investment-bond-education-banner.png
 ---
 This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
 
