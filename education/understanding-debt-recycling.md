@@ -1,7 +1,7 @@
 ---
 blogtitle: Understanding Debt Recycling
 path: understanding-debt-recycling
-date: 2020-07-01T00:20:20.548Z
+date: 2020-07-01T00:30:00.000Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/debt-recycling-banner.png
