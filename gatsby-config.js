@@ -1,10 +1,8 @@
 module.exports = {
- 
-
   siteMetadata: {
     siteUrl: `https://walbrook.com.au/`,
     title: `Walbrook`,
-    description: `We excel in providing tailored investment advice and expertise for professionals interested in building wealth for the future.`,
+    description: `We help our clients to create wealth and plan for change.`,
     author: `MusadiqKhan`,
   },
   plugins: [
