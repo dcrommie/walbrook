@@ -20,12 +20,12 @@ A more nuanced approach is to target the elimination of debt used to purchase yo
 
 Depending on the client's circumstances and macroeconomic outlook, we may recommend a debt recycling strategy to help them to create wealth and pay down their mortgage more quickly.
 
-## Deductible v Non-Deductible Debt
+## Deductible v Non-Deductible Interest
 
-Interest costs are a drain on savings power, but not all debt is created equal. It is essential to distinguish between tax-deductible and non-tax-deductible debt.
+Interest costs are a drain on savings power, but not all debt is created equal. It is essential to distinguish between debts that incur tax-deductible interest and those debts that incur non-tax-deductible interest.
 
-* Interest on amounts borrowed to purchase an asset with no prospect of taxable income, such as your home, is non-deductible.
-* Interest on amounts borrowed to buy assets that are likely to generate taxable income, such as an investment property or shares, is deductible.
+* Interest on amounts borrowed to purchase an asset with no prospect of generating taxable income, such as the borrowers home, is typically non-deductible.
+* Where a borrower uses the loan proceeds to buy assets that are likely to generate taxable income, such as an investment property or shares, interest is typically tax-deductible.
 
 A borrower's ability to deduct interest expense against income received results in a lower after-tax borrowing cost. This tax benefit typically increases with the marginal tax rate of the individual; however, there may be a further boost when deductions cause taxable income to fall below thresholds for additional tax offsets.
 
