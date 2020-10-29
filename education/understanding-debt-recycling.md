@@ -16,13 +16,13 @@ The most common strategy employed is to pay more than the monthly repayment, or 
 
 In a low-interest-rate environment, clients with some risk tolerance often ask us whether this makes sense.  Should we pay the contracted level of repayments, and invest our excess savings in a share portfolio, or another property, they ask.  
 
-A more nuanced approach is to target becoming 'non-deductible debt-free', maintaining and potentially increasing debt that is more tax-efficient.  
+A more nuanced approach is to target the elimination of debt used to purchase your home while maintaining and potentially increasing debt that is more tax-efficient.
 
 Depending on the client's circumstances and macroeconomic outlook, we may recommend a debt recycling strategy to help them to create wealth and pay down their mortgage more quickly.
 
 ## Deductible v Non-Deductible Debt
 
-Interest costs are a drain on savings power, but as alluded to above, not all debt is created equal. It is essential to distinguish between tax-deductible and non-tax-deductible debt.
+Interest costs are a drain on savings power, but not all debt is created equal. It is essential to distinguish between tax-deductible and non-tax-deductible debt.
 
 * Interest on amounts borrowed to purchase an asset with no prospect of taxable income, such as your home, is non-deductible.
 * Interest on amounts borrowed to buy assets that are likely to generate taxable income, such as an investment property or shares, is deductible.
@@ -31,7 +31,7 @@ A borrower's ability to deduct interest expense against income received results 
 
 *Example*
 
-*David has two loans, secured by his home. David used the first home to buy the house, and the balance remaining is $300,000. David borrowed a further $300,000 recently and used this second loan to purchase shares. David earns $100,000 per annum, so his top rate of tax is 32.5%.*
+*David has two loans, secured by his home. David used the first loan to buy the house, and the outstanding loan balance is $300,000. David borrowed a further $300,000 recently and used this second loan to purchase shares. David earns $100,000 per annum, so his top rate of tax is 32.5%.*
 
 *The interest rate on both loans is 3.00%, so he pays the bank $9,000 in interest on each loan each year. Because David used the second loan to purchase investments, the interest is tax-deductible and only costs David $6,075 after tax. If David were on the top marginal tax rate, the loan would only cost David $4,815 after tax.*
 
@@ -47,7 +47,7 @@ The process is complete when you have reduced your non-deductible debt to zero, 
 
 ## Risks
 
-Investing involves risk and borrowing to invest amplifies these risks.  It is highly likely that however long your investment horizon is, you will see the value of a diversified portfolio fall below the loan amount.  These strategies are highly dependent on the after-tax portfolio returns exceeding the after-tax cost of the debt.
+Investing involves risk and borrowing to invest amplifies these risks.  It is highly likely that however long your investment horizon is, you will see the value of a diversified portfolio temporarily fall below the loan amount.  These strategies are highly dependent on the after-tax portfolio returns exceeding the after-tax cost of the debt.
 
 You should also consider the heightened exposure to interest rate risk.  Rising rates will not only increase the cost of a variable rate home loan, and the cost when refinancing fixed rates loans.  They may also impact the market value of the investment portfolio, particularly the fixed income component as well as rate-sensitive sectors of the share market.
 
