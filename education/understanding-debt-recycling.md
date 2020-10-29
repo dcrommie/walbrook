@@ -37,13 +37,15 @@ A borrower's ability to deduct interest expense against income received results 
 
 ## Debt recycling strategy
 
-A debt recycling strategy involves directing all after-tax cashflows to the repayment of non-deductible debt. These overpayments reduce the overall debt level, increasing borrowing capacity, which the borrower can use to drawdown a deductible loan and invest the loan proceeds in income-producing assets. The non-deductible debt is reduced further by any income and capital gains produced by these assets.
+A debt recycling strategy involves directing all after-tax cashflows to the repayment of debts which incur non-deductible interest. 
 
-Depending on the objective of the borrower, the loan structures and their borrowing capacity, they may reduce the overall debt level or keep it static.
+These overpayments reduce the overall debt level, increasing borrowing capacity, which the borrower can use to drawdown a separate loan and invest the loan proceeds in income-producing assets.  The non-deductible debt is reduced further by any income and capital gains produced by these assets.
 
-In both cases, the debt recycling strategy aims to reduce the after-tax cost of total debt by increasing the proportion of deductible debt.
+Depending on the objective of the borrower, the loan structures and their borrowing capacity, they may reduce the overall debt level or keep it static.  
 
-The process is complete when you have reduced your non-deductible debt to zero, via regular cashflows or a combination of regular cashflows and the liquidation of the investment portfolio.
+In both cases, the debt recycling strategy aims to reduce the after-tax cost of total debt by minimising the proportion of interest that is not tax-deductible.
+
+The process is complete when you have reduced your non-deductible interest expense to zero, via regular cashflows or a combination of regular cashflows and the liquidation of the investment portfolio.
 
 ## Risks
 
