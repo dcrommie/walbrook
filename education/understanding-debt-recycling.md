@@ -35,7 +35,7 @@ A borrower's ability to deduct interest expense against income received results 
 
 *The interest rate on both loans is 3.00%, so he pays the bank $9,000 in interest on each loan each year. Because David used the second loan to purchase investments, the interest is tax-deductible and only costs David $6,075 after tax. If David were on the top marginal tax rate, the loan would only cost David $4,815 after tax.*
 
-## **Debt recycling strategy**
+## Debt recycling strategy
 
 A debt recycling strategy involves directing all after-tax cashflows to the repayment of non-deductible debt. These overpayments reduce the overall debt level, increasing borrowing capacity, which the borrower can use to drawdown a deductible loan and invest the loan proceeds in income-producing assets. The non-deductible debt is reduced further by any income and capital gains produced by these assets.
 
