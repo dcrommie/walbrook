@@ -35,6 +35,8 @@ Combining asset classes and securities which have low or negative correlations w
 
 If you are an investor seeking higher returns, you generally have to take on more risk. Howev­er, it is crucial to consider that when you take on more risk, this also increases the likelihood that you may lose some or all of your assets.
 
+![Risk/Return Relationship](../src/images/illustration-risk-return-relationship.png "Risk/Return Relationship")
+
 In general, risks can be split between systematic and unsystematic risks.
 
 **Systematic Risks** are risks that affect the whole market. Often unpredictable, an investor may mitigate these risks by avoiding investments in that particular market.
