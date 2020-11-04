@@ -2,8 +2,7 @@
 title: Plan. Invest. Protect.
 subtitle: Independent financial advice and wealth management
 thumbnail: ../src/images/family.png
-title2: We excel in providing tailored investment advice and expertise to
-  professionals interested in building wealth for the future.
+title2: We help our clients to create wealth and plan for change
 desc1: "We are 100% independent from banks and product providers, which means
   that we are free to act in our clients’ best interests. "
 desc2: Our breadth of knowledge with origins in global wealth management,
