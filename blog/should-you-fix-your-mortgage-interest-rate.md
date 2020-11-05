@@ -22,7 +22,7 @@ With the interest rate fixed for a specific period, repayments will remain the s
 
 At the end of the fixed period, the interest rate will typically revert to the standard variable rate, based on market interest rates at the time.
 
-## **What are the risks of fixing your mortgage interest rate?**
+## What are the risks of fixing your mortgage interest rate?
 
 Fixing the mortgage interest rate exposes the borrower to both implicit and explicit costs.
 
