@@ -84,8 +84,14 @@ The pandemic’s economic fallout is reinforcing the medium-term forces that hav
 
 In addition, quantitative easing, regulations encouraging banks and insurers to hold government bonds, a rise in precautionary savings of households and firms and a further increase in global demand for ‘safe assets’ will further keep government bond yields and borrowing costs contained for the next four to five years.
 
-### **Important Information**
+**Sources**
 
 Source:[Global Economic Outlook Report: Trade outlook weaker in post-virus global economy](https://www.icaew.com/technical/economy/economic-insight/global-economic-outlook-report?utm_campaign=Members%20-%20ICAEW&utm_medium=email&utm_source=1539175_Brand_Economic_insight_outlook_News_Sep_SL&utm_content=Global%20economic%20outlook%20Q3&dm_i=47WY,WZMV,51Z66O,432PE,1), ICAEW, 28 September 2020.
 
-Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
+**General Advice Warning**
+
+The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
+
+**Important Information**
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
