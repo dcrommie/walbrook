@@ -8,34 +8,38 @@ thumbnail: ../src/images/fix-mortgage-rate.png
 ---
 With the Reserve Bank of Australia (RBA) cutting the cash rate to 0.10% on Melbourne Cup Day, you may be asking yourself ‘Is now the right time to fix my mortgage interest rate?’
 
-The answer depends on personal circumstances, such as your age, cash flow and employment status, and your current mortgage arrangements.
+The answer depends on personal circumstances, such as your cash flow, family situation and employment status, and your current mortgage arrangements.
 
-If you already have a fixed-rate mortgage, then your mortgage payments will not have changed because of the last interest rate cut nor any future reductions. If you are on a variable rate, then you may have seen a drop, though this is at the discretion of the lender.  So far, few banks have passed the benefit of the rate cut on to borrowers. 
+If you already have a fixed-rate mortgage, then your mortgage payments will not have changed because of the last interest rate cut nor any future reductions. If you are on a variable rate, then you may have seen a drop, though this is at the discretion of the lender.  So far, few banks have passed the benefit of the rate cut on to existing borrowers. 
 
-Whichever type of mortgage you are on, it makes good sense to review your finances/mortgage and consider your options.
+Whichever type of mortgage you are on, it makes good sense to review your financial position and consider your options.
 
-## Why fix your mortgage interest rate?
+## What are the benefits of fixing your mortgage interest rate?
 
-One of the biggest attractions of fixing your mortgage interest rate is the certainty it provides to your monthly payments and overall finances.
+One of the biggest attractions of fixing your mortgage interest rate is the certainty it provides to your monthly payments and financial plan.
 
 With the interest rate fixed for a specific period, repayments will remain the same throughout the period irrespective of any changes in inflation, future interest rate expectations or the RBA cash rate.
 
 At the end of the fixed period, the interest rate will typically revert to the standard variable rate, based on market interest rates at the time.
 
+Fixed rates vary from term to term and, generally speaking, increase with the length of the fixed term. This is not always the case, however, with 2 year or 3 year rates occasionally lower than variable and 1 year rates.  Rates also vary from bank to bank, depending upon each bank's funding position and commercial objectives. 
+
+These variations can create opportunities for borrowers to benefit from both lower interest costs and more certainty, where their personal circumstances allow.
+
 ## What are the risks of fixing your mortgage interest rate?
 
-Fixing the mortgage interest rate exposes the borrower to both implicit and explicit costs.
+Fixing your mortgage interest rate exposes you to potential implicit and explicit costs.
 
 Interest rates may fall further after you fix your mortgage interest rate, which means that you may be paying more than you would have if you had stayed on a variable rate or set your rate for a different term.
 
 If you decide to refinance or repay your loan during the fixed-rate period, you will likely incur explicit bank charges. These ‘break costs’ typically consist of:
 
 * An administration fee. The amount varies by lender, and the borrower may be able to have this waived or reduced.
-* A ‘break cost’, which represents the economic cost incurred by the bank to unwind the fixed-rate loan.
+* An economic cost incurred by the bank to unwind the fixed-rate loan, which is passed on to the borrower.
 
-The calculation of the break cost varies from lender to lender. If interest rates have moved down during the period, the bank suffers an opportunity cost as they are no longer receiving the agreed, higher rate of interest. If the bank has borrowed to manage the interest rate risk borne by providing the fixed-rate loan, the bank suffers an actual cost to unwind this financing. Either way, the borrower is required to compensate the bank for breaking the agreement.
+The calculation of the economic cost varies from lender to lender. If interest rates have moved down during the period to date, the bank suffers an opportunity cost as they will no longer receive the agreed, higher rate of interest. If the bank has borrowed or otherwise hedged to manage the interest rate risk borne by providing the fixed-rate loan, the bank suffers an actual cost to unwind this financing. Either way, the borrower is required to compensate the bank for the costs incurred by breaking the agreement.
 
-A typical formula for calculating the break cost is:
+A typical formula for calculating the economic cost is:
 
 (A - B) x C x D
 
@@ -51,13 +55,13 @@ D - Remaining years in fixed-rate period
 
 **Example**
 
-Jenny borrowed $500,000 at 4.00% pa for three years when bank funding costs were 3.00% pa for three years. Jenny contacts her bank to break the loan after one year, with $500,000 still outstanding. Bank funding costs for the remaining two years have fallen to 2.00% pa.
+Jenny borrowed $500,000 at 4.00% pa for three years when bank funding costs were 3.00% pa for three years. Jenny contacts her bank to break the loan after one year, with $500,000 still outstanding. Bank funding costs for the remaining two years have fallen to 2.00% pa.  The bank has waived the administration fee.
 
 Jenny must pay the bank $10,000 in break costs, calculated as:
 
 (3.00% - 2.00%) x $500,000 x 2 years
 
-## How can you reduce these risks?
+## How can you manage or minimise these risks?
 
 Before fixing your mortgage interest rate, you should consider your current and future cash flow position. As with investing, you should be confident that you can commit for the intended term, to minimise the risk that you will need or want to break the arrangement.
 
@@ -78,7 +82,7 @@ If you leave a portion on variable, you will need to be comfortable that your fi
 
 **Example**
 
-Jenny has broken her fixed-rate loan and is considering the interest rates presented by her bank.
+Jenny has broken her fixed-rate loan and is now considering the current interest rates offered by her bank.
 
 * Variable Rate 2.29%
 * 2 Year 2.39%
