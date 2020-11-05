@@ -1,6 +1,7 @@
 ---
 title: What we do
-subtitle: We help our clients create wealth and plan for change over the long term.
+subtitle: With tailored investment advice and expertise, we help our clients to
+  create wealth and plan for change over the long term.
 thumbnail: ../src/images/help.png
 helptitle1: Investment Advisory
 helplist1:
