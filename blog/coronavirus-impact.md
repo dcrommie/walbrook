@@ -111,7 +111,7 @@ It is worth noting that pullbacks and market corrections happen and are part of 
 
 **General Advice Warning**
 
-The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
+The information on this website contains general advice which does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
 
 **Important Information**
 
