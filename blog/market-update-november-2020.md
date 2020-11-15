@@ -118,6 +118,8 @@ The Brent crude price fell 9.9% to US$36.33 per barrel, and the WTI crude price 
 
 Metals moved higher in October, with gains in Zine (+5.0%), Aluminium (+4.6%), Nickel (+4.4%), Tin (+1.3%) and Copper (+0.7%) while Lead (-0.3%) was down.
 
+![Central banks were net sellers of gold for the first time in a decade](../src/images/done-gold.png "Central banks were net sellers of gold for the first time in a decade")
+
 The Gold spot price was down over the month by 1.0%, finishing October at US$1,878.81 per ounce. Some gold producing nations have been taking advantage of near-record prices to soften the blow from the pandemic. Sales in October were driven by Uzbekistan and Turkey, while Russia was a net seller for the first time in 13 years.
 
 ## FX
