@@ -16,6 +16,8 @@ According to the IMF, the global growth rate is forecast to be a significantly n
 
 The soured relationship between Canberra and Beijing continued to have real implications for trade, with China suspending purchases of Australian coal and advising power stations and steel mills to stop using Australian coal immediately. The strained relationship has also impacted copper ore and concentrate, sugar, timber, wine and lobster. Beijing has already imposed tariffs on Australian barley.
 
+![Australia Coal to China](../src/images/done-australia-coal-to-china.png "Australia Coal to China")
+
 On Melbourne Cup Day the RBA lowered interest rates to an all-time low of 0.10% and committed to further quantitative easing (QE) with the purchase of $100 million worth of 5-year and 10-year government bonds over the next six months.
 
 Economists expect the Australian economy to contract by 4.0% in 2020 before increasing by around 5.0% in 2021 and 4.0% in 2022. Retail sales fell 1.1% in September, following a 4.0% fall in August, while headline inflation jumped 1.6% in the September quarter, mostly in line with expectations of a 1.5% rise.
