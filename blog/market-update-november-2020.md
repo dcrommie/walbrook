@@ -128,6 +128,8 @@ The Australian dollar was down against other major currencies in October, includ
 
 Brexit is sending GBP hedging costs soaring again, with traders and investors now looking for less crowded ways to trade the never-ending political drama.
 
+![1M GBPUSD ATM Volatility](../src/images/done-1m-gbpusd-volatility.jpg "1M GBPUSD ATM Volatility")
+
 **Sources**
 
 This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019.
