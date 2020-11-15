@@ -86,6 +86,8 @@ Technology companies are poised to end 2020 with their greatest share of the sto
 
 However, a lurch higher in 10-year yields would hit the valuations of technology companies and other growth stocks that have led the stock market rally since March, given the negative effect of a higher discount rate on future earnings.
 
+![Growth Yield Curve Issue](../src/images/done-growth-yield-curve-issue.jpg "Growth Yield Curve Issue")
+
 ## Property
 
 Australian listed property slid 0.4% in October as the effects of the pandemic threw up mixed results from the A-REIT index.
