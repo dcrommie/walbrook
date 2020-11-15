@@ -82,6 +82,8 @@ Australian shares bucked the global trend to post a 1.9% return in October as ea
 
 Although politics largely overshadowed earnings reports, company earnings are on track to soundly beat expectations. As at 6 November, 89% of S&P 500 companies had reported for 3Q20, of which 86% reported actual EPS above estimates. Apple reported its 4Q20 results, with revenue of US$64.7 billion and EPS of US$0.73, beating expectations.
 
+![Tech SPX Market Share](../src/images/done-spx-share-of-total-market-value-by-sector.jpg "Tech SPX Market Share")
+
 Technology companies are poised to end 2020 with their greatest share of the stock market ever, topping a dot-com era peak. Companies that do everything from manufacturing phones to operating social-media platforms now account for nearly 40% of the S&P 500, on pace to eclipse a record of 37% from 1999.
 
 However, a lurch higher in 10-year yields would hit the valuations of technology companies and other growth stocks that have led the stock market rally since March, given the negative effect of a higher discount rate on future earnings.
