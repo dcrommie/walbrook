@@ -110,6 +110,8 @@ In the US, the yield on 10-year Treasuries pushed higher through October from 0.
 
 Yields have been under pressure due to large-scale fiscal programs driving a substantial sovereign bond issuance. This issuance has been soaked up by massive central bank bond-buying, which has reduced the cost of funding for governments and their banking systems.
 
+![Europe Social Bond Issuance](../src/images/done-eu-social-bond-issuance.png "Europe Social Bond Issuance")
+
 The European Union’s first offering of social bonds, aimed at providing funding for a job support program, was said to receive orders of more than 233 billion euros ($275 billion), a record in the euro area. The sale marks the arrival of a significant new benchmark, with investors drawn to a AAA credit rating and the fastest-growing part of sustainable finance. The offering is also the EU’s first joint debt since the bloc agreed on a landmark pandemic recovery deal.
 
 ## Commodities
