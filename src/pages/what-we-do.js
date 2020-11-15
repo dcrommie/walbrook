@@ -117,6 +117,23 @@ const HowWeHelp = () => {
           </div>
           <div className="child">
             <div className="child-text">
+              <h3>{data.markdownRemark.frontmatter.helptitle2}</h3>
+              <div className="image-child" style={{ marginTop: "15px" }}>
+                <Image
+                  alt="Retirement Planning"
+                  name="Retirement Planning2.png"
+                />
+              </div>
+            </div>
+            <hr />
+            <ul className="child-list">
+              {data.markdownRemark.frontmatter.helplist2.map((data, index) => (
+                <li key={index}>{data.title}</li>
+              ))}
+            </ul>
+          </div>
+          <div className="child">
+            <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle3}</h3>
               <div className="image-child" style={{ marginTop: "10px " }}>
                 <Image
