@@ -50,6 +50,10 @@ const HowWeHelp = () => {
           helpdesc3
           help4
           helpdesc4
+          helpnewtitle
+          helpnewdesc
+          helplasttitle
+          helplasdesc
           contacttitle
           contactdesc
         }

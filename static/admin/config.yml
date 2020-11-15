@@ -222,10 +222,15 @@ collections:
           - { label: Help Desc 1, name: helpdesc1, widget: text }
           - { label: Help Section 2, name: help2, widget: string }
           - { label: Help Desc 2, name: helpdesc2, widget: text }
+          - { label: Help Title New, name: helpnewtitle, widget: string }
+          - { label: Help Desc New, name: helpnewdesc, widget: text }
           - { label: Help Section 3, name: help3, widget: string }
           - { label: Help Desc 3, name: helpdesc3, widget: text }
           - { label: Help Section 4, name: help4, widget: string }
           - { label: Help Desc 4, name: helpdesc4, widget: text }
+          - { label: Help Title Last, name: helplasttitle, widget: string }
+          - { label: Help Desc Last, name: helplasdesc, widget: text }
+
           - { label: Contact Title, name: contacttitle, widget: string }
           - { label: Contact Desc, name: contactdesc, widget: string }
 
