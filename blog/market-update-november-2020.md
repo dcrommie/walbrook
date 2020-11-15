@@ -74,6 +74,8 @@ In October, the MSCI World Ex-Australia Index fell 1.1% in Australian dollar ter
 
 In Europe, the STOXX Europe 600 Index fell 5.7% in euro terms in October, with the largest losses coming from the Technology and Health Care sectors. In Asia, Hong Kong’s Hang Seng Index rose 2.8% and China’s CSI 300 Index rose 2.4%, while Japan’s Nikkei 225 Index fell 0.9%.
 
+![Europe Trading Range](../src/images/done-europe-trading-rane.jpg "Europe Trading Range")
+
 Australian shares bucked the global trend to post a 1.9% return in October as easing restrictions, low case numbers, and a highly supportive federal budget bolstered confidence. Information Technology (+9.0%) was the top-performing sector, followed by Financials (+6.3%).
 
 Although politics largely overshadowed earnings reports, company earnings are on track to soundly beat expectations. As at 6 November, 89% of S&P 500 companies had reported for 3Q20, of which 86% reported actual EPS above estimates. Apple reported its 4Q20 results, with revenue of US$64.7 billion and EPS of US$0.73, beating expectations.
