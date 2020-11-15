@@ -17,7 +17,7 @@ helplist2:
   - title: Industry & retail superannuation
   - title: |
       Self Managed Superannuation (SMSF)
-  - title: Lump sum & income Stream strategies
+  - title: Lump sum & income stream strategies
 helptitle3: Wealth Creation
 helplist3:
   - title: Cash flow planning
@@ -31,12 +31,13 @@ helplist4:
   - title: Trauma / TPD
   - title: Income Protection
   - title: Currency / Equity / Interest Rate Hedging
-helptitle5: Family Office
+helptitle5: Retirement Planning
 helplist5:
-  - title: Setup and administration
-  - title: Asset allocation & risk monitoring overlays
-  - title: Cross border network of solution providers
-  - title: Alternative fund & co-investment opportunities
+  - title: Strategy Reviews
+  - title: Asset protection and transfer
+  - title: Industry and Retail Superannuation
+  - title: Self Managed Superannuation Funds (SMSF)
+  - title: Lump Sum & Income Stream Strategies
 helptitle6: Expatriates
 helplist6:
   - title: Currency hedging
