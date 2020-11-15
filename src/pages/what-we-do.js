@@ -119,22 +119,22 @@ const HowWeHelp = () => {
               ))}
             </ul>
           </div>
-          <div className="child">
+          <div className="child" style={{ background: "#000066" }}>
             <div className="child-text">
-              <h3>{data.markdownRemark.frontmatter.helptitle2}</h3>
-              <div className="image-child" style={{ marginTop: "15px" }}>
-                <Image
-                  alt="Retirement Planning"
-                  name="Retirement Planning2.png"
-                />
-              </div>
+              <h3 style={{ color: "#F2F7F2" }}>
+                {data.markdownRemark.frontmatter.helpnewtitle}
+              </h3>
             </div>
-            <hr />
-            <ul className="child-list">
-              {data.markdownRemark.frontmatter.helplist2.map((data, index) => (
-                <li key={index}>{data.title}</li>
-              ))}
-            </ul>
+            <p
+              className="child-list"
+              style={{
+                color: "#F2F7F2",
+                fontSize: "18px",
+                lineHeight: "30.6px",
+              }}
+            >
+              {data.markdownRemark.frontmatter.helpnewdesc}
+            </p>
           </div>
           <div className="child">
             <div className="child-text">
@@ -158,7 +158,10 @@ const HowWeHelp = () => {
               <h3>{data.markdownRemark.frontmatter.helptitle4}</h3>
               <div
                 className="image-child"
-                style={{ marginTop: "15px !important" }}
+                style={{
+                  marginTop: "15px",
+                  verticalAlign: "middle",
+                }}
               >
                 <Image alt="Risk Management" name="Risk Management2.png" />
               </div>
@@ -187,7 +190,7 @@ const HowWeHelp = () => {
           <div className="child">
             <div className="child-text">
               <h3>{data.markdownRemark.frontmatter.helptitle6}</h3>
-              <div className="image-child" style={{ marginTop: "10px" }}>
+              <div className="image-child" style={{ marginTop: "6px" }}>
                 <Image alt="Expatriates" name="Expatriates2.png" />
               </div>
             </div>
@@ -197,6 +200,32 @@ const HowWeHelp = () => {
                 <li key={index}>{data.title}</li>
               ))}
             </ul>
+          </div>
+          <div
+            className="child"
+            style={{ background: "#000066", padding: "38px" }}
+          >
+            <div className="child-text">
+              <h3
+                style={{
+                  color: "#F2F7F2",
+                  width: "470px !important",
+                  lineHeight: "44px",
+                }}
+              >
+                {data.markdownRemark.frontmatter.helplasttitle}
+              </h3>
+            </div>
+            <p
+              className="child-list"
+              style={{
+                color: "#F2F7F2",
+                fontSize: "18px",
+                lineHeight: "30.6px",
+              }}
+            >
+              {data.markdownRemark.frontmatter.helplasdesc}
+            </p>
           </div>
         </div>
       </div>

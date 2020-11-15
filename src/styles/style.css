@@ -353,12 +353,12 @@ html {
   font-family: Inter;
   font-style: normal;
   font-weight: bold;
-  font-size: 32px;
+  font-size: 32px !important;
   line-height: 140%;
   display: flex;
   align-items: center;
   color: #000066;
-  width: 370px;
+  width: 430px;
 }
 .child-list li {
   font-family: Inter;
