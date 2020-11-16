@@ -181,18 +181,6 @@ collections:
               widget: "image",
               default: "wholesale.png",
             }
-          - { label: First Help Title, name: helptitle1, widget: string }
-          - label: "Help data 1"
-            name: "helplist1"
-            widget: "list"
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-          - { label: Second Help Title, name: helptitle2, widget: string }
-          - label: "Help data 2"
-            name: "helplist2"
-            widget: "list"
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
           - { label: Third Help Title, name: helptitle3, widget: string }
           - label: "Help data 3"
             name: "helplist3"

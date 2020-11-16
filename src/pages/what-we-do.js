@@ -17,14 +17,7 @@ const HowWeHelp = () => {
           title
           subtitle
           thumbnail
-          helptitle1
-          helplist1 {
-            title
-          }
-          helptitle2
-          helplist2 {
-            title
-          }
+
           helptitle3
           helplist3 {
             title
@@ -85,40 +78,6 @@ const HowWeHelp = () => {
 
       <div className="container">
         <div className="parents">
-          <div className="child">
-            <div className="child-text">
-              <h3>{data.markdownRemark.frontmatter.helptitle1}</h3>
-              <div className="image-child" style={{ marginTop: "10px" }}>
-                <Image
-                  alt="Investment Advisory"
-                  name="Investment Advisory2.png"
-                />
-              </div>
-            </div>
-            <hr />
-            <ul className="child-list">
-              {data.markdownRemark.frontmatter.helplist1.map((data, index) => (
-                <li key={index}>{data.title}</li>
-              ))}
-            </ul>
-          </div>
-          <div className="child">
-            <div className="child-text">
-              <h3>{data.markdownRemark.frontmatter.helptitle2}</h3>
-              <div className="image-child" style={{ marginTop: "15px" }}>
-                <Image
-                  alt="Retirement Planning"
-                  name="Retirement Planning2.png"
-                />
-              </div>
-            </div>
-            <hr />
-            <ul className="child-list">
-              {data.markdownRemark.frontmatter.helplist2.map((data, index) => (
-                <li key={index}>{data.title}</li>
-              ))}
-            </ul>
-          </div>
           <div className="child" style={{ background: "#000066" }}>
             <div className="child-text">
               <h3 style={{ color: "#F2F7F2" }}>
