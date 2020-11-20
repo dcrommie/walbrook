@@ -3,15 +3,14 @@ policy: >-
   #### **Why you are receiving this document**
 
 
-  This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services. \
+  This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services.
 
 
-  It has been authorised for distribution by Barbacane Advisors Pty Ltd trading as Walbrook Wealth Management (‘Walbrook’, ‘we’, ‘us’ or ‘our’), the holder of Australian Financial Services Licence number 512465 (AFSL). \
+  It has been authorised for distribution by Barbacane Advisors Pty Ltd trading as Walbrook Wealth Management (‘Walbrook’, ‘we’, ‘us’ or ‘our’), the holder of Australian Financial Services Licence number 512465 (AFSL).
 
 
-  Walbrook is responsible for the financial services provided to you and is required to provide you with this FSG when we provide financial services to you as a retail client.\
+  Walbrook is responsible for the financial services provided to you and is required to provide you with this FSG when we provide financial services to you as a retail client.
 
-  \
 
   This FSG provides you with the following important information:
 
@@ -36,7 +35,7 @@ policy: >-
   #### About Walbrook
 
 
-  We are an independent wealth management business and are 100% family owned. We do not have referral relationships with any product or platform providers, which allows us to work with the banks, brokers, investment managers and platforms that we feel best meet the needs of each individual client.\
+  We are an independent wealth management business and are 100% family owned. We do not have referral relationships with any product or platform providers, which allows us to work with the banks, brokers, investment managers and platforms that we feel best meet the needs of each individual client.
 
 
   Walbrook is the holder of AFSL 512465 and is authorised to provide you with financial advice and dealing services in relation to the following financial products:
@@ -451,7 +450,7 @@ policy: >-
   **By post:**
 
 
-  GPO Box 1717\
+  GPO Box 1717
 
   Melbourne VIC 3001
 
@@ -474,27 +473,24 @@ policy: >-
   If we are unable to resolve the complaint to your satisfaction within 45 calendar days of receipt you may contact the Australian Financial Complaints Authority (AFCA). You can find further information at www.afca.org.au.
 
 
-  **By post:**\
+  **By post:**
 
-  \
 
-  AFCA\
+  AFCA
 
-  GPO Box 3\
+  GPO Box 3
 
   Melbourne VIC 3001
 
 
-  **By email:**\
+  **By email:**
 
-  \
 
   info@afca.org.au
 
 
-  **By telephone:**\
+  **By telephone:**
 
-  \
 
   1800 931 678
 
@@ -508,7 +504,7 @@ policy: >-
   Please note that as our Principal is the holder of a Certificate of Public Practice issued by Chartered Accountants Australia & New Zealand, liability is limited by a scheme approved under Professional Standards Legislation.
 
 
-  \----
+  ----
 
 
   ***Version 1.40***
