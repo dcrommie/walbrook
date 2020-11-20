@@ -504,7 +504,7 @@ policy: >-
   Please note that as our Principal is the holder of a Certificate of Public Practice issued by Chartered Accountants Australia & New Zealand, liability is limited by a scheme approved under Professional Standards Legislation.
 
 
-  ----
+  - - -
 
 
   ***Version 1.40***
