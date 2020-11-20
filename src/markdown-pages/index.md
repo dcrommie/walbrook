@@ -41,8 +41,7 @@ reviews:
     name: Ewan, Osteopath, Melbourne
   - review: Damien managed my savings for eight years while he was living in the UK
       and I enjoyed our relationship.  He is very trustworthy, straight-forward
-      and always available when needed.  He is a great professional and if he
-      had stayed in the UK I would have continued to use his services.
+      and always available when needed.  He is a great professional.
     pic: ../src/images/wholesale.png
     name: Enrico, Founder, London
   - review: We consolidated our private wealth accounts with Damien at Julius
