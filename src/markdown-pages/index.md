@@ -53,6 +53,5 @@ reviews:
     pic: ../src/images/wholesale.png
     name: Mitchel, NED, London
 contacttitle: Take care of your future today
-contactdesc: Get in touch so we can get you started. For general enquiries about
-  our services or to speak to a financial professional, please contact us.
+contactdesc: Get in touch so we can get you started.
 ---
