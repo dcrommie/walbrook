@@ -776,6 +776,18 @@ article span {
 .privacy-content h3 {
   font-size: 27px;
 }
+.privacy-content h4 {
+  color: #000066;
+  line-height: 160%;
+  font-weight: bold;
+  font-size: 25px;
+}
+.privacy-content h5 {
+  color: #000066;
+  line-height: 160%;
+  font-weight: bold;
+  font-size: 23px;
+}
 .blog-post-content h1,
 .blog-post-content h2,
 .blog-post-content h3,
