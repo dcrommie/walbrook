@@ -32,7 +32,7 @@ policy: >-
   * How you can make a complaint and our compensation arrangements
 
 
-  #### About Walbrook
+  ## About Walbrook
 
 
   We are an independent wealth management business and are 100% family owned. We do not have referral relationships with any product or platform providers, which allows us to work with the banks, brokers, investment managers and platforms that we feel best meet the needs of each individual client.
