@@ -1,6 +1,6 @@
 ---
 policy: >-
-  #### **Why you are receiving this document**
+  #### Why you are receiving this document
 
 
   This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services.
