@@ -58,7 +58,7 @@ policy: >-
   ## Identification Numbers
 
 
-  In certain circumstances, we are required to collect government identifiers such as your Tax Identification Number (Tax File Number), Medicare number or pension card number. We do not use or disclose this information other than when required, authorised by law or unless you have voluntarily consented to disclose this information to any third party.\
+  In certain circumstances, we are required to collect government identifiers such as your Tax Identification Number (Tax File Number), Medicare number or pension card number. We do not use or disclose this information other than when required, authorised by law or unless you have voluntarily consented to disclose this information to any third party.
 
 
   We may also be required to collect information relating to your tax residency. This data is necessary to comply with information sharing agreements that the Australian Government has entered into with other countries. These agreements include the Common Reporting Standard (CRS) and the Foreign Account Tax Compliance Act (FATCA).
@@ -67,13 +67,13 @@ policy: >-
   ## How we collect your information
 
 
-  Generally, we only collect personal information about you from you, unless it is unreasonable or impractical for us to do so, or if you consent to a third-party releasing information to us. For example, we may collect information your accountant, a product provider, or your employer for superannuation purposes.\
+  Generally, we only collect personal information about you from you, unless it is unreasonable or impractical for us to do so, or if you consent to a third-party releasing information to us. For example, we may collect information your accountant, a product provider, or your employer for superannuation purposes.
 
 
-  Where we obtain information from you directly, this is generally accomplished in meetings, by phone, by email, forms and when you visit our website or those of our external service providers.\
+  Where we obtain information from you directly, this is generally accomplished in meetings, by phone, by email, forms and when you visit our website or those of our external service providers.
 
 
-  Sometimes we act as an intermediary for others when collecting information about you, such as to assist you to apply for insurance. We will inform you when we do this.\
+  Sometimes we act as an intermediary for others when collecting information about you, such as to assist you to apply for insurance. We will inform you when we do this.
 
 
   We may collect information from you about another individual. A typical example is where you provide us with details of your nominated beneficiaries. Please ensure you are authorised to disclose that information, make the individual or individuals aware of the disclosure and provide them with this document.
@@ -82,16 +82,16 @@ policy: >-
   ## Collection of information via our website
 
 
-  We also collect statistical information about visitors to our website. Examples of the information we collect include browser type, operating system, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded. This information is used in an aggregated manner to analyse how people use our website and to improve our website.\
+  We also collect statistical information about visitors to our website. Examples of the information we collect include browser type, operating system, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded. This information is used in an aggregated manner to analyse how people use our website and to improve our website.
 
 
-  We collect some of this statistical information by using cookies. Cookies are small data files that are downloaded from our website and stored on your computer when you visit our site. We use this information only to evaluate our website performance (including identifying potential performance problems) and continually improving our services. None of the statistical data we prepare from information collected using cookies identifies individual visitors to our websites.\
+  We collect some of this statistical information by using cookies. Cookies are small data files that are downloaded from our website and stored on your computer when you visit our site. We use this information only to evaluate our website performance (including identifying potential performance problems) and continually improving our services. None of the statistical data we prepare from information collected using cookies identifies individual visitors to our websites.
 
 
-  Your computer's web browser will allow you to configure your computer to refuse to accept cookies. You can also delete cookies from your computer's hard drive at any time. Doing so should not negatively impact your experience on our website.\
+  Your computer's web browser will allow you to configure your computer to refuse to accept cookies. You can also delete cookies from your computer's hard drive at any time. Doing so should not negatively impact your experience on our website.
 
 
-  We do not collect any further information about you via our website unless you provide the information to a service provider that we have linked to or us. You control the personal information we collect from you through online forms, chat transcripts, emails or newsletter subscription forms. We will use any data we collect only for the requested and other related purposes. We will only disclose this information with your consent or when required or authorised by or under law.\
+  We do not collect any further information about you via our website unless you provide the information to a service provider that we have linked to or us. You control the personal information we collect from you through online forms, chat transcripts, emails or newsletter subscription forms. We will use any data we collect only for the requested and other related purposes. We will only disclose this information with your consent or when required or authorised by or under law.
 
 
   You may be able to access external websites, including those of other service providers, by clicking links on our website. Those other websites are not subject to our privacy standards, policies and procedures. You will need to review those websites directly to ascertain their privacy standards, policies and procedures.
@@ -100,7 +100,7 @@ policy: >-
   ## Are you obliged to provide us with your personal information?
 
 
-  Unless required by law, you are not required to provide us with the information that we request, or to allow us to collect data from third parties. However, where you choose not to provide us with the required information, we may not be able to offer you the services that you have requested from us.\
+  Unless required by law, you are not required to provide us with the information that we request, or to allow us to collect data from third parties. However, where you choose not to provide us with the required information, we may not be able to offer you the services that you have requested from us.
 
 
   If you provide us with inaccurate or incomplete information, it may result in you obtaining products or services that are not suitable for your needs. Incorrect or incomplete information may increase the risk that you will suffer a financial loss.
@@ -147,7 +147,7 @@ policy: >-
   ## When we disclose your personal information
 
 
-  Generally, we must obtain your consent before we tell anyone about you or your investments. You can give us your consent expressly (by telephone or writing to us), or your conduct may imply it.\
+  Generally, we must obtain your consent before we tell anyone about you or your investments. You can give us your consent expressly (by telephone or writing to us), or your conduct may imply it.
 
 
   Sometimes the law requires or allows us to give out information about you. For example, we may be required to give your information to AUSTRAC or product providers for anti-money laundering purposes. If you are involved in legal proceedings, we may be required under subpoena to provide your information to a court.
@@ -177,10 +177,10 @@ policy: >-
   ## Overseas Disclosure and Storage of Personal Information
 
 
-  We use cloud infrastructure that is physically located in Australia and have carried out suitable due diligence on our cloud service providers.\
+  We use cloud infrastructure that is physically located in Australia and have carried out suitable due diligence on our cloud service providers.
 
 
-  We may offer you access to a personal wealth portal provided by myprosperity Aust Pty Ltd (‘myprosperity’). Data provided to myprosperity by you, Walbrook and financial institutions linked to your personal wealth portal is stored with Yodlee Inc in the United States of America.\
+  We may offer you access to a personal wealth portal provided by myprosperity Aust Pty Ltd (‘myprosperity’). Data provided to myprosperity by you, Walbrook and financial institutions linked to your personal wealth portal is stored with Yodlee Inc in the United States of America.
 
 
   We may transfer personal information to other financial product and service providers in locations outside Australia when using or disclosing it for one of the purposes referred to above. We may need your consent before this occurs. When transferring personal information to foreign jurisdictions, we take reasonable steps to ensure the overseas recipient does not breach the Australian Privacy Principles.
@@ -198,13 +198,13 @@ policy: >-
   ## Correction of Information
 
 
-  We will take reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete, relevant and up-to-date. Please promptly notify us if there are any changes to your personal information.\
+  We will take reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete, relevant and up-to-date. Please promptly notify us if there are any changes to your personal information.
 
 
-  If you become aware or believe that any personal information which we hold about you is inaccurate or incomplete, you may contact us to correct the information.\
+  If you become aware or believe that any personal information which we hold about you is inaccurate or incomplete, you may contact us to correct the information.
 
 
-  If we disagree as to the accuracy of the information and refuse to correct the personal data, we will give you a written notice to that effect. If we believe that we are unable to comply with your request to access information that you have provided us, we will give you written notice. You may request that we make an appropriate notation to that information noting you consider it is not accurate, complete or up to date.\
+  If we disagree as to the accuracy of the information and refuse to correct the personal data, we will give you a written notice to that effect. If we believe that we are unable to comply with your request to access information that you have provided us, we will give you written notice. You may request that we make an appropriate notation to that information noting you consider it is not accurate, complete or up to date.
 
 
   You have a right to make a complaint if you disagree with our decisions concerning these matters (see 'Complaints' below).
@@ -213,7 +213,7 @@ policy: >-
   ## Access to your personal information
 
 
-  You may request access at any time to the personal information we hold about you. You can do this by contacting us with your request, stating the information you require. We will respond to your request within a reasonable period, usually 14 days for a straightforward application. Sometimes we are not required to provide you with access. If we refuse, we will tell you the reason why.\
+  You may request access at any time to the personal information we hold about you. You can do this by contacting us with your request, stating the information you require. We will respond to your request within a reasonable period, usually 14 days for a straightforward application. Sometimes we are not required to provide you with access. If we refuse, we will tell you the reason why.
 
 
   Where we provide you access to such information, we may charge a reasonable fee to cover our costs. We will disclose the amount of such costs to you before providing you with the information.
@@ -246,10 +246,10 @@ policy: >-
   ## Complaints
 
 
-  If we have breached the Australian Privacy Principles, this Privacy Policy or not respected your privacy, please lodge a complaint with our Privacy Officer. Please call or write with the reason for your complaint and any actions or remedies you seek. We have included our contact details at the end of this document.\
+  If we have breached the Australian Privacy Principles, this Privacy Policy or not respected your privacy, please lodge a complaint with our Privacy Officer. Please call or write with the reason for your complaint and any actions or remedies you seek. We have included our contact details at the end of this document.
 
 
-  We aim to investigate and respond to your complaint within 45 days. If you are not satisfied with the outcome of your complaint or require further information on privacy, you have the right to contact the Office of the Australian Information Commissioner (www.oaic.gov.au) on 1300 363 992.\
+  We aim to investigate and respond to your complaint within 45 days. If you are not satisfied with the outcome of your complaint or require further information on privacy, you have the right to contact the Office of the Australian Information Commissioner (www.oaic.gov.au) on 1300 363 992.
 
 
   If you are in the EEA, you may also contact the relevant Data Protection Regulator, which may vary by jurisdiction. Should you require assistance in determining the applicable regulator, please email info@walbrook.com.au.
