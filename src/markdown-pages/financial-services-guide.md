@@ -171,7 +171,7 @@ policy: >-
   Your adviser will also provide other documents as needed. These documents may include educational material, client agreements or other offer documents. 
 
 
-  ##### Electronic Disclosure
+  #### Electronic Disclosure
 
 
   We may provide disclosure documents, including this FSG and the documents outlined above, by making them available digitally, e.g. by email attachment or as a hyperlink in a document or email. You can contact us to opt-out of this method of disclosure at any time.
