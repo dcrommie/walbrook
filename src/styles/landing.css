@@ -1,0 +1,65 @@
+.packages {
+  background: #000066;
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+.packages h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 56px;
+  line-height: 120%;
+  max-width: 550px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  text-align: center;
+  color: #f2f7f2;
+}
+.packages p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 170%;
+  max-width: 550px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 56px;
+  color: #f2f7f2;
+  opacity: 0.8;
+}
+.packages-child {
+  border-radius: 8px;
+  width: 280px;
+  background: #ffffff;
+}
+.packages-child h4 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 120%;
+  padding-left: 10px;
+  text-transform: uppercase;
+  color: #000066;
+}
+.packages-child p {
+  font-weight: normal;
+  margin-bottom: 10px !important;
+  font-size: 15px;
+  line-height: 160%;
+  color: #000066;
+  padding-left: 10px;
+  text-align: left;
+}
+.packages-child ul {
+  padding-left: 40px;
+}
+.packages-child ul li {
+  font-weight: normal;
+  font-size: 12px !important;
+  line-height: 160%;
+  color: #000066;
+  list-style-image: url(../images/check.png);
+  padding-right: 10px;
+}

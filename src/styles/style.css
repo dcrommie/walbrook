@@ -64,7 +64,8 @@ html {
   outline: none;
 }
 .main-content-image {
-  width: 58% !important;
+  width: 50% !important;
+  margin-left: 20px;
 }
 .financial-content {
   display: flex;
@@ -371,7 +372,12 @@ html {
   text-transform: none;
   color: #000066;
 }
-
+.packages-child hr {
+  margin-bottom: 24px;
+  width: 250px;
+  border: 1px solid #9999c2;
+  margin: 0 auto;
+}
 hr {
   margin-bottom: 24px;
   width: 360px;
@@ -764,6 +770,12 @@ article span {
   max-width: 700px;
   padding: 56px 0px 136px 0px;
 }
+.privacy-content h2 {
+  font-size: 30px;
+}
+.privacy-content h3 {
+  font-size: 27px;
+}
 .blog-post-content h1,
 .blog-post-content h2,
 .blog-post-content h3,
@@ -781,6 +793,7 @@ article span {
   line-height: 160%;
   padding-top: 5px !important;
   color: #000066 !important;
+  opacity: 0.8;
   text-transform: none !important;
   margin-left: 30px !important;
   letter-spacing: 0px !important;
@@ -991,6 +1004,10 @@ article span {
 }
 
 @media screen and (max-width: 768px) {
+  .main-content-image {
+    width: 100% !important;
+    margin-left: 0px !important;
+  }
   .services-content {
     padding: 56px 0px;
   }

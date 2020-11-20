@@ -131,7 +131,7 @@ const AdvisoryFramework = () => {
               <input type="checkbox" id="chck4" />
               <label class="tab-label" for="chck4">
                 <div>
-                  <h3>03</h3>
+                  <h3>04</h3>
                   <h2>{data.markdownRemark.frontmatter.FAQ4}</h2>
                 </div>
                 <div class="acc-icon">

@@ -39,7 +39,7 @@ const FinancialServicesGuide = () => {
 
   return (
     <div>
-      <SEO title="Financial Services Guide Policy" />
+      <SEO title="Financial Services Guide" />
       <Helmet>
         <link
           rel="stylesheet"
