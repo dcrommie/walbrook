@@ -537,5 +537,11 @@ policy: >-
 
 
   Body
+
+
+  * Bullets
+
+
+  1. Numbering
 page: true
 ---
