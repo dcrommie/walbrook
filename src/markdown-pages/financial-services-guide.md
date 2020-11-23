@@ -1,6 +1,6 @@
 ---
 policy: >-
-  ## Why you are receiving this document
+  ### Why you are receiving this document
 
 
   This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services.
@@ -32,7 +32,7 @@ policy: >-
   * How you can make a complaint and our compensation arrangements
 
 
-  ## About Walbrook
+  ### About Walbrook
 
 
   We are an independent wealth management business and are 100% family owned. We do not have referral relationships with any product or platform providers, which allows us to work with the banks, brokers, investment managers and platforms that we feel best meet the needs of each individual client.
@@ -69,7 +69,7 @@ policy: >-
   Please note that we are registered with the Tax Practitioners Board to provide a tax (financial) advice service. This service involves the provision of advice around how tax legislation (including superannuation) interacts with the financial advice and services provided to you.
 
 
-  ## How you can contact us
+  ### How you can contact us
 
 
   Our office contact details are set out below.
@@ -105,7 +105,7 @@ policy: >-
   +61 3 9013 6262
 
 
-  ## Personal financial product advice
+  ### Personal financial product advice
 
 
   We are authorised to provide both general and personal financial product advice. Personal financial product advice is advice that considers your objectives, financial situation and needs. We must act in your best interests when providing you with personal financial product advice. Within the subject matter of the advice we provide to you, we must ensure that:
@@ -124,7 +124,7 @@ policy: >-
   * inform of us of any changes in your situation.
 
 
-  ## Delivery of advice
+  ### Delivery of advice
 
 
   By law, you are entitled to receive a Statement of Advice on the first occasion that we provide you with personal advice. The Statement of Advice will contain: 
@@ -150,16 +150,16 @@ policy: >-
   As our ongoing advice will refer to previous documentation, you should keep all Statements of Advice provided to you.
 
 
-  ## General Financial Product Advice
+  ### General Financial Product Advice
 
 
   At times, we may provide you with general financial product advice. Where we provide you with general advice or an execution only service, we will also provide you with a general advice warning. You should note that general advice does not relate specifically to you and does not take into consideration your objectives, financial situation and needs. Whilst Walbrook believes the general advice provided is accurate and reliable, neither Walbrook nor its directors or employees assume any responsibility for the accuracy or completeness of the information provided.
 
 
-  ## Other documents you may receive from us
+  ### Other documents you may receive from us
 
 
-  ### Product Disclosure Statements
+  ##### Product Disclosure Statements
 
 
   Where a recommendation has been made to acquire a financial product, we will provide you with a Product Disclosure Statement. The product provider issues the Product Disclosure Statement, which contains information about the features, costs, risks and benefits. It will help you to make an informed decision about whether or not to invest in the financial product.
@@ -171,13 +171,13 @@ policy: >-
   Your adviser will also provide other documents as needed. These documents may include educational material, client agreements or other offer documents. 
 
 
-  ## Electronic Disclosure
+  ### Electronic Disclosure
 
 
   We may provide disclosure documents, including this FSG and the documents outlined above, by making them available digitally, e.g. by email attachment or as a hyperlink in a document or email. You can contact us to opt-out of this method of disclosure at any time.
 
 
-  ## How you may instruct us
+  ### How you may instruct us
 
 
   You may give us instructions verbally or in writing, such as by email or letter. In limited circumstances and where required by third parties, we may require your instructions in writing.
@@ -191,7 +191,7 @@ policy: >-
   * we may require you to sign a document that records your intention to proceed without or against advice in relation to the financial products.
 
 
-  ## How you pay for the financial services we provide to you
+  ### How you pay for the financial services we provide to you
 
 
   We believe in a transparent and straightforward fee structure and do not accept upfront or trailing commissions on any investments or insurance products that we recommend to you, nor do we accept volume-based benefits from platform or product providers.
@@ -211,7 +211,7 @@ policy: >-
   ### Initial Service Fees
 
 
-  #### **Initial Advice Fee**
+  ##### **Initial Advice Fee**
 
 
   Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.
@@ -225,7 +225,7 @@ policy: >-
   Please note, we do not charge initial advice fees under the Accelerate and Support packages outlined below.
 
 
-  #### Advice Implementation Fee
+  ##### Advice Implementation Fee
 
 
   On completion of the Statement of Advice, we will calculate an implementation fee. This fee will be calculated on a time basis. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
@@ -257,7 +257,7 @@ policy: >-
   Please note, we do not charge advice implementation fees under the Accelerate and Support packages outlined below. 
 
 
-  #### Transaction and Administration Fees
+  ##### Transaction and Administration Fees
 
 
   Where we are asked to process transactions on an execution-only basis, we may charge a fee of between AUD 50 and up to 1.00% of the transaction value. This fee does not include third-party costs.
@@ -272,7 +272,7 @@ policy: >-
   ### Ongoing Service Fees
 
 
-  **'Clarify' Package**
+  ##### 'Clarify' Package
 
 
   *Complimentary*
@@ -285,7 +285,7 @@ policy: >-
   * Transaction and administration fees (as detailed above) may apply.
 
 
-  **'Navigate' Package**
+  ##### 'Navigate' Package
 
 
   *AUD 115, inclusive of GST per month*
@@ -310,7 +310,7 @@ policy: >-
   Personal advice can be provided upon request and will be charged per transaction and calculated on an hourly basis.
 
 
-  **'Accelerate' Package**
+  ##### 'Accelerate' Package
 
 
   *AUD 275, inclusive of GST per month (minimum 12 months)*
@@ -334,7 +334,7 @@ policy: >-
   * Annual reviews including pension strategy, contribution strategy and insurance strategy reviews
 
 
-  **'Support' Package**
+  ##### 'Support' Package
 
 
   *From AUD 400, inclusive of GST per month (minimum 12 months)*
@@ -361,7 +361,7 @@ policy: >-
   Please note, the price of the Support Plan will increase based on the number of households and complexity of advice required.
 
 
-  ## Fees you pay for using other financial services or products
+  ### Fees you pay for using other financial services or products
 
 
   The total initial and ongoing costs of using our service will depend on the fees charged by third-party issuers of the financial products and services we recommend.
@@ -370,7 +370,7 @@ policy: >-
   These fees will be outlined in the Statements of Advice and Records of Advice that we prepare, to provide you with a clear understanding of the total initial and ongoing costs of the recommended actions. The Product Disclosure Statements that we will provide, issued by the relevant third parties, will also give more detail.
 
 
-  ## Conflicts of interest, associations or relationships that may affect our advice
+  ### Conflicts of interest, associations or relationships that may affect our advice
 
 
   As an independent wealth manager that is not owned by a bank or product manufacturer, we do not manage or distribute our own financial products. Any help we provide is concerning financial products from non-related product providers.
@@ -385,19 +385,19 @@ policy: >-
   We may receive non-monetary benefits from product providers. Walbrook representatives may only accept non-monetary benefits that are valued at less than AUD 300 and we are required to keep records of non-monetary benefits valued between AUD 100 - AUD 300. Records of non-monetary benefits received by our representatives are kept in our Alternative Forms of Remuneration Register. If you would like a copy of the Register, please contact us.
 
 
-  ### Referral arrangements
+  ##### Referral arrangements
 
 
   We do not currently pay anyone to refer clients to us, nor do we accept payments for referrals to other professionals. If you have been referred to us and we do decide to pay a referral fee, the details will be disclosed in your Statement of Advice and paid as agreed with you and permitted by law.
 
 
-  ### Employee Trading
+  ##### Employee Trading
 
 
   We and our representatives may invest in similar or the same investments as those recommended to you. Walbrook implements a Staff Trading Policy to mitigate risks and conflicts which may arise from trading activity in such investments. If you would like to discuss this with us or obtain further information about our policy, feel free to contact us.
 
 
-  ## How we protect your personal information
+  ### How we protect your personal information
 
 
   Protecting your privacy is important to us and central to our commitment to meeting the highest level of professional standards. We will handle your personal information per our Privacy Policy, which outlines how the information we collect from you is used, stored and disclosed.
@@ -441,7 +441,7 @@ policy: >-
   If you have concerns about the accuracy and completeness of the information we hold, you may request access to your data by contacting the Privacy Officer on +61 3 9013 6262.
 
 
-  ## How you can make a complaint
+  ### How you can make a complaint
 
 
   If you would like to make a complaint, please contact us in the first instance using the details below:
@@ -495,7 +495,7 @@ policy: >-
   1800 931 678
 
 
-  ## What compensation arrangements are in place?
+  ### What compensation arrangements are in place?
 
 
   In compliance with the requirements of section 912B of the Corporations Act 2001, we have professional indemnity insurance cover in place in respect of financial services we provide to our clients. This insurance also covers claims concerning the conduct of representatives no longer working for us (but who did at the time of the relevant conduct).
@@ -514,34 +514,5 @@ policy: >-
 
 
   ***Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465).***
-
-
-
-
-  # Heading 1
-
-
-  ## Heading 2
-
-
-  ### Heading 3
-
-
-  #### Heading 4
-
-
-  ##### Heading 5
-
-
-  ###### Heading 6
-
-
-  Body
-
-
-  * Bullets
-
-
-  1. Numbering
 page: true
 ---
