@@ -1,9 +1,7 @@
 ---
 policy: >-
-  ### Why you are receiving this document
-
-
-  This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services.
+  This Financial Services Guide (FSG) is an important document which provides
+  you with information to help you decide whether to use our financial services.
 
 
   It has been authorised for distribution by Barbacane Advisors Pty Ltd trading as Walbrook Wealth Management (‘Walbrook’, ‘we’, ‘us’ or ‘our’), the holder of Australian Financial Services Licence number 512465 (AFSL).
