@@ -511,5 +511,8 @@ policy: >-
 
 
   ***Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465).***
+
+
+  ***Liability limited by a scheme approved under Professional Standards Legislation.***
 page: true
 ---
