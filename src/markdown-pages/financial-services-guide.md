@@ -154,10 +154,7 @@ policy: >-
   At times, we may provide you with general financial product advice. Where we provide you with general advice or an execution only service, we will also provide you with a general advice warning. You should note that general advice does not relate specifically to you and does not take into consideration your objectives, financial situation and needs. Whilst Walbrook believes the general advice provided is accurate and reliable, neither Walbrook nor its directors or employees assume any responsibility for the accuracy or completeness of the information provided.
 
 
-  ### Other documents you may receive from us
-
-
-  ##### Product Disclosure Statements
+  ### Product Disclosure Statements
 
 
   Where a recommendation has been made to acquire a financial product, we will provide you with a Product Disclosure Statement. The product provider issues the Product Disclosure Statement, which contains information about the features, costs, risks and benefits. It will help you to make an informed decision about whether or not to invest in the financial product.
@@ -255,7 +252,7 @@ policy: >-
   Please note, we do not charge advice implementation fees under the Accelerate and Support packages outlined below. 
 
 
-  ##### Transaction and Administration Fees
+  ### Transaction and Administration Fees
 
 
   Where we are asked to process transactions on an execution-only basis, we may charge a fee of between AUD 50 and up to 1.00% of the transaction value. This fee does not include third-party costs.
@@ -303,6 +300,8 @@ policy: >-
   * Quarterly performance reports and research updates
 
   * Quarterly investment, super and tax updates
+
+  * Transaction and administration fees (as detailed above) may apply.
 
 
   Personal advice can be provided upon request and will be charged per transaction and calculated on an hourly basis.
