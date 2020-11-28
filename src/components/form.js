@@ -1,7 +1,11 @@
-import React from "react"
+import React, { useState } from "react"
+import { Link } from "gatsby"
 import "../styles/style.css"
 
 const Form = () => {
+  const [flag, setFlag] = useState(false)
+
+  const onClick = () => setFlag(!flag)
   return (
     <div>
       <form
@@ -38,7 +42,30 @@ const Form = () => {
             required
           />
         </div>
-        <button className="main-button" style={{ margin: "0 auto" }}>
+        <div className="email-fields">
+          <textarea
+            name="message"
+            className="email"
+            type="text"
+            placeholder="Write your Message"
+            required
+          />
+        </div>
+        <div className="checkbox">
+          <input type="checkbox" onClick={onClick} />{" "}
+          <span>
+            I have read and agree to the{" "}
+            <Link to="/privacy" traget="_blank">
+              Privacy Policy
+            </Link>
+          </span>
+        </div>
+
+        <button
+          className="main-button"
+          style={{ margin: "0 auto" }}
+          disabled={!flag}
+        >
           Contact us
         </button>
       </form>
