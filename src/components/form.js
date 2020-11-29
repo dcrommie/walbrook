@@ -47,7 +47,7 @@ const Form = () => {
             name="message"
             className="email"
             type="text"
-            placeholder="Write your Message"
+            placeholder="Message"
             required
           />
         </div>

@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -525,11 +527,17 @@ form {
   max-width: 550px;
 }
 .name-fields {
+  font-family: "Inter" !important;
+
   display: flex;
   justify-content: space-between;
   padding-bottom: 40px;
 }
+input {
+  font-family: "Inter" !important;
+}
 .name-fields input {
+  font-family: "Inter" !important;
   padding: 15px;
   font-size: 18px;
   background: #f2f7f2;
@@ -552,6 +560,21 @@ textarea {
 .main-button:disabled {
   cursor: not-allowed;
 }
+.email::placeholder,
+.first_name::placeholder,
+.name::placeholder,
+.email,
+.first_name,
+.name,
+.email::-ms-input-placeholder {
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-size: 18px !important;
+  line-height: 140% !important;
+  color: #000066 !important;
+  opacity: 0.4 !important;
+}
 .checkbox span {
   font-family: Inter;
   font-style: normal;
@@ -566,6 +589,7 @@ textarea {
 }
 
 .email-fields input {
+  font-family: "Inter" !important;
   padding: 15px;
   font-size: 18px;
   border: none;
@@ -575,7 +599,7 @@ textarea {
 }
 ::-webkit-input-placeholder,
 input:not(:placeholder-shown) {
-  font-family: Inter;
+  font-family: "Inter" !important;
   font-style: normal;
   font-weight: normal;
   opacity: 0.3;
@@ -668,6 +692,13 @@ input:not(:placeholder-shown) {
   transform: rotate(0deg);
   margin: 0 auto;
   margin-bottom: 65px;
+}
+.main-content-image img {
+  border-radius: 8px;
+}
+
+a {
+  text-decoration: none !important;
 }
 
 .insight-hero {
@@ -1112,6 +1143,8 @@ article span {
     flex-direction: column;
   }
   .name-fields input {
+    font-family: "Inter" !important;
+
     max-width: 100%;
     margin-bottom: 40px;
   }

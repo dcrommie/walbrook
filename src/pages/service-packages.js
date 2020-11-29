@@ -1,4 +1,6 @@
-import React from "react"
+import React, { useState } from "react"
+import { Link } from "gatsby"
+import Modal from "react-bootstrap/Modal"
 import { Helmet } from "react-helmet"
 import Header from "../components/header"
 import SEO from "../components/seo"
@@ -8,8 +10,43 @@ import "../styles/landing.css"
 import Form from "../components/form"
 
 const LandingPage = () => {
+  const [show, setShow] = useState(false)
+
+  const handleClose = () => setShow(false)
+  const handleShow = () => setShow(true)
   return (
     <div>
+      <Modal show={show} onHide={handleClose}>
+        <Modal.Header closeButton></Modal.Header>
+        <Modal.Body>
+          <h2> Get complimentary access to your personal wealth portal</h2>
+          <div className="policy-check">
+            <input type="checkbox" />
+            <span>
+              I have read and agree to the{" "}
+              <Link to="/privacy" traget="_blank">
+                Privacy Policy
+              </Link>
+            </span>
+          </div>
+        </Modal.Body>
+        <Modal.Footer>
+          <a
+            target="_blank"
+            href="https://outlook.office365.com/owa/calendar/WalbrookWealthManagement@walbrook.com.au/bookings/"
+            style={{ margin: "0 auto" }}
+          >
+            <button
+              variant="primary"
+              className="main-button"
+              onClick={handleClose}
+              style={{ margin: "0 auto" }}
+            >
+              Start Now
+            </button>
+          </a>
+        </Modal.Footer>
+      </Modal>
       <SEO title="Service Packages" />
       <Header header="#contact" />
 
@@ -40,7 +77,9 @@ const LandingPage = () => {
             <div>
               <div className="packages-child" style={{ paddingBottom: "50px" }}>
                 <h4>Clarify</h4>
-                <p>Complimentary</p>
+                <p>
+                  <b>Complimentary</b>
+                </p>
                 <p style={{ paddingTop: "16px" }}>
                   Clarify your current position and take control of your
                   financial journey with access to our personal wealth portal.
@@ -55,11 +94,11 @@ const LandingPage = () => {
                     manager
                   </li>
                 </ul>
-                <button className="main-button">
+                <button className="main-button" onClick={handleShow}>
                   Get complImentary access
                 </button>
               </div>
-              <p className="text">
+              <p className="text-note">
                 * All prices include GST. Transaction costs are not included in
                 the Engage package. Third party costs not included in any
                 packages.
@@ -68,7 +107,9 @@ const LandingPage = () => {
 
             <div className="packages-child">
               <h4>ENGAGE</h4>
-              <p>$115 per month*</p>
+              <p>
+                <b>$115 per month*</b>
+              </p>
               <p style={{ paddingTop: "16px" }}>
                 Already have a financial plan? Activate it with the support of
                 general financial advice & coaching.
@@ -85,12 +126,21 @@ const LandingPage = () => {
                   Support with ad hoc financial queries and administration
                 </li>
               </ul>
-              <button className="main-button">Contact Us</button>
-              <p className="book">book a conversation</p>
+              <Link to="#contact">
+                {" "}
+                <button className="main-button">Contact Us</button>
+              </Link>
+              <div className="sec">
+                <button className="main-button " onClick={handleShow}>
+                  book a conversation
+                </button>
+              </div>{" "}
             </div>
             <div className="packages-child">
               <h4>ACCELERATE</h4>
-              <p className="price">$275 per month*</p>
+              <p className="price">
+                <b>$275 per month*</b>
+              </p>
               <sup>min 12 months</sup>
               <p>
                 Reach your goals with a comprehensive financial plan, clear
@@ -108,14 +158,21 @@ const LandingPage = () => {
                 <li>Pension strategy reviews</li>
                 <li>Insurance strategy reviews</li>
               </ul>
-              <button className="main-button">Contact Us</button>
-              <p className="book">book a conversation</p>
+              <Link to="#contact">
+                <button className="main-button">Contact Us</button>
+              </Link>{" "}
+              <div className="sec">
+                <button className="main-button " onClick={handleShow}>
+                  book a conversation
+                </button>
+              </div>
             </div>
             <div className="packages-child">
               <h4>SUPPORT</h4>
-              <p className="price">From $400 per month*</p>
+              <p className="price">
+                <b>From $400 per month*</b>
+              </p>
               <sup>min 12 months</sup>
-
               <p>
                 Assist all households in your family with an extensive,
                 multi-generational personal financial advice service.
@@ -128,10 +185,17 @@ const LandingPage = () => {
                 <li>Wealth Portal 'Pro' (1 per household) Learn more</li>
                 <li>Quarterly performance reporting and research updates</li>
                 <li>Contribution strategy reviews</li>
+                <li>Pension strategy reviews</li>
                 <li>Insurance strategy reviews</li>
               </ul>
-              <button className="main-button">Contact Us</button>
-              <p className="book">book a conversation</p>
+              <Link to="#contact">
+                <button className="main-button">Contact Us</button>
+              </Link>{" "}
+              <div className="sec">
+                <button className="main-button " onClick={handleShow}>
+                  book a conversation
+                </button>
+              </div>{" "}
             </div>
           </div>
         </div>
@@ -148,6 +212,7 @@ const LandingPage = () => {
             padding: "56.25% 0 0 0",
             position: "relative",
             width: "80%",
+            overflow: "hidden",
             margin: "0 auto",
           }}
         >
