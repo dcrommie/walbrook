@@ -33,7 +33,7 @@ const LandingPage = () => {
         <Modal.Footer>
           <a
             target="_blank"
-            href="https://outlook.office365.com/owa/calendar/WalbrookWealthManagement@walbrook.com.au/bookings/"
+            href="https://myprosperity.com.au/accounts/account/register?cobrand=walbrookwealthmanagement"
             style={{ margin: "0 auto" }}
           >
             <button
@@ -66,12 +66,14 @@ const LandingPage = () => {
       />
 
       <div className="packages">
-        <h1>Our Wealth Service Packages </h1>
-        <p>
-          Personal advice on a single topic starts at $550 including GST. For
-          ongoing support, we offer simple, transparent pricing on service
-          packages to suit your needs.
-        </p>
+        <div className="main-container">
+          <h1>Our Wealth Service Packages </h1>
+          <p>
+            Personal advice on a single topic starts at $550 including GST. For
+            ongoing support, we offer simple, transparent pricing on service
+            packages to suit your needs.
+          </p>
+        </div>
         <div className="main-container">
           <div className="packages-parent">
             <div>
@@ -131,9 +133,9 @@ const LandingPage = () => {
                 <button className="main-button">Contact Us</button>
               </Link>
               <div className="sec">
-                <button className="main-button " onClick={handleShow}>
-                  book a conversation
-                </button>
+                <a href="https://outlook.office365.com/owa/calendar/WalbrookWealthManagement@walbrook.com.au/bookings/">
+                  <button className="mobile ">book a conversation</button>
+                </a>
               </div>{" "}
             </div>
             <div className="packages-child">
@@ -162,9 +164,9 @@ const LandingPage = () => {
                 <button className="main-button">Contact Us</button>
               </Link>{" "}
               <div className="sec">
-                <button className="main-button " onClick={handleShow}>
-                  book a conversation
-                </button>
+                <a href="https://outlook.office365.com/owa/calendar/WalbrookWealthManagement@walbrook.com.au/bookings/">
+                  <button className="mobile ">book a conversation</button>
+                </a>
               </div>
             </div>
             <div className="packages-child">
@@ -192,51 +194,56 @@ const LandingPage = () => {
                 <button className="main-button">Contact Us</button>
               </Link>{" "}
               <div className="sec">
-                <button className="main-button " onClick={handleShow}>
-                  book a conversation
-                </button>
-              </div>{" "}
+                <a href="https://outlook.office365.com/owa/calendar/WalbrookWealthManagement@walbrook.com.au/bookings/">
+                  <button className="mobile ">book a conversation</button>
+                </a>
+              </div>
             </div>
           </div>
         </div>
       </div>
+
       <div className="packages video">
-        <h1>Wealth Portal</h1>
-        <p>
-          Welcome to your new financial command centre. Set yourself up for
-          success with the wealth portal’s organisation, analytics, and
-          collaboration tools.
-        </p>
-        <div
-          style={{
-            padding: "56.25% 0 0 0",
-            position: "relative",
-            width: "80%",
-            overflow: "hidden",
-            margin: "0 auto",
-          }}
-        >
-          <iframe
-            src="https://player.vimeo.com/video/462506518"
+        <div className="main-container">
+          <h1>Wealth Portal</h1>
+          <p>
+            Welcome to your new financial command centre. Set yourself up for
+            success with the wealth portal’s organisation, analytics, and
+            collaboration tools.
+          </p>
+          <div
             style={{
-              position: "absolute",
-              top: "0px",
-              left: "0px",
-              width: "100%",
-              height: "100%",
+              padding: "56.25% 0 0 0",
+              position: "relative",
+              width: "80%",
+              overflow: "hidden",
+              margin: "0 auto",
             }}
-            frameBorder="0"
-            allow=" fullscreen"
-            allowFullscreen
-          ></iframe>
+          >
+            <iframe
+              src="https://player.vimeo.com/video/462506518"
+              style={{
+                position: "absolute",
+                top: "0px",
+                left: "0px",
+                width: "100%",
+                height: "100%",
+              }}
+              frameBorder="0"
+              autoPlay="true"
+              allow=" fullscreen"
+              allowFullscreen
+            ></iframe>
+          </div>
         </div>
       </div>
-      <div className="main-container">
-        <div className="packages points">
-          <h1>Everything you need, in one place</h1>
-          <p>Take control of your finances with a personal wealth portal</p>
+      <div className="packages points">
+        <h1>Everything you need, in one place</h1>
+        <p>Take control of your finances with a personal wealth portal</p>
+
+        <div className="main-container">
           <div className="features">
-            <div className="features-child">
+            <div className="features-child ">
               <h6>Stay on target</h6>
               <p>
                 Stay on top of your goals with monthly financial health checks
@@ -287,6 +294,7 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
+
       <div className="form" id="contact">
         <div className="container">
           <div className="main-form">

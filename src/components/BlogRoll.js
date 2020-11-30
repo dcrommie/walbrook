@@ -21,9 +21,9 @@ const BlogRoll = props => {
         // but you can do whatever you want (including ignoring this `then()` altogether)
         console.log(data)
         if (data.result === "success") {
-          setSuccess("success")
+          setSuccess(data.result)
         } else if (data.result === "error") {
-          setSuccess("error")
+          setSuccess(data.result)
         }
       })
       .catch(() => {
@@ -93,7 +93,7 @@ const BlogRoll = props => {
             <div>
               <div>
                 <div className="newsletter" style={{ position: "unset " }}>
-                  {success === "sucess" ? (
+                  {success === "success" ? (
                     <div>
                       <h3>Thank you for subscribing</h3>
                     </div>

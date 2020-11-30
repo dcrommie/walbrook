@@ -579,7 +579,7 @@ textarea {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
-  font-size: 15px;
+  font-size: 18px;
   line-height: 128.91%;
 
   color: #000066;
@@ -666,6 +666,7 @@ input:not(:placeholder-shown) {
 }
 .form-text p {
   margin: 0 auto;
+  opacity: 0.8;
 }
 .form {
   background: #f2f7f2;

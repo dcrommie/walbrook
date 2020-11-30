@@ -62,7 +62,7 @@
 }
 .packages-child ul {
   padding-left: 30px;
-  height: 380px;
+  height: 410px;
 }
 .modal-backdrop.show {
   background: rgba(0, 0, 102, 0.72) !important;
@@ -112,6 +112,7 @@ button.close:focus {
   color: #000066;
 }
 .packages-child ul li {
+  font-family: "Inter";
   font-weight: normal;
   font-size: 15px !important;
   line-height: 160%;
@@ -119,6 +120,7 @@ button.close:focus {
   list-style-image: url(../images/check.png);
   padding-right: 20px;
   text-transform: none;
+  opacity: 0.8;
 }
 .packages-child button {
   margin: 0 auto !important;
@@ -202,6 +204,7 @@ sup {
 .features {
   display: flex;
   flex-wrap: wrap;
+  margin: 0 auto;
   justify-content: space-between;
 }
 .features-child {
@@ -221,7 +224,7 @@ sup {
   color: #000066;
 }
 .features-child p {
-  font-family: Inter;
+  font-family: "Inter";
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -247,6 +250,9 @@ sup {
   }
 }
 @media screen and (max-width: 650px) {
+  .sec {
+    margin-bottom: 15px;
+  }
   .packages-child {
     width: 100%;
   }
@@ -263,5 +269,10 @@ sup {
   }
   .features-child p {
     max-width: 400px;
+  }
+  .video h1,
+  .points h1,
+  .packages h1 {
+    font-size: 32px;
   }
 }

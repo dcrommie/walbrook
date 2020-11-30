@@ -16,9 +16,9 @@ const NewsletterForm = () => {
       .then(data => {
         // I recommend setting data to React state
         // but you can do whatever you want (including ignoring this `then()` altogether)
-        console.log(data)
+        console.log("asdas")
         if (data.result === "success") {
-          setSuccess("success")
+          setSuccess(data.result)
         } else if (data.result === "error") {
           setSuccess("error")
         }
@@ -43,7 +43,6 @@ const NewsletterForm = () => {
       <div className="newsletter">
         {success === "success" ? (
           <div>
-            {" "}
             <h3>Thank you for subscribing</h3>
           </div>
         ) : success === "error" ? (
