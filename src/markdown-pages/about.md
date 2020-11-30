@@ -1,10 +1,10 @@
 ---
 title: About us
-subtitle: "Damien Crommie CA is the principal of Walbrook Wealth
+subtitle: Damien Crommie CA is the principal of Walbrook Wealth
   Management.  Prior to founding Walbrook, Damien worked at Deutsche Asset &
   Wealth Management before joining the Swiss wealth manager Julius Baer in 2015
-  as an Executive Director in the London office. "
-thumbnail: ../src/images/about.png
+  as an Executive Director in the London office.
+thumbnail: ../src/images/dc-v1-11_2020.svg
 buttontext: "Email Damien "
 buttonemail: damien.crommie@walbrook.com.au
 careerdescription: Damien started working with private clients and their
