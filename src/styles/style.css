@@ -202,7 +202,10 @@ html {
 .mobile {
   background: #f2f7f2;
   border-radius: 8px;
-  width: 200px;
+  padding: 0 20px;
+  border: none;
+  width: 260px;
+  max-width: 100%;
   height: 56px;
   cursor: pointer;
   text-transform: capitalize;
