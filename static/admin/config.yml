@@ -233,113 +233,44 @@ collections:
               widget: "image",
               default: "wholesale.png",
             }
+          - { label: Packages Title, name: packagestitle, widget: string }
           - {
-              label: Third Help Title,
-              name: helptitle3,
-              widget: string,
-              optional: true,
+              label: Packages Description,
+              name: packagesdescription,
+              widget: text,
             }
+
           - label: "Help data 3"
             name: "helplist3"
             widget: "list"
             fields:
-              - {
-                  label: "Title",
-                  name: "title",
-                  widget: "string",
-                  optional: true,
-                }
-          - {
-              label: Fourth Help Title,
-              name: helptitle4,
-              widget: string,
-              optional: true,
-            }
+              - { label: "Title", name: "title", widget: "string" }
+          - { label: Fourth Help Title, name: helptitle4, widget: string }
           - label: "Help data 4"
             name: "helplist4"
             widget: "list"
             fields:
-              - {
-                  label: "Title",
-                  name: "title",
-                  widget: "string",
-                  optional: true,
-                }
-          - {
-              label: Fifth Help Title,
-              name: helptitle5,
-              widget: string,
-              optional: true,
-            }
+              - { label: "Title", name: "title", widget: "string" }
+          - { label: Fifth Help Title, name: helptitle5, widget: string }
           - label: "Help data 5"
             name: "helplist5"
             widget: "list"
             fields:
-              - {
-                  label: "Title",
-                  name: "title",
-                  widget: "string",
-                  optional: true,
-                }
-          - {
-              label: Sixth Help Title,
-              name: helptitle6,
-              widget: string,
-              optional: true,
-            }
+              - { label: "Title", name: "title", widget: "string" }
+          - { label: Sixth Help Title, name: helptitle6, widget: string }
           - label: "Help data 6"
             name: "helplist6"
             widget: "list"
             fields:
-              - {
-                  label: "Title",
-                  name: "title",
-                  widget: "text",
-                  optional: true,
-                }
+              - { label: "Title", name: "title", widget: "text" }
           - { label: Help Main, name: helpmain, widget: string, optional: true }
-          - {
-              label: Help Section 1,
-              name: help1,
-              widget: string,
-              optional: true,
-            }
-          - {
-              label: Help Desc 1,
-              name: helpdesc1,
-              widget: text,
-              optional: true,
-            }
-          - {
-              label: Help Section 2,
-              name: help2,
-              widget: string,
-              optional: true,
-            }
-          - {
-              label: Help Desc 2,
-              name: helpdesc2,
-              widget: text,
-              optional: true,
-            }
-          - {
-              label: Help Title New,
-              name: helpnewtitle,
-              widget: string,
-              optional: true,
-            }
-          - {
-              label: Help Desc New,
-              name: helpnewdesc,
-              widget: text,
-              optional: true,
-            }
-          - {
-              label: Help Section 3,
-              name: help3,
-              widget: string,
-              optional: true,
-            }
+          - { label: Help Section 1, name: help1, widget: string }
+          - { label: Help Desc 1, name: helpdesc1, widget: text }
+          - { label: Help Section 2, name: help2, widget: string }
+          - { label: Help Desc 2, name: helpdesc2, widget: text }
+          - { label: Help Title New, name: helpnewtitle, widget: string }
+          - { label: Help Desc New, name: helpnewdesc, widget: text }
+          - { label: Help Section 3, name: help3, widget: string }
       - label: "Index Page"
         name: "Index Page"
         file: "src/markdown-pages/index.md"

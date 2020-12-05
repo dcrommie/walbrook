@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import { Link } from "gatsby"
+import { Link, graphql, useStaticQuery } from "gatsby"
 import Modal from "react-bootstrap/Modal"
 import { Helmet } from "react-helmet"
 import Header from "../components/header"
@@ -10,6 +10,18 @@ import "../styles/landing.css"
 import Form from "../components/form"
 
 const LandingPage = () => {
+  const data = useStaticQuery(graphql`
+    query LandingQuery {
+      markdownRemark(fileAbsolutePath: { regex: "/service-packages.md/" }) {
+        frontmatter {
+          title
+          subtitle
+          thumbnail
+        }
+      }
+    }
+  `)
+
   const [show, setShow] = useState(false)
 
   const handleClose = () => setShow(false)
@@ -59,10 +71,13 @@ const LandingPage = () => {
         />
       </Helmet>
       <Hero
-        heading="Let’s get you started"
-        subtitle="Whether you are looking for advice on one topic or a more comprehensive plan for your future, we can provide the right level of support that you need to realise your financial ambitions."
+        heading={data.markdownRemark.frontmatter.title}
+        subtitle={data.markdownRemark.frontmatter.subtitle}
         alt="help"
-        imageName="girl"
+        imageName={data.markdownRemark.frontmatter.thumbnail.replace(
+          "../src/images/",
+          ""
+        )}
       />
 
       <div className="packages">
