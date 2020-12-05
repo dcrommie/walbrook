@@ -17,6 +17,8 @@ const LandingPage = () => {
           title
           subtitle
           thumbnail
+          packagestitle
+          packagesdescription
         }
       }
     }
@@ -82,12 +84,8 @@ const LandingPage = () => {
 
       <div className="packages">
         <div className="main-container">
-          <h1>Our Wealth Service Packages </h1>
-          <p>
-            Personal advice on a single topic starts at $550 including GST. For
-            ongoing support, we offer simple, transparent pricing on service
-            packages to suit your needs.
-          </p>
+          <h1>{data.markdownRemark.frontmatter.packagestitle} </h1>
+          <p>{data.markdownRemark.frontmatter.packagesdescription}</p>
         </div>
         <div className="main-container">
           <div className="packages-parent">

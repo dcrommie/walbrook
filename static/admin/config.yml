@@ -239,6 +239,16 @@ collections:
               name: packagesdescription,
               widget: text,
             }
+          - {
+              label: Wealth Portal Title,
+              name: wealthportaltitle,
+              widget: string,
+            }
+          - {
+              label: Wealth Portal Description,
+              name: wealthportaldescription,
+              widget: text,
+            }
 
           - label: "Help data 3"
             name: "helplist3"
