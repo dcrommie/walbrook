@@ -9,10 +9,12 @@ packagesdescription: Personal advice on a single topic starts at $550 including
   GST. For ongoing support, we offer simple, transparent pricing on service
   packages to suit your needs.sdasd
 wealthportaltitle: Wealth Portal
-wealthportaldescription:
-  Welcome to your new financial command centre. Set yourself up for success with
-  the wealth portal’s organisation, analytics, and collaboration tools. asdasd
-
+wealthportaldescription: Welcome to your new financial command centre. Set
+  yourself up for success with the wealth portal’s organisation, analytics, and
+  collaboration tools. asdasd
+videolink: https://player.vimeo.com/video/462506518
+servicestitle: Everything you need, in one place
+servicesdescription: Take control of your finances with a personal wealth portal
 helptitle4: wqeqw
 helptitle5: qweqw
 helptitle6: qweqw
