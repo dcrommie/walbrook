@@ -19,6 +19,8 @@ const LandingPage = () => {
           thumbnail
           packagestitle
           packagesdescription
+          wealthportaltitle
+          wealthportaldescription
         }
       }
     }
@@ -218,12 +220,8 @@ const LandingPage = () => {
 
       <div className="packages video">
         <div className="main-container">
-          <h1>Wealth Portal</h1>
-          <p>
-            Welcome to your new financial command centre. Set yourself up for
-            success with the wealth portal’s organisation, analytics, and
-            collaboration tools.
-          </p>
+          <h1>{data.markdownRemark.frontmatter.wealthportaltitle}</h1>
+          <p>{data.markdownRemark.frontmatter.wealthportaldescription}</p>
           <div
             style={{
               padding: "56.25% 0 0 0",
