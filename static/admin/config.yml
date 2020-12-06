@@ -249,6 +249,13 @@ collections:
               name: wealthportaldescription,
               widget: text,
             }
+          - { label: Wealth Portal Video Link, name: videolink, widget: string }
+          - { label: Service Title, name: servicestitle, widget: string }
+          - {
+              label: Service Description,
+              name: servicesdescription,
+              widget: text,
+            }
 
           - label: "Help data 3"
             name: "helplist3"
