@@ -24,6 +24,18 @@ const LandingPage = () => {
           videolink
           servicestitle
           servicesdescription
+          firstservicestitle
+          firstservicesdescription
+          secondservicestitle
+          secondservicesdescription
+          thirdservicestitle
+          thirdservicesdescription
+          fourthservicestitle
+          fourthservicesdescription
+          fifthservicestitle
+          fifthservicesdescription
+          sixthservicestitle
+          sixthservicesdescription
         }
       }
     }
@@ -235,7 +247,7 @@ const LandingPage = () => {
             }}
           >
             <iframe
-              src="https://player.vimeo.com/video/462506518"
+              src={data.markdownRemark.frontmatter.videolink}
               style={{
                 position: "absolute",
                 top: "0px",
@@ -252,58 +264,34 @@ const LandingPage = () => {
         </div>
       </div>
       <div className="packages points">
-        <h1>Everything you need, in one place</h1>
-        <p>Take control of your finances with a personal wealth portal</p>
+        <h1>{data.markdownRemark.frontmatter.servicestitle}</h1>
+        <p>{data.markdownRemark.frontmatter.servicesdescription}</p>
 
         <div className="main-container">
           <div className="features">
             <div className="features-child ">
-              <h6>Stay on target</h6>
-              <p>
-                Stay on top of your goals with monthly financial health checks
-                delivered straight to your inbox. Get updates on your budgets,
-                goals, and tax deductions.
-              </p>
+              <h6>{data.markdownRemark.frontmatter.firstservicestitle}</h6>
+              <p>{data.markdownRemark.frontmatter.firstservicesdescription}</p>
             </div>
             <div className="features-child">
-              <h6>Build your A-Team</h6>
-              <p>
-                Invite family members and professionals, like your property
-                manager and lawyer, to collaborate. Assign permissions to
-                control what they can view or change.
-              </p>
+              <h6>{data.markdownRemark.frontmatter.secondservicestitle}</h6>
+              <p>{data.markdownRemark.frontmatter.secondservicesdescription}</p>
             </div>
             <div className="features-child">
-              <h6>Keep your finances organised</h6>
-              <p>
-                From property and bank accounts to loan repayments, insurance,
-                and estate planning, connect all aspects of your financial world
-                in one place.
-              </p>
+              <h6>{data.markdownRemark.frontmatter.thirdservicestitle}</h6>
+              <p>{data.markdownRemark.frontmatter.thirdservicesdescription}</p>
             </div>
             <div className="features-child">
-              <h6>Reach your goals</h6>
-              <p>
-                Planning to retire at 50? Buy a third property? Create a legacy
-                for your family? Whatever your goals, the wealth portal can help
-                you get there.
-              </p>
+              <h6>{data.markdownRemark.frontmatter.fourthservicestitle}</h6>
+              <p>{data.markdownRemark.frontmatter.fourthservicesdescription}</p>
             </div>
             <div className="features-child">
-              <h6>Make smarter decisions</h6>
-              <p>
-                With powerful reports and purpose-built wizards like the Tax
-                Assistant, the portal is full of tools to help make managing
-                your finances a breeze.
-              </p>
+              <h1>{data.markdownRemark.frontmatter.fifthservicestitle}</h1>
+              <p>{data.markdownRemark.frontmatter.fifthservicesdescription}</p>
             </div>
             <div className="features-child">
-              <h6>Track your saving</h6>
-              <p>
-                Whether you’re spending too much on travel, coffee, or shoes,
-                your portal helps you manage your spending with easy to use
-                cashflow and budgeting features.
-              </p>
+              <h6>{data.markdownRemark.frontmatter.sixthservicestitle}</h6>
+              <p>{data.markdownRemark.frontmatter.sixthservicesdescription}</p>
             </div>
           </div>
         </div>

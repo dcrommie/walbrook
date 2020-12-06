@@ -256,6 +256,66 @@ collections:
               name: servicesdescription,
               widget: text,
             }
+          - {
+              label: First Service Title,
+              name: firstservicestitle,
+              widget: string,
+            }
+          - {
+              label: First Service Description,
+              name: firstservicesdescription,
+              widget: text,
+            }
+          - {
+              label: Second Service Title,
+              name: secondservicestitle,
+              widget: string,
+            }
+          - {
+              label: Second Service Description,
+              name: secondservicesdescription,
+              widget: text,
+            }
+          - {
+              label: Third Service Title,
+              name: thirdservicestitle,
+              widget: string,
+            }
+          - {
+              label: Third Service Description,
+              name: thirdservicesdescription,
+              widget: text,
+            }
+          - {
+              label: Fourth Service Title,
+              name: fourthservicestitle,
+              widget: string,
+            }
+          - {
+              label: Fourth Service Description,
+              name: fourthservicesdescription,
+              widget: text,
+            }
+          - {
+              label: Fifth Service Title,
+              name: fifthservicestitle,
+              widget: string,
+            }
+          - {
+              label: Fifth Service Description,
+              name: fifthservicesdescription,
+              widget: text,
+            }
+          - {
+              label: Sixth Service Title,
+              name: sixthservicestitle,
+              widget: string,
+            }
+          - {
+              label: Sixth Service Description,
+              name: sixthservicesdescription,
+              widget: text,
+            }
 
           - label: "Help data 3"
             name: "helplist3"
