@@ -257,7 +257,7 @@ const LandingPage = () => {
         </div>
       </div>
 
-      <div className="packages video">
+      <div className="packages video" id="wealthportal">
         <div className="main-container">
           <h1>{data.markdownRemark.frontmatter.wealthportaltitle}</h1>
           <p>{data.markdownRemark.frontmatter.wealthportaldescription}</p>
