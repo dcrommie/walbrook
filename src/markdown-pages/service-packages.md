@@ -45,9 +45,7 @@ fourthpackagedescription: Assist all households in your family with an
   extensive, multi-generational personal financial advice service.
 benefits4:
   - benefit: Multi-generational approach
-  - benefit: |-
-      Comprehensive financial plan 
-      (1 per household)
+  - benefit: Comprehensive financial plan (1 per household)
   - benefit: Ongoing investment advice
   - benefit: Wealth Portal 'Pro' **[Learn more](/service-packages/#wealthportal)**
   - benefit: "Quarterly performance reporting and research updates\r"
