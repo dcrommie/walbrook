@@ -21,6 +21,9 @@ const LandingPage = () => {
           packagesdescription
           wealthportaltitle
           wealthportaldescription
+          videolink
+          servicestitle
+          servicesdescription
         }
       }
     }
