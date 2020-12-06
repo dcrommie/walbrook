@@ -5,7 +5,7 @@ import Image from "../components/image"
 import Header from "../components/header"
 import Footer from "../components/footer"
 import Hero from "../components/hero"
-import rectangle from "../images/Rectangle.svg"
+import rectangle from "../images/rectangle.png"
 import Form from "../components/form"
 import SEO from "../components/seo"
 
@@ -196,22 +196,22 @@ const HowWeHelp = () => {
             </div>
             <div className="help-parent">
               <div className="help-child">
-                <img src={rectangle} alt="first" />
+                <img src={rectangle} alt="first" width="20px" />
                 <h4>{data.markdownRemark.frontmatter.help1}</h4>
                 <p>{data.markdownRemark.frontmatter.helpdesc1}</p>
               </div>
               <div className="help-child">
-                <img src={rectangle} alt="second" />
+                <img src={rectangle} alt="second" width="20px" />
                 <h4>{data.markdownRemark.frontmatter.help2}</h4>
                 <p>{data.markdownRemark.frontmatter.helpdesc2}</p>
               </div>
               <div className="help-child">
-                <img src={rectangle} alt="Independence" />
+                <img src={rectangle} alt="Independence" width="20px" />
                 <h4>{data.markdownRemark.frontmatter.help3}</h4>
                 <p>{data.markdownRemark.frontmatter.helpdesc3}</p>
               </div>
               <div className="help-child">
-                <img src={rectangle} alt="coordination" />
+                <img src={rectangle} alt="coordination" width="20px" />
                 <h4>{data.markdownRemark.frontmatter.help4}</h4>
                 <p>{data.markdownRemark.frontmatter.helpdesc4}</p>
               </div>
