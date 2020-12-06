@@ -2,6 +2,9 @@ import React, { useState } from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
 import Modal from "react-bootstrap/Modal"
 import { Helmet } from "react-helmet"
+import remark from "remark"
+import recommended from "remark-preset-lint-recommended"
+import remarkHtml from "remark-html"
 import Header from "../components/header"
 import SEO from "../components/seo"
 import Footer from "../components/footer"
@@ -64,6 +67,15 @@ const LandingPage = () => {
       }
     }
   `)
+
+  const toHTML = value =>
+    remark().use(recommended).use(remarkHtml).processSync(value).toString()
+
+  function createMarkup(data) {
+    const dataHtml = toHTML(data)
+
+    return { __html: dataHtml }
+  }
 
   const [show, setShow] = useState(false)
 
@@ -132,23 +144,23 @@ const LandingPage = () => {
           <div className="packages-parent">
             <div>
               <div className="packages-child" style={{ paddingBottom: "50px" }}>
-                <h4>Clarify</h4>
+                <h4>{data.markdownRemark.frontmatter.firstpackage}</h4>
                 <p>
-                  <b>Complimentary</b>
+                  <b>{data.markdownRemark.frontmatter.firstpackageprice}</b>
                 </p>
                 <p style={{ paddingTop: "16px" }}>
-                  Clarify your current position and take control of your
-                  financial journey with access to our personal wealth portal.
+                  {data.markdownRemark.frontmatter.firstpackagedescription}
                 </p>
                 <hr />
                 <ul>
-                  <li>Wealth Portal ‘Starter’</li>
-                  <li>Record and track property and investment valuations</li>
-                  <li>Store essential details and documents, such as wills</li>
-                  <li>
-                    Invite other family members, your accountant and property
-                    manager
-                  </li>
+                  {data.markdownRemark.frontmatter.benefits1.map(
+                    (data, index) => (
+                      <li
+                        key={index}
+                        dangerouslySetInnerHTML={createMarkup(data.benefit)}
+                      ></li>
+                    )
+                  )}
                 </ul>
                 <button className="main-button" onClick={handleShow}>
                   Get complImentary access
@@ -162,25 +174,23 @@ const LandingPage = () => {
             </div>
 
             <div className="packages-child">
-              <h4>ENGAGE</h4>
+              <h4>{data.markdownRemark.frontmatter.secondpackage}</h4>
               <p>
-                <b>$115 per month*</b>
+                <b>{data.markdownRemark.frontmatter.secondpackageprice}</b>
               </p>
               <p style={{ paddingTop: "16px" }}>
-                Already have a financial plan? Activate it with the support of
-                general financial advice & coaching.
+                {data.markdownRemark.frontmatter.secondpackagedescription}
               </p>
               <hr />
               <ul>
-                <li>
-                  Wealth Portal 'Pro' <b>Learn more</b>
-                </li>
-                <li>Quarterly performance reporting and research updates</li>
-                <li>Quarterly investment, super and tax updates</li>
-                <li>Trade handling</li>
-                <li>
-                  Support with ad hoc financial queries and administration
-                </li>
+                {data.markdownRemark.frontmatter.benefits2.map(
+                  (data, index) => (
+                    <li
+                      key={index}
+                      dangerouslySetInnerHTML={createMarkup(data.benefit)}
+                    ></li>
+                  )
+                )}
               </ul>
               <Link to="#contact">
                 {" "}
@@ -193,26 +203,23 @@ const LandingPage = () => {
               </div>{" "}
             </div>
             <div className="packages-child">
-              <h4>ACCELERATE</h4>
-              <p className="price">
-                <b>$275 per month*</b>
-              </p>
-              <sup>min 12 months</sup>
+              <h4>{data.markdownRemark.frontmatter.thirdpackage}</h4>
               <p>
-                Reach your goals with a comprehensive financial plan, clear
-                targets and ongoing personal advice.
+                <b>{data.markdownRemark.frontmatter.thirdpackageprice}</b>
+              </p>
+              <p style={{ paddingTop: "16px" }}>
+                {data.markdownRemark.frontmatter.thirdpackagedescription}
               </p>
               <hr />
               <ul>
-                <li>Comprehensive financial plan</li>
-                <li>Ongoing investment advice</li>
-                <li>
-                  Wealth Portal 'Pro' <b>Learn more</b>
-                </li>
-                <li>Quarterly performance reporting and research updates</li>
-                <li>Contribution strategy reviews</li>
-                <li>Pension strategy reviews</li>
-                <li>Insurance strategy reviews</li>
+                {data.markdownRemark.frontmatter.benefits3.map(
+                  (data, index) => (
+                    <li
+                      key={index}
+                      dangerouslySetInnerHTML={createMarkup(data.benefit)}
+                    ></li>
+                  )
+                )}
               </ul>
               <Link to="#contact">
                 <button className="main-button">Contact Us</button>
@@ -224,25 +231,23 @@ const LandingPage = () => {
               </div>
             </div>
             <div className="packages-child">
-              <h4>SUPPORT</h4>
-              <p className="price">
-                <b>From $400 per month*</b>
-              </p>
-              <sup>min 12 months</sup>
+              <h4>{data.markdownRemark.frontmatter.fourthpackage}</h4>
               <p>
-                Assist all households in your family with an extensive,
-                multi-generational personal financial advice service.
+                <b>{data.markdownRemark.frontmatter.fourthpackageprice}</b>
+              </p>
+              <p style={{ paddingTop: "16px" }}>
+                {data.markdownRemark.frontmatter.fourthpackagedescription}
               </p>
               <hr />
               <ul>
-                <li>Multi-generational approach</li>
-                <li>Comprehensive financial plan (1 per household)</li>
-                <li>Ongoing investment advice</li>
-                <li>Wealth Portal 'Pro' (1 per household) Learn more</li>
-                <li>Quarterly performance reporting and research updates</li>
-                <li>Contribution strategy reviews</li>
-                <li>Pension strategy reviews</li>
-                <li>Insurance strategy reviews</li>
+                {data.markdownRemark.frontmatter.benefits4.map(
+                  (data, index) => (
+                    <li
+                      key={index}
+                      dangerouslySetInnerHTML={createMarkup(data.benefit)}
+                    ></li>
+                  )
+                )}
               </ul>
               <Link to="#contact">
                 <button className="main-button">Contact Us</button>
