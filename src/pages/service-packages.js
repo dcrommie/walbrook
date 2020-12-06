@@ -310,7 +310,7 @@ const LandingPage = () => {
               <p>{data.markdownRemark.frontmatter.fourthservicesdescription}</p>
             </div>
             <div className="features-child">
-              <h1>{data.markdownRemark.frontmatter.fifthservicestitle}</h1>
+              <h6>{data.markdownRemark.frontmatter.fifthservicestitle}</h6>
               <p>{data.markdownRemark.frontmatter.fifthservicesdescription}</p>
             </div>
             <div className="features-child">
