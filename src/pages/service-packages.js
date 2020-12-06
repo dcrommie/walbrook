@@ -36,6 +36,30 @@ const LandingPage = () => {
           fifthservicesdescription
           sixthservicestitle
           sixthservicesdescription
+          firstpackage
+          firstpackageprice
+          firstpackagedescription
+          benefits1 {
+            benefit
+          }
+          secondpackage
+          secondpackageprice
+          secondpackagedescription
+          benefits2 {
+            benefit
+          }
+          thirdpackage
+          thirdpackageprice
+          thirdpackagedescription
+          benefits3 {
+            benefit
+          }
+          fourthpackage
+          fourthpackageprice
+          fourthpackagedescription
+          benefits4 {
+            benefit
+          }
         }
       }
     }

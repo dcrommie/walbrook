@@ -239,6 +239,70 @@ collections:
               name: packagesdescription,
               widget: text,
             }
+          - { label: First Package, name: firstpackage, widget: string }
+          - {
+              label: First Package Price,
+              name: firstpackageprice,
+              widget: string,
+            }
+          - {
+              label: First Package Description,
+              name: firstpackagedescription,
+              widget: string,
+            }
+          - label: "First Package Benefits"
+            name: "benefits1"
+            widget: "list"
+            fields:
+              - { label: "Benefits", name: "benefit", widget: "string" }
+          - { label: Second Package, name: secondpackage, widget: string }
+          - {
+              label: Second Package Price,
+              name: secondpackageprice,
+              widget: string,
+            }
+          - {
+              label: Second Package Description,
+              name: secondpackagedescription,
+              widget: string,
+            }
+          - label: "Second Package Benefits"
+            name: "benefits2"
+            widget: "list"
+            fields:
+              - { label: "Benefits", name: "benefit", widget: "string" }
+          - { label: Third Package, name: thirdpackage, widget: string }
+          - {
+              label: Third Package Price,
+              name: thirdpackageprice,
+              widget: string,
+            }
+          - {
+              label: Third Package Description,
+              name: thirdpackagedescription,
+              widget: string,
+            }
+          - label: "First Package Benefits"
+            name: "benefits3"
+            widget: "list"
+            fields:
+              - { label: "Benefits", name: "benefit", widget: "string" }
+          - { label: Fourth Package, name: fourthpackage, widget: string }
+          - {
+              label: Fourth Package Price,
+              name: fourthpackageprice,
+              widget: string,
+            }
+          - {
+              label: Fourth Package Description,
+              name: fourthpackagedescription,
+              widget: string,
+            }
+          - label: "Fourth Package Benefits"
+            name: "benefits4"
+            widget: "list"
+            fields:
+              - { label: "Benefits", name: "benefit", widget: "string" }
           - {
               label: Wealth Portal Title,
               name: wealthportaltitle,
