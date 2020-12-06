@@ -34,7 +34,7 @@ thirdpackagedescription: Reach your goals with a comprehensive financial plan,
 benefits3:
   - benefit: Comprehensive financial plan
   - benefit: Ongoing investment advice
-  - benefit: Wealth Portal 'Pro' **[Learn more](/service-packages//#wealthportal)**
+  - benefit: Wealth Portal 'Pro' **[Learn more](/service-packages/#wealthportal)**
   - benefit: "Quarterly performance reporting and research updates\r"
   - benefit: Contribution strategy reviews
   - benefit: Pension strategy reviews
@@ -49,7 +49,7 @@ benefits4:
       Comprehensive financial plan 
       (1 per household)
   - benefit: Ongoing investment advice
-  - benefit: Wealth Portal 'Pro' **[Learn more](/#wealthportal)**
+  - benefit: Wealth Portal 'Pro' **[Learn more](/service-packages/#wealthportal)**
   - benefit: "Quarterly performance reporting and research updates\r"
   - benefit: Contribution strategy reviews
   - benefit: Pension strategy reviews
