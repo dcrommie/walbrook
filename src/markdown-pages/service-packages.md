@@ -7,7 +7,7 @@ thumbnail: ../src/images/girl.png
 packagestitle: Our Wealth Service Packages
 packagesdescription: Personal advice on a single topic starts at $550 including
   GST. For ongoing support, we offer simple, transparent pricing on service
-  packages to suit your needs.sdasd
+  packages to suit your needs.
 firstpackage: Clarify
 firstpackageprice: Complimentary
 firstpackagedescription: Clarify your current position and take control of your
@@ -17,7 +17,7 @@ benefits1:
   - benefit: Record and track property and investment valuations
   - benefit: Store essential details and documents, such as wills
   - benefit: Invite other family members, your accountant and property manager
-secondpackage: ENGAGE
+secondpackage: NAVIGATE
 secondpackageprice: $115 per month*
 secondpackagedescription: Already have a financial plan? Activate it with the
   support of general financial advice & coaching.
@@ -55,7 +55,7 @@ benefits4:
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre. Set
   yourself up for success with the wealth portal’s organisation, analytics, and
-  collaboration tools. asdasd
+  collaboration tools.
 videolink: https://player.vimeo.com/video/462506518
 servicestitle: Everything you need, in one place
 servicesdescription: Take control of your finances with a personal wealth portal
