@@ -254,7 +254,7 @@ collections:
             name: "benefits1"
             widget: "list"
             fields:
-              - { label: "Benefits", name: "benefit", widget: "string" }
+              - { label: "Benefits", name: "benefit", widget: "markdown" }
           - { label: Second Package, name: secondpackage, widget: string }
           - {
               label: Second Package Price,
@@ -270,7 +270,7 @@ collections:
             name: "benefits2"
             widget: "list"
             fields:
-              - { label: "Benefits", name: "benefit", widget: "string" }
+              - { label: "Benefits", name: "benefit", widget: "markdown" }
           - { label: Third Package, name: thirdpackage, widget: string }
           - {
               label: Third Package Price,
@@ -286,7 +286,7 @@ collections:
             name: "benefits3"
             widget: "list"
             fields:
-              - { label: "Benefits", name: "benefit", widget: "string" }
+              - { label: "Benefits", name: "benefit", widget: "markdown" }
           - { label: Fourth Package, name: fourthpackage, widget: string }
           - {
               label: Fourth Package Price,
@@ -302,7 +302,7 @@ collections:
             name: "benefits4"
             widget: "list"
             fields:
-              - { label: "Benefits", name: "benefit", widget: "string" }
+              - { label: "Benefits", name: "benefit", widget: "markdown" }
           - {
               label: Wealth Portal Title,
               name: wealthportaltitle,
