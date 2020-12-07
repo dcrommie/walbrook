@@ -1,8 +1,8 @@
 ---
-title: Let’s get you started
+title: Let’s get started
 subtitle: Whether you are looking for advice on one topic or a more
-  comprehensive plan for your future, we can provide the right level of support
-  that you need to realise your financial ambitions.
+  comprehensive plan for your future, we can provide the level of support that
+  you need to realise your financial ambitions.
 thumbnail: ../src/images/girl.png
 packagestitle: Our Wealth Service Packages
 packagesdescription: Personal advice on a single topic starts at $550 including
@@ -53,36 +53,34 @@ benefits4:
   - benefit: Pension strategy reviews
   - benefit: Insurance strategy reviews
 wealthportaltitle: Wealth Portal
-wealthportaldescription: Welcome to your new financial command centre. Set
-  yourself up for success with the wealth portal’s organisation, analytics, and
-  collaboration tools.
+wealthportaldescription: Welcome to your new financial command centre.
 videolink: https://player.vimeo.com/video/462506518
-servicestitle: Everything you need, in one place
-servicesdescription: Take control of your finances with a personal wealth portal
+servicestitle: Your financial command centre
+servicesdescription: Take control of your finances with the personal wealth
+  portal and advice from your financial adviser
 firstservicestitle: Stay on target
-firstservicesdescription: Stay on top of your goals with monthly financial
-  health checks delivered straight to your inbox. Get updates on your budgets,
-  goals, and tax deductions.
+firstservicesdescription: Stay on top of your goals with regular updates on net
+  wealth, budgets and progress towards goals.
 secondservicestitle: Build your A-Team
-secondservicesdescription: Invite family members and professionals, like your
-  property manager and lawyer, to collaborate. Assign permissions to control
-  what they can view or change.
+secondservicesdescription: Invite family members and other professionals, like
+  your property manager and lawyer, to collaborate with you and your financial
+  adviser. Assign permissions to control what they can view or change.
 thirdservicestitle: Keep your finances organised
 thirdservicesdescription: From property and bank accounts to loan repayments,
-  insurance, and estate planning, connect all aspects of your financial world in
-  one place.
+  insurance, and estate planning, connect all aspects of your financial world.
 fourthservicestitle: Reach your goals
-fourthservicesdescription: Planning to retire at 50? Buy a third property?
-  Create a legacy for your family? Whatever your goals, the wealth portal can
-  help you get there.
-fifthservicestitle: Make smarter decisions
-fifthservicesdescription: With powerful reports and purpose-built wizards like
-  the Tax Assistant, the portal is full of tools to help make managing your
-  finances a breeze.
-sixthservicestitle: Track your saving
-sixthservicesdescription: Whether you’re spending too much on travel, coffee, or
-  shoes, your portal helps you manage your spending with easy to use cashflow
-  and budgeting features.
+fourthservicesdescription: Planning to retire at 50? Pay off the mortgage
+  quicker? Fund education costs? Whatever your goals, your financial adviser and
+  the wealth portal can help you get there.
+fifthservicestitle: Make informed decisions
+fifthservicesdescription: With powerful reports and links to your financial
+  institutions, the wealth portal brings clarity to your true financial position
+  and helps you make informed financial decisions.
+sixthservicestitle: Boost your saving capacity
+sixthservicesdescription: Create a positive feedback loop by tracking your
+  budget in the wealth portal.  With cash flow and net wealth tracking, see the
+  effects that investing and realistic budgets can have on your financial
+  position.
 helptitle6: qweqw
 helpmain: qweqw
 help1: weqw
