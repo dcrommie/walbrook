@@ -52,5 +52,5 @@ reviews:
     pic: ../src/images/wholesale.png
     name: Mitchel, NED, London
 contacttitle: Take care of your future today
-contactdesc: Get in touch so we can get you started.
+contactdesc: Get in touch and we'll get you started
 ---
