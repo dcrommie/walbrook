@@ -51,6 +51,6 @@ reviews:
       Attorneys. An amazing job.
     pic: ../src/images/wholesale.png
     name: Mitchel, NED, London
-contacttitle: Take care of your future today
+contacttitle: Take care of your future, today
 contactdesc: Get in touch and we'll get you started
 ---
