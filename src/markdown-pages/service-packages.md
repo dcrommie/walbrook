@@ -1,5 +1,5 @@
 ---
-title: Let’s get started
+title: Let’s get you started
 subtitle: Whether you are looking for advice on one topic or a more
   comprehensive plan for your future, we can provide the level of support that
   you need to realise your financial ambitions.
@@ -55,9 +55,8 @@ benefits4:
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre.
 videolink: https://player.vimeo.com/video/462506518
-servicestitle: Your financial command centre
-servicesdescription: Take control of your finances with the personal wealth
-  portal and advice from your financial adviser
+servicestitle: Your Financial Command Centre
+servicesdescription: Take control of your finances with the personal wealth portal.
 firstservicestitle: Stay on target
 firstservicesdescription: Stay on top of your goals with regular updates on net
   wealth, budgets and progress towards goals.
