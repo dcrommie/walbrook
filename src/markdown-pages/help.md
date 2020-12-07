@@ -1,23 +1,8 @@
 ---
 title: What we do
 subtitle: With tailored investment advice and expertise, we help our clients to
-  create wealth and plan for change over the long term.
-thumbnail: ../src/images/help.png
-helptitle1: Investment Advisory
-helplist1:
-  - title: Risk profiling
-  - title: Asset allocation
-  - title: Portfolio construction
-  - title: Managed Account selection
-  - title: Ethical investment / ESG strategies
-helptitle2: Retirement Planning
-helplist2:
-  - title: Strategy reviews
-  - title: Asset protection & transfer
-  - title: Industry & retail superannuation
-  - title: |
-      Self Managed Superannuation (SMSF)
-  - title: Lump sum & income stream strategies
+  create wealth and plan for change.
+mainImage: ../src/images/help.png
 helptitle3: Wealth Creation
 helplist3:
   - title: Cash flow planning
@@ -65,11 +50,27 @@ helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
   private equity, and direct real estate across multiple countries calls for the
   skilled coordination of professionals and financial institutions.
 helplasttitle: We understand your needs
+thumbnail: ../src/images/help.png
 helplasdesc: If you are an expatriate, inside or outside Australia, holding
   foreign assets, or simply wish to invest with a more global outlook — then
   talk to us. We are not prescriptive about the size of your portfolio. What
   matters to us is setting the right solution in place for you.
 page: true
+contactdesc: Get in touch and we'll get you started
+helplist1:
+  - title: Risk profiling
+  - title: Asset allocation
+  - title: Portfolio construction
+  - title: Managed Account selection
+  - title: Ethical investment / ESG strategies
+helplist2:
+  - title: Strategy reviews
+  - title: Asset protection & transfer
+  - title: Industry & retail superannuation
+  - title: |
+      Self Managed Superannuation (SMSF)
+  - title: Lump sum & income stream strategies
 contacttitle: Take care of your future today
-contactdesc: Get in touch so we can get you started
+helptitle1: Investment Advisory
+helptitle2: Retirement Planning
 ---
