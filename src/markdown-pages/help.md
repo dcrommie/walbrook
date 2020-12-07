@@ -70,7 +70,7 @@ helplist2:
   - title: |
       Self Managed Superannuation (SMSF)
   - title: Lump sum & income stream strategies
-contacttitle: Take care of your future today
+contacttitle: Take care of your future, today
 helptitle1: Investment Advisory
 helptitle2: Retirement Planning
 ---
