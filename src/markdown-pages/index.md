@@ -1,6 +1,6 @@
 ---
 title: Plan. Invest. Protect.
-subtitle: Independent financial advice and wealth management
+subtitle: Take care of your future, today
 thumbnail: ../src/images/family.png
 title2: We help our clients to create wealth and plan for change
 desc1: "We are 100% independent from banks and product providers, which means
