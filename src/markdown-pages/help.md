@@ -50,7 +50,7 @@ help4: Coordination
 helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
   private equity, and direct real estate across multiple countries calls for the
   skilled coordination of professionals and financial institutions.
-helplasttitle: Do you have a global financial advice need?
+helplasttitle: Address global & local wealth needs with one plan.
 thumbnail: ../src/images/help.png
 helplasdesc: If you are an expatriate, inside or outside Australia, holding
   foreign assets, or wish to invest with a more global outlook, please talk to
