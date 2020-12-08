@@ -13,7 +13,6 @@ firstpackageprice: Complimentary
 firstpackagedescription: Clarify your current position and take control of your
   financial journey with access to our personal wealth portal.
 benefits1:
-  - benefit: Wealth Portal ‘Starter’
   - benefit: Record and track property and investment valuations
   - benefit: Store essential details and documents, such as wills
   - benefit: Invite other family members, your accountant and property manager
@@ -22,7 +21,6 @@ secondpackageprice: $115 per month*
 secondpackagedescription: Already have a financial plan? Activate it with the
   support of general financial advice & coaching.
 benefits2:
-  - benefit: Wealth Portal 'Pro' **[Learn more](/service-packages/#wealthportal)**
   - benefit: "Quarterly performance reporting and research updates\r"
   - benefit: "Quarterly investment, super and tax updates\r"
   - benefit: "Trade handling\r"
@@ -34,7 +32,6 @@ thirdpackagedescription: Reach your goals with a comprehensive financial plan,
 benefits3:
   - benefit: Comprehensive financial plan
   - benefit: Ongoing investment advice
-  - benefit: Wealth Portal 'Pro' **[Learn more](/service-packages/#wealthportal)**
   - benefit: "Quarterly performance reporting and research updates\r"
   - benefit: Contribution strategy reviews
   - benefit: Pension strategy reviews
@@ -47,7 +44,6 @@ benefits4:
   - benefit: Multi-generational approach
   - benefit: Comprehensive financial plan (1 per household)
   - benefit: Ongoing investment advice
-  - benefit: Wealth Portal 'Pro' **[Learn more](/service-packages/#wealthportal)**
   - benefit: "Quarterly performance reporting and research updates\r"
   - benefit: Contribution strategy reviews
   - benefit: Pension strategy reviews

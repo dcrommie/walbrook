@@ -78,6 +78,8 @@ const LandingPage = () => {
   }
 
   const [show, setShow] = useState(false)
+  const [flag, setFlag] = useState(false)
+  const onClick = () => setFlag(!flag)
 
   const handleClose = () => setShow(false)
   const handleShow = () => setShow(true)
@@ -88,7 +90,7 @@ const LandingPage = () => {
         <Modal.Body>
           <h2> Get complimentary access to your personal wealth portal</h2>
           <div className="policy-check">
-            <input type="checkbox" />
+            <input type="checkbox" onClick={onClick} />
             <span>
               I have read and agree to the{" "}
               <Link to="/privacy" traget="_blank">
@@ -108,6 +110,7 @@ const LandingPage = () => {
               className="main-button"
               onClick={handleClose}
               style={{ margin: "0 auto" }}
+              disabled={!flag}
             >
               Start Now
             </button>
@@ -148,11 +151,17 @@ const LandingPage = () => {
                 <p>
                   <b>{data.markdownRemark.frontmatter.firstpackageprice}</b>
                 </p>
-                <p style={{ paddingTop: "16px" }}>
+                <p style={{ paddingTop: "35px" }}>
                   {data.markdownRemark.frontmatter.firstpackagedescription}
                 </p>
                 <hr />
                 <ul>
+                  <li>
+                    Wealth Portal 'Starter'{" "}
+                    <Link to="#wealth">
+                      <b> Learn more</b>
+                    </Link>
+                  </li>
                   {data.markdownRemark.frontmatter.benefits1.map(
                     (data, index) => (
                       <li
@@ -178,7 +187,7 @@ const LandingPage = () => {
               <p>
                 <b>{data.markdownRemark.frontmatter.secondpackageprice}</b>
               </p>
-              <p style={{ paddingTop: "16px" }}>
+              <p style={{ paddingTop: "35px" }}>
                 {data.markdownRemark.frontmatter.secondpackagedescription}
               </p>
               <hr />
@@ -191,6 +200,12 @@ const LandingPage = () => {
                     ></li>
                   )
                 )}
+                <li>
+                  Wealth Portal 'Pro'{" "}
+                  <Link to="#wealth">
+                    <b> Learn more</b>
+                  </Link>
+                </li>
               </ul>
               <Link to="#contact">
                 {" "}
@@ -204,9 +219,10 @@ const LandingPage = () => {
             </div>
             <div className="packages-child">
               <h4>{data.markdownRemark.frontmatter.thirdpackage}</h4>
-              <p>
+              <p style={{ marginBottom: "2px" }}>
                 <b>{data.markdownRemark.frontmatter.thirdpackageprice}</b>
               </p>
+              <sup>min 12 months</sup>
               <p style={{ paddingTop: "16px" }}>
                 {data.markdownRemark.frontmatter.thirdpackagedescription}
               </p>
@@ -220,6 +236,12 @@ const LandingPage = () => {
                     ></li>
                   )
                 )}
+                <li>
+                  Wealth Portal 'Pro'{" "}
+                  <Link to="#wealth">
+                    <b> Learn more</b>
+                  </Link>
+                </li>
               </ul>
               <Link to="#contact">
                 <button className="main-button">Contact Us</button>
@@ -232,9 +254,10 @@ const LandingPage = () => {
             </div>
             <div className="packages-child">
               <h4>{data.markdownRemark.frontmatter.fourthpackage}</h4>
-              <p>
+              <p style={{ marginBottom: "2px" }}>
                 <b>{data.markdownRemark.frontmatter.fourthpackageprice}</b>
               </p>
+              <sup>min 12 months</sup>
               <p style={{ paddingTop: "16px" }}>
                 {data.markdownRemark.frontmatter.fourthpackagedescription}
               </p>
@@ -248,6 +271,12 @@ const LandingPage = () => {
                     ></li>
                   )
                 )}
+                <li>
+                  Wealth Portal 'Pro'{" "}
+                  <Link to="#wealth">
+                    <b> Learn more</b>
+                  </Link>
+                </li>
               </ul>
               <Link to="#contact">
                 <button className="main-button">Contact Us</button>
@@ -261,34 +290,35 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
-
-      <div className="packages video" id="wealthportal">
-        <div className="main-container">
-          <h1>{data.markdownRemark.frontmatter.wealthportaltitle}</h1>
-          <p>{data.markdownRemark.frontmatter.wealthportaldescription}</p>
-          <div
-            style={{
-              padding: "56.25% 0 0 0",
-              position: "relative",
-              width: "80%",
-              overflow: "hidden",
-              margin: "0 auto",
-            }}
-          >
-            <iframe
-              src={data.markdownRemark.frontmatter.videolink}
+      <div id="wealth">
+        <div className="packages video">
+          <div className="main-container">
+            <h1>{data.markdownRemark.frontmatter.wealthportaltitle}</h1>
+            <p>{data.markdownRemark.frontmatter.wealthportaldescription}</p>
+            <div
               style={{
-                position: "absolute",
-                top: "0px",
-                left: "0px",
-                width: "100%",
-                height: "100%",
+                padding: "56.25% 0 0 0",
+                position: "relative",
+                width: "80%",
+                overflow: "hidden",
+                margin: "0 auto",
               }}
-              frameBorder="0"
-              autoPlay="true"
-              allow=" fullscreen"
-              allowFullscreen
-            ></iframe>
+            >
+              <iframe
+                src={data.markdownRemark.frontmatter.videolink}
+                style={{
+                  position: "absolute",
+                  top: "0px",
+                  left: "0px",
+                  width: "100%",
+                  height: "100%",
+                }}
+                frameBorder="0"
+                autoPlay="true"
+                allow=" fullscreen"
+                allowFullscreen
+              ></iframe>
+            </div>
           </div>
         </div>
       </div>
