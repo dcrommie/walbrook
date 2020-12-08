@@ -37,7 +37,7 @@ help2: Advisory framework
 helpdesc2: We use a structured advisory framework to assist and advise our
   clients across asset classes, structures and jurisdictions, providing a
   cohesive solution that incorporates all aspects of their wealth.
-helpnewtitle: Turn goals into plans and actions
+helpnewtitle: Turn goals into actions
 helpnewdesc: Whether you are 30 or 50, looking to pay down the mortgage quicker
   or save for retirement, it is never too early to start taking action.   With
   investment, insurance and lending advice, we help to get your wealth creation
@@ -50,7 +50,7 @@ help4: Coordination
 helpdesc4: Exposure to foreign pensions, active business assets, hedge funds,
   private equity, and direct real estate across multiple countries calls for the
   skilled coordination of professionals and financial institutions.
-helplasttitle: Address global & local wealth needs with one plan.
+helplasttitle: Address global advice needs
 thumbnail: ../src/images/help.png
 helplasdesc: If you are an expatriate, inside or outside Australia, holding
   foreign assets, or wish to invest with a more global outlook, please talk to
