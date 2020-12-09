@@ -539,7 +539,8 @@ form {
 input {
   font-family: "Inter" !important;
 }
-.name-fields input {
+.name-fields input,
+.name-fields textarea {
   font-family: "Inter" !important;
   padding: 15px;
   font-size: 18px;
@@ -591,7 +592,10 @@ textarea {
   margin-bottom: 40px;
 }
 
-.email-fields input {
+.email-fields input,
+textarea,
+.email,
+.email-fields textarea {
   font-family: "Inter" !important;
   padding: 15px;
   font-size: 18px;
@@ -601,6 +605,8 @@ textarea {
   border-bottom: 2px solid #000066 !important;
 }
 ::-webkit-input-placeholder,
+textarea,
+.email,
 input:not(:placeholder-shown) {
   font-family: "Inter" !important;
   font-style: normal;
