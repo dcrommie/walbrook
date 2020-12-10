@@ -607,6 +607,7 @@ textarea,
 ::-webkit-input-placeholder,
 textarea,
 .email,
+.name-fields input,
 input:not(:placeholder-shown) {
   font-family: "Inter" !important;
   font-style: normal;
