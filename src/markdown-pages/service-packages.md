@@ -30,24 +30,24 @@ thirdpackageprice: $275 per month*
 thirdpackagedescription: Reach your goals with a comprehensive financial plan,
   clear targets and ongoing personal advice.
 benefits3:
-  - benefit: Comprehensive financial plan
+  - benefit: Initial comprehensive financial plan
+  - benefit: Comprehensive annual review of superannuation, pension, contribution
+      and insurance strategy
   - benefit: Ongoing investment advice
-  - benefit: "Quarterly performance reporting and research updates\r"
-  - benefit: Contribution strategy reviews
-  - benefit: Pension strategy reviews
-  - benefit: Insurance strategy reviews
+  - benefit: Monthly market updates
+  - benefit: Quarterly performance reporting and research updates
 fourthpackage: SUPPORT
 fourthpackageprice: From $400 per month*
 fourthpackagedescription: Assist all households in your family with an
   extensive, multi-generational personal financial advice service.
 benefits4:
   - benefit: Multi-generational approach
-  - benefit: Comprehensive financial plan (1 per household)
+  - benefit: Initial comprehensive financial plan (1 per household)
+  - benefit: Comprehensive annual review of superannuation, pension, contribution
+      and insurance strategy
   - benefit: Ongoing investment advice
-  - benefit: "Quarterly performance reporting and research updates\r"
-  - benefit: Contribution strategy reviews
-  - benefit: Pension strategy reviews
-  - benefit: Insurance strategy reviews
+  - benefit: Monthly market updates
+  - benefit: Quarterly performance reporting and research updates
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre.
 videolink: https://player.vimeo.com/video/462506518
