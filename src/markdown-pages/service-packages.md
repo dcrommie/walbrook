@@ -30,7 +30,7 @@ thirdpackageprice: $275 per month*
 thirdpackagedescription: Reach your goals with a comprehensive financial plan,
   clear targets and ongoing personal advice.
 benefits3:
-  - benefit: Comprehensive financial plan
+  - benefit: Initial comprehensive financial plan
   - benefit: Comprehensive annual review of superannuation, pension, contribution
       and insurance strategy
   - benefit: Ongoing investment advice
