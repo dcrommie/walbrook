@@ -504,15 +504,6 @@ policy: >-
   - - -
 
 
-  Version 1.40
-
-
-  Issued 20 November 2020
-
-
-  Issued by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465)
-
-
-  Liability limited by a scheme approved under Professional Standards Legislation.
+  Version 1.40 | Issued 20 November 2020 by Barbacane Advisors Pty Ltd trading as Walbrook Wealth  Management (ABN 32 626 694 139, AFSL 512465. Liability limited by a scheme approved under Professional Standards Legislation.
 page: true
 ---
