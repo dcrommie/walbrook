@@ -1,7 +1,7 @@
 ---
 blogtitle: Understanding Superannuation
 path: understanding-superannuation
-date: 2020-09-01T03:54:50.219Z
+date: 2020-09-10T03:54:00.000Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/superannuation-blog-post.png
