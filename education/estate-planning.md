@@ -147,7 +147,7 @@ A spouse, child (under age 18, 18-25 and financially dependent, or disabled), fi
 
 A non-dependent, including the deceased's estate, may only receive a lump-sum. 
 
-Please refer to [Understanding Superannuation](https://www.walbrook.com.au/education/superannuation) for more details on the taxation of superannuation death benefits.
+Please refer to [Understanding Superannuation](https://www.walbrook.com.au/education/understanding-superannuation) [](https://www.walbrook.com.au/education/understanding-superannuation)for more details on the taxation of superannuation death benefits.
 
 ## Capital Gains Tax and Deceased Estates
 
