@@ -72,6 +72,8 @@ Globally, the MSCI World ex Australia Index rose 7.4%, and the MSCI Emerging Mar
 
 The average correlation of S&P 500 stocks to the index itself has come down markedly from high of 0.86 in March.  The current level of 0.5 is mainly in line with the average since the late-1980s.
 
+![SPX Correlation](../src/images/correlation.jpg "SPX Correlation")
+
 The ASX 200 Index posted a return of 10.2% in November, building on October’s momentum as the rotation into cyclical sectors continued. The easing of Covid-19 restrictions, a string of better-than-expected economic data, and positive news from vaccine trials all contributed to the rally. 
 
 It was not all smooth sailing, however, with some businesses hit hard by Chinese trade measures. Treasury Wine Estates went into a trading halt after the Chinese Ministry of Commerce announced it would apply provisional anti-dumping measures on Australian wine. 
@@ -96,9 +98,17 @@ US REITs also had a strong month, posting 9.1% in US dollar terms, with large ga
 
 Yields came under pressure in November, with investors mapping out the impact of rising rates on markets ranging from stocks to corporate bonds. The US 10-year Treasury yield rose early in the month from 0.88% to 0.98% on renewed optimism for US stimulus talks, before retreating to 0.84% by month-end. 
 
+![US10Y](../src/images/us-10-year.jpg "US10Y")
+
 November was a solid month for credit, with global high yield credit gaining 4.3% and global investment-grade credit gaining 2.1% in Australian dollar hedged terms.  
 
 In emerging market credit, a spate of Chinese corporate bond failures sparked a sell-off in riskier debt. Yields on three-year AA rated yuan-denominated Chinese corporate bonds, considered by some analysts as junk debt in the onshore market, surged during the month.
+
+![China Junk](../src/images/china-junk.jpg "China Junk")
+
+![]()
+
+![]()
 
 ### Commodities
 
@@ -112,6 +122,8 @@ Metals also moved higher in November, with gains in Lead (+13.7%), Copper (+12.8
 
 The Gold spot price continued to fall over the month, dropping 5.4% to US$1778.10 per ounce.
 
+![Bitcoin Gold](../src/images/bitcoin-gold.jpg "Bitcoin Gold")
+
 ### FX
 
 The Australian dollar gained 5.0% against the US dollar in November and appreciated against other major currencies as the domestic outlook improved and commodity prices pushed higher. 
@@ -121,3 +133,15 @@ Widening US trade and fiscal deficits will likely put pressure on the US dollar,
 Bitcoin broke through US$19,000 to hit its highest level since December 2017, extending its blistering 2020 rally driven by demand for its perceived quality as an inflation hedge and expectations of mainstream acceptance.
 
 Bitcoin is now close to its all-time high of just under $20,000, which it touched at the peak of its retail investor-fuelled 2017 bubble.
+
+**Sources**
+
+This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019.
+
+**General Advice Warning**
+
+The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
+
+**Important Information**
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
