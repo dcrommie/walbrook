@@ -106,10 +106,6 @@ In emerging market credit, a spate of Chinese corporate bond failures sparked a 
 
 ![China Junk](../src/images/china-junk.jpg "China Junk")
 
-![]()
-
-![]()
-
 ### Commodities
 
 Oil jumped in November and continued to rally into December as hopes for Covid-19 vaccines and continued stimulus supported the energy sector. 
