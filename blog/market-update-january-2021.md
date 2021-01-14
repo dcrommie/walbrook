@@ -48,6 +48,8 @@ The Bank of England left its policy rate unchanged at 0.1% during its December m
 
 The EU approved the Pfizer vaccine on 21 December however logistical issues have stymied distribution efforts. Germany has extended its national lockdown by three weeks until 31 January to regain control of rising infection rates. The eurozone manufacturing PMI improved in December, as did the Markit Composite PMI, though both lagged expectations.
 
+![Germany-Shutdown](../src/images/germany-shutdown.png "Germany-Shutdown")
+
 ## Asia
 
 The Chinese economy continues to power ahead, with the Caixin manufacturing PMI posting its eighth consecutive month of expansion in December.
