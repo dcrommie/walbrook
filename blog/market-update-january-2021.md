@@ -80,6 +80,8 @@ The pandemic has prompted investors to diversify into alternative assets such as
 
 Some diversified trusts saw impressive growth over 2020, benefitting from higher demand for access to industrial and logistics assets during the pandemic.
 
+![Manhattan Rents ](../src/images/manhattan-apartment-rents.png "Manhattan Rents")
+
 ## Rates and Credit
 
 Central bank bond-buying programs have helped soak up high government debt issuance levels in the fight against the pandemic. 
