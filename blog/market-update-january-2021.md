@@ -10,6 +10,8 @@ By some estimates, 2020 has seen the sharpest decline in global output in around
 
 Covid-19 cases are still rising in the US and Europe, and vaccine distribution will not bring an immediate end to social distancing. Still, confidence is improving, reflected in rising equities and longer-dated yields.
 
+![Global Fiscal Policy Comparison](../src/images/global-fiscal-policy-comparison.jpg "Global Fiscal Policy Comparison")
+
 ## Australia
 
 The minutes of the Reserve Bank of Australia (RBA) board meeting in December revealed the board believes it will take some time for output in Australia to reach its pre-pandemic level. 
