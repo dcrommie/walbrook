@@ -76,6 +76,8 @@ European shares fared considerably worse over 2020 compared to the US and Asia. 
 
 Hardest hit were cyclical sectors like energy and financial services and sectors directly impacted by the pandemic, such as travel and leisure.  The pan-European STOXX 600 Index rose 2.5% in December but came under pressure amid concerns of a fast-spreading Covid-19 mutation. 
 
+![Value v Growth](../src/images/value-v-growth.jpg "Value v Growth")
+
 ## Property
 
 It was an annus horribilis for listed property, with almost every sector under pressure due to lockdowns and social distancing. 
