@@ -96,6 +96,8 @@ The end of 2020 saw a further recovery in long yields, thanks in part to positiv
 
 The US 10-year Treasury yield rose from 0.84% to 0.93% in December, before lifting above 1.0% in early January on the back of Democrat victories in the Georgia runoff. 
 
+![US Yield Curve](../src/images/us-yield-curve.jpg "US Yield Curve")
+
 In Australia, money market rates are still close to zero, and the yield on the 3-year government bond is in line with the RBA’s 0.10% target.  In December, the Australian Government sold debt at a negative nominal yield for the first time.
 
 While negative-yielding bonds have still delivered investors positive returns via capital gains, as they go further negative, the outlook is asymmetric and unfavourable over the medium to long term.
