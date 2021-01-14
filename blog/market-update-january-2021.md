@@ -20,6 +20,8 @@ Members acknowledged that “the recovery in the labour market was more advanced
 
 Australia’s labour market continues to recover, with 90,000 jobs added in November, including 84,200 full-time jobs. The unemployment rate decreased 0.2 points to 6.8% (1.7 points higher than a year ago) and hours worked increased by 42.8 million hours (2.5%) to 1,752 million hours. 
 
+![FRED Job Postings](../src/images/fred-graph-job-postings.png "FRED Job Postings")
+
 Retail trade rose a seasonally adjusted 7.1% in November, following a 1.4% rise in October.  Growth occurred across all states except South Australia, which was subject to a brief lock down. At the industry level, clothing, footwear and personal accessory retailing saw the most significant rise (+26.7%). 
 
 Optimism abounds according to the latest Westpac-MI Consumer Sentiment Index. The ‘economy, next 12 months’ sub-index rose 9.9% to 111.9, a ten-year high, thanks to Australia’s relative success in combating the pandemic. The ‘economy, next five years’ sub-index rose 5.9% to 121.1, the strongest reading since December 2009.
