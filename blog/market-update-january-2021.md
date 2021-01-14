@@ -113,3 +113,5 @@ The Gold spot price rebounded over the month, rising 6.5% to US$1,894.36.
 In December, the Australian dollar continued to strengthen, rising 4.2% against the US dollar and appreciating 3.1% in trade-weighted terms. 
 
 The ballooning US fiscal deficit and the promise of further debt-driven stimulus have put pressure on the US dollar while rising commodity prices and a relatively healthy economic situation at home is a tailwind for the Australian currency.
+
+![AUDUSD Basis](../src/images/audusd-cross-currency-basis.png "AUDUSD Basis")
