@@ -95,7 +95,7 @@ policy: >-
   Where the representative is a Relevant Provider, the CPD Plans are designed to meet or exceed standards set by the Financial Adviser Standards and Ethics Authority (FASEA).
 
 
-  The CPD Plan is designed to maintain competency in the areas the Relevant Provider is qualified and licenced to provide Financial Advice. The RM approves the plan, which consists of no less than the minimum hours and knowledge areas required by FASEA.
+  The CPD Plan is designed to maintain competency in the areas the Relevant Provider is qualified and licensed to provide Financial Advice. The RM approves the plan, which consists of no less than the minimum hours and knowledge areas required by FASEA.
 
 
   The minimum hours and knowledge areas are:
@@ -103,9 +103,17 @@ policy: >-
 
   * 40 hours of CPD each year, of which 70% will need to be approved by Walbrook.
 
-  * Of the 40 hours, a minimum in each knowledge area per below table.
+  * Of the 40 hours, a minimum in each knowledge area outlined below.
 
-    ![FASEA Knowledge Areas](../src/images/fasea-table.png "FASEA Knowledge Areas")
+    **Technical Competence (minimum 5 hours)** - The activity is designed to enhance participants’ technical proficiency and ability to develop and provide advice strategies that are appropriate to the objectives, financial situations and needs of different classes of retail clients. 
+
+    **Client Care and Practice (minimum 5 hours)** - The activity is designed to enhance participants’ ability to act as a client-centric practitioner in advising retail clients. 
+
+    **Regulatory Compliance and Consumer Protection (minimum 5 hours)** - The activity is designed to enhance participants’ understanding of applicable legal obligations and how to comply with them.  
+
+    **Professionalism and Ethics (minimum 9 hours)** - The activity is designed to enhance participants’ capacity to act as an ethical professional. 
+
+    **General (no minimum)** - The activity is designed to maintain and extend participants’ professional capabilities, knowledge and skills, including keeping up to date with regulatory, technical and other relevant developments, but is not in an area referred to in another item of this table. 
 
   A maximum of 4 hours professional reading time counts towards the 40 hours requirement.
 
