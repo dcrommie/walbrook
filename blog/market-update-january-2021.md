@@ -125,3 +125,15 @@ In December, the Australian dollar continued to strengthen, rising 4.2% against 
 The ballooning US fiscal deficit and the promise of further debt-driven stimulus have put pressure on the US dollar while rising commodity prices and a relatively healthy economic situation at home is a tailwind for the Australian currency.
 
 ![AUDUSD Basis](../src/images/audusd-cross-currency-basis.png "AUDUSD Basis")
+
+**Sources**
+
+This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019.
+
+**General Advice Warning**
+
+The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
+
+**Important Information**
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
