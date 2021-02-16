@@ -84,6 +84,8 @@ However, while vaccine announcements are positive for sentiment, until there is 
 
 Though much will depend on the supply side.  In the US, prices are squeezing in some markets with just 389,000 single-family homes on the market in the US, while in Canada there are less than 100,000 active listings.  That is the lowest inventory on record.
 
+![Inventory](../src/images/inventory-home-sales.jpg "Inventory")
+
 ### Rates and Credit
 
 Australia's yield curve has seen a notable steepening in recent months. 
