@@ -98,6 +98,8 @@ As measured by the spread between the 10-year and 2-year government bond yields,
 
 The curve may steepen further due to supply alone unless the Fed keeps the QE programme's pace up in Q1.  There is a lot of bond issuance yet to be absorbed by the market.
 
+![Issuance outpacing QE](../src/images/issuance-outpacing-qe.jpg "Issuance outpacing QE")
+
 In Australia, the CPI increased by just 0.9% over the year to the December quarter, and wages are rising at the slowest rate on record. In the US, the core PCE inflation rate (the Federal Reserve's preferred inflation measure) was 1.5% year-on-year to December.
 
 While current inflation rates remain low, 10-year breakeven inflation rates at their highest levels since 2014 indicate fears that inflation could return as the pandemic subsides and large-scale stimulus washes through the economy.
@@ -106,7 +108,7 @@ The gap between five-year inflation breakevens and the core PCE price index is a
 
 ![US HY Yields Record Low](../src/images/us-junk-bond-yields-below-4-for-first-time-ever.jpg "US HY Yields Record Low")
 
-### Commodities 
+### Commodities
 
 The oil market has come a long way since prices turned negative during the height of the pandemic.  
 
