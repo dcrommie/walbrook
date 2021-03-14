@@ -128,7 +128,7 @@ Gold fell 2.5% to end the month at US$1,847.65 per ounce.
 
 Silver had its biggest intraday move since 2008, with the Reddit army posting about executing a short squeeze in the metal.  The gains were far away from the big swings of the late 1970s / early 1980s when the Hunt brothers attempted to corner the market, however the Gold/Silver ratio has been driven to the lowest level since 2014.
 
-![Gold / Silver Ratio](../src/images/gold-silver-ratio.jpg "Gold / Silver Ratio")
+![Gold/Silver Ratio](../src/images/gold-silver-ratio.jpg "Gold/Silver Ratio")
 
 ### FX
 
