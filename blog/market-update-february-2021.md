@@ -124,7 +124,7 @@ Base metals were mostly stronger in January, with gains in Tin (+12.1%), Nickel 
 
 Gold fell 2.5% to end the month at US$1,847.65 per ounce. 
 
-![Silver move](../src/images/silver-moves.jpg "Silver move")
+![Silver Move](../src/images/silver-moves.jpg "Silver Move")
 
 Silver had its biggest intraday move since 2008, with the Reddit army posting about executing a short squeeze in the metal.  The gains were far away from the big swings of the late 1970s / early 1980s when the Hunt brothers attempted to corner the market, however the Gold/Silver ratio has been driven to the lowest level since 2014.
 
