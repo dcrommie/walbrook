@@ -108,7 +108,7 @@ While current inflation rates remain low, 10-year breakeven inflation rates at t
 
 The gap between five-year inflation breakevens and the core PCE price index is at the highest in almost eight years, however, which may resolve with expectations falling back in line with core inflation.
 
-![US HY Yields Record Low](../src/images/us-junk-bond-yields-below-4-for-first-time-ever.jpg "US HY Yields Record Low")
+![USHY Record Lows](../src/images/us-junk-bond-yields-below-4-for-first-time-ever.jpg "USHY Record Lows")
 
 ### Commodities
 
