@@ -118,7 +118,7 @@ As the coronavirus loosens its grip on the global economy, oil demand is likely 
 
 Brent and WTI crude prices both gained in January, ending the month at US$55.25 per barrel and US$52.16 per barrel respectively before breaching the US$60 mark in early February for the first time in almost a year.
 
-![Brent price](../src/images/brent.jpg "Brent price")
+![Brent Price](../src/images/brent.jpg "Brent Price")
 
 Base metals were mostly stronger in January, with gains in Tin (+12.1%), Nickel (+6.5%), Lead (+1.5%) and Copper (+1.2%) and falls in Zinc (-6.2%) and Aluminium (-0.1%). 
 
