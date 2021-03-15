@@ -44,7 +44,7 @@ The race to inoculate has been derailed by logistical challenges and shortages. 
 
 Prime minister Johnson announced a four-stage plan to lift restrictions in England, expecting to lift all restrictions on social conduct by June. 
 
-<insert ‘Britain’s vaccine rollout has boosted the outlook for growth and inflation chart>
+![Britain Outlook](../src/images/britain.jpg "Britain Outlook")
 
 Overall, the recovery story remains intact, albeit dilated. The eurozone’s economic sentiment index improved in February as the outlook for vaccine rollouts and easing of restrictions bolstered confidence. The IHS Markit Eurozone Manufacturing PMI also surprised to the upside, while January’s retail sales came in well below expectations and the unemployment rate held steady at 8.1%. 
 
