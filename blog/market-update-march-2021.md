@@ -121,7 +121,7 @@ Indicators of stress in bond markets have also been observed, with bid/ask sprea
 
 <Insert UST bid/ask spreads chart>
 
-## Commodities 
+## Commodities
 
 Oil prices jumped over February as the economic recovery solidified, and oilfield crews in Texas reported that they might need several weeks to resume normal operations after the record freeze. The spot price of WTI crude rose 18.0% to US $61.55 per barrel, and Brent rose 19.2% to US $65.86 per barrel. 
 
@@ -140,3 +140,15 @@ The gold price fell 6.1% to US $1,734.04 per ounce.  Higher inflation expectatio
 The Australian dollar gained 2.4% against the US dollar in February to end the month at USD 0.78, boosted by record trade figures. 
 
 Rising global yields, led by US Treasuries, could represent an obstacle for the Australian dollar moving higher with the RBA committed to keeping monetary policy as accommodative as possible.
+
+**Sources**
+
+This article contains information first published by [Lonsec](http://www.lonsec.com.au/). Voted Australia’s #1 Research House for 2019.
+
+**General Advice Warning**
+
+The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
+
+**Important Information**
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
