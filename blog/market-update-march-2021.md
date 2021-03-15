@@ -4,7 +4,7 @@ path: market-update-march-2021
 date: 2021-03-15T03:34:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/world-equity-market-returns.png
 ---
 The vaccine narrative is propelling the economic recovery forward, even as some regions face logistical headwinds. Fiscal and monetary policy remain extraordinarily accommodative and are helping households and businesses through what we hope are the final stages.
 
