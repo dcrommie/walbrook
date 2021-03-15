@@ -111,7 +111,7 @@ This purchase is the first departure from the program since it commenced in Nove
 
 In the US, Treasury yields rose from 1.11% to 1.44% over February and continued to push higher in early March.   Deutsche Bank noted that it had been the worst start to a year for the benchmark US 10 Year Treasury since 1830.
 
-<insert DB graph re TR of UST>
+![UST Worst Start 1830](../src/images/us10y-total-return-1830.jpg "UST Worst Start 1830")
 
 Spreads on riskier fixed-income investments like high yield credit and corporate loans have narrowed notably as fund managers sell assets that trade more in line with government debt.  
 
