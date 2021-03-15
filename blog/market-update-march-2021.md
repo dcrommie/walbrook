@@ -129,7 +129,7 @@ Base metals were stronger in February, Tin (+12.7%), Aluminium (+9.0%), Zinc (+8
 
 Copper gained 15.5%, reaching levels reached in 2007-08 during the first phase of the commodities super-cycle.
 
-<insert copper chart>
+![Copper](../src/images/copper.jpg "Copper")
 
 The gold price fell 6.1% to US $1,734.04 per ounce.  Higher inflation expectations were exceeded by higher nominal yields, resulting in higher real yields.  As an asset that pays no income, higher real yields are a Gold headwind.
 
