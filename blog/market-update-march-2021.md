@@ -85,13 +85,16 @@ Value shares continued their rally through the start of 2021. Still, performance
 European shares joined in the global rally in February as vaccine progress, and stimulus measures pushed the Stoxx 600 Index higher and just shy of its February 2020 all-time high. Value and cyclical sectors such as banks, commodities producers and travel companies have led the reflation trade-driven advance. 
 
 In Asian markets, Japan’s Nikkei 225 Index rose 4.8%, Hong Kong’s Hang Seng Index rose 2.5%, and China’s CSI 300 Index fell 0.3% during February.
-Property
+
+## Property
 
 Australian listed property continued to trend down through February as Covid-related uncertainty was exacerbated by the rise in yields. 
 
 CoreLogic data showed Australian house prices rose 2.1% in February—their fastest rate in 17 years— with growth in every capital city thanks to improving economic conditions and reduced supply.
 
 According to the ABS, the value of new housing loans rose 10.5% in January and 76% since its May 2020 low. 
+
+![Australian House Prices](../src/images/australian-residential-real-estate.png "Australian House Prices")
 
 In the US Real Estate Investment Trust (REIT) sector, the post-covid rotation has been the prevailing theme as investors favour reopening-sensitive sectors such as retail, hotels and offices over ‘essential’ sectors like housing, industrial and technology. 
 
