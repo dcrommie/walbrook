@@ -119,7 +119,7 @@ Issuers have raced to meet this demand with sales of new Collateralised Loan Obl
 
 Indicators of stress in bond markets have also been observed, with bid/ask spreads in US Treasuries widening across the curve to their highest levels since the March 2020 sell-off.
 
-<Insert UST bid/ask spreads chart>
+![UST Spreads](../src/images/treasury-bidask.png "UST Spreads")
 
 ## Commodities
 
