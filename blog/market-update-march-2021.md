@@ -20,6 +20,8 @@ The AiG Manufacturing PMI rose 3.5 points in February to 58.8.  According to AiG
 
 Sentiment remains strong, with the Westpac-MI Consumer Sentiment Index lifting to 109.1 in February from 107.0 in January.  The ‘time to buy a dwelling’ index fell 3.1% and is now 8.6% below its peak in November. The decline in recent months suggests that house price increases may already be starting to weigh on the purchasing sentiment. 
 
+![Consumer Confidence](../src/images/consumer-confidence.png "Consumer Confidence")
+
 ## United States
 
 A stellar jobs report for February showed the labour market recovery has been more robust than expected in the US. 
