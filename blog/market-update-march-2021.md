@@ -133,7 +133,7 @@ Copper gained 15.5%, reaching levels reached in 2007-08 during the first phase o
 
 The gold price fell 6.1% to US $1,734.04 per ounce.  Higher inflation expectations were exceeded by higher nominal yields, resulting in higher real yields.  As an asset that pays no income, higher real yields are a Gold headwind.
 
-<insert Gold chart>
+![Gold](../src/images/gold-v-nominal-yields.jpg "Gold")
 
 ## FX
 
