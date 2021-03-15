@@ -78,7 +78,7 @@ Reaching the end of reporting season, S&P 500 companies reported positive earnin
 
 The VIX remains at elevated levels, with the futures curve in steep contango, implying expectations of volatility over the medium term that are higher than pre-COVID.
 
-<Insert Four-month VIX Futures chart>
+
 
 Value shares continued their rally through the start of 2021. Still, performance has not been uniform, with cyclical stocks benefitting enormously from renewed confidence while value with a quality bias has struggled. 
 
