@@ -112,9 +112,9 @@ With inflation expectations and yield rising, the RBA took decisive steps at the
 
 This purchase is the first departure from the program since it commenced in November and an indication that the RBA is not going to remain passive in the face of the global reflation trade.
 
-In the US, Treasury yields rose from 1.11% to 1.44% over February and continued to push higher in early March.   Deutsche Bank noted that it had been the worst start to a year for the benchmark US 10 Year Treasury since 1830.
+In the US, Treasury yields rose from 1.11% to 1.44% over February and continued to push higher in early March.   Deutsche Bank noted that it had been the third worst start to a year for the benchmark US 10 Year Treasury since 1830.
 
-![UST Worst Start 1830](../src/images/us10y-total-return-1830.jpg "UST Worst Start 1830")
+![UST Third Worst Start 1830](../src/images/us10y-total-return-1830.jpg "UST Third Worst Start 1830")
 
 Spreads on riskier fixed-income investments like high yield credit and corporate loans have narrowed notably as fund managers sell assets that trade more in line with government debt.  
 
