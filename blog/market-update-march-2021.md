@@ -4,7 +4,7 @@ path: market-update-march-2021
 date: 2021-03-15T03:34:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/world-equity-market-returns.png
+thumbnail: ../src/images/house-prices-banner.png
 ---
 The vaccine narrative is propelling the economic recovery forward, even as some regions face logistical headwinds. Fiscal and monetary policy remain extraordinarily accommodative and are helping households and businesses through what we hope are the final stages.
 
@@ -58,9 +58,7 @@ At the opening of this year’s National People’s Congress, Premier Li Keqiang
 
 The Chinese authorities appear focused on the quality of growth, including reform and innovation, rather than pure numbers. 
 
-China relies on two domestically developed vaccines and competes with Russia to conduct ‘vaccine diplomacy’ throughout central Asia. 
-
-However, based on data from Brazil, China’s Sinovac jab showed an efficacy rate of just over 50%, which is well below Pfizer’s 95% efficacy rate. 
+China relies on two domestically developed vaccines and competes with Russia to conduct ‘vaccine diplomacy’ throughout central Asia. However, based on data from Brazil, China’s Sinovac jab showed an efficacy rate of just over 50%, which is well below Pfizer’s 95% efficacy rate. 
 
 Japan’s vaccine campaign has stalled due to shortages, with only limited doses of the Pfizer vaccine available until increased supplies reach Japan from Europe in May this year.
 
