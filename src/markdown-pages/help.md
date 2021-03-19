@@ -43,7 +43,7 @@ helpnewdesc: Whether you are 30 or 50, looking to pay down the mortgage quicker
   investment, insurance and lending advice, we help to get your wealth creation
   strategy in place.
 help3: Independence
-helpdesc3: Our comprehensible, flexible advice service is made possible by our
+helpdesc3: Our comprehensive, flexible advice service is made possible by our
   independence from financial product providers and a fair, transparent flat fee
   structure.
 help4: Coordination
