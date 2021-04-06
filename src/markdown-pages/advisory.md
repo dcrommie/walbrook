@@ -20,7 +20,7 @@ answer1: >-
 
 
   Your investment risk profile is also assessed, first with our generic risk profile assessment. The risk profile report is reviewed and discussed with you, in the context of your objectives and personal situation, to agree a risk profile and ensure that recommended actions align with your willingness and ability to take risk.
-FAQ2: Developing recommended strategy
+FAQ2: Developing the recommended strategy
 answer2: >-
   Once we have collected the necessary information and analysed your situation,
   needs and objectives, we can prepare your advice and management plan.
