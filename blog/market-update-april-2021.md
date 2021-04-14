@@ -52,17 +52,17 @@ The shortfall in what the bloc was producing compared with its full potential at
 
 The shortfall was double the equivalent differential in the US, meaning that the European economy created fewer jobs, yielding weaker demand and generating lower inflation.
 
-<insert graph of US pulling away from EU>
+![US Pulls Away](../src/images/us-pulls-away-extra-stimulus.png "US Pulls Away")
 
 Meanwhile, the UK remains on a steady path out of its three-month lockdown as the government considers a ‘vaccine passport’ to allow travellers proof of their vaccination. However, there are concerns regarding equity for those unable to access vaccines. 
 
 UK GDP expanded 1.3% in the fourth quarter, surpassing expectations of 1.0%, and the Bank of England Chief Economist Andy Haldane noted that the UK could see a “rip-roaring” recovery even if consumers spend just a bit of the additional savings they have accumulated during the crisis. 
 
-<insert the graph fo UK savings>
+![UK Cash Pile](../src/images/uk-savings.png "UK Cash Pile")
 
 This potential spike in demand does raise fears of inflation, with 10 year gilt yields jumping in response.  Andrew Bailey, a Bank of England governor, said the risks of rising inflation were “increasingly two-sided”, although he said the bank was not about to raise rates.
 
-<Insert graph of UK, Germany and US rates>
+![UK German US Yields 10Y](../src/images/uk-us-and-germany-rates.jpg "UK German US Yields 10Y")
 
 ## Asia
 
@@ -86,11 +86,11 @@ India—along with the US, China, Indonesia and South Korea—will be among the 
 
 ## Equities
 
-<Insert graph of NASDAQ v 10Y yield>
-
 Following the March 2020 low, the subsequent rebound in global markets was initially fuelled by growth companies in technology and healthcare that performed well as the pandemic swept across the globe and strict lockdown measures were implemented in most countries. As vaccines continue to roll out globally, the rebound has shifted to more cyclical areas of the market that are expected to perform strongly as the world returns to ‘normal’. 
 
 In the US, the style rotation has been most strongly depicted in the performance disparity between the ‘old economy’ Dow Jones Industrial Index, which rose 8.3% in the March quarter, and the ‘new economy’ NASDAQ Composite Index, which rose 1.8%. The rotation is being aided by rising bond yields, which challenge the lofty valuations that have been assigned to growth assets, especially in the technology sector. 
+
+![NASDAQ 10Y Yield](../src/images/nasdaq-v-10y-yield.jpg "NASDAQ 10Y Yield")
 
 Australian shares extended their rally through March, gaining 2.4% but failing to keep pace with global markets, which have been buoyed by the vaccine story. In AUD terms, the S&P 500 advanced 6.10% during the month, while the FTSE 100 gained 4.48%.
 
