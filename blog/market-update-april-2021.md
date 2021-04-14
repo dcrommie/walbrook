@@ -4,7 +4,7 @@ path: market-update-april-2021
 date: 2021-04-14T11:15:13.542Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/april-2021-blog-banner.png
 ---
 As vaccines continue to roll out globally, the rebound has shifted to cyclical sectors that the market expects will perform strongly as the world returns to normal. 
 
@@ -38,11 +38,11 @@ Non-farm payrolls for March came in strongly at 916k, beating expectations of 64
 
 The Federal Reserve maintained its accommodative policy stance at its March meeting, as widely expected. Fed Chair Jerome Powell stated that the unevenness in the economic recovery would see monetary policy remain accommodative for some time, with Fed fund futures now pricing in almost a full rate hike by December next year.
 
-<insert fed funds futures chart>
+![Fed Funds Futures](../src/images/fed-funds-futures.jpg "Fed Funds Futures")
 
 The relaxed stance on monetary policy comes amidst increasing angst on inflation. Nordea noted that the latest NFIB Business Optimism Index release indicates intense pressure on core inflation should usual correlations hold. 
 
-<insert the Nordea graph>
+![NFIB Leads Core Inflation](../src/images/nfib-leading-core-cpi.jpg "NFIB Leads Core Inflation")
 
 ## Europe
 
