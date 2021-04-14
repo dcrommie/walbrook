@@ -116,7 +116,9 @@ Once again, the bond market is proving a critical barometer of the market’s mo
 
 The US 10-year Treasury yield has risen from around 0.9% at the end of 2020 to over 1.7% at the end of March 2021.  The longest duration Treasury Bond ETF is now down over 30% from it’s all-time high, approaching it’s largest drawdown ever of 32% in 2012-13. 
 
-<insert graph of bond etf drawdown>
+
+
+![Long Duration ETF](../src/images/reminder-of-effect-of-long-duration.png "Long Duration ETF")
 
 The rise in market interest rates is consistent with the ongoing improvement in economic data. However, the rise in yields also reflects the market’s concern about inflation, which has been exacerbated by stimulus measures’ speed and scale.  Questions also remain around governments and central banks’ ability to withdraw or scale back these measures to manage inflation outcomes without threatening the recovery. 
 
