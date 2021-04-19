@@ -1,7 +1,7 @@
 ---
 blogtitle: Understanding Money Market Instruments
 path: understanding-money-market-instruments
-date: 2021-04-19T12:08:26.476Z
+date: 2020-01-01T11:08:00.000Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-money-markets.png
