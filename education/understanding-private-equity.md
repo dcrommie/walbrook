@@ -97,6 +97,18 @@ The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with
 
 ## Risks
 
+#### Liquidity Risk
+
+The risk that an investor cannot sell an investment at a fair price within an expected timeframe is called Liquidity Risk.
+
+Listing on a stock exchange does not negate liquidity risk, as there still needs to be a willing buyer. It is common for the shares of small or micro companies ('small caps' and 'micro caps') to present liquidity risks, given there are few shares in issuance and trading volumes are low. Listed investment companies and investment trusts, especially listed private equity vehicles, may also present a liquidity risk.
+
+Liquidity risk is even more prevalent in unlisted assets, including structured products and alternative investments such as private equity or real estate, where no secondary market exists, and the underlying assets are themselves illiquid.
+
+#### Manager Risk
+
+Manager Risk is the risk that an investment manager or investment management team fail to meet their investment objectives or drifts from their stated investment mandate or style.
+
 #### **Market Risk**
 
 The investor is exposed to the general economic environment, e.g. interest rate changes, exchange rates (when not denominated in home currency). The psychology of the market participants tends to enforce trends, and in a market of expectations, not all expectations may be rational.
