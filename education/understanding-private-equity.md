@@ -113,11 +113,17 @@ Manager Risk is the risk that an investment manager or investment management tea
 
 The investor is exposed to the general economic environment, e.g. interest rate changes, exchange rates (when not denominated in home currency). The psychology of the market participants tends to enforce trends, and in a market of expectations, not all expectations may be rational.
 
+Private equity funds aim at absolute returns independently of the market environment.  However, some dependencies remain: the economic success of a company also depends on the general economic environment. When the fund exits one of its investments, it may necessitate waiting for favourable conditions on the public market, thus influencing the cash flow to the investors.
+
 #### **Company Risk**
 
 Company risk stems from the economic situation or environment specific to the company, including the quality of the company, its management and its competitors.
 
 Company risk is an unsystematic risk, meaning that an investor can reduce its impact on a portfolio basis by including exposure to other companies, sectors and countries in your portfolio.
+
+#### Legal and Regulatory Risks
+
+Participation in offshore investment vehicles may be restricted by local legislation, and may also influence the taxation of Private Equity investments.
 
 #### Important Information
 
