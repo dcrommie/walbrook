@@ -44,11 +44,11 @@ The manager of a fund of fund pools the capital of multiple investors to build a
 
 This increases diversification, reducing the risks involved in investment and manager selection, but adds a layer of fees and complexity.
 
-## Key features of Private Equity
+## Key features of Money Market Instruments
 
 ### Investment Horizon
 
-Long-Term
+Short-term
 
 ### Return Expectation
 
@@ -60,15 +60,19 @@ Suitable for expectations of economic growth over the medium-long term.
 
 ### Maximum Gain
 
-The maximum gain is unlimited, comprised of capital gains and income.
+Income only.
 
 #### Maximum Loss
 
-Total loss of capital committed (not just capital drawn).
+There is the possibility of total loss, in the case of the default of the counterparty.
 
 ### Profit / Loss
 
-Returns are dependent on multiple variables, including quality of management at fund and company level, though typically independent of movements in liquid equity and bond markets.
+When considering returns on money market instruments, investors consider both nominal and real (inflation adjusted) returns.
+
+Interest rates offered depend on the term, amount and risk of default of the counterparty (typically expressed in a credit rating). 
+
+The investor bears interest rate risk on rollover/reinvestment at maturity, and when investing for longer periods the real value of the investment may be eroded by inflation.
 
 ### Trading Process
 
@@ -86,14 +90,37 @@ The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with
 
 ### Advantages
 
-* Returns are not typically closely correlated with traditional asset classes, providing a diversification benefit to portfolios
-* May allow for participation in markets that are difficult to access via traditional financial instruments.
+* *Returns are not typically closely correlated with traditional asset classes, providing a diversification benefit to portfolios*
+* *May allow for participation in markets that are difficult to access via traditional financial instruments.*
+
+  Higher returns than a savings account
+
+  Liquidity – depending on the time frame chosen,
+  money can be withdrawn quickly.
+
+  Less volatile than alternative short-term
+  investments.
+
+  Low default risk (depending on the counterparty even guaranteed investments).
+
+  Access to short-term interest rates
+
+  Low fees and taxes
 
 ### Disadvantages
 
-* Typically no secondary market, and where a secondary market exists there is low liquidity and wide spreads
-* Investment in a Fund or Fund or Funds may be required before investments or funds have been identified
-* Capital calls and other cash flows are not determinable before investment is made
+* *Typically no secondary market, and where a secondary market exists there is low liquidity and wide spreads*
+* *Investment in a Fund or Fund or Funds may be required before investments or funds have been identified*
+* *Capital calls and other cash flows are not determinable before investment is made*
+
+  * Minimum investment volumes apply: usually CHF 250,000 for call deposits, and CHF 100,000 for time deposits.
+    Less returns compared to riskier/more volatile short-term investment instruments.
+    Interest rate risk on roll-over
+    Inflation risk: as rates are usually low the return can
+    be diminished by inflation.
+    Account minimums usually apply
+    Credit risk: risk of the bank holding the deposit
+    becoming insolvent.
 
 ## Risks
 
