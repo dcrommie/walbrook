@@ -12,37 +12,35 @@ Please contact your adviser if there is any aspect on which you need further inf
 
 ## What are Money Market instruments?
 
-An investment in Private Equity involves investment in companies that are not available for public investment via the stock exchange. 
+Money market instruments are highly liquid, typically short-term, investments.
 
-While an investor may directly invest in a private company, it is more common in a portfolio management sense to invest in a Private Equity fund or a fund of Private Equity funds, as outlined below.
+A portfolio may have a strategic allocation to money market instruments for liquidity and diversification purposes, and they can also serve as a ‘stop-over’ for excess cash between investments. 
 
-### Types of Private Equity Investment
+### Types of Money Market Instruments
 
-* Direct Investment
-* Private Equity Funds
-* Private Equity Fund of Funds
+The money market instrument that is most common to retail investors is the Term Deposit.  
 
-#### Direct Investment
+An investor lends their money to a financial institution for a specific period of time, usually between one week and a year, in exchange for interest income.
 
-An investor may take direct ownership of shares in a private company.
+Wholesale and institutional investors, including corporate entities, superannuation and pension funds, typically use a broader range of money market instruments to invest and manage their liquidity and funding needs.
 
-For many investors who are not actively involved in the target business, direct ownership is not feasible due to a lack of time, specialist knowledge and experience, and high minimum investment requirements.
+Retail investors may also access these types of money market instruments indirectly, via money market funds or multi-asset funds using money market instruments.
 
-#### Private Equity Funds
+We can split the most common money market instruments by counterparty type:
 
-Private Equity fund managers pool the capital of multiple investors to build a portfolio of investments (typically 10-20) over which they exert significant control.   
+### Bank Counterparties
 
-The fund is raised over a subscription period of 3-18 months, with investors making a commitment to invest a specific amount into the fund.  The committed amount is typically not drawn immediately, with capital calls made to investors as investments are identified and acquired.  This investment period can last up to 5-7 years from the close of the subscription period.
+* **Term / Call Deposits** - where the investor invests directly with the bank as their counterparty
+* **Fiduciary Deposits** - where the bank invests the funds in the name of the bank with a third-party bank issuer, but on the account and risk of the investor i.e the investor bears the counterparty risk
+* **Certificates of Deposit (CDS)** - savings certificate entitling the bearer to receive interest. CDS are issued by approved deposit institutions such as banks or credit unions.  The deposit is securitised by the issuing bank, i.e. the investor can sell it before maturity.
 
-The fund manager seeks to maximise returns from each investment by implementing financial and operational restructuring, and other organisational improvements.  The fund will distribute dividends from portfolio investments, however the bulk of the return is achieved by IPO or trade sale of the portfolio companies.   This 'harvesting' of the portfolio companies typically sees the bulk of the returns to investors in years 4-7.
+### Non-Bank Counterparties
 
-The term of a fund is usually restricted to 7 years, with options for extension out to 10-12 years in many cases.
+* **Commercial Paper** - issued by corporate entities, including banks and industrial companies, to fund operations and manage liquidity.  Terms range from 1 week to 9 months, with high denominations.
+* **Repurchase Agreements** -  agreement to sell a security, commonly a treasury bill, and to repurchase it afterwards.  The difference between the sale and repurchase price is the return, known as the "repo rate".
 
-#### Private Equity Fund of Funds
-
-The manager of a fund of fund pools the capital of multiple investors to build a portfolio of Private Equity funds.  
-
-This increases diversification, reducing the risks involved in investment and manager selection, but adds a layer of fees and complexity.
+  To maintain the value of the collateral in the repurchase agreement, any changes in the value of the security may require the seller to post additional funds in a margin account. 
+* **Treasury Bills** - short-term government debt obligations with a maturity of one year or less.
 
 ## Key features of Money Market Instruments
 
@@ -68,23 +66,25 @@ There is the possibility of total loss, in the case of the default of the counte
 
 ### Profit / Loss
 
+Money market investments (like other instruments, e.g. fixed income) offer interest in return of the loan.
+
 When considering returns on money market instruments, investors consider both nominal and real (inflation adjusted) returns.
 
 Interest rates offered depend on the term, amount and risk of default of the counterparty (typically expressed in a credit rating). 
 
 The investor bears interest rate risk on rollover/reinvestment at maturity, and when investing for longer periods the real value of the investment may be eroded by inflation.
 
+Interest income is calculated by using specific day count conventions, i.e. the number of days in a month/year. Daycount conventions have developed historically as a result of the need for easy calculation and time-period constancy. A number of different conventions exist, such as 30/360 method(counting 30 days for each month, and 360 days for the full year) or actual/actual method or actual/360 method.
+
 ### Trading Process
 
-An investor in a fund or fund of funds will typically invest via a private bank or financial advisor, who will prepare the application forms, arrange capital call payments and generally liaise with the fund manager on their behalf. 
-
-If an investor decides to sell their investment, they must find a buyer.  Formal secondary markets are not common, and where a buyer is found the price offered is at a substantial discount to the Net Asset Value (NAV).
+Trades in money market instruments are executed over the counter (OTC) i.e. directly between the lender and the borrower, or at an exchange if the product is standardised as is the case with Treasury bills.
 
 ### Trading Costs
 
-Investing in and selling private equity funds create explicit and implicit costs for the investor. Private banks and financial advisers charge transaction fees for arranging the application, providing regular updates and administering capital calls for the investor. 
+Investing in money market instruments creates a small amount of explicit and implicit costs for the investor. For example, a bank may charge nothing for their own term deposit product, or 0.50% pa for a fiduciary deposit.
 
-The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with performance fees (or "carry") charged on the total return to investors, above a pre-determined hurdle rate, at conclusion of the fund.
+Implicit fees may not be as apparent, as costs are built into the interest rate offered.
 
 ## Advantages & Disadvantages
 
@@ -113,7 +113,9 @@ The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with
 * *Investment in a Fund or Fund or Funds may be required before investments or funds have been identified*
 * *Capital calls and other cash flows are not determinable before investment is made*
 
-  * Minimum investment volumes apply: usually CHF 250,000 for call deposits, and CHF 100,000 for time deposits.
+  * Since being regarded as safe investments, interest rates are lower than for other investments. 
+
+    Minimum investment volumes apply: usually CHF 250,000 for call deposits, and CHF 100,000 for time deposits.
     Less returns compared to riskier/more volatile short-term investment instruments.
     Interest rate risk on roll-over
     Inflation risk: as rates are usually low the return can
@@ -124,7 +126,44 @@ The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with
 
 ## Risks
 
+Money market instruments are regarded as being some of the safer investments. 
+
+However, as with any investment certain risks remain.
+
+#### Inflation Risk
+
+there is the risk that inflation will eat up a substantial amount of the return. When investing for a
+extended period (by rolling over the investment), inflation can erode the purchasing power of the investment.
+
+#### Currency Risk
+
+When investing into currencies other than the home currency, a corresponding currency risk arises.  If the deposit is done in any currency other than the home currency, a currency risk applies.
+
+**Interest Rate Risk**
+
+Interest rates are usually low compared to other investments – besides the risk of not being able to reinvest at the same rate on roll-over,
+
+**Issuer Risk**
+
+Money market investments are essentially debt obligations. Thus the creditworthiness of the issuer has to be considered when investing.
+
+#### Counterparty Risks and Ratings
+
+There is a minimum risk on the capital invested – the default (credit) risk of the custody bank becoming insolvent.
+
+Money market investments aim at short-term investments with a lower risk and thus are only made with trustworthy counterparties.
+
+• All instruments described above have different counterparties.
+
+• The credit quality of a counterparty for short-term debts is rated by an independent agency such as Moody’s
+
+• Short-term ratings differ from long-term ratings for the bond market (see Understanding Fixed Income).
+
 #### Liquidity Risk
+
+Money market investment may be less liquid than other investments.
+
+Money market instruments are short-term investments – however, being debt obligations they may be less liquid than other instrument categories.
 
 The risk that an investor cannot sell an investment at a fair price within an expected timeframe is called Liquidity Risk.
 
