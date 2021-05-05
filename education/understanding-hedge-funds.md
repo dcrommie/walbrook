@@ -102,9 +102,9 @@ Some hedge fund strategies are available in closed-ended vehicles listed on a se
 
 #### Investment in fund of hedge funds
 
-The manager of a fund of fund pools the capital of multiple investors to build a portfolio of Hedge Funds.
+The manager of a fund of hedge fund builds and manages a portfolio of Hedge Funds.
 
-This lowers the minimum amount required for investment, increases diversification, reducing the risks involved in investment and manager selection, but adds a layer of fees and complexity.
+The Fund of Hedge Fund structure lowers the minimum amount required for investment, increases diversification, reducing the risks involved in investment and manager selection but adds a layer of fees and complexity.
 
 ## Key features of Hedge Funds
 
@@ -118,7 +118,7 @@ Predominantly capital gain.
 
 ### Market Expectation
 
-Independent of market expectations e.g rising, falling or trading sideways.  Some strategies benefit from high volatility environment.
+Independent of market expectations, e.g. rising, falling or trading sideways. Some strategies benefit from a high volatility environment.
 
 ### Maximum Gain
 
@@ -126,13 +126,13 @@ The maximum gain is unlimited, comprised predominantly of capital gains.
 
 #### Maximum Loss
 
-Total loss of capital invested.
+Total loss of the capital invested.
 
 ### Profit / Loss
 
 Timing and quantum of returns are dependent on hedge fund manager and strategy employed, though typically independent of movements in liquid equity and bond markets.
 
-Returns typically driven by absolute return objectives (no benchmarking).
+Absolute return objectives typically drive returns with no benchmarking.
 
 ### Trading Process
 
@@ -150,7 +150,7 @@ The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with
 
 * Returns are not typically closely correlated with traditional asset classes, providing a diversification benefit to portfolios
 * May allow for participation in markets that are difficult to access via traditional financial instruments.
-* Participation in markets and instruments not available to traditional financial instruments.
+* Participation in markets and instruments not available to conventional financial instruments.
 * Participation in market environments where
   traditional instruments offer few opportunities.
 * Professional management with performance
@@ -163,7 +163,7 @@ The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with
 
 * The investments are less liquid than traditional instruments. 
 * Shares are redeemed at specific intervals/times only and may be subject to a notice period.
-* Being less regulated, hedge funds are not forced to disclose their portfolio holdings and strategies in the same way as mutual funds.
+* Hedge funds are not required to disclose their portfolio holdings and strategies in the same way as mutual funds.
 * Minimum investment period (lock-up period)
 * Usually not listed/illiquid participation
 * Price uncertainty: limited regulations concerning the calculation and publication of NAV.
@@ -173,7 +173,7 @@ The fund manager will typically charge a management fee of 1.00 - 2.00% pa, with
 * Lack of control: the fund manager has absolute
   trading authority.
 * As they are less regulated, hedge funds may not need to disclose their portfolio composition and
-  risks. The investor therefore has less information to help him judge the risks.
+  risks. The investor, therefore, has less information to help him judge the risks.
 
 ## Risks
 
@@ -197,19 +197,17 @@ As a result of reduced regulation and low levels of transparency, the operationa
 
 The investor is exposed to the general economic environment, e.g. interest rate changes, exchange rates (when not denominated in home currency). The psychology of the market participants tends to enforce trends, and in a market of expectations, not all expectations may be rational.
 
-Hedge funds aim at absolute returns independently of the market environment, investing in a variety of instruments and making use of derivatives and advanced techniques such as short sales and leverage. 
+Hedge funds aim at absolute returns independently of the market environment, investing in various instruments and making use of derivatives and advanced techniques such as short sales and leverage. 
 
-Therefore, the degree of risk is driven by the
-investment strategy and the risk return profile of the fund.
+Therefore, the investment strategy drives the risk-return profile of the fund.
 
 #### **Currency Risk**
 
-The investor may be exposed to currency risk, because the product or underlying of the product
-is denominated in other currencies than that of the country in which the investor is resident.
+The hedge fund or underlying investments may be denominated in other currencies than that of the investor's natural currency, exposing them to currency risk.
 
 #### Legal and Regulatory Risks
 
-Participation in offshore investment vehicles may be restricted by local legislation, and may also influence the taxation of hedge fund investments.
+Local legislation may restrict participation in offshore investment vehicles and influence the taxation of hedge fund investments.
 
 **Important Information**
 
