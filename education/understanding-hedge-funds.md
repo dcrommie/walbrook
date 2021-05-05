@@ -108,6 +108,8 @@ The Fund of Hedge Fund structure lowers the minimum amount required for investme
 
 ## Key features of Hedge Funds
 
+When contemplating an investment in hedge funds, investors should consider the following key features.
+
 ### Investment Horizon
 
 Long-Term
