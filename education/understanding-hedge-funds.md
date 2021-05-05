@@ -1,7 +1,7 @@
 ---
 blogtitle: Understanding Hedge Funds
 path: understanding-hedge-funds
-date: 2019-01-01T10:10:00.000Z
+date: 2021-05-04T11:10:00.000Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-hedge-funds.png
