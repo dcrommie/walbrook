@@ -12,19 +12,19 @@ Please contact your adviser if there is any aspect on which you need further inf
 
 ## What are Hedge Funds?
 
-Hedge funds are actively managed investment funds that seek to generate returns that utilise non-traditional investment strategies or asset classes.
+Hedge funds are pooled investment vehicles that utilise non-traditional investment strategies or asset classes to generate returns.
 
-Hedge fund investment objectives vary from fund to fund, with strategies typically unconstrained by benchmarks.  A key aspect is that hedge funds concentrate on generating returns independently of the market environment – they are thus an alternative investment and have a low correlation with traditional investment categories.
+Hedge fund investment objectives vary from fund to fund, with strategies typically unconstrained by benchmarks.  A key aspect is that hedge funds concentrate on generating returns independently of the market environment – they are thus an alternative investment with a low correlation with traditional investment categories.
 
-Since they are less regulated than traditional funds, hedge funds are flexible. They use advanced techniques such as short selling, leveraging, hedging and are using higher proportions of derivatives and structured products to achieve their investment goals.
+Since they are less regulated than conventional funds, hedge fund managers can use leverage, short selling and derivatives in the strategies they employ.
 
-While hedge funds have traditionally been associated with offshore jurisdictions and low levels of regulation and oversight, following the Global Financial Crisis some hedge fund strategies are now available in more traditional fund structures and jurisdictions.
+Hedge funds have traditionally been associated with offshore jurisdictions and low levels of regulation and oversight.  However, following the Global Financial Crisis, some hedge fund strategies are now available, albeit slightly modified for regulatory purposes, in more traditional fund structures and jurisdictions.
 
 ### Common Hedge Fund Strategies
 
-The actual risks that a hedge fund takes vary widely and depend on the strategy the fund uses and the financial instruments/techniques that are applied within that strategy.
+The risks involved in hedge fund investment depend on the specific strategy employed by the hedge fund manager.  The financial instruments and amount of leverage a hedge fund manager employs in a particular strategy also differs from fund to fund.
 
-Equity Hedge or Long/Short Equity and certain Event Driven strategies tend to be more correlated with risky assets while Global Macro and CTAs show lower correlations (positive in bull markets and low to negative in bear markets). Relative value is quite uncorrelated but prone to higher stress correlations during liquidity events.
+Equity Hedge or Long/Short Equity and certain Event-Driven strategies tend to be more correlated with risky assets while Global Macro and CTA strategies show lower correlations (positive in bull markets and low to negative in bear markets). Relative value is relatively uncorrelated but prone to higher correlations during liquidity events.
 
 In order of lower to higher expected return/volatility:
 
@@ -45,9 +45,9 @@ There are four main types:
 * Capital structure arbitrage, where the manager takes advantage of differences between assets and foreign capital of a company
 * Equity market neutral where the manager uses differences in stock price by balance long and short positions in market sectors.
 
-#### Event - Driven
+#### Event-Driven
 
-Profits are realised by stock price fluctuations caused by single events in a company’s lifecycle. 
+Funds realise profits from share price fluctuations caused by single events in a company's lifecycle.
 
 There are three main types:
 
@@ -57,7 +57,7 @@ There are three main types:
 
 #### Long / Short Equity
 
-The fund invests according to its expectations of the future development of stock prices. This strategy is therefore a directional approach. 
+The fund invests according to its expectations of the future development of stock prices. This strategy is, therefore, a directional approach.
 
 There are three main types:
 
@@ -67,15 +67,15 @@ There are three main types:
 
 #### Global Macro
 
-Investments based on the early detection of macro-economic events such as over or underestimation of exchange/interest rates.
+Fund investments are made based on forecasts of changes in the macroeconomic environment,, commonly expressed in exchange rates and interest rates.
 
-Fund managers invest in different markets such as currencies or commodities using a wide range of financial instruments (e.g. futures, options).
+Fund managers invest in different markets such as currencies or commodities using a wide range of financial instruments (e.g. futures, swaps, options).
 
 #### Commodity-Trading Advisors (CTA)
 
-CTA hedge funds trade exchange-traded futures contracts on a variety of underlying assets including commodities, equities, and currencies as well as indices and interest rates. Due to their high activity level, CTA strategies are also known as 'managed futures' strategies.
+CTA hedge fund managers trade exchange-traded futures contracts on a variety of underlying assets, including commodities, equities, and currencies, as well as indices and interest rates. Due to their use of futures and high activity level, CTA strategies are also known as 'managed futures' strategies.
 
-CTA trading may be systematic (based on pre-set rules to anticipate future price movements) or discretionary (investment decision based on the discretion and expertise of the manager)
+CTA trading may be systematic, based on pre-set rules to anticipate future price movements, or discretionary.  A discretionary trading strategy involves investment decisions based on the discretion and expertise of the manager.
 
 ### Common Hedge Fund Structures
 
@@ -83,22 +83,22 @@ There are different possibilities for investing in hedge funds.
 
 1. Direct investment in offshore hedge fund
 2. Direct investment in locally registered hedge fund
-3. Investment in exchange traded hedge fund
-4. Investment in fund of hedge funds
+3. Investment in exchange-traded hedge fund
+4. Investment in a fund of hedge funds
 
 #### Direct investment in offshore hedge fund
 
 Professional/institutional/accredited or qualified investors can invest directly in the fund. The sale of off-shore funds is often restricted or prohibited. Investing in offshore companies may have an impact on the taxation of the investment.
 
-Offshore hedge funds are private investment partnerships which only accept professional, institutional, accredited or qualified investors. They require a minimum investment volume and a minimum investment period.
+Offshore hedge funds are private investment partnerships that only accept professional, institutional, accredited or qualified investors. They require a minimum investment volume and a minimum investment period.
 
-#### Direct investment in locally registered hedge fund
+#### Direct investment in locally regulated hedge fund
 
-If registered and approved by the local regulator, such funds can be sold to the public.
+If registered with and approved by the local regulator, a distributor may offer a hedge fund to the public. However, it is common for additional restrictions to remain e.g. no offer to retail investors.
 
 #### Investment in exchange traded hedge fund
 
-Some hedge funds are listed on a securities exchange. This can result in a larger correlation of the funds with stock markets. Exchange-traded hedge funds may be sold at a premium/discount.
+Some hedge fund strategies are available in closed-ended vehicles listed on a securities exchange. Depending on the process employed, a listing can result in a higher correlation to traditional assets.  The closed-end structure also means that liquidity risk remains, and the fund will regularly trade at a premium or discount to the net asset value.
 
 #### Investment in fund of hedge funds
 
