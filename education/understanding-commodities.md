@@ -38,34 +38,15 @@ Commodity prices can be volatile and fluctuate sub­stantially when a natural di
 
 If used as a financial investment, commodities other than precious metals are usually not bought/sold directly. Investors instead invest in a security or derivative that references the commodity price.
 
-There are a variety of financial instruments available such as structured products, derivatives or mutual funds.
+There are a variety of financial instruments available, including structured products, derivatives and mutual funds, and these differ in their advantages/disadvantages from direct investment.
 
-Such instruments differ in their advantages/disadvantages from those of more direct investments described here, and bear other opportunities and risks. Investing in such instruments necessitates the corresponding knowledge.
-
-For an investor who has no interest in taking delivery of the commodity, two investment options exist:
-
-1. **Indirect** - trading a financial product that references the price of a commodity or basket of commodities
-2. **Direct -** Buying and selling precious metals
-
-## Futures, forwards, options and structured products:
-
-These are advanced financial constructs with very specific properties and risks. Investing in these products requires the corresponding knowledge.
-
-## Mutual funds:
-
-Funds are collective investments that pool money from multiple investors for collective investment. Funds are available for any type of investment. Risks and properties vary, and a basic knowledge of funds is required.
-
-## Precious metal account:
-
-Similar to handling foreign currencies.
-
-**• Physical delivery:**
-
-Buying and selling the physical entities such as bars, coins. If not delivered physically to the investor, they are usually kept in custody with a bank, i.e. custody fees do apply.
+* **Futures, forwards, options and structured products.** These are advanced financial constructs with very specific properties and risks. Investing in these products requires the corresponding knowledge.
+* **Mutual funds.** Funds are collective investments that pool money from multiple investors for collective investment. Funds are available for any type of investment. Risks and properties vary, and a basic knowledge of funds is required.
+* **Precious metal accounts.** Similar to handling foreign currencies.
+* **Physical delivery.** Buying and selling the physical entities such as bars, coins. If not delivered physically to the investor, they are usually kept in custody with a bank, i.e. custody fees do apply.
+* **Commodity Indices.** When investing indirectly into commodities, corresponding products (e.g. funds) are often based on commodity indices or commodity futures due to their advantages regarding accessibility and traceability.
 
 ## Commodity Indices
-
-When investing indirectly into commodities, corresponding products (e.g. funds) are often based on **commodity indices or commodity futures** due to their advantages regarding accessibility and traceability.
 
 There are a number of available indices that track the commodity markets.
 
