@@ -36,7 +36,7 @@ Commodity prices can be volatile and fluctuate sub­stantially when a natural di
 
 ## Investing in Commodities
 
-If used as a financial investment, commodities other than precious metals are usually not bought/sold directly. Investors instead invest in a security or derivative that references the commodity price.
+If used as a financial investment, commodities other than precious metals are usually not bought/sold directly. Investors instead invest in a security or derivative that references the commodity price. An exception is precious metals, where direct access is available to the investor in non-bulk quantities e.g. gold bars and coins.
 
 There are a variety of financial instruments available, including structured products, derivatives and mutual funds, and these differ in their advantages/disadvantages from direct investment.
 
@@ -48,25 +48,21 @@ There are a variety of financial instruments available, including structured pro
 
 ## Commodity Indices
 
-There are a number of available indices that track the commodity markets.
+There are a number of available indices that track the commodity markets, constructed and maintained with reference to either composition (component weights) or roll strategies.
 
-These **indices differ in their composition** (component weights) **and roll strategies**:
+**Composition (Component Weights)**
 
-**Composition and component weights**
-
-Determination of which components (e.g. agri-culture, oil, wheat) and at what ratio they are included in the index calculation.
+Determination of which components (e.g. agriculture, oil, wheat) and at what ratio they are included in the index calculation.
 
 An example for a calculation may be to choose a product-based index that is oriented on production volumes and liquidity.
 
-**Roll strategies**
+**Roll Strategies**
 
-The investment strategies do not usually track the commodity spot prices directly but their future prices instead. Futures are shorter-term investments that are ‘rolled-over’ when the investment term ends.
+An index based on a roll strategy uses futures to track the price of the target commodity, with a focus on minimising the negative effects of 'roll costs'.   
 
-Upon rollover costs and gains are incurred. The roll strategy determines which investment terms and costs are calculated in the index.
+It is common for commodities to trade in 'contango', where the futures price is higher than the current or 'spot' price.  If exposure is gained by continually investing in the 1 month futures contract, losses are incurred as the contract approaches expiry and the price converges with the spot price.  The contract is then rolled over, effectively selling at the lower spot price and buying the 1 month future contract at a higher price.
 
-Commodity trading is usually carried out through futures contracts, on exchanges that standardise the quantity and quality of the commodities being traded. The value of commodities is determined by simple supply and demand. As a result, prices can be volatile and fluctuate sub­stantially if a natural disaster, such as a hurricane or an earthquake, affects their supply or produc­tion. Other factors that can materially affect the price of commodities include regulatory changes, and movements in interest rates and exchange rates. Certain commodities, however, exhibit less volatility than others. Gold and other precious metals, for instance, can enjoy a high degree of price stability, and are often viewed as safe havens during times of crisis or uncertainty.
-
-When not bearing an interest into the good itself, **investment into commodities is usually done indirectly** using financial instruments that have commodities as underlying. An **exception is precious metals** where direct access is available to the investor also in non-bulk quantities.
+This difference is the 'roll cost', which can be a significant drag on returns and cause a performance gap between investment in the physical commodity and investing using futures.  A roll strategy will aim to minimise this roll cost.
 
 ## Key Features of Commodities
 
@@ -82,11 +78,9 @@ Capital gain
 
 ### Market Expectation
 
-Suitable for expectations of rising or falling market conditions, depending on the commodity type.
+Suitable for expectations of rising, flat or falling market conditions, depending on the commodity type and strategy employed.
 
-Copper has a strong correlation with economic growth and positive share market performance.
-
-At the same time, investors may invest in gold as a hedge against adverse shocks to the economy.
+For example, copper has a strong correlation with economic growth and positive equity market performance, while gold tends to act as a hedge against adverse shocks to the economy.
 
 ### Maximum Gain
 
@@ -98,11 +92,7 @@ The maximum possible loss is that of the capital invested.
 
 ### Profit / Loss
 
-Returns on commodities are difficult to estimate, as they are often directly linked to regional or global industrial supply/demand.
-
-The market value of precious metals responds differently to changes in the global economic environment than traditional instruments and can be more volatile.
-
-If investing in commodities with collector values and prices, such as coins or gemstones, liquidity can be limited and prices volatile and subject to individual supply/demand. The quality of the commodity may be an issue.
+Returns on commodities are difficult to estimate, as they are often directly linked to regional or global industrial supply/demand. Other factors that can materially affect the price of commodities include regulatory changes, and movements in interest rates and exchange rates. 
 
 ### **Trading Process**
 
