@@ -1,7 +1,7 @@
 ---
 blogtitle: Understanding Commodities
 path: understanding-commodities
-date: 2019-01-01T10:30:00.000Z
+date: 2021-05-05T11:30:00.000Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-commodities.png
