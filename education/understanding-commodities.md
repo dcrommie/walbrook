@@ -18,21 +18,21 @@ Commodities are ‘homogenous’ assets, which means that they do not vary to a 
 
 Instead, they conform to a standard measurement and grade of quality, e.g. a barrel of oil or a tonne of iron ore.
 
-In finance, to be traded as a ‘commodity’ the goods must also be:
+In financial markets, to be traded as a ‘commodity’, the commodity must also be:
 
 * Traded in bulk
 * Have price variations significant enough to be attractive for investors
 
-Examples of traded commodities include
+Examples of traded commodities include:
 
-* Energy: crude oil, gas
-* Base metals: copper
-* Precious metals: gold
-* Agriculture: wheat
-* Livestock: cattle
-* Bulks: ores, e.g. iron
+* Energy, such as crude oil and gas
+* Base metals, such as copper
+* Precious metals, such as gold, silver and platinum
+* Agricultural commodities, commonly known as Softs, such as wheat and soybeans
+* Livestock, such as cattle
+* Bulks, such as iron ore
 
-Commodity prices can be volatile and fluctuate sub­stantially if a natural disaster, such as a hurricane or an earthquake, affects their supply or production. However not all commodities exhibit the same characteristics. Investors often view gold and other precious metals as a store of value and safe havens during times of crisis or uncertainty.
+Commodity prices can be volatile and fluctuate sub­stantially when a natural disaster, such as a hurricane or an earthquake, affects their supply or production. However, not all commodities exhibit the same characteristics. Investors often view gold and other precious metals as a store of value and safe havens during times of crisis or uncertainty.
 
 ## Investing in Commodities
 
