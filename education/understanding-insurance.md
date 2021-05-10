@@ -6,6 +6,12 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-insurance.png
 ---
+This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
+
+Please contact your adviser if there is any aspect on which you need further information or clarification.
+
+## Understanding Insurance
+
 Maintaining appropriate insurance cover is a critical aspect of planning and protecting your financial future.
 
 It can be uncomfortable thinking about how your family might be affected if you die, suffer a severe illness or become disabled. This discomfort sometimes means that people do not consider the financial consequences and plan accordingly.
