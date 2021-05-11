@@ -6,7 +6,11 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-key-person-insurance.png
 ---
-## Understanding Key Person Insurance
+This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
+
+Please contact your adviser if there is any aspect on which you need further information or clarification.
+
+## What is Key Person Insurance
 
 The most valuable resource of any business is its staff and, in particular, its key people.
 
