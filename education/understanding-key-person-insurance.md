@@ -1,7 +1,7 @@
 ---
 blogtitle: Understanding Key Person Insurance
 path: understanding-key-person-insurance
-date: 2019-01-01T05:20:00.000Z
+date: 2021-01-01T05:20:00.000Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-key-person-insurance.png
