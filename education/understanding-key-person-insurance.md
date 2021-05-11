@@ -18,9 +18,7 @@ A key person is anyone whose absence, or loss, from the business, would have a s
 
 Loss of key staff can affect every aspect of your business - revenue, profit, goodwill and ultimately the sale value of your business.
 
-Key person insurance can protect your business if a critical employee (or another key person) can no longer work in the business due to disability, trauma or death.
-
-Key person insurance provides a cash benefit for revenue purposes, such as protection against reduced sales or profit, or a capital purpose such as paying off a loan.
+Key person insurance can protect your business if a critical employee (or another key person) can no longer work in the business due to disability, trauma or death.  By providing a cash benefit, the insurance can protect against falls in revenue, or be used for a capital purpose such as paying off a loan.
 
 You may have other avenues open to you to address the absence of a key person, such as additional borrowing, capital injections from shareholders or selling assets.
 
@@ -28,9 +26,13 @@ However, you should consider the risk that these solutions will not be available
 
 ## Types of insurance
 
-Key person insurance can provide cover in the event of the death, total and permanent disablement (TPD) and trauma of a key person.
+Key person insurance can provide cover in the event of the death, total and permanent disablement (TPD) and trauma of a key person.  
 
-As business and personal circumstances vary, you should involve your accountant and financial adviser when thinking about the types of cover that are suitable for your business and how you should structure the insurance package.
+As business and personal circumstances vary, you should involve your accountant and financial adviser when thinking about the types of cover that are suitable for your business and how you should structure the insurance.
+
+## Ownership
+
+Unlike Buy Sell Insurance, which is owned by the owners or related private structures and protects the owners against an unplanned exit of another owner, Key Person insurance is typically owned by the trading entity itself.
 
 ## Tax considerations
 
@@ -38,11 +40,9 @@ Your accountant or tax consultant can advise you on the tax implications of key 
 
 Broadly speaking, where you take out key-person insurance to mitigate risk to taxable income, the premiums may be tax-deductible.
 
-If you take out key-person insurance for a capital purpose, such as to repay debt or compensate for the loss of goodwill, then your insurance premiums may be tax-deductible with the proceeds of the insurance policy taxable under the capital gains tax (CGT) provision.
+If you take out key-person insurance for a capital purpose, such as to repay debt or compensate for the loss of goodwill, then your insurance premiums will likely not be tax-deductible, with the proceeds of the insurance policy taxable under the capital gains tax (CGT) provision.
 
 ## You and your professional advisers
-
-You don't need to make decisions about key person insurance on your own.
 
 Designing an effective key person insurance strategy requires your financial adviser, accountant and solicitor to work together. Each professional brings their own unique skill sets and knowledge of your personal and business situation.
 
