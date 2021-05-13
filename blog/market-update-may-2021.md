@@ -96,6 +96,8 @@ The US S&P 500 rose 3.5% over April as optimism about corporate earnings offset 
 
 After a market-beating rally, European equities have already raced past strategists' predictions for the year-end, with much of the support coming from consumer cyclical and industrial companies.
 
+![European Equities](../src/images/european-qeuities.png "European Equities")
+
 The rise in European equities and optimistic economic data came despite a sluggish vaccine rollout and fears of a third wave of the virus across much of the eurozone, sparking tighter restrictions.
 
 ## **Property**
