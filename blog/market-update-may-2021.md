@@ -128,7 +128,7 @@ Since December, the central bank has said the economy must make "substantial fur
 
 Reflecting higher risk appetites and preference for yield and low duration spreads on high yield, or junk, bonds tightened to new post-2007 lows.
 
-***<Insert High Yield Graph>***
+![US HY Spreads](../src/images/us-hy-debt.png "US HY Spreads")
 
 ## Commodities
 
