@@ -206,7 +206,7 @@ policy: >-
   ### Initial Service Fees
 
 
-  ##### **Initial Advice Fee**
+  ##### Initial Advice Fee
 
 
   Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.
