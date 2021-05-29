@@ -96,16 +96,37 @@ const IndexPage = () => {
               </div>
               <div className="financial-parent">
                 <div className="financial-child">
-                  <img src={first} alt="first" />
-                  <p>{data.markdownRemark.frontmatter.desc1}</p>
+                  <img
+                    src={first}
+                    alt="first"
+                    width="100"
+                    style={{ margin: "0 auto" }}
+                  />
+                  <p style={{ paddingTop: "10px" }}>
+                    {data.markdownRemark.frontmatter.desc1}
+                  </p>
                 </div>
                 <div className="financial-child">
-                  <img src={second} alt="second" />
-                  <p>{data.markdownRemark.frontmatter.desc2}</p>
+                  <img
+                    src={second}
+                    alt="second"
+                    width="100"
+                    style={{ margin: "0 auto" }}
+                  />
+                  <p style={{ paddingTop: "10px" }}>
+                    {data.markdownRemark.frontmatter.desc2}
+                  </p>
                 </div>
                 <div className="financial-child">
-                  <img src={third} alt="third" />
-                  <p>{data.markdownRemark.frontmatter.desc3}</p>
+                  <img
+                    src={third}
+                    alt="third"
+                    width="100"
+                    style={{ margin: "0 auto" }}
+                  />
+                  <p style={{ paddingTop: "10px" }}>
+                    {data.markdownRemark.frontmatter.desc3}
+                  </p>
                 </div>
               </div>
             </div>
