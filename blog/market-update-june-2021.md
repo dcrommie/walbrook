@@ -4,7 +4,7 @@ path: market-update-june-2021
 date: 2021-06-15T02:56:04.746Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/market-update-june-cover.png
 ---
 May saw almost 20 million new cases of COVID-19 recorded, with cumulative case numbers now surpassing 170 million since the pandemic began. 
 
