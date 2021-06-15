@@ -104,6 +104,10 @@ In the May Reserve Bank meeting, members noted the continued strength of the Aus
 
 ## Rates and Credit
 
+The amount of negative yield debt is shrinking and that's a good sign that the global economic recovery is well underway.
+
+![Negative-Yielding_Debt](../src/images/negative-yielding-debt.png "Negative-Yielding-Debt")
+
 Since the significant movements in bond yields we experienced late in 2020 and early 2021, global nominal yields have generally traded sideways since March due to ongoing inflationary uncertainty and central bankers monetary response. 
 
 The nominal yield on US 10-year government bond fell 5bps to 1.58% by the end of May, and the Australian 10-year yield fell by a similar amount to 1.63%. However, real yields have fallen as inflation expectations have continued to rise, a dynamic reminiscent of the 2013 taper tantrum.
@@ -116,7 +120,7 @@ RBA Governor Phillip Lowe noted the recent stability of sovereign bond yields af
 
 Governor Lowe also reflected on the pick-up in medium-term inflation expectations from near-record lows, now sitting closer to central bank target levels. 
 
-The outlook for strong growth in the global economy continues amid the recovery from the Covid-19 pandemic, supported by fiscal measures and accommodative financial conditions.
+The outlook for strong growth in the global economy continues amid the recovery from the Covid-19 pandemic, supported by fiscal measures and accommodative financial conditions.  
 
 ## Commodities
 
