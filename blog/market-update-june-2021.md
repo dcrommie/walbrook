@@ -6,15 +6,17 @@ author: Walbrook Wealth Management
 blogpage: true
 thumbnail: ../src/images/market-update-june-cover.png
 ---
-May saw almost 20 million new cases of COVID-19 recorded, with cumulative case numbers now surpassing 170 million since the pandemic began. 
-
-However, the global vaccine rollout continues apace, and Germany now reports over 40% of the population having received at least one dose. The EU has also recommended relaxed travel restrictions for those fully vaccinated with an EU approved vaccine. 
+Manufacturing is making a comeback in most industries after languishing during the pandemic and supplies of chips - used to operate most devices in the home, office and car - are in short supply. The shortage is being felt acutely in the automotive industry, and analysts estimate it could last as long as two years.
 
 Key economic indicators continue to improve, with several leading economies beginning to report modest increases in inflation, though anecdotal evidence points to inflation running higher than reported levels. 
 
 Investors positioning suggests that expectations are for inflation to climb steeply in the coming months, driven by pent-up spending, supply bottlenecks and a leap in commodity prices.  Central bank officials have repeatedly said that they expect any jump in inflation to be transitory, but some investors aren't convinced.
 
 A sharp and sustained jump in inflation would erode returns on fixed-income assets and shares whose valuations rely heavily on discounted future earnings rather than current, tangible, net assets. Some money managers are concerned that it may also prompt central banks to pare back their accommodative monetary policies sooner than anticipated.
+
+May saw almost 20 million new cases of COVID-19 recorded, with cumulative case numbers now surpassing 170 million since the pandemic began. 
+
+However, the global vaccine rollout continues apace, and Germany now reports over 40% of the population having received at least one dose. The EU has also recommended relaxed travel restrictions for those fully vaccinated with an EU approved vaccine. 
 
 ## Australia
 
