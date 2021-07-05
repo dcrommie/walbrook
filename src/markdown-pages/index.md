@@ -3,18 +3,19 @@ title: Plan. Invest. Protect.
 subtitle: Take care of your future, today
 thumbnail: ../src/images/family.png
 title2: We help our clients to create wealth and plan for change
-desc1: "We are 100% independent from banks and product providers, which means
-  that we are free to act in our clients’ best interests. "
-desc2: Our breadth of knowledge with origins in global wealth management,
-  combined with our flexible, fair, and transparent fee structure allows us to
-  determine the most appropriate, comprehensive solutions for our clients.
-desc3: We are small enough to care about and to meet the personalised needs of
-  our clients, and savvy enough to have created excellent key partnerships with
-  local and international experts.
+desc1: As an advice practice with institutional knowledge and expertise, we help
+  you to navigate global markets and the products of banks, insurers and other
+  financial institutions.
+desc2: Our extensive investment and credit experience allow us to build
+  comprehensive strategies encompassing both sides of your household balance
+  sheet.
+desc3: Where specialist advice is required, we can draw upon our network of
+  local and international experts to help ensure that all advice is suitable for
+  your needs and aligned with your wealth strategy.
 services: Our services
 servicestitle: Creating wealth and planning for change over the long term
 service2: Retirement Planning
-service5: Family Office
+service5: Strategic Credit
 service6: Expatriates
 advisorydesc: Supported by great technology and institutional investment
   management, our advisory framework guides our conversations and actions from
