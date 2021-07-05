@@ -3,15 +3,15 @@ title: Plan. Invest. Protect.
 subtitle: Take care of your future, today
 thumbnail: ../src/images/family.png
 title2: We help our clients to create wealth and plan for change
-desc1: As an advice practice with institutional knowledge and expertise, we help
-  you to navigate global markets and the products of banks, insurers and other
-  financial institutions.
-desc2: Our extensive investment and credit experience allow us to build
+desc1: With institutional knowledge and expertise, we help you to navigate
+  global markets and the products of banks, insurers and other financial
+  institutions.
+desc2: Extensive investment and credit experience allows us to build
   comprehensive strategies encompassing both sides of your household balance
   sheet.
-desc3: Where specialist advice is required, we can draw upon our network of
-  local and international experts to help ensure that all advice is suitable for
-  your needs and aligned with your wealth strategy.
+desc3: We draw upon our network of local and international experts to help
+  ensure that all specialist advice is aligned with your overall strategy and
+  implemented correctly.
 services: Our services
 servicestitle: Creating wealth and planning for change over the long term
 service2: Retirement Planning
