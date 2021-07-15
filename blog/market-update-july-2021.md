@@ -56,7 +56,7 @@ A rising dollar and fading inflation risk and expectations lead to a fall in the
 
 A combination of green energy, inflation expectations, infrastructure spending and easy money have helped copper prices nearly double since late 2019.  June saw some price weakness with China releasing part of its state copper reserves into the market, and hawkish signals from the Fed.
 
-
+![Copper Prices](../src/images/copper-prices.jpg "Copper Prices")
 
 ## F.X.
 
