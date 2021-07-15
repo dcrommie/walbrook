@@ -4,7 +4,7 @@ path: market-update-july-2021
 date: 2021-07-14T23:50:59.544Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/market-update-july.png
 ---
 Key economic indicators continue to improve, with several leading economies beginning to report modest increases in inflation. High-frequency indicators, such as business surveys, are off their peak readings but remain elevated in a historical context. 
 
@@ -44,15 +44,19 @@ The U.S. yield curve also flattened following hawkish signals from the Fed, with
 
 Importantly for diversified portfolios, the rally in treasuries has helped bring one month correlation between the Bloomberg Barclays and the S&P 500 index back below zero, where they have spent much of the past five years, after turning positive for a large part of 2021.
 
+![Stock Bond Correlation](../src/images/stock-bond-correlation.png "Stock Bond Correlation")
+
 Credit spreads narrowed during June, with investment grade and high yield spreads at or near their tightest levels ever.  Supporting tighter spreads, the default rate on U.S. high yield bonds fell to 1.6% in June after peaking at over 6% as recently as February of this year.
 
-## Commodities 
+## Commodities
 
 A steady rise in demand and a steady decline in inventories has supported the oil price, with the price of a barrel of Brent oil rising to USD 74.76 from USD70 per barrel at the start of June.
 
 A rising dollar and fading inflation risk and expectations lead to a fall in the price of Gold over June, while iron ore prices surged to USD212/Mt amidst solid demand and supply constraints.
 
 A combination of green energy, inflation expectations, infrastructure spending and easy money have helped copper prices nearly double since late 2019.  June saw some price weakness with China releasing part of its state copper reserves into the market, and hawkish signals from the Fed.
+
+
 
 ## F.X.
 
