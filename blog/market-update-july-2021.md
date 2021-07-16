@@ -16,6 +16,8 @@ At its June meeting, the U.S. Federal Reserve triggered a shift in market sentim
 
 Expectations of bond tapering and hikes in short-term interest rates increased as the market interpreted policy tightening with slowing economic activity while also pricing in cash rate hikes, leading to a rise in shorter-dated bond yields and a rising US Dollar.
 
+![Tapering = Flatter Yield Curve](../src/images/tapering-flatter-yield-curve.png "Tapering Flatter Yield Curve")
+
 ## Equities
 
 Developed market equities rose by 2.4% in June as the value rotation stalled and investors moved back into growth stocks. 
@@ -32,7 +34,7 @@ Australian listed property achieved strong results in June, posting a 5.6% gain 
 
 Residential property markets also advanced further in June, with CoreLogic's Daily Home Value Index reporting the five-city aggregate increasing by 1.9%.  Sydney led the charge, achieving 2.6%, and Melbourne lagged the aggregate with 1.5%. 
 
-CoreLogic's data also indicates that the rise in residential property prices has outstripped rents in all cities but Perth and Darwin, despite national rents rising 5.6% in the year to May, the fastest annual increase sice February 2009.
+CoreLogic's data also indicates that the rise in residential property prices has outstripped rents in all cities but Perth and Darwin, despite national rents rising 5.6% in the year to May, the fastest annual increase since February 2009.
 
 ## Rates and Credit
 
@@ -54,11 +56,13 @@ A steady rise in demand and a steady decline in inventories has supported the oi
 
 A rising dollar and fading inflation risk and expectations lead to a fall in the price of Gold over June, while iron ore prices surged to USD212/Mt amidst solid demand and supply constraints.
 
+![Gold Monthly Decline](../src/images/gold-monthly-decline.jpg "Gold Monthly Decline")
+
 A combination of green energy, inflation expectations, infrastructure spending and easy money have helped copper prices nearly double since late 2019.  June saw some price weakness with China releasing part of its state copper reserves into the market, and hawkish signals from the Fed.
 
 ![Copper Prices](../src/images/copper-prices.jpg "Copper Prices")
 
-## F.X.
+## FX
 
 Shifts in Fed speak created a 2.9% surge in the U.S. dollar index in June as it appreciated against most currencies in the index. 
 
@@ -95,6 +99,8 @@ The international goods trade deficit widened to $88.1 billion in May, above exp
 After starting the year in recession, the eurozone economy is on track to record strong economic growth when second-quarter figures are released. Exports, industrial production, retail sales and consumer confidence have all surged in the last month.
 
 Eurozone economic sentiment increased 3.4pts to 117.9 in June, beating expectations of 116.5 and reaching a level just below the 21 year high of 118.20 in May 2000. 
+
+![Euro Area Confidence](../src/images/euro-area-confidence.png "Euro Area Confidence")
 
 Sentiment was supported by hopes of a robust economic recovery, particularly among service providers, with the highest sentiment since August 2007. 
 
