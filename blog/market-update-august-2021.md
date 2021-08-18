@@ -82,6 +82,8 @@ Gold is susceptible to rising US interest rates, which increase the opportunity 
 
 Lumber, which at one point was among the world’s best-performing commodities as the pandemic response sent construction demand soaring and stoked fears of inflation, has officially wiped out all of its staggering gains for the year.
 
+![Lumber](../src/images/lumber.jpg "Lumber")
+
 ## FX
 
 In July, the Australian dollar continued to fall, dropping -2.0% against the greenback and -1.8% in trade-weighted terms. 
