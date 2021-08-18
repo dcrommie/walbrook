@@ -74,6 +74,8 @@ With implications for traditional asset allocation strategies, the correlation b
 
 A surge in green coffee prices may soon filter into costs paid by consumers for their daily caffeine fix, in the latest sign of how hot commodity markets are affecting the broader global economy.
 
+![Coffee](../src/images/coffee.jpg "Coffee")
+
 Coffee bean prices on international markets have surged as crops in Brazil, a top producer, have been damaged by the worst drought in almost a century, leading to the first supply shortfall in the coffee market in four years. Anti-government protests in Colombia halted exports earlier this year, further pushing up markets.
 
 US oil prices rose to six-year highs as an OPEC deadlock raised the prospect of a summer in which crude production fails to keep up with rebounding demand from the crush of drivers hitting the roads.  The latest climb in crude markets came after a Saudi Arabia-backed deal to boost output and tame the price rally failed to garner agreement. 
