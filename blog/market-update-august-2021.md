@@ -24,6 +24,8 @@ The Materials sector was the clear standout, rising 7.1% as it benefited from so
 
 Information Technology gave up some of the impressive performance seen in June, with the sector retracing 6.9%. Energy and Financials were also weaker in July, both falling 2.5% and 1.4% respectively. 
 
+![Energy NASDAQ](../src/images/energy-stocks-to-broader-market.jpg "Energy NASDAQ")
+
 The value rotation continued to show signs of weakening, with the S&P/ASX 200 Value Index down 0.3% for the month. Despite the recent weakness, value remains the leading factor year to date (+15.1%). 
 
 Investors continue to favour quality as lockdowns are reinforced across the country amidst rising COVID cases, casting doubts over the pace of Australia’s economic recovery. The S&P/ASX 200 Quality Index was 3% higher for the month. 
