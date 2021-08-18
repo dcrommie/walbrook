@@ -70,6 +70,8 @@ This same uncertainty has impacted credit markets, as credit spreads widened ove
 
 This increase in spreads pales in comparison to the sharp fall in the risk-free rate, which resulted in the AusBond Composite 0+ Yr Index returning 1.8% over the month. 
 
+![10YT](../src/images/10y-treasury-yield-fall.jpg "10YT")
+
 Globally, the story is much the same, with yields falling as the world grapples with the Delta variant of COVID. The Bloomberg Barclays Global Aggregate Index (AUD Hedged) Index returned 1.3%, or 3.5% for the unhedged variant, over the course of July.
 
 With implications for traditional asset allocation strategies, the correlation between S&P 500 and benchmark UST 10Y index has moved positive for the first time since the “taper tantrum” era, meaning that when equity markets have moved up/down, bond prices have been moving in the same direction.
