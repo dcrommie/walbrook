@@ -4,7 +4,7 @@ path: market-update-august-2021
 date: 2021-08-15T11:01:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/cover-image-august-2021.png
 ---
 Global Covid-19 cases continue to rise, with numbers surpassing 197 million cases at the end of July, an increase of 14 million in the month. Vaccination remains critical as countries with high vaccination rates showing lower hospitalisation and death rates even with increased infection rates. 3.8 billion doses had been delivered globally as of the end of July.
 
