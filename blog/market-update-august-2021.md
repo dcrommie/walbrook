@@ -74,6 +74,8 @@ Globally, the story is much the same, with yields falling as the world grapples 
 
 With implications for traditional asset allocation strategies, the correlation between S&P 500 and benchmark UST 10Y index has moved positive for the first time since the “taper tantrum” era, meaning that when equity markets have moved up/down, bond prices have been moving in the same direction.
 
+![Correlation](../src/images/correlationaug.png "Correlation")
+
 ## Commodities
 
 A surge in green coffee prices may soon filter into costs paid by consumers for their daily caffeine fix, in the latest sign of how hot commodity markets are affecting the broader global economy.
