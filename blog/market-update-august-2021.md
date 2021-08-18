@@ -122,6 +122,8 @@ CPI rose 0.9% in June, the highest monthly print since June 2008, easily beating
 
 Core CPI lifted 0.9% in June, above the expected 0.4% while the yearly rate rose 0.7% to 4.5% (4.0% expected). 
 
+![Tweet](../src/images/tweet-inflation.png "Tweet")
+
 The first estimate for 2Q21 GDP disappointed, coming in at a 6.5% annual growth rate, well below the expected 8.0%. 
 
 Non-farm payrolls showed the economy added 943,000 jobs in July, surpassing expectations of 870,000 and up on the June revision. The robust gain in non-farm payrolls saw the unemployment rate fall to 5.4%, below expectations of 5.7%, which, coupled with a rise in the participation rate to 61.7%, reinforces the economy’s strength. 
