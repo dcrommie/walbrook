@@ -36,7 +36,9 @@ Rio Tinto reported earnings on 28 July 2021, one of the more highly anticipated 
 
 In the US, of the 89% of S&P500 companies that have reported actual results for Q2 2021 to date, 87% have reported EPS results above analyst estimates. 
 
-Emerging markets posted a 4.7% decline in Australian dollar terms over the month.  A deep sell-off in Chinese technology and education stocks towards the end of the month drove losses in emerging markets.  
+Emerging markets posted a 4.7% decline in Australian dollar terms over the month.  A deep sell-off in Chinese technology and education stocks towards the end of the month drove losses in emerging markets.
+
+![](../src/images/china-sell-off.jpg)
 
 Chinese regulatory officials confirmed a leaked policy document banning for-profit tutoring, an industry with an estimated value of c.US$120 billion. This announcement triggered a sell-off in Chinese education stocks which spread to the Chinese technology sector, shaving off a combined US$1.0 trillion in company value, with the MSCI China index posting its largest decline since March 2020. 
 
