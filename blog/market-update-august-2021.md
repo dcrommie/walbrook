@@ -10,6 +10,8 @@ Global Covid-19 cases continue to rise, with numbers surpassing 197 million case
 
 Key economic indicators continue to improve generally, with several leading economies reporting above expected increases in inflation. 
 
+![Vaccination](../src/images/vaccination-risk.jpg "Vaccination")
+
 ## Equities
 
 July saw a contrast in global equity performance across regions.  
