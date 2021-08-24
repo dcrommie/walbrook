@@ -6,9 +6,7 @@ author: Walbrook Wealth Management
 blogpage: true
 thumbnail: ../src/images/cover-image-august-2021.png
 ---
-Global Covid-19 cases continue to rise, with numbers surpassing 197 million cases at the end of July, an increase of 14 million in the month. Vaccination remains critical as countries with high vaccination rates showing lower hospitalisation and death rates even with increased infection rates. 3.8 billion doses had been delivered globally as of the end of July.
-
-Key economic indicators continue to improve generally, with several leading economies reporting above expected increases in inflation. 
+Global Covid-19 cases continue to rise, with numbers surpassing 197 million cases at the end of July, an increase of 14 million in the month. Vaccination remains critical as countries with high vaccination rates show lower hospitalisation and death rates, even with increased infection rates. 3.8 billion doses had been delivered globally as of the end of July.
 
 ![Vaccination](../src/images/vaccination-risk.jpg "Vaccination")
 
