@@ -216,10 +216,12 @@ policy: >-
 
   <tr> 
 
-  <td valign="top">Initial Consultation</td> <td><p>Free of charge<p/></td> </tr> 
+  <td valign="top">Initial Consultation</td> <td><p>Free of charge</p> 
+
+  </td> </tr> 
 
 
-  <tr> <td valign="top">Advice Preparation</td> <td>Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.
+  <tr> <td valign="top">Advice Preparation</td> <td><p>Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.</p
 
 
   * The minimum comprehensive advice fee is AUD 2,500, inclusive of GST.
@@ -227,19 +229,19 @@ policy: >-
   * The minimum initial advice fee for scaled or single issue advice is AUD 550, including GST.
 
 
-  Please note, we do not charge initial advice fees under the Accelerate and Support packages outlined below.</td></tr>
+  <p>Please note, we do not charge initial advice fees under the Accelerate and Support packages outlined below.</td></p></tr>
 
 
   <tr> <td valign="top">Advice Implementation</td> 
 
 
-  <td>On completion of the Statement of Advice, we will calculate an implementation fee. This fee will be calculated on a time basis. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
+  <td><p>On completion of the Statement of Advice, we will calculate an implementation fee. This fee will be calculated on a time basis. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
 
 
   There is no minimum implementation fee.
 
 
-  Advice implementation incorporates:
+  Advice implementation incorporates:</p>
 
 
   * Establishing investment and superannuation structures
@@ -259,7 +261,7 @@ policy: >-
   * Setting up initial/ongoing account contributions
 
 
-  Please note, we do not charge advice implementation fees under the Accelerate and Support packages outlined below. </td></tr>
+  <p>Please note, we do not charge advice implementation fees under the Accelerate and Support packages outlined below. </td></p></tr>
 
 
   </table>
