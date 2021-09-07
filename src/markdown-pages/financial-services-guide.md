@@ -103,9 +103,9 @@ policy: >-
 
   <tr> 
 
-  <td valign="top">**Physical Address**
+  <td valign="top">\*\*Physical Address\*\*
 
-  </td> <td valign="top">**Postal Address** 
+  </td> <td valign="top">\*\*Postal Address\*\* 
 
   </td> 
 
@@ -122,6 +122,7 @@ policy: >-
 
 
   Melbourne VIC 3000</p> 
+
 
   </td> 
 
@@ -141,11 +142,11 @@ policy: >-
 
   <tr>
 
-  <td valign="top">**Email:** 
+  <td valign="top">\*\*Email:\*\* 
 
   </td> 
 
-  <td valign="top">**Telephone:**
+  <td valign="top">\*\*Telephone:\*\*
 
   </td> 
 
@@ -230,7 +231,7 @@ policy: >-
   At times, we may provide you with general financial product advice. Where we provide you with general advice or an execution only service, we will also provide you with a general advice warning. You should note that general advice does not relate specifically to you and does not take into consideration your objectives, financial situation and needs. Whilst Walbrook believes the general advice provided is accurate and reliable, neither Walbrook nor its directors or employees assume any responsibility for the accuracy or completeness of the information provided.
 
 
-  \###Other documents you may receive from us
+  ### Other documents you may receive from us
 
 
   #### Product Disclosure Statements
@@ -298,7 +299,7 @@ policy: >-
 
   <tr> 
 
-  <td valign="top">\*\*\*Initial Consultation\*\*\* 
+  <td valign="top">**Initial Consultation**
 
   </td> 
 
@@ -310,7 +311,7 @@ policy: >-
   </tr> 
 
 
-  <tr> <td valign="top">\*\*\*Advice Preparation\*\*\* 
+  <tr> <td valign="top">**Advice Preparation**
 
   </td> 
 
@@ -326,7 +327,7 @@ policy: >-
   <p>Please note, we do not charge initial advice fees under the Accelerate and Support packages outlined below.</td></p></tr>
 
 
-  <tr> <td valign="top">\*\*\*Advice Implementation\*\*\*</td> 
+  <tr> <td valign="top">**Advice Implementation**</td> 
 
 
   <td valign="top"><p>On completion of the Statement of Advice, we will calculate an implementation fee. This fee will be calculated on a time basis. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
@@ -355,7 +356,7 @@ policy: >-
   * Setting up initial/ongoing account contributions
 
 
-  <p>Please note, we do not charge advice implementation fees under the Accelerate and Support packages outlined below. </td></p></tr>
+  <p>Please note, we do not charge advice implementation fees under the Accelerate and Support packages outlined below. </p></td></tr>
 
 
   </table>
