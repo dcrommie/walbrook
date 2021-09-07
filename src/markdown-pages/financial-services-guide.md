@@ -216,7 +216,7 @@ policy: >-
 
   <tr> 
 
-  <td valign="top">Initial Consultation</td> <td>Free of charge</td> </tr> 
+  <td valign="top">Initial Consultation</td> <td><p>Free of charge<p/></td> </tr> 
 
 
   <tr> <td valign="top">Advice Preparation</td> <td>Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.
