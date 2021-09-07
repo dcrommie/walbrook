@@ -216,12 +216,24 @@ policy: >-
 
   <tr> 
 
-  <td valign="top">Initial Consultation</td> <td valign="top"><p>Free of charge</p> 
+  <td valign="top"><h4>Initial Consultation</h4> 
 
-  </td> </tr> 
+  </td> 
 
 
-  <tr> <td valign="top">Advice Preparation</td> <td valign="top"><p>Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.</p>
+  <td valign="top"><p>Free of charge</p> 
+
+  </td> 
+
+  </tr> 
+
+
+  <tr> <td valign="top"><h4>Advice Preparation</h4> 
+
+  </td> 
+
+
+  <td valign="top"><p>Following the first meeting, we will agree a flat fee for the preparation of your initial Statement of Advice. Please note that there is no charge for the first meeting.</p>
 
 
   * The minimum comprehensive advice fee is AUD 2,500, inclusive of GST.
@@ -232,7 +244,7 @@ policy: >-
   <p>Please note, we do not charge initial advice fees under the Accelerate and Support packages outlined below.</td></p></tr>
 
 
-  <tr> <td valign="top">Advice Implementation</td> 
+  <tr> <td valign="top"><h4>Advice Implementation</h4></td> 
 
 
   <td valign="top"><p>On completion of the Statement of Advice, we will calculate an implementation fee. This fee will be calculated on a time basis. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
