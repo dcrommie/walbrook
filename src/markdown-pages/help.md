@@ -36,23 +36,22 @@ helpdesc1: No two clients are the same, so we implement an individual, tailored
 help2: Holistic
 helpdesc2: Extensive experience advising clients on investment, retirement,
   insurance and mortgages allows for a genuinely holistic service.
-helpnewtitle: Turn goals into actions
+helpnewtitle: Turn goals into actions.
 helpnewdesc: Whether you are 30 or 50, looking to pay down the mortgage quicker
-  or save for retirement, it is never too early to start taking action.   With
-  investment, insurance and lending advice, we help to get your wealth creation
-  strategy in place.
+  or save for retirement, now is the time to take action. With investment,
+  insurance and lending advice, we can help you to create and protect your
+  wealth.
 help3: Diversified
 helpdesc3: We apply an advisory framework to advise and plan for our clients
   across asset classes, structures and jurisdictions.
 help4: Collaborative
 helpdesc4: Everchanging circumstances and needs call for the skilled
   coordination of professionals and financial institutions.
-helplasttitle: Address global needs
+helplasttitle: Turn actions into outcomes.
 thumbnail: ../src/images/help.png
-helplasdesc: If you are an expatriate, inside or outside Australia, holding
-  foreign assets, or wish to invest with a more global outlook, please talk to
-  us. Many of our clients have assets and interests across the globe, and we
-  have expert strategies for managing international investments and risk.
+helplasdesc: Life's path is a maze, not a straight line. We help you navigate
+  change and uncertainty, reviewing plans and priorities as circumstances change
+  to keep you on track.
 page: true
 contactdesc: Get in touch and we'll get you started
 helplist1:
