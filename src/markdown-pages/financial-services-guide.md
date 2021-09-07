@@ -361,7 +361,7 @@ policy: "### Why you are receiving this document
 
   <tr>\ 
 
-  <td valign=\"top\"><h4>Initial Consultation</h4>\ 
+  <td valign=\"top\">***Initial Consultation***\ 
 
   </td>\ 
 
@@ -373,7 +373,7 @@ policy: "### Why you are receiving this document
   </tr>\ 
 
 
-  <tr> <td valign=\"top\"><h4>Advice Preparation</h4>\ 
+  <tr> <td valign=\"top\">***Advice Preparation***\ 
 
   </td>\ 
 
@@ -393,7 +393,7 @@ policy: "### Why you are receiving this document
   and Support packages outlined below.</td></p></tr>
 
 
-  <tr> <td valign=\"top\"><h4>Advice Implementation</h4></td>\ 
+  <tr> <td valign=\"top\">***Advice Implementation***</td>\ 
 
 
   <td valign=\"top\"><p>On completion of the Statement of Advice, we will
