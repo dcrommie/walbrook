@@ -32,7 +32,7 @@ policy: >-
   * How you can make a complaint and our compensation arrangements.
 
 
-  <table border="1" border-collapse="collapse" cellspacing="3" box-shadow=#f2f7f2>
+  <table border="1" border-collapse="collapse" cellspacing="3" box-shadow=#f2f7f2 cellpadding="7">
 
 
   <tbody>
