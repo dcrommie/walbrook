@@ -96,10 +96,10 @@ policy: >-
   <tr>
 
 
-  <td valign="top">\\*\\*Physical Address:\\*\\*
+  ###### <td valign="top">Physical Address:
 
 
-  </td> <td valign="top">\\*\\*Postal Address:\\*\\*
+  ###### </td> <td valign="top">Postal Address:
 
 
   </td>
@@ -147,13 +147,13 @@ policy: >-
   <tr>
 
 
-  <td valign="top">\\*\\*Email:\\*\\*
+  ###### <td valign="top">Email:
 
 
   </td>
 
 
-  <td valign="top">\\*\\*Telephone:\\*\\*
+  ###### <td valign="top">Telephone:
 
 
   </td>
@@ -314,7 +314,7 @@ policy: >-
   <tr>
 
 
-  <td valign="top">\\*\\*Initial Consultation\\*\\*
+  ###### <td valign="top">Initial Consultation:
 
 
   </td>
@@ -329,7 +329,7 @@ policy: >-
   </tr>
 
 
-  <tr> <td valign="top">\\*\\*Advice Preparation\\*\\*
+  ###### <tr> <td valign="top">Advice Preparation:
 
 
   </td>
@@ -351,7 +351,7 @@ policy: >-
   For example, complex advice that contains multiple goals, strategies and/or tax structures such as Self Managed Superannuation Funds, Family Trusts and Companies are likely to be charged closer to the maximum fee.</td></p></tr>
 
 
-  <tr> <td valign="top">\\*\\*Advice Implementation\\*\\*</td>
+  ###### <tr> <td valign="top">Advice Implementation</td>
 
 
   <td valign="top"><p>On completion of the Statement of Advice, we will calculate an implementation fee. This fee will be calculated on a time basis. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
@@ -383,7 +383,7 @@ policy: >-
   Please note, we do not charge implementation fees under the Fixed Term Investment Advice Engagement or the Fixed Term Strategic Advice Engagement. </p></td></tr>
 
 
-  <tr> <td valign="top">\\*\\*Fixed Term Investment Advice Engagement\\*\\*</td>
+  ###### <tr> <td valign="top">Fixed Term Investment Advice Engagement</td>
 
 
   <td valign="top"><p>You may elect to enter into a 12 month Fixed Term Engagement to receive regular investment advice and administration services.
@@ -395,7 +395,7 @@ policy: >-
   The minimum fee is AUD 330 pa, including GST, and the maximum fee is 2.50%, including GST, of the assets under advice.</p></td></tr>
 
 
-  <tr> <td valign="top">\\*\\*Fixed Term Strategic Advice Engagement\\*\\*</td>
+  ###### <tr> <td valign="top">Fixed Term Strategic Advice Engagement</td>
 
 
   <td valign="top"><p>You may elect to enter into a 12 month Fixed Term Strategic Advice Engagement to receive comprehensive advice and administration services, including investment advice.
@@ -407,25 +407,25 @@ policy: >-
   The minimum fee is AUD 3,300 pa, including GST, and the maximum fee is AUD 15,000, including GST.</p></td></tr>
 
 
-  <tr> <td valign="top">\\*\\*Ad hoc advice\\*\\*</td>
+  ###### <tr> <td valign="top">Ad hoc advice</td>
 
 
   <td valign="top"><p>Where you do not wish to participate in a 12 month Fixed Term Engagement, but require advice on an ad hoc basis, an hourly fee of AUD 330 including GST may be applicable.</p></td></tr>
 
 
-  <tr> <td valign="top">\\*\\*Execution only\\*\\*</td>
+  ###### <tr> <td valign="top">Execution only</td>
 
 
   <td valign="top"><p>Where we are asked to process transactions on an execution-only basis, we may charge a fee of between AUD50 and up to 1.00% of the transaction value. This fee does not include third-party costs.</p></td></tr>
 
 
-  <tr> <td valign="top">\\*\\*Administration Services\\*\\*</td>
+  <tr> <td valign="top">\\\*\\\*Administration Services\\\*\\\*</td>
 
 
   <td valign="top"><p>Where we are required to provide administration services on an execution-only basis, we will charge a fee of 0.25% pa of the account value. This fee does not include third-party costs.</p></td></tr>
 
 
-  <tr> <td valign="top">\\*\\*Insurance products\\*\\*</td>
+  <tr> <td valign="top">\\\*\\\*Insurance products\\\*\\\*</td>
 
 
   <td valign="top"><p>Walbrook may receive payments of initial commissions and ongoing commissions from the life insurance providers for any product that we have recommended and you elect to use. 
@@ -452,7 +452,7 @@ policy: >-
   Your Statement of Advice will disclose the actual commission that Walbrook and your Adviser will receive.</p></td></tr>
 
 
-  <tr> <td valign="top">\\*\\*Credit Products\\*\\*</td>
+  <tr> <td valign="top">\\\*\\\*Credit Products\\\*\\\*</td>
 
 
   <td valign="top"><p>Where authorised by an Australian Credit Licence holder, Walbrook may receive payments of initial commissions and ongoing commissions from lenders for any credit product that we have recommended and you have successfully applied for.
@@ -593,19 +593,19 @@ policy: >-
   <tr>
 
 
-  <td valign="top">\\*\\*Postal Address:\\*\\*
+  <td valign="top">\\\*\\\*Postal Address:\\\*\\\*
 
 
   </td>
 
 
-  <td valign="top">\\*\\*Email:\\*\\*
+  <td valign="top">\\\*\\\*Email:\\\*\\\*
 
 
   </td>
 
 
-  <td valign="top">\\*\\*Telephone:\\*\\*
+  <td valign="top">\\\*\\\*Telephone:\\\*\\\*
 
 
   </td>
@@ -686,19 +686,19 @@ policy: >-
   <tr>
 
 
-  <td valign="top">\\*\\*By post:\\*\\*
+  <td valign="top">\\\*\\\*By post:\\\*\\\*
 
 
   </td>
 
 
-  <td valign="top">\\*\\*Email:\\*\\*
+  <td valign="top">\\\*\\\*Email:\\\*\\\*
 
 
   </td>
 
 
-  <td valign="top">\\*\\*Telephone:\\*\\*
+  <td valign="top">\\\*\\\*Telephone:\\\*\\\*
 
 
   </td>
