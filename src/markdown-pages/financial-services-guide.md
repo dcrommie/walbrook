@@ -107,10 +107,7 @@ policy: >-
   Our office contact details are set out below.
 
 
-  <table>
-
-
-  <thead></tr> </thead>
+  <table cellpadding="10">
 
 
   <tbody>
@@ -119,10 +116,10 @@ policy: >-
   <tr>
 
 
-  #### <td valign="top">Physical Address:
+  <td valign="top">**Physical Address:**
 
 
-  #### </td> <td valign="top">Postal Address:
+  </td> <td valign="top">**Postal Address:**
 
 
   </td>
@@ -137,7 +134,7 @@ policy: >-
   <td valign="top"><p>
 
 
-  Level 16
+  Level 16 
 
 
   414 La Trobe Street
@@ -170,13 +167,13 @@ policy: >-
   <tr>
 
 
-  #### <td valign="top">Email:
+  <td valign="top">**Email:**
 
 
   </td>
 
 
-  #### <td valign="top">Telephone:
+  <td valign="top">**Telephone:**
 
 
   </td>
@@ -325,7 +322,7 @@ policy: >-
   Fees are calculated based on the level of service needed and the complexity of the advice required.  All fees and commission are inclusive of GST.
 
 
-  <table cellspacing="3"> <thead></tr> </thead>
+  <table cellspacing="3" cellpadding="10" > <thead></tr> </thead>
 
 
   <tbody>
@@ -598,13 +595,10 @@ policy: >-
   ### How you can make a complaint
 
 
-  If you would like to make a complaint, please contact us in the first instance using the details below: \
+  If you would like to make a complaint, please contact us in the first instance using the details below: 
 
 
-  <table cellspacing="3">
-
-
-  <thead></tr> </thead>
+  <table cellspacing="1" cellpadding="3">
 
 
   <tbody>
@@ -613,22 +607,13 @@ policy: >-
   <tr>
 
 
-  <td valign="top"><H4>Postal Address:</H4>
+  <td valign="top"><H4>Postal Address:</H4></td>
 
 
-  </td>
+  <td valign="top"><H4>Email:</H4></td>
 
 
-  <td valign="top"><H4>Email:</H4>
-
-
-  </td>
-
-
-  #### <td valign="top"><H4>Telephone:</H4>
-
-
-  </td>
+  <td valign="top"><H4>Telephone:</H4></td>
 
 
   </tr>
@@ -694,7 +679,7 @@ policy: >-
   If we have provided you with a written response to your complaint and it has not been resolved to your satisfaction, you can lodge a complaint with the Australian Financial Complaints Authority (AFCA).  AFCA provides fair and independent financial services complaint resolution that is free to consumers. 
 
 
-  <table cellspacing="3">
+  <table cellspacing="1" cellpadding="3">
 
 
   <thead></tr> </thead>
@@ -718,7 +703,7 @@ policy: >-
   </td>
 
 
-  #### <td valign="top"><H4>Telephone:</H4>
+  <td valign="top"><H4>Telephone:</H4>
 
 
   </td>
