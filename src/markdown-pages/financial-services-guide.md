@@ -1,6 +1,6 @@
 ---
 policy: >-
-  ### Why you are receiving this document  
+  ### Why you are receiving this document
 
 
   This Financial Services Guide (FSG) is an important document which provides you with information to help you decide whether to use our financial services.  
@@ -44,7 +44,7 @@ policy: >-
   It is important to note that disclosing our lack of independence and detailing our remuneration structure does not impact our obligation to act in your best interests.  We have a duty to act in your best interests when providing personal advice and are obliged to provide you with appropriate advice.
 
 
-  ### About Walbrook 
+  ### About Walbrook
 
 
   Walbrook is the holder of AFSL 512465 and is authorised to provide you with financial advice and dealing services in relation to the following financial products: 
@@ -78,7 +78,7 @@ policy: >-
   Please note that we are registered with the Tax Practitioners Board to provide a tax (financial) advice service. This service involves the provision of advice around how tax legislation (including superannuation) interacts with the financial advice and services provided to you. 
 
 
-  ### How you can contact us 
+  ### How you can contact us
 
 
   Our office contact details are set out below.
@@ -96,10 +96,10 @@ policy: >-
   <tr>
 
 
-  <td valign="top">**Physical Address:**
+  <td valign="top">\\*\\*Physical Address:\\*\\*
 
 
-  </td> <td valign="top">**Postal Address:**
+  </td> <td valign="top">\\*\\*Postal Address:\\*\\*
 
 
   </td>
@@ -147,13 +147,13 @@ policy: >-
   <tr>
 
 
-  <td valign="top">**Email:**
+  <td valign="top">\\*\\*Email:\\*\\*
 
 
   </td>
 
 
-  <td valign="top">**Telephone:**
+  <td valign="top">\\*\\*Telephone:\\*\\*
 
 
   </td>
@@ -219,7 +219,7 @@ policy: >-
   * inform of us of any changes in your situation. 
 
 
-  ### Delivery of advice 
+  ### Delivery of advice
 
 
   By law, you are entitled to receive a Statement of Advice on the first occasion that we provide you with personal advice. The Statement of Advice will contain: 
@@ -272,7 +272,7 @@ policy: >-
   We may provide disclosure documents, including this FSG and the documents outlined above, by making them available digitally, e.g. by email attachment or as a hyperlink in a document or email. You can contact us to opt-out of this method of disclosure at any time. 
 
 
-  ### How you may instruct us 
+  ### How you may instruct us
 
 
   You may give us instructions verbally or in writing, such as by email or letter. In limited circumstances and where required by third parties, we may require your instructions in writing. 
@@ -314,7 +314,7 @@ policy: >-
   <tr>
 
 
-  <td valign="top">**Initial Consultation**
+  <td valign="top">\\*\\*Initial Consultation\\*\\*
 
 
   </td>
@@ -329,7 +329,7 @@ policy: >-
   </tr>
 
 
-  <tr> <td valign="top">**Advice Preparation**
+  <tr> <td valign="top">\\*\\*Advice Preparation\\*\\*
 
 
   </td>
@@ -351,7 +351,7 @@ policy: >-
   For example, complex advice that contains multiple goals, strategies and/or tax structures such as Self Managed Superannuation Funds, Family Trusts and Companies are likely to be charged closer to the maximum fee.</td></p></tr>
 
 
-  <tr> <td valign="top">**Advice Implementation**</td>
+  <tr> <td valign="top">\\*\\*Advice Implementation\\*\\*</td>
 
 
   <td valign="top"><p>On completion of the Statement of Advice, we will calculate an implementation fee. This fee will be calculated on a time basis. If you request our assistance to implement the recommendations made, we will charge the implementation fee. We will disclose this fee and the implementation services it covers in the Statement of Advice.
@@ -383,7 +383,7 @@ policy: >-
   Please note, we do not charge implementation fees under the Fixed Term Investment Advice Engagement or the Fixed Term Strategic Advice Engagement. </p></td></tr>
 
 
-  <tr> <td valign="top">**Fixed Term Investment Advice Engagement**</td>
+  <tr> <td valign="top">\\*\\*Fixed Term Investment Advice Engagement\\*\\*</td>
 
 
   <td valign="top"><p>You may elect to enter into a 12 month Fixed Term Engagement to receive regular investment advice and administration services.
@@ -395,7 +395,7 @@ policy: >-
   The minimum fee is AUD 330 pa, including GST, and the maximum fee is 2.50%, including GST, of the assets under advice.</p></td></tr>
 
 
-  <tr> <td valign="top">**Fixed Term Strategic Advice Engagement**</td>
+  <tr> <td valign="top">\\*\\*Fixed Term Strategic Advice Engagement\\*\\*</td>
 
 
   <td valign="top"><p>You may elect to enter into a 12 month Fixed Term Strategic Advice Engagement to receive comprehensive advice and administration services, including investment advice.
@@ -407,25 +407,25 @@ policy: >-
   The minimum fee is AUD 3,300 pa, including GST, and the maximum fee is AUD 15,000, including GST.</p></td></tr>
 
 
-  <tr> <td valign="top">**Ad hoc advice**</td>
+  <tr> <td valign="top">\\*\\*Ad hoc advice\\*\\*</td>
 
 
   <td valign="top"><p>Where you do not wish to participate in a 12 month Fixed Term Engagement, but require advice on an ad hoc basis, an hourly fee of AUD 330 including GST may be applicable.</p></td></tr>
 
 
-  <tr> <td valign="top">**Execution only**</td>
+  <tr> <td valign="top">\\*\\*Execution only\\*\\*</td>
 
 
   <td valign="top"><p>Where we are asked to process transactions on an execution-only basis, we may charge a fee of between AUD50 and up to 1.00% of the transaction value. This fee does not include third-party costs.</p></td></tr>
 
 
-  <tr> <td valign="top">**Administration Services**</td>
+  <tr> <td valign="top">\\*\\*Administration Services\\*\\*</td>
 
 
   <td valign="top"><p>Where we are required to provide administration services on an execution-only basis, we will charge a fee of 0.25% pa of the account value. This fee does not include third-party costs.</p></td></tr>
 
 
-  <tr> <td valign="top">**Insurance products**</td>
+  <tr> <td valign="top">\\*\\*Insurance products\\*\\*</td>
 
 
   <td valign="top"><p>Walbrook may receive payments of initial commissions and ongoing commissions from the life insurance providers for any product that we have recommended and you elect to use. 
@@ -452,7 +452,7 @@ policy: >-
   Your Statement of Advice will disclose the actual commission that Walbrook and your Adviser will receive.</p></td></tr>
 
 
-  <tr> <td valign="top">**Credit Products**</td>
+  <tr> <td valign="top">\\*\\*Credit Products\\*\\*</td>
 
 
   <td valign="top"><p>Where authorised by an Australian Credit Licence holder, Walbrook may receive payments of initial commissions and ongoing commissions from lenders for any credit product that we have recommended and you have successfully applied for.
@@ -476,7 +476,7 @@ policy: >-
   You can settle your fees by deduction from your investment portfolio or via bank transfer. In certain circumstances, you may be able to have charges deducted from your superannuation balance.
 
 
-  ### Fees you pay for using other financial services or products 
+  ### Fees you pay for using other financial services or products
 
 
   The total initial and ongoing costs of using our service will depend on the fees charged by third-party issuers of the financial products and services we recommend. 
@@ -485,10 +485,19 @@ policy: >-
   These fees will be outlined in the Statements of Advice and Records of Advice that we prepare, to provide you with a clear understanding of the total initial and ongoing costs of the recommended actions. The Product Disclosure Statements that we will provide, issued by the relevant third parties, will also give more detail. 
 
 
-  ### Conflicts of interest, associations or relationships that may affect our advice 
+  ### Conflicts of interest, associations or relationships that may affect our advice
 
 
   As a wealth manager that is not owned by a bank or product manufacturer, we do not manufacture or distribute our own financial products. Any assistance we provide is concerning financial products from third parties. We have an obligation to act in your best interests, to avoid conflicts and prioritise your interests. 
+
+
+  #### Approved Product List
+
+
+  Our investment Approved Product List (APL) is based on research conducted by the third-party provider Lonsec.  As Lonsec receives payments from financial product providers to be rated, this has the effect of limiting our investable universe to products whose issuers have paid Lonsec a fee. 
+
+
+  Our advice process provides clear guidelines for your adviser to recommend a product or security that is not on the APL, to avoid situations where the APL is unduly restrictive.
 
 
   #### Adviser remuneration
@@ -497,13 +506,13 @@ policy: >-
   Your financial adviser, Damien Crommie, receives a base salary and has an indirect beneficial interest in Walbrook.  This means that he may receive a share of any profits distributed by Walbrook after licensing, legal, compliance, paraplanning, technology and administrative costs. 
 
 
-  #### Non-monetary benefits 
+  #### Non-monetary benefits
 
 
   We may receive non-monetary benefits from product providers. Walbrook representatives may only accept non-monetary benefits that are valued at less than AUD 300 and we are required to keep records of non-monetary benefits valued between AUD 100 – AUD 300. Records of non-monetary benefits received by our representatives are kept in our Alternative Forms of Remuneration Register. If you would like a copy of the Register, please contact us. 
 
 
-  #### Referral Arrangements 
+  #### Referral Arrangements
 
 
   If you have been referred to us and we decide to pay a referral fee, the details will be disclosed in your Statement of Advice and paid as agreed with you and permitted by law. 
@@ -512,13 +521,13 @@ policy: >-
   We may refer you to third parties where you are interested in receiving their services or using their products, or where we consider that their advice or other services may be useful to you.  Walbrook may receive a referral fee where you decide to receive services from third party providers.  This will be disclosed in writing and received as agreed with you and permitted  by law. 
 
 
-  #### Employee Trading 
+  #### Employee Trading
 
 
   We and our representatives may invest in similar or the same investments as those recommended to you. Walbrook implements a Staff Trading Policy to mitigate risks and conflicts which may arise from trading activity in such investments. If you would like to discuss this with us or obtain further information about our policy, feel free to contact us. 
 
 
-  ### How we protect your personal information 
+  ### How we protect your personal information
 
 
   Protecting your privacy is important to us and central to our commitment to meeting the highest level of professional standards. We will handle your personal information per our Privacy Policy, which outlines how the information we collect from you is used, stored and disclosed. 
@@ -584,19 +593,19 @@ policy: >-
   <tr>
 
 
-  <td valign="top">**Postal Address:**
+  <td valign="top">\\*\\*Postal Address:\\*\\*
 
 
   </td>
 
 
-  <td valign="top">**Email:**
+  <td valign="top">\\*\\*Email:\\*\\*
 
 
   </td>
 
 
-  <td valign="top">**Telephone:**
+  <td valign="top">\\*\\*Telephone:\\*\\*
 
 
   </td>
@@ -656,7 +665,6 @@ policy: >-
   </table>
 
 
-
   When your complaint is received, we will enter the details in our complaints register and investigate the circumstances.  Within 30 days we must provide you with a written response to your complaint. 
 
 
@@ -678,19 +686,19 @@ policy: >-
   <tr>
 
 
-  <td valign="top">**By post:**
+  <td valign="top">\\*\\*By post:\\*\\*
 
 
   </td>
 
 
-  <td valign="top">**Email:**
+  <td valign="top">\\*\\*Email:\\*\\*
 
 
   </td>
 
 
-  <td valign="top">**Telephone:**
+  <td valign="top">\\*\\*Telephone:\\*\\*
 
 
   </td>
@@ -759,7 +767,7 @@ policy: >-
   You can find further information at www.afca.org.au.  Please contact us should you wish to receive more information about our dispute resolution policy. 
 
 
-  ### What compensation arrangements are in place? 
+  ### What compensation arrangements are in place?
 
 
   In compliance with the requirements of section 912B of the Corporations Act 2001, we have professional indemnity insurance in place in respect of financial services we provide to our clients. This insurance also covers claims concerning the conduct of representatives no longer working for us (but who did at the time of the relevant conduct). 
