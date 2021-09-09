@@ -32,7 +32,18 @@ policy: >-
   * How you can make a complaint and our compensation arrangements.
 
 
-  ### Not Independent
+  <table border="1" border-collapse="collapse" cellspacing="3" box-shadow=#f2f7f2>
+
+
+  <tbody>
+
+
+  <tr>
+
+  <td>
+
+
+  <h3>Not Independent</h3>
 
 
   Clients may elect for Walbrook to receive regulated commissions from life insurance product issuers where financial services are provided in relation to these products. 
@@ -42,6 +53,18 @@ policy: >-
 
 
   It is important to note that disclosing our lack of independence and detailing our remuneration structure does not impact our obligation to act in your best interests.  We have a duty to act in your best interests when providing personal advice and are obliged to provide you with appropriate advice.
+
+
+  </td>
+
+
+  </tr>
+
+
+  </tbody>
+
+
+  </table>
 
 
   ### About Walbrook
@@ -572,7 +595,7 @@ policy: >-
   If you have concerns about the accuracy and completeness of the information we hold, you may request access to your data by contacting the Privacy Officer on +61 3 9013 6262.
 
 
-  ### How you can make a complaint 
+  ### How you can make a complaint
 
 
   If you would like to make a complaint, please contact us in the first instance using the details below: \
