@@ -96,10 +96,10 @@ policy: >-
   <tr>
 
 
-  ##### <td valign="top">Physical Address:
+  #### <td valign="top">Physical Address:
 
 
-  ##### </td> <td valign="top">Postal Address:
+  #### </td> <td valign="top">Postal Address:
 
 
   </td>
@@ -147,13 +147,13 @@ policy: >-
   <tr>
 
 
-  ##### <td valign="top">Email:
+  #### <td valign="top">Email:
 
 
   </td>
 
 
-  ##### <td valign="top">Telephone:
+  #### <td valign="top">Telephone:
 
 
   </td>
@@ -251,10 +251,7 @@ policy: >-
   At times, we may provide you with general financial product advice. Where we provide you with general advice or an execution only service, we will also provide you with a general advice warning. You should note that general advice does not relate specifically to you and does not take into consideration your objectives, financial situation and needs. Whilst Walbrook believes the general advice provided is accurate and reliable, neither Walbrook nor its directors or employees assume any responsibility for the accuracy or completeness of the information provided. 
 
 
-  ### Other documents you may receive from us
-
-
-  #### Product Disclosure Statements
+  ### Product Disclosure Statements
 
 
   Where a recommendation has been made to acquire a financial product, we will provide you with a Product Disclosure Statement. The product provider issues the Product Disclosure Statement, which contains information about the features, costs, risks and benefits. It will help you to make an informed decision about whether or not to invest in the financial product.
