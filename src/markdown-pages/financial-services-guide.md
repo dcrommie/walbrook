@@ -302,7 +302,7 @@ policy: >-
   Fees are calculated based on the level of service needed and the complexity of the advice required.  All fees and commission are inclusive of GST.
 
 
-  <table> <thead></tr> </thead>
+  <table cellspacing="3"> <thead></tr> </thead>
 
 
   <tbody>
@@ -578,7 +578,7 @@ policy: >-
   If you would like to make a complaint, please contact us in the first instance using the details below: \
 
 
-  <table>
+  <table cellspacing="3">
 
 
   <thead></tr> </thead>
@@ -671,7 +671,7 @@ policy: >-
   If we have provided you with a written response to your complaint and it has not been resolved to your satisfaction, you can lodge a complaint with the Australian Financial Complaints Authority (AFCA).  AFCA provides fair and independent financial services complaint resolution that is free to consumers. 
 
 
-  <table>
+  <table cellspacing="3">
 
 
   <thead></tr> </thead>
