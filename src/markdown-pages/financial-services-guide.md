@@ -106,7 +106,7 @@ policy: >-
   Our office contact details are set out below.
 
 
-  | <div style="width:200px">Physical Address    | <div style="width:200px">Postal Address     | <div style="width:200px">Telephone            | <div style="width:200px">Email|           |
+  | <div style="width:200px"><b>Physical Address</b>    | <div style="width:200px">Postal Address     | <div style="width:200px">Telephone            | <div style="width:200px">Email|           |
 
   | ------------------- | ------------------ | -------------------- | --------------- |
 
@@ -115,6 +115,7 @@ policy: >-
   | 414 La Trobe Street | Melbourne VIC 3001 |                      |                 |
 
   | Melbourne VIC 3000  |                    |                      |                 |
+
 
 
   ### Personal financial product advice
