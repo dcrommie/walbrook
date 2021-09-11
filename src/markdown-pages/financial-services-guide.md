@@ -65,6 +65,7 @@ policy: >-
   </table>
 
 
+
   ### About Walbrook
 
 
@@ -105,30 +106,20 @@ policy: >-
   Our office contact details are set out below.
 
 
-  Physical Address
+  | <div style="width:200px">Physical Address    | <div style="width:200px">Postal Address     | <div style="width:200px">Telephone            | <div style="width:200px">Email|           |
 
-  Level 16
+  | ------------------- | ------------------ | -------------------- | --------------- |
 
-  414 La Trobe Street
+  | Level 16            | GPO Box 1717       | info@walbrook.com.au | +61 3 9013 6262 |
 
-  Melbourne VIC 3000
+  | 414 La Trobe Street | Melbourne VIC 3001 |                      |                 |
 
-
-  Postal Address
-
-  GPO Box 1717
-
-  Melbourne VIC 3001
+  | Melbourne VIC 3000  |                    |                      |                 |
 
 
-  Email Address
-
-  info@walbrook.com.au
 
 
-  Telephone
 
-  +61 3 9013 6262
 
 
   | <div style="width:150px">**Physical Address** | <div style="width:150px">**Postal Address** | <div style="width:150px">**Email**            | <div style="width:150px">**Telephone**   |
@@ -739,22 +730,6 @@ policy: >-
 
 
   For a copy of the Financial Services Guide, please email info@walbrook.com.au
-
-
-  Our office contact details are set out below.
-
-
-  | <div style="width:150px">Physical Address    | <div style="width:150px">Postal Address     | <div style="width:150px">Telephone            | <div style="width:150px">Email|           |
-
-  | ------------------- | ------------------ | -------------------- | --------------- |
-
-  | Level 16            | GPO Box 1717       | info@walbrook.com.au | +61 3 9013 6262 |
-
-  | 414 La Trobe Street | Melbourne VIC 3001 |                      |                 |
-
-  | Melbourne VIC 3000  |                    |                      |                 |
-
-
 
 
   | <div style="width:290px">property</div> | description                           |
