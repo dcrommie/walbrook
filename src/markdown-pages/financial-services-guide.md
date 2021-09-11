@@ -702,23 +702,10 @@ policy: >-
 
 
 
-
-  | <div style="width:150px">Version: |<div style="width:150px">Issue Date:|       
+  | <div style="width:150px"><font color="#000066">Version: |<div style="width:150px"><font color="#000066">Issue Date:|       
 
   | -------- |-----------------| 
 
-  | 1.50     |11 September 2021|
-
-
-
-
-  For a copy of the Financial Services Guide, please email info@walbrook.com.au
-
-
-  | <div style="width:290px">property</div> | description                           |
-
-  | --------------------------------------- | ------------------------------------- |
-
-  | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+  | <font color="#000066">1.50     |<font color="#000066">11 September 2021|
 page: true
 ---
