@@ -688,7 +688,8 @@ policy: >-
 
 
 
-   
+
+
   You can find further information at www.afca.org.au. Please contact us should you wish to receive more information about our dispute resolution policy.
 
 
