@@ -106,7 +106,7 @@ policy: >-
   Our office contact details are set out below.
 
 
-  | <div style="width:200px"><b>Physical Address</b>    | <div style="width:200px">Postal Address     | <div style="width:200px">Telephone            | <div style="width:200px">Email|           |
+  | <div style="width:200px"><p>Physical Address</p>    | <div style="width:200px">Postal Address     | <div style="width:200px">Telephone            | <div style="width:200px">Email|           |
 
   | ------------------- | ------------------ | -------------------- | --------------- |
 
