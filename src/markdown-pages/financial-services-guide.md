@@ -678,7 +678,7 @@ policy: >-
 
 
 
-  | <div style="width:200px"><font color="#000066">Postal Address:    |<div style="width:200px"><font color="#000066">Email:|<div style="width:200px"><font color="#000066">Telephone:|
+  | <div style="width:200px"><font color="#000066">Postal Address:    |<div style="width:200px"><font color="#000066">Email:|<div style="width:200px"><font color="#000066">Telephone:</font>|
 
   | ------------------ | ---------------- |------------| 
 
