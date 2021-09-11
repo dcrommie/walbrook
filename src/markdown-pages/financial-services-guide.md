@@ -359,7 +359,7 @@ policy: >-
   <tr>
 
 
-  <td valign="top">
+  <td valign="top" div style="width:250px">
 
 
   **Fixed Term Investment Advice Engagement**
