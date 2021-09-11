@@ -106,18 +106,18 @@ policy: >-
   Our office contact details are set out below.
 
 
-  |<div style="width:200px"><font color="#000066">Physical Address</font>    | <div style="width:200px"><font color="#000066">Postal Address</font>     | <div style="width:200px"><font color="#000066">Telephone</font>           | <div style="width:200px"><font color="#000066">Email</font>|           |
+  |<div style="width:200px"><font color="#000066">Physical Address</font>    | <div style="width:200px"><font color="#000066">Postal Address</font>     | <div style="width:200px"><font color="#000066">Email</font>           | <div style="width:200px"><font color="#000066">Telephone</font>|           |
 
   | ------------------- | ------------------ | -------------------- | --------------- |
 
   | <font color="#000066">Level 16            | <font color="#000066">GPO Box 1717       | <font color="#000066">info@walbrook.com.au</font> | <font color="#000066">+61 3 9013 6262</font> |
 
-  | 414 La Trobe Street | Melbourne VIC 3001</font> |                      |                 |
+  | <font color="#000066">414 La Trobe Street | <font color="#000066">Melbourne VIC 3001</font> |                      |                 |
 
-  | Melbourne VIC 3000</font>  |                    |                      |                 |
+  | <font color="#000066">Melbourne VIC 3000</font>  |                    |                      |                 |
 
 
-
+   
   ### Personal financial product advice
 
 
@@ -215,7 +215,7 @@ policy: >-
   Under the Fixed Fee option, fees are calculated based on the level of service needed and the complexity of the advice required. All fees and commissions are inclusive of GST.
 
 
-  <table cellspacing="3" cellpadding="10">
+  <table cellspacing="10" cellpadding="10">
 
 
   <tbody>
@@ -288,7 +288,7 @@ policy: >-
   <td valign="top">
 
 
-  **Advice Implementation**
+  **Advice Implementation:**
 
 
   </td>
