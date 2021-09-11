@@ -1,24 +1,36 @@
 ---
-policy: "### Why you are receiving this document\r
+policy: "### Why you are receiving this document
+
+
+  \r
 
   \r
 
   This Financial Services Guide (FSG) is an important document which provides
-  you with information to help you decide whether to use our financial services.
+  you with information to help you decide whether to use our financial
+  services.\ 
+
+
   \r
 
   \r
 
   It has been authorised for distribution by Barbacane Advisors Pty Ltd
   trading as Walbrook Wealth Management (‘Walbrook’, ‘we’, ‘us’ or ‘our’), the
-  holder of Australian Financial Services Licence number 512465 (AFSL). \r
+  holder of Australian Financial Services Licence number 512465 (AFSL).\ 
+
+
+  \r
 
   \r
 
   Walbrook is responsible for the financial services provided to you and is
   required to provide you with this FSG when we provide financial services to
   you as a retail client. This FSG provides you with the following important
-  information:\r
+  information:
+
+
+  \r
 
   \r
 
@@ -38,7 +50,10 @@ policy: "### Why you are receiving this document\r
 
   * How we protect your personal information\r
 
-  * How you can make a complaint and our compensation arrangements\r
+  * How you can make a complaint and our compensation arrangements
+
+
+  \r
 
   \r
 
@@ -65,12 +80,18 @@ policy: "### Why you are receiving this document\r
 
   Clients may elect for Walbrook to receive regulated commissions from life
   insurance product issuers where financial services are provided in relation to
-  these products. \r
+  these products.\ 
+
+
+  \r
 
   \r
 
   For this reason, Walbrook and its representatives are not independent,
-  impartial or unbiased. \r
+  impartial or unbiased.
+
+
+  \r
 
   \r
 
@@ -94,17 +115,26 @@ policy: "### Why you are receiving this document\r
 
   \r
 
-  </table>\r
+  </table>
+
 
   \r
 
-  ### About Walbrook\r
+  \r
+
+  ### About Walbrook
+
+
+  \r
 
   \r
 
   Walbrook is the holder of AFSL 512465 and is authorised to provide you with
   financial advice and dealing services in relation to the following financial
-  products:\r
+  products:
+
+
+  \r
 
   \r
 
@@ -130,18 +160,27 @@ policy: "### Why you are receiving this document\r
 
   * Superannuation\r
 
-  * Retirement Savings Accounts\r
+  * Retirement Savings Accounts
+
+
+  \r
 
   \r
 
   Please note that we are registered with the Tax Practitioners Board to
   provide a tax (financial) advice service. This service involves the provision
   of advice around how tax legislation (including superannuation) interacts with
-  the financial advice and services provided to you.\r
+  the financial advice and services provided to you.
+
 
   \r
 
-  ### How you can contact us\r
+  \r
+
+  ### How you can contact us
+
+
+  \r
 
   \r
 
@@ -194,25 +233,15 @@ policy: "### Why you are receiving this document\r
   \r
 
 
-  **Physical Address**|Level 16, 414 La Trobe Street, Melbourne VIC 3000\r
-
-  --------------------|-------------------------------------------------
-
-  Postal Address      |GPO Box 1717, Melbourne VIC 3001\r
-
-  --------------------|-------------------------------------------------
-
-  Telephone           |+61 3 9013 6262\r
-
-  --------------------|-------------------------------------------------
-
-  Email               |info@walbrook.com.au\r
+  \r
 
   \r
 
 
+  ### Personal financial product advice
 
-  ### Personal financial product advice\r
+
+  \r
 
   \r
 
@@ -220,7 +249,10 @@ policy: "### Why you are receiving this document\r
   advice. Personal financial product advice is advice that considers your
   objectives, financial situation and needs. We must act in your best interests
   when providing you with personal financial product advice. Within the subject
-  matter of the advice we provide to you, we must ensure that:\r
+  matter of the advice we provide to you, we must ensure that:
+
+
+  \r
 
   \r
 
@@ -244,17 +276,26 @@ policy: "### Why you are receiving this document\r
   * provide us with complete, current and accurate details of your personal
   objectives, financial situation and needs; and\r
 
-  * inform of us of any changes in your situation.\r
+  * inform of us of any changes in your situation.
+
 
   \r
 
-  ### Delivery of advice\r
+  \r
+
+  ### Delivery of advice
+
+
+  \r
 
   \r
 
   By law, you are entitled to receive a Statement of Advice on the first
   occasion that we provide you with personal advice. The Statement of Advice
-  will contain:\r
+  will contain:
+
+
+  \r
 
   \r
 
@@ -271,12 +312,16 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   If we provide further personal advice to you after we have issued an initial
   Statement of Advice, and your circumstances have not significantly changed, we
   may provide you with a Record of Advice. We will retain copies of each
   Statement of Advice and Record of Advice on your file for at least seven (7)
   years. You may request a copy of either document within that period by
-  contacting your financial adviser. \r
+  contacting your financial adviser.\ 
+
+
+  \r
 
   \r
 
@@ -284,11 +329,17 @@ policy: "### Why you are receiving this document\r
   Advice where the advice relates to certain basic deposit products or other
   approved financial products and meets certain thresholds. As our ongoing
   advice will refer to previous documentation, you should keep all Statements of
-  Advice provided to you.\r
+  Advice provided to you.
+
 
   \r
 
-  ### General financial product advice\r
+  \r
+
+  ### General financial product advice
+
+
+  \r
 
   \r
 
@@ -299,11 +350,17 @@ policy: "### Why you are receiving this document\r
   objectives, financial situation and needs. Whilst Walbrook believes the
   general advice provided is accurate and reliable, neither Walbrook nor its
   directors or employees assume any responsibility for the accuracy or
-  completeness of the information provided.\r
+  completeness of the information provided.
+
 
   \r
 
-  ### Product Disclosure Statements\r
+  \r
+
+  ### Product Disclosure Statements
+
+
+  \r
 
   \r
 
@@ -311,35 +368,52 @@ policy: "### Why you are receiving this document\r
   provide you with a Product Disclosure Statement. The product provider issues
   the Product Disclosure Statement, which contains information about the
   features, costs, risks and benefits. It will help you to make an informed
-  decision about whether or not to invest in the financial product. \r
+  decision about whether or not to invest in the financial product.\ 
+
+
+  \r
 
   \r
 
   It is essential that you read and understand this document before
   implementing any recommendation made in the Statement of Advice or Record of
   Advice. We will readily explain any part of this document that you do not
-  understand. \r
+  understand.\ 
+
+
+  \r
 
   \r
 
   Your adviser will also provide other documents as needed. These documents
-  may include educational material, client agreements or other offer
-  documents.\r
+  may include educational material, client agreements or other offer documents.
+
 
   \r
 
-  ### Electronic Disclosure\r
+  \r
+
+  ### Electronic Disclosure
+
+
+  \r
 
   \r
 
   We may provide disclosure documents, including this FSG and the documents
   outlined above, by making them available digitally, e.g. by email attachment
   or as a hyperlink in a document or email. You can contact us to opt-out of
-  this method of disclosure at any time.\r
+  this method of disclosure at any time.
+
 
   \r
 
-  ### How you may instruct us\r
+  \r
+
+  ### How you may instruct us
+
+
+  \r
 
   \r
 
@@ -351,6 +425,7 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   * you must acknowledge and accept the risk that the financial product you
   select may not be suitable or appropriate for you, and\r
 
@@ -359,9 +434,11 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   ### How you pay for the financial services we provide to you\r
 
   \r
+
 
   If you receive personal advice from us, we will tell you about any fees,
   commissions and any other benefits, in actual dollar amounts (where possible)
@@ -370,6 +447,7 @@ policy: "### Why you are receiving this document\r
   to you, including:\r
 
   \r
+
 
   * Fixed Fees, where you pay a fixed dollar or percentage-based fee for the
   services that we agree to provide;  \r
@@ -384,11 +462,13 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   Under the Fixed Fee option, fees are calculated based on the level of
   service needed and the complexity of the advice required. All fees and
   commissions are inclusive of GST.\r
 
   \r
+
 
   <table cellspacing=\"3\" cellpadding=\"10\">\r
 
@@ -406,7 +486,7 @@ policy: "### Why you are receiving this document\r
 
   \r
 
-  #### Initial Consultation:\r
+  **Initial Consultation:**\r
 
   \r
 
@@ -1014,7 +1094,9 @@ policy: "### Why you are receiving this document\r
 
   The main reason we collect, use and disclose your personal information, is
   to provide you with the products and services that you request. This reason
-  may also include the following related purposes:\r
+  may also include the following related purposes:
+
+  \r
 
   \r
 
@@ -1032,6 +1114,7 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   We may be required to obtain information about you at the time of providing
   financial services to you and from time to time in order to meet our legal
   obligations. We have certain reporting obligations pursuant to the AML/CTF
@@ -1041,8 +1124,12 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   We may also disclose your information to external parties, some of whom act
-  on your or our behalf. These parties may include:\r
+  on your or our behalf. These parties may include:
+
+
+  \r
 
   \r
 
@@ -1058,11 +1145,13 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   We are also permitted to collect and disclose your personal information when
   required or authorised to do so by law. To obtain a copy of our Privacy
   Policy, please contact us or visit www.walbrook.com.au. \r
 
   \r
+
 
   If you have concerns about the accuracy and completeness of the information
   we hold, you may request access to your data by contacting the Privacy Officer
@@ -1070,19 +1159,24 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   ### How you can make a complaint\r
 
   \r
 
+
   If you would like to make a complaint, please contact us in the first
-  instance using the details below:\r
+  instance using the details below:
+
+
+  \r
 
   \r
 
   | Postal Address:    |     | Email:               |     |
   Telephone:      |\r
 
-  |:------------------ | :--- |:-------------------- | :--- |:---------------
+  |:------------------ |:--- |:-------------------- |:--- |:---------------
   |\r
 
   | GPO Box 1717       |     | info@walbrook.com.au |     | +61 3 9013 6262
@@ -1093,11 +1187,13 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   When your complaint is received, we will enter the details in our complaints
   register and investigate the circumstances. Within 30 days we must provide you
   with a written response to your complaint. \r
 
   \r
+
 
   The timeframe for a response may be extended under certain circumstances, in
   which case we will write to you explaining the reason for the delay, your
@@ -1106,11 +1202,13 @@ policy: "### Why you are receiving this document\r
 
   \r
 
+
   If we have provided you with a written response to your complaint and it has
   not been resolved to your satisfaction, you can lodge a complaint with the
   Australian Financial Complaints Authority (AFCA). AFCA provides fair and
-  independent financial services complaint resolution that is free to
-  consumers.\r
+  independent financial services complaint resolution that is free to consumers.
+
+  \r
 
   \r
 
