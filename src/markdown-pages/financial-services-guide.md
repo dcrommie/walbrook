@@ -398,7 +398,7 @@ policy: >-
   </td>
 
 
-  <td valign="top">
+  <td valign="top" div style="width:250px">
 
 
   You may elect to enter into a 12 month Fixed Term Strategic Advice Engagement to receive comprehensive advice and administration services, including investment advice. 
@@ -682,13 +682,13 @@ policy: >-
   If you would like to make a complaint, please contact us in the first instance using the details below:
 
 
-  | Postal Address:    |     | Email:               |     | Telephone:      |
+  | <div style="width:150px">Postal Address:    |<div style="width:150px">Email:               |<div style="width:150px">Telephone:      |
 
-  | ------------------ | --- | -------------------- | --- | --------------- |
+  | ------------------ |-------------------- |--------------- |
 
-  | GPO Box 1717       |     | info@walbrook.com.au |     | +61 3 9013 6262 |
+  | GPO Box 1717       |info@walbrook.com.au |+61 3 9013 6262 |
 
-  | Melbourne VIC 3001 |     |                      |     |                 |
+  | Melbourne VIC 3001 |                     |                |
 
 
 
@@ -704,13 +704,13 @@ policy: >-
 
 
 
-  | Postal Address:    |     | Email:           |     | Telephone:   |
+  | <div style="width:150px">Postal Address:    |<div style="width:150px">Email:|<div style="width:150px">Telephone:|
 
-  | ------------------ | --- | ---------------- | --- | ------------ |
+  | ------------------ | ---------------- |------------| 
 
-  | GPO Box 3          |     | info@afca.org.au |     | 1800 931 678 |
+  | GPO Box 3          | info@afca.org.au |1800 931 678| 
 
-  | Melbourne VIC 3001 |     |                  |     | (free call)  |
+  | Melbourne VIC 3001 |                  |(free call) | 
 
 
 
@@ -729,11 +729,11 @@ policy: >-
 
 
 
-  | Version: |     | Issue Date:       |
+  | <div style="width:150px">Version: |<div style="width:150px">Issue Date:|       
 
-  | -------- | --- | ----------------- |
+  | -------- |-----------------| 
 
-  | 1.50     |     | 11 September 2021 |
+  | 1.50     |11 September 2021|
 
 
 
@@ -744,7 +744,7 @@ policy: >-
   Our office contact details are set out below.
 
 
-  | Physical Address    | Postal Address     | Telephone            | Email           |
+  | <div style="width:150px">Physical Address    | <div style="width:150px">Postal Address     | <div style="width:150px">Telephone            | <div style="width:150px">Email|           |
 
   | ------------------- | ------------------ | -------------------- | --------------- |
 
