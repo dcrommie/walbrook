@@ -29,7 +29,7 @@ policy: >-
   * How you can make a complaint and our compensation arrangements
 
 
-  <table border="4" border-collapse="collapse" border-radius="25" cellspacing="3" box-shadow="#f2f7f2" cellpadding="7">
+  <table border="4" border-collapse="collapse" border-radius="25" cellspacing="3" box-shadow="#f2f7f2" cellpadding="15">
 
 
   <tbody>
@@ -131,7 +131,7 @@ policy: >-
   +61 3 9013 6262
 
 
-  | **Physical Address** | **Postal Address** | **Email**            | **Telephone**   |
+  | <div style="width:150px">**Physical Address** | <div style="width:150px">**Postal Address** | <div style="width:150px">**Email**            | <div style="width:150px">**Telephone**   |
 
   | -------------------- | ------------------ | -------------------- | --------------- |
 
