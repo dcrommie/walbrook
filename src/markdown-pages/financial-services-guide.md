@@ -338,7 +338,9 @@ policy: >-
   <td valign="top" div style="width:250px">
 
 
-  **Fixed Term Investment Advice Engagement**
+  **Fixed Term  
+
+  Investment Advice Engagement**
 
 
   </td>
@@ -368,7 +370,9 @@ policy: >-
   <td valign="top">
 
 
-  **Fixed Term Strategic Advice Engagement**
+  **Fixed Term  
+
+  Strategic Advice Engagement**
 
 
   </td>
