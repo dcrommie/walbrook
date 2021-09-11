@@ -1272,6 +1272,17 @@ policy: "### Why you are receiving this document
   |                      |                 |
 
   | Melbourne VIC
-  3000  |                    |                      |                 |"
+  3000  |                    |                      |                 |
+
+
+
+  | <div style=\"width:290px\">property</div> |
+  description                           |\r
+
+  | --------------------------------------- |
+  ------------------------------------- |\r
+
+  | `border-bottom-right-radius`            | Defines the shape of the
+  bottom-right |"
 page: true
 ---
