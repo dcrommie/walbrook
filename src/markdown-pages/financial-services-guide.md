@@ -658,15 +658,13 @@ policy: >-
   If you would like to make a complaint, please contact us in the first instance using the details below:
 
 
-  | <div style="width:150px">Postal Address:    |<div style="width:150px">Email:               |<div style="width:150px">Telephone:      |
+  | <div style="width:200px"><font color="#000066">Postal Address:</font>    |<div style="width:200px"><font color="#000066">Email:</font>               |<div style="width:200px"><font color="#000066"Telephone:</font>      |
 
   | ------------------ |-------------------- |--------------- |
 
-  | GPO Box 1717       |info@walbrook.com.au |+61 3 9013 6262 |
+  |<font color="#000066">GPO Box 1717</font>       |<font color="#000066">info@walbrook.com.au</font> |<font color="#000066">+61 3 9013 6262</font> |
 
-  | Melbourne VIC 3001 |                     |                |
-
-
+  |<font color="#000066">Melbourne VIC 3001</font> |                     |                |
 
 
   When your complaint is received, we will enter the details in our complaints register and investigate the circumstances. Within 30 days we must provide you with a written response to your complaint. 
@@ -680,17 +678,17 @@ policy: >-
 
 
 
-  | <div style="width:150px">Postal Address:    |<div style="width:150px">Email:|<div style="width:150px">Telephone:|
+  | <div style="width:200px"><font color="#000066">Postal Address:    |<div style="width:200px"><font color="#000066">Email:|<div style="width:200px"><font color="#000066">Telephone:|
 
   | ------------------ | ---------------- |------------| 
 
-  | GPO Box 3          | info@afca.org.au |1800 931 678| 
+  | <font color="#000066">GPO Box 3          | <font color="#000066">info@afca.org.au |<font color="#000066">1800 931 678| 
 
-  | Melbourne VIC 3001 |                  |(free call) | 
-
-
+  |<font color="#000066">Melbourne VIC 3001 |                  |<font color="#000066">(free call) | 
 
 
+
+   
   You can find further information at www.afca.org.au. Please contact us should you wish to receive more information about our dispute resolution policy.
 
 
