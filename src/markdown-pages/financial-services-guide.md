@@ -117,22 +117,6 @@ policy: >-
   | Melbourne VIC 3000  |                    |                      |                 |
 
 
-
-
-
-
-
-  | <div style="width:150px">**Physical Address** | <div style="width:150px">**Postal Address** | <div style="width:150px">**Email**            | <div style="width:150px">**Telephone**   |
-
-  | -------------------- | ------------------ | -------------------- | --------------- |
-
-  | Level 16             | GPO Box 1717       | info@walbrook.com.au | +61 3 9013 6262 |
-
-  | 414 La Trobe Street  | Melbourne VIC 3001 |                      |                 |
-
-  | Melbourne VIC 3000   |                    |                      |                 |
-
-
   ### Personal financial product advice
 
 
@@ -359,7 +343,7 @@ policy: >-
   </td>
 
 
-  <td valign="top">
+  <td valign="top" div style="width:500px">
 
 
   You may elect to enter into a 12 month Fixed Term Engagement to receive regular investment advice and administration services. 
