@@ -275,7 +275,7 @@ policy: >-
   <td valign="top">
 
 
-  #### Advice Preparation:
+  **Advice Preparation:**
 
 
   </td>
@@ -312,7 +312,7 @@ policy: >-
   <td valign="top">
 
 
-  #### Advice Implementation
+  **Advice Implementation**
 
 
   </td>
@@ -593,25 +593,25 @@ policy: >-
   As a wealth manager that is not owned by a bank or product manufacturer, we do not manufacture or distribute our own financial products. Any assistance we provide is concerning financial products from third parties. We have an obligation to act in your best interests, to avoid conflicts and prioritise your interests.
 
 
-  #### Approved Product List
+  **Approved Product List**
 
 
   Our investment Approved Product List (APL) is based on research conducted by the third-party provider Lonsec. As Lonsec receives payments from financial product providers to be rated, this has the effect of limiting our investable universe to products whose issuers have paid Lonsec a fee. Our advice process provides clear guidelines for your adviser to recommend a product or security that is not on the APL, to avoid situations where the APL is unduly restrictive.
 
 
-  #### Adviser remuneration
+  **Adviser remuneration**
 
 
   Your financial adviser, Damien Crommie, receives a base salary and has an indirect beneficial interest in Walbrook. This means that he may receive a share of any profits distributed by Walbrook after licensing, legal, compliance, paraplanning, technology and administrative costs.
 
 
-  #### Non-monetary benefits
+  **Non-monetary benefits**
 
 
   We may receive non-monetary benefits from product providers. Walbrook representatives may only accept non-monetary benefits that are valued at less than AUD 300 and we are required to keep records of non-monetary benefits valued between AUD 100 – AUD 300. Records of non-monetary benefits received by our representatives are kept in our Alternative Forms of Remuneration Register. If you would like a copy of the Register, please contact us.
 
 
-  #### Referral Arrangements
+  **Referral Arrangements**
 
 
   If you have been referred to us and we decide to pay a referral fee, the details will be disclosed in your Statement of Advice and paid as agreed with you and permitted by law. 
@@ -620,7 +620,7 @@ policy: >-
   We may refer you to third parties where you are interested in receiving their services or using their products, or where we consider that their advice or other services may be useful to you. Walbrook may receive a referral fee where you decide to receive services from third party providers. This will be disclosed in writing and received as agreed with you and permitted by law.
 
 
-  #### Employee Trading
+  **Employee Trading**
 
 
   We and our representatives may invest in similar or the same investments as those recommended to you. Walbrook implements a Staff Trading Policy to mitigate risks and conflicts which may arise from trading activity in such investments. If you would like to discuss this with us or obtain further information about our policy, feel free to contact us.
