@@ -32,52 +32,25 @@ policy: >-
   </br>
 
 
-  ----
+  - - -
 
 
-  </br>
+  > ### Not Independent
+
+  >
+
+  > Clients may elect for Walbrook to receive regulated commissions from life insurance product issuers where financial services are provided in relation to these products. 
+
+  >
+
+  > For this reason, Walbrook and its representatives are not independent, impartial or unbiased.
+
+  >
+
+  > It is important to note that disclosing our lack of independence and detailing our remuneration structure does not impact our obligation to act in your best interests. We have a duty to act in your best interests when providing personal advice and are obliged to provide you with appropriate advice.
 
 
-  <background-color:"#f2f7f2;>
-
-
-  <tbody>
-
-
-  <tr>
-
-
-  <td>
-
-
-  ### Not Independent
-
-
-  Clients may elect for Walbrook to receive regulated commissions from life insurance product issuers where financial services are provided in relation to these products. 
-
-
-  For this reason, Walbrook and its representatives are not independent, impartial or unbiased.
-
-
-  It is important to note that disclosing our lack of independence and detailing our remuneration structure does not impact our obligation to act in your best interests. We have a duty to act in your best interests when providing personal advice and are obliged to provide you with appropriate advice.
-
-
-  </td>
-
-
-  </tr>
-
-
-  </tbody>
-
-
-  </table>
-
-
-  </br>
-
-
-  ----
+  - - -
 
 
   </br>
@@ -123,15 +96,15 @@ policy: >-
   Our office contact details are set out below.
 
 
-  | <div style="width:200px"><font color="#000066">Physical Address</font> | <div style="width:200px"><font color="#000066">Postal Address</font> |                                                   
+  | <div style="width:200px"><font color="#000066">Physical Address</font> | <div style="width:200px"><font color="#000066">Postal Address</font> |
 
-  | --------| ---------- | --------- |
+  | ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
-  | <font color="#000066">Level 16 | <font color="#000066">GPO Box 1717 |                                  
+  | <font color="#000066">Level 16                                         | <font color="#000066">GPO Box 1717                                   |
 
-  | <font color="#000066">414 La Trobe Street | <font color="#000066">Melbourne VIC 3001</font>|
+  | <font color="#000066">414 La Trobe Street                              | <font color="#000066">Melbourne VIC 3001</font>                      |
 
-  | <font color="#000066">Melbourne VIC 3000</font> |                                                                      |                              
+  | <font color="#000066">Melbourne VIC 3000</font>                        |                                                                      |
 
 
   </br>
@@ -139,9 +112,9 @@ policy: >-
 
   | <div style="width:200px"><font color="#000066">Email</font> | <div style="width:200px"><font color="#000066">Telephone</font> |
 
-  | ---------------| ------------|
+  | ----------------------------------------------------------- | --------------------------------------------------------------- |
 
-  | <font color="#000066">info@walbrook.com.au| <font color="#000066">+61 3 9013 6262   |      
+  | <font color="#000066">info@walbrook.com.au                  | <font color="#000066">+61 3 9013 6262                           |
 
 
   </br>
@@ -367,9 +340,9 @@ policy: >-
   <td valign="top" div style="width:250px">
 
 
-  **Fixed Term  
+  **Fixed Term\
 
-  Investment Advice  
+  Investment Advice\
 
   Engagement**
 
@@ -401,9 +374,9 @@ policy: >-
   <td valign="top">
 
 
-  **Fixed Term  
+  **Fixed Term\
 
-  Strategic Advice  
+  Strategic Advice\
 
   Engagement**
 
@@ -752,26 +725,26 @@ policy: >-
 
   | <div style="width:150px"><font color="#000066">Version: | <div style="width:150px"><font color="#000066">Issue Date: |
 
-  | ------------------| ------------------ |
+  | ------------------------------------------------------- | ---------------------------------------------------------- |
 
-  | <font color="#000066">1.50 | <font color="#000066">11 September 2021 |
+  | <font color="#000066">1.50                              | <font color="#000066">11 September 2021                    |
 
 
   </br>
 
 
-  | <div style="width:300px"><font color="#000066">Issued by: |
+  | <div style="width:300px"><font color="#000066">Issued by:                                                  |
 
-  | ------------------|
+  | ---------------------------------------------------------------------------------------------------------- |
 
-  | <font color="#000066">Barbacane Advisors Pty Ltd (A.C.N 626 694 139) trading as Walbrook Wealth Management|  
+  | <font color="#000066">Barbacane Advisors Pty Ltd (A.C.N 626 694 139) trading as Walbrook Wealth Management |
 
-  |<font color="#000066">Level 16  |
+  | <font color="#000066">Level 16                                                                             |
 
-  |<font color="#000066">414 La Trobe Street  |
+  | <font color="#000066">414 La Trobe Street                                                                  |
 
-  |<font color="#000066">Melbourne VIC 3000 | 
+  | <font color="#000066">Melbourne VIC 3000                                                                   |
 
-  |<font color="#000066">Australia |
+  | <font color="#000066">Australia                                                                            |
 page: true
 ---
