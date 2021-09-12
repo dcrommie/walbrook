@@ -737,22 +737,26 @@ policy: >-
 
   | <div style="width:150px"><font color="#000066">Version: | <div style="width:150px"><font color="#000066">Issue Date: |
 
-  | ------------------------------------------------------- | ---------------------------------------------------------- |
+  | ------------------| ------------------ |
 
-  | <font color="#000066">1.50                              | <font color="#000066">11 September 2021                    |
+  | <font color="#000066">1.50 | <font color="#000066">11 September 2021 |
+
 
   </br>
 
-  | <div style="width:150px"><font color="#000066">Issued by: |
 
-  | <font color="#000066">Barbacane Advisors Pty Ltd (A.C.N 626 694 139) trading as Walbrook Wealth Management  
+  | <div style="width:300px"><font color="#000066">Issued by: |
 
-  Level 16  
+  | ------------------|
 
-  414 La Trobe Street  
+  | <font color="#000066">Barbacane Advisors Pty Ltd (A.C.N 626 694 139) trading as Walbrook Wealth Management|  
 
-  Melbourne VIC 3000  
+  |<font color="#000066">Level 16  |
 
-  Australia |
+  |<font color="#000066">414 La Trobe Street  |
+
+  |<font color="#000066">Melbourne VIC 3000 | 
+
+  |<font color="#000066">Australia |
 page: true
 ---
