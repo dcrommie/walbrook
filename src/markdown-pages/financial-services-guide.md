@@ -108,15 +108,15 @@ policy: >-
   Our office contact details are set out below.
 
 
-  | <div style="width:200px"><font color="#000066">Physical Address</font> | <div style="width:200px"><font color="#000066">Postal Address</font> |                                                   |                                              |     |
+  | <div style="width:200px"><font color="#000066">Physical Address</font> | <div style="width:200px"><font color="#000066">Postal Address</font> |                                                   
 
-  | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------- | --- |
+  | --------| ---------- | --------- |
 
-  | <font color="#000066">Level 16                                         | <font color="#000066">GPO Box 1717                                   | <font color="#000066">info@walbrook.com.au</font> | <font color="#000066">+61 3 9013 6262</font> |     |
+  | <font color="#000066">Level 16 | <font color="#000066">GPO Box 1717 |                                  
 
-  | <font color="#000066">414 La Trobe Street                              | <font color="#000066">Melbourne VIC 3001</font>                      |                                                   |                                              |     |
+  | <font color="#000066">414 La Trobe Street | <font color="#000066">Melbourne VIC 3001</font>|
 
-  | <font color="#000066">Melbourne VIC 3000</font>                        |                                                                      |                                                   |                                              |     |
+  | <font color="#000066">Melbourne VIC 3000</font> |                                                                      |                              
 
 
   </br>
