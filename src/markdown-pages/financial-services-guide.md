@@ -29,6 +29,15 @@ policy: >-
   * How you can make a complaint and our compensation arrangements
 
 
+  </br>
+
+
+  ----
+
+
+  </br>
+
+
   <table border="4" border-collapse="collapse" border-radius="25" cellspacing="3" box-shadow="#f2f7f2" cellpadding="15">
 
 
@@ -63,6 +72,12 @@ policy: >-
 
 
   </table>
+
+
+  </br>
+
+
+  ----
 
 
   </br>
@@ -352,11 +367,11 @@ policy: >-
   <td valign="top" div style="width:250px">
 
 
-  **Fixed Term
+  **Fixed Term  
 
-  Investment Advice**\
+  Investment Advice  
 
-  **Engagement**
+  Engagement**
 
 
   </td>
@@ -386,11 +401,11 @@ policy: >-
   <td valign="top">
 
 
-  **Fixed Term\
+  **Fixed Term  
 
-  Strategic Advice** \
+  Strategic Advice  
 
-  **Engagement**
+  Engagement**
 
 
   </td>
