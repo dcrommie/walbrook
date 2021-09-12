@@ -121,11 +121,12 @@ policy: >-
 
   </br>
 
+
   | <div style="width:200px"><font color="#000066">Email</font> | <div style="width:200px"><font color="#000066">Telephone</font> |
 
-  | ----------------------------------------------------------- | --------------------------------------------------------------- |
+  | ---------------| ------------|
 
-  | <font color="#000066">info@walbrook.com.au                  | <font color="#000066">+61 3 9013 6262                           |
+  | <font color="#000066">info@walbrook.com.au| <font color="#000066">+61 3 9013 6262   |      
 
 
   </br>
