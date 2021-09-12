@@ -345,7 +345,7 @@ policy: >-
 
   **Fixed Term\
 
-  Investment Advice Engagement**
+  Investment Advice\ Engagement**
 
 
   </td>
@@ -357,10 +357,10 @@ policy: >-
   You may elect to enter into a 12 month Fixed Term Engagement to receive regular investment advice and administration services. 
 
 
-  The fee is set at the commencement of the engagement, is based on the complexity of the advice and required services, and invoiced monthly in advance. 
+  The monthly fee is set at the commencement of the engagement, is based on the amount invested and the complexity of the advice and service required, and is invoiced monthly in advance. 
 
 
-  The minimum fee is AUD 330 pa, including GST, and the maximum fee is 2.50%, including GST, of the assets under advice.
+  The minimum fee is AUD 50 per month, including GST.  The maximum fee is 2.00% pa, including GST, on the assets under advice at the commencement of the engagement.
 
 
   </td>
@@ -377,7 +377,7 @@ policy: >-
 
   **Fixed Term\
 
-  Strategic Advice Engagement**
+  Strategic Advice\ Engagement**
 
 
   </td>
@@ -392,7 +392,7 @@ policy: >-
   The fee is set at the commencement of the engagement, is based on the complexity of the advice and required services, and invoiced monthly in advance. 
 
 
-  The minimum fee is AUD 3,300 pa, including GST, and the maximum fee is AUD 15,000, including GST.
+  The minimum fee is AUD 275 per month (AUD 3,300 pa), including GST, and the maximum fee is AUD 1,250 per month (AUD 15,000 pa), including GST.  Fees may be reduced or offset by any commissions received by us during the engagement period, and this will be agreed with you before the engagement commences.
 
 
   </td>
@@ -440,7 +440,7 @@ policy: >-
   <td valign="top">
 
 
-  Where we are asked to process transactions on an execution-only basis, we may charge a fee of between AUD50 and up to 1.00% of the transaction value. This fee does not include third-party costs.
+  Where we are asked to process transactions on an execution-only basis, we may charge a fee of between AUD 50 and up to 1.00% of the transaction value. This fee does not include third-party costs.
 
 
   </td>
