@@ -35,19 +35,16 @@ policy: >-
   - - -
 
 
-  > ### Not Independent
+  ### Not Independent
 
-  >
 
-  > Clients may elect for Walbrook to receive regulated commissions from life insurance product issuers where financial services are provided in relation to these products. 
+  Clients may elect for Walbrook to receive regulated commissions from life insurance product issuers where financial services are provided in relation to these products. 
 
-  >
 
-  > For this reason, Walbrook and its representatives are not independent, impartial or unbiased.
+  For this reason, Walbrook and its representatives are not independent, impartial or unbiased.
 
-  >
 
-  > It is important to note that disclosing our lack of independence and detailing our remuneration structure does not impact our obligation to act in your best interests. We have a duty to act in your best interests when providing personal advice and are obliged to provide you with appropriate advice.
+  It is important to note that disclosing our lack of independence and detailing our remuneration structure does not impact our obligation to act in your best interests. We have a duty to act in your best interests when providing personal advice and are obliged to provide you with appropriate advice.
 
 
   - - -
@@ -340,9 +337,9 @@ policy: >-
   <td valign="top" div style="width:250px">
 
 
-  **Fixed Term  
+  **Fixed Term\
 
-  Investment Advice  
+  Investment Advice\
 
   Engagement**
 
@@ -374,9 +371,9 @@ policy: >-
   <td valign="top">
 
 
-  **Fixed Term  
+  **Fixed Term\
 
-  Strategic Advice  
+  Strategic Advice\
 
   Engagement**
 
