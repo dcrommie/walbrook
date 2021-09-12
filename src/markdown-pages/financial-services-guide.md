@@ -38,7 +38,7 @@ policy: >-
   </br>
 
 
-  <border-collapse="collapse" border-radius="25" cellspacing="3" box-shadow="#f2f7f2" cellpadding="15">
+  <background-color:"#f2f7f2;>
 
 
   <tbody>
