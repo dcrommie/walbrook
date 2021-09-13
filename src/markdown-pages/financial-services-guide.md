@@ -14,8 +14,10 @@ policy: "### Why you are receiving this document
 
   Walbrook is responsible for the financial services provided to you and is
   required to provide you with this FSG when we provide financial services to
-  you as a retail client. This FSG provides you with the following important
-  information:
+  you as a retail client.\ 
+
+
+  This FSG provides you with the following important information:
 
 
   * Who we are and how you can contact us
@@ -232,9 +234,11 @@ policy: "### Why you are receiving this document
 
   We are not required to provide you with a Statement of Advice or a Record of
   Advice where the advice relates to certain basic deposit products or other
-  approved financial products and meets certain thresholds. As our ongoing
-  advice will refer to previous documentation, you should keep all Statements of
-  Advice provided to you.
+  approved financial products and meets certain thresholds. \ 
+
+
+  As our ongoing advice will refer to previous documentation, you should keep
+  all Statements of Advice provided to you.
 
 
   ### General financial product advice
@@ -301,7 +305,9 @@ policy: "### Why you are receiving this document
 
   If you receive personal advice from us, we will tell you about any fees,
   commissions and any other benefits, in actual dollar amounts (where possible)
-  in the Statement of Advice or orally when providing further advice to you.
+  in the Statement of Advice or orally when providing further advice to you. \ 
+
+
   There are several ways that Walbrook may be paid for the services we provide
   to you, including:
 
@@ -335,7 +341,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Initial Consultation:**
+  **Initial Consultation**
 
 
   </td>
@@ -359,7 +365,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Advice Preparation:**
+  **Advice Preparation**
 
 
   </td>
@@ -368,8 +374,8 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  Following the initial consultation, we will agree a flat fee for the
-  preparation of your initial Statement of Advice.
+  Following the initial consultation, we will agree a fee for the preparation
+  of your initial Statement of Advice.
 
 
   The fees will depend on the complexity of your personal circumstances and
@@ -386,7 +392,16 @@ policy: "### Why you are receiving this document
 
   For example, complex advice that contains multiple goals, strategies and/or
   tax structures such as Self Managed Superannuation Funds, Family Trusts and
-  Companies are likely to be charged closer to the maximum fee.
+  Companies are likely to be charged closer to the maximum fee.\ 
+
+
+  The agreed fee may be reduced or offset by any commissions payable on
+  recommended products, and this will be agreed with you before the engagement
+  commences.\ 
+
+
+  Please note, we do not charge implementation fees under the Fixed Term
+  Investment Advice Engagement or the Fixed Term Strategic Advice Engagement.
 
 
   </td>
@@ -401,7 +416,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Advice Implementation:**
+  **Advice Implementation**
 
 
   </td>
@@ -456,7 +471,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\" div style=\"width:425px\">
 
 
-  **Fixed Term Investment Advice Engagement:**
+  **Fixed Term Investment Advice Engagement**
 
 
   </td>
@@ -491,7 +506,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Fixed Term Strategic Advice Engagement:**
+  **Fixed Term Strategic Advice Engagement**
 
 
   </td>
@@ -511,9 +526,12 @@ policy: "### Why you are receiving this document
 
 
   The minimum fee is AUD 275 per month (AUD 3,300 pa), including GST, and the
-  maximum fee is AUD 1,250 per month (AUD 15,000 pa), including GST.  Fees may
-  be reduced or offset by any commissions received by us during the engagement
-  period, and this will be agreed with you before the engagement commences.
+  maximum fee is AUD 1,250 per month (AUD 15,000 pa), including GST.  \ 
+
+
+  Fees may be reduced or offset by any commissions received by us during the
+  engagement period, and this will be agreed with you before the engagement
+  commences.
 
 
   </td>
@@ -528,7 +546,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Ad hoc advice:**
+  **Ad hoc advice**
 
 
   </td>
@@ -538,8 +556,8 @@ policy: "### Why you are receiving this document
 
 
   Where you do not wish to participate in a 12 month Fixed Term Engagement,
-  but require advice on an ad hoc basis, an hourly fee of AUD 330 including GST
-  may be applicable.
+  but require further advice on an ad hoc basis, an hourly fee of AUD 330
+  including GST may be applicable.
 
 
   </td>
@@ -554,7 +572,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Execution only:**
+  **Execution only**
 
 
   </td>
@@ -580,7 +598,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Administration Services:**
+  **Administration Services**
 
 
   </td>
@@ -606,7 +624,7 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  **Insurance products:**
+  **Insurance products**
 
 
   </td>
@@ -624,7 +642,7 @@ policy: "### Why you are receiving this document
 
 
   You do not make these payments to us, however, the life insurance provider
-  incorporates these costs in the product fees and premiums you pay.\ 
+  incorporates these distribution costs in the premiums you pay.\ 
 
 
   Initial commission from a life insurance provider is typically up to 66%
@@ -637,7 +655,7 @@ policy: "### Why you are receiving this document
 
 
   Ongoing commission can be up to 33% (inclusive of GST) of the premium you
-  pay, from year two onwards for the policy's life.\ 
+  pay, from year two onwards for the life of the policy.\ 
 
 
   If your premium is AUD 500 per annum and the applicable commission rate is
@@ -645,7 +663,11 @@ policy: "### Why you are receiving this document
 
 
   Your Statement of Advice will disclose the actual commission that Walbrook
-  and your Adviser will receive.
+  and your Adviser will receive.\ 
+
+
+  In accordance with APES 230: Financial Planning, we must write to you each
+  year to disclose the commissions that we expect to receive.
 
 
   </td>
@@ -669,21 +691,22 @@ policy: "### Why you are receiving this document
   <td valign=\"top\">
 
 
-  Where authorised by an Australian Credit Licence holder, Walbrook may
-  receive payments of initial commissions and ongoing commissions from lenders
-  for any credit product that we have recommended and you have successfully
-  applied for.\ 
+  If authorised by an Australian Credit Licence holder as a Corporate Credit
+  Representative, Walbrook may receive payments of initial commission and
+  ongoing commission from lenders for any credit product that we have
+  recommended and you have successfully applied for.\ 
 
 
   We may rebate some or all of this to you.\ 
 
 
-  You do not make these payments to us, however, the lender incorporates these
-  costs in the interest rate and product fees that you pay.\ 
+  You do not make these payments to us, however, the lender typically
+  incorporates these distribution costs in their quoted interest rates and
+  product fees.\ 
 
 
   Further information may be found in the Credit Guide, which we will provide
-  to you once it is likely that credit assistance will be provided.
+  to you if it is likely that credit assistance will be provided.
 
 
   </td>
@@ -877,8 +900,8 @@ policy: "### Why you are receiving this document
   instance using the details below:
 
 
-  | <div style=\"width:200px\"><font color=\"#000066\">Postal Address:</font>
-  | <div style=\"width:200px\"><font color=\"#000066\">Email:</font> |     |
+  | <div style=\"width:200px\"><font color=\"#000066\">Postal Address</font> |
+  <div style=\"width:200px\"><font color=\"#000066\">Email</font> |     |
 
   | --------------------------------------------------------------------- |
   ------------------------------------------------------------ | --- |
@@ -921,9 +944,9 @@ policy: "### Why you are receiving this document
   independent financial services complaint resolution that is free to consumers.
 
 
-  | <div style=\"width:200px\"><font color=\"#000066\">Postal Address: | <div
-  style=\"width:200px\"><font color=\"#000066\">Email: | <div
-  style=\"width:200px\"><font color=\"#000066\">Telephone:</font> |
+  | <div style=\"width:200px\"><font color=\"#000066\">Postal Address | <div
+  style=\"width:200px\"><font color=\"#000066\">Email | <div
+  style=\"width:200px\"><font color=\"#000066\">Telephone</font> |
 
   | -------------------------------------------------------------- |
   ----------------------------------------------------- |
@@ -961,8 +984,8 @@ policy: "### Why you are receiving this document
   limited by a scheme approved under Professional Standards Legislation.
 
 
-  | <div style=\"width:150px\"><font color=\"#000066\">Version: | <div
-  style=\"width:150px\"><font color=\"#000066\">Issue Date: |
+  | <div style=\"width:150px\"><font color=\"#000066\">Version | <div
+  style=\"width:150px\"><font color=\"#000066\">Issue Date |
 
   | ------------------------------------------------------- |
   ---------------------------------------------------------- |
@@ -975,7 +998,7 @@ policy: "### Why you are receiving this document
 
 
   | <div style=\"width:300px\"><font color=\"#000066\">Issued
-  by:                                                  |
+  by                                                  |
 
   |
   -----------------------------------------------------------------------------\
