@@ -44,18 +44,13 @@ policy: "### Why you are receiving this document
 
   .tg  {border-collapse:collapse;border-spacing:0;}\r
 
-  .tg
-  td{border-color:black;border-style:solid;border-width:1px;font-family:Arial,
-  sans-serif;font-size:14px;\r
+  .tg td{border-color:black;border-style:solid;border-width:1px;\r
 
   \  overflow:hidden;padding:10px 10px;word-break:normal;}\r
 
-  .tg
-  th{border-color:black;border-style:solid;border-width:1px;font-family:Arial,
-  sans-serif;font-size:14px;\r
+  .tg th{border-color:black;border-style:solid;border-width:1px;\r
 
-  \  font-weight:normal;overflow:hidden;padding:10px
-  10px;word-break:normal;}\r
+  \  ;overflow:hidden;padding:10px 10px;word-break:normal;}\r
 
   .tg
   .tg-kn4n{background-color:#f2f7f2;border-color:#f2f7f2;text-align:left;vertic\
