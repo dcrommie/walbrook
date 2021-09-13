@@ -73,7 +73,7 @@ policy: "### Why you are receiving this document
 
   \  <tr>\r
 
-  \    <td class=\"tg-kn4n\">Clients may elect for Walbrook to receive
+  \    <td class=\"tg-kn4n\"><p>Clients may elect for Walbrook to receive
   regulated commissions from life insurance product issuers where financial
   services are provided in relation to these products.<br><br>For this reason,
   Walbrook and its representatives are not independent, impartial or
@@ -81,39 +81,13 @@ policy: "### Why you are receiving this document
   independence and detailing our remuneration structure does not impact our
   obligation to act in your best interests.  We have a duty to act in your best
   interests when providing personal advice and are obliged to provide you with
-  appropriate advice.</td>\r
+  appropriate advice.</p></td>\r
 
   \  </tr>\r
 
   </tbody>\r
 
   </table>
-
-
-
-  - - -
-
-
-  ### Not Independent
-
-
-  Clients may elect for Walbrook to receive regulated commissions from life
-  insurance product issuers where financial services are provided in relation to
-  these products.\ 
-
-
-  For this reason, Walbrook and its representatives are not independent,
-  impartial or unbiased.
-
-
-  It is important to note that disclosing our lack of independence and
-  detailing our remuneration structure does not impact our obligation to act in
-  your best interests. We have a duty to act in your best interests when
-  providing personal advice and are obliged to provide you with appropriate
-  advice.
-
-
-  - - -
 
 
   </br>
