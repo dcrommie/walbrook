@@ -334,16 +334,16 @@ policy: >-
   <tr>
 
 
-  <td valign="top" div style="width:500px">
+  <td valign="top" div style="width:425px">
 
 
-  **Fixed Term Investment Advice Engagement**
+  **Fixed Term Investment Advice Engagement:**
 
 
   </td>
 
 
-  <td valign="top" div style="width:500px">
+  <td valign="top" div style="width:425px">
 
 
   You may elect to enter into a 12 month Fixed Term Engagement to receive regular investment advice and administration services. 
@@ -367,13 +367,13 @@ policy: >-
   <td valign="top">
 
 
-  **Fixed Term Strategic Advice Engagement**
+  **Fixed Term Strategic Advice Engagement:**
 
 
   </td>
 
 
-  <td valign="top" div style="width:500px">
+  <td valign="top" div style="width:425px">
 
 
   You may elect to enter into a 12 month Fixed Term Strategic Advice Engagement to receive comprehensive advice and administration services, including investment advice. 
@@ -397,7 +397,7 @@ policy: >-
   <td valign="top">
 
 
-  **Ad hoc advice**
+  **Ad hoc advice:**
 
 
   </td>
@@ -421,7 +421,7 @@ policy: >-
   <td valign="top">
 
 
-  **Execution only**
+  **Execution only:**
 
 
   </td>
@@ -445,7 +445,7 @@ policy: >-
   <td valign="top">
 
 
-  **Administration Services**
+  **Administration Services:**
 
 
   </td>
@@ -469,7 +469,7 @@ policy: >-
   <td valign="top">
 
 
-  **Insurance products**
+  **Insurance products:**
 
 
   </td>
