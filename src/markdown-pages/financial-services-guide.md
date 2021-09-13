@@ -39,7 +39,6 @@ policy: "### Why you are receiving this document
 
   </br>
 
-
   <style type=\"text/css\">\r
 
   .tg  {border-collapse:collapse;border-spacing:0;}\r
@@ -64,7 +63,7 @@ policy: "### Why you are receiving this document
 
   \  <tr>\r
 
-  \    <th class=\"tg-kn4n\">Not Independent</th>\r
+  \    <th class=\"tg-kn4n\"><h3>Not Independent</h3></th>\r
 
   \  </tr>\r
 
