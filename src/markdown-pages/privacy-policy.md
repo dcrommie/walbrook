@@ -157,7 +157,7 @@ policy: >-
   We may also disclose your personal information to the entities described below.
 
 
-  * Our external service providers, including but not limited to organisations that provide us with financial, advisory, administrative, client relationship management, information technology or other services.
+  * Our external service providers, including but not limited to organisations that provide us with financial, advisory, paraplanning, administrative, client relationship management, information technology or other services.
 
   * The product issuers of products and services that you have elected to acquire, vary or dispose of using our assistance, and other organisations who support the products and services we offer.
 
@@ -170,6 +170,9 @@ policy: >-
   * A complaints body to whom you or we have referred a complaint relating to a product or service
 
   * Government and regulatory authorities and other organisations, as required or authorised by law.
+
+
+  With your consent, we may also share your full name, date of birth, residential address and contact details with an identity agent to help us verify your identity against government and non-government electronic data sources. 
 
 
   For insurance products, where required by law, we may disclose personal information about you to the Insurer without getting your consent. These parties are required to comply with the privacy laws in using any such information.
