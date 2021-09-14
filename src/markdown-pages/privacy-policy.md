@@ -44,7 +44,7 @@ policy: >-
   * Your investment preferences, risk ability, risk tolerance, investment knowledge and investment experience
 
 
-  All information that we request is for our business purposes, which are summarised in this document and more specifically in forms and disclosure documents, e.g. Statements of Advice. Any form used to collect your information may give further details about the way we use your data.
+  All information that we request is for our business purposes, which are summarised in this document and more specifically in forms and disclosure documents, e.g. Financial Services Guides and Statements of Advice. Any form used to collect your information may give further details about the way we use your data.
 
 
   ### Sensitive Information
@@ -250,7 +250,7 @@ policy: >-
   If we have breached the Australian Privacy Principles, this Privacy Policy or not respected your privacy, please lodge a complaint with our Privacy Officer. Please call or write with the reason for your complaint and any actions or remedies you seek. We have included our contact details at the end of this document.
 
 
-  We aim to investigate and respond to your complaint within 45 days. If you are not satisfied with the outcome of your complaint or require further information on privacy, you have the right to contact the Office of the Australian Information Commissioner (www.oaic.gov.au) on 1300 363 992.
+  We aim to investigate and respond to your complaint within 30 days. If you are not satisfied with the outcome of your complaint or require further information on privacy, you have the right to contact the Office of the Australian Information Commissioner (www.oaic.gov.au) on 1300 363 992.
 
 
   If you are in the EEA, you may also contact the relevant Data Protection Regulator, which may vary by jurisdiction. Should you require assistance in determining the applicable regulator, please email info@walbrook.com.au.
@@ -290,6 +290,6 @@ policy: >-
   Liability limited by a scheme approved under Professional Standards Legislation.
 
 
-  Version 1.30  Issued 5 November 2020
+  Version 1.40  Issued 14 September 2021
 page: true
 ---
