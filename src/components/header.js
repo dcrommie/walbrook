@@ -55,7 +55,9 @@ const Header = props => {
             </li>
 
             <li>
-              <Link to="/insight">Insights</Link>
+              <Link to="https://news.walbrook.com.au/" target="_blank">
+                Insights
+              </Link>
             </li>
 
             <li>
