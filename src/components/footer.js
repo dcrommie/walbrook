@@ -47,7 +47,7 @@ const Footer = () => {
                     <li>How we do it</li>
                   </Link>
                   <Link to="https://news.walbrook.com.au/" target="_blank">
-                    <li>Insights</li>
+                    <li>News</li>
                   </Link>
                   <Link to="/education">
                     <li>Education</li>
