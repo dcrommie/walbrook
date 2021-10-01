@@ -7,8 +7,9 @@ postalcity: Melbourne VIC 3001
 email: info@walbrook.com.au
 number: +61 3 9013 6262
 footerdesc1: Walbrook Wealth Management is a trading name of Barbacane Advisors
-  Pty Ltd (ABN 32 626 694 139; Australian Financial Services Licence No.
-  512465).
+  Pty Ltd (ABN 32 626 694 139; Australian Financial Services Licence No. 512465,
+  Credit Representative Number 534783 is authorised under Australian Credit
+  Licence 389328).
 footerdesc2: The Chartered Accountants Australia and New Zealand logo is a
   trademark of Chartered Accountants Australia and New Zealand and is used with
   permission.
