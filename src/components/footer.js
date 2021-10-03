@@ -96,10 +96,17 @@ const Footer = () => {
                   </p>
                 </Link>
               </div>
+              <div className="policy-link">
+                <Link to="/complaints-policy">
+                  <p style={{ color: "#FFFFFF", fontSize: "13px" }}>
+                    Complaints Policy
+                  </p>
+                </Link>
+              </div>
               <div className="cdc-policy">
                 <Link to="/continuing-professional-development-policy">
                   <p style={{ maxWidth: "315px", color: "#FFFFFF" }}>
-                    Continuing Professional Development (CPD) Policy
+                    CPD Policy
                   </p>
                 </Link>
               </div>

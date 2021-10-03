@@ -31,6 +31,8 @@ const ContinuingProfessionalDevelopmentPolicy = () => {
     return { __html: dataHtml }
   }
 
+  console.log(data)
+
   return (
     <div>
       <SEO title="CPD Policy" />

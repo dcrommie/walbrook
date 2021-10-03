@@ -49,7 +49,7 @@ const ComplaintsPolicy = () => {
       <Header />
       <div className="privacy-title">
         <div className="container">
-          <h1>Financial Services Guide</h1>
+          <h1>Complaints Policy</h1>
         </div>
       </div>
       <div className="container">
