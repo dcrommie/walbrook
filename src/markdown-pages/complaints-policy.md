@@ -38,7 +38,7 @@ policy: >-
   We will then work to resolve your complaint as soon as possible.  Within 30 days we must provide you with a written response to your complaint, however you can contact us at any time to ask for an update on the status of our investigation.
 
 
-  The timeframe for a response may be extended under certain circumstances, in which case we will write to you explaining the reason for the delay, your right to complain to the Australian Financial Complaints Authority (AFCA) if you are dissatisfied and the contact details for AFCA. 
+  The timeframe for a response may be extended under certain circumstances, in which case we will write to you explaining the reason for the delay, when we expect to provide a response, your right to complain to the Australian Financial Complaints Authority (AFCA) if you are dissatisfied and the contact details for AFCA. 
 
 
   If we have provided you with a written response to your complaint and it has not been resolved to your satisfaction, you can lodge a complaint with the Australian Financial Complaints Authority (AFCA). 
