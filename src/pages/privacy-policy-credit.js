@@ -39,7 +39,7 @@ const PrivacyPolicyCredit = () => {
 
   return (
     <div>
-      <SEO title="ComplaintsPolicy" />
+      <SEO title="PrivacyPolicyCredit" />
       <Helmet>
         <link
           rel="stylesheet"
@@ -51,7 +51,7 @@ const PrivacyPolicyCredit = () => {
       <Header />
       <div className="privacy-title">
         <div className="container">
-          <h1>Complaints Policy</h1>
+          <h1>Privacy Policy Credit</h1>
         </div>
       </div>
       <div className="container">
