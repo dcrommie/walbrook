@@ -145,6 +145,11 @@ collections:
         file: "src/markdown-pages/privacy-policy.md"
         fields:
           - { label: Policy, name: policy, widget: markdown }
+      - label: "Privacy Page"
+        name: "Privacy Page"
+        file: "src/markdown-pages/privacy-policy-credit.md"
+        fields:
+          - { label: Policy, name: policy, widget: markdown }
       - label: "CPD Page"
         name: "CPD Page"
         file: "src/markdown-pages/continuing-professional-development-policy.md"
