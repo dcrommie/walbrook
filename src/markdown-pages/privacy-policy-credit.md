@@ -1,10 +1,12 @@
 ---
 policy: >-
   This Privacy Policy - Credit applies to Barbacane Advisors Pty Ltd trading as
-  Walbrook Wealth Management ("Walbrook"), and all our representatives. 
+  Walbrook Wealth Management ("Walbrook"), and all our representatives when
+  engaging in credit activities as an authorised credit representative of
+  Australian Credit Licence 389328.
 
 
-  At Walbrook Wealth Management, we are committed to protecting your privacy in accordance with the Privacy Act 1988 (Cth). This Privacy Policy - Credit describes our current policies and practices in relation to the handling and use of personal information.  
+  At Walbrook Wealth Management, we are committed to protecting your privacy in accordance with the Privacy Act 1988 (Cth). This Privacy Policy - Credit describes our current policies and practices in relation to the handling and use of personal information. It should be read in conjunction with our Privacy Policy, located at www.walbrook.com.au/privacy. 
 
 
   ## What information do we collect and how do we use it?
@@ -70,7 +72,19 @@ policy: >-
   Upon receipt of your written request and enough information to allow us to identify the information, we will disclose to you the personal information we hold about you. We will also correct, amend or delete any personal information that we agree is inaccurate.
 
 
-  If you wish to access or correct your personal information please write to Damien Crommie at GPO Box 1717, Melbourne VIC 3001 or via email info@walbrook.com.au.
+  If you wish to access or correct your personal information please contact us using the details below.
+
+
+  | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
+
+  | -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+
+  | <font color="#000066">GPO Box 1717                                | <font color="#000066">info@walbrook.com.au                | <font color="#000066">+61 3 9013 6262                               |
+
+  | <font color="#000066">Melbourne VIC 3001                       |                                                       |                             |
+
+
+  </br>
 
 
   We do not charge for receiving a request for access to personal information or for complying with a correction request.
@@ -85,19 +99,19 @@ policy: >-
   ## Tell us what you think
 
 
-  We welcome your questions and comments about privacy. If you have any concerns or complaints, please contact us at**<insert name and/or title, telephone and email of Privacy Officer>**.
+  We welcome your questions and comments about privacy. If you have any concerns or complaints, please contact us using the details below.
 
 
-  ## Complaints
+  | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
+
+  | -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+
+  | <font color="#000066">GPO Box 1717                                | <font color="#000066">info@walbrook.com.au                | <font color="#000066">+61 3 9013 6262                               |
+
+  | <font color="#000066">Melbourne VIC 3001                       |                                                       |                             |
 
 
-  ### Internal Dispute Resolution
-
-
-  If you do have a complaint, please let us know by email, because if we don’t know about it we can’t fix it. You may also contact us by email addressed to; The Complaints Officer at **<insert name and/or title, telephone and email of Privacy Officer>**, please make sure you include as much information as you can.
-
-
-  You should explain the details of your complaint as clearly as you can. You must do this in writing. When we receive a complaint, we will attempt to resolve it promptly.
+  </br>
 
 
   \--------------------------
