@@ -79,11 +79,6 @@ const Footer = () => {
               </div>
             </div>
             <div className="terms">
-              <div className="copyright" style={{ paddingRight: "102px" }}>
-                <p style={{ maxWidth: "375px" }}>
-                  ©2020 Walbrook Wealth Management. All rights reserved.
-                </p>
-              </div>
               <div className="policy-link">
                 <Link to="/privacy">
                   <p style={{ maxWidth: "46px", color: "#FFFFFF" }}>Privacy</p>
@@ -107,6 +102,13 @@ const Footer = () => {
                 <Link to="/continuing-professional-development-policy">
                   <p style={{ maxWidth: "315px", color: "#FFFFFF" }}>
                     CPD Policy
+                  </p>
+                </Link>
+              </div>{" "}
+              <div className="cdc-policy">
+                <Link to="/privacy-policy-credit">
+                  <p style={{ maxWidth: "315px", color: "#FFFFFF" }}>
+                    Privacy Credit
                   </p>
                 </Link>
               </div>
@@ -141,6 +143,20 @@ const Footer = () => {
             <p>{data.markdownRemark.frontmatter.footerdesc3}</p>
             <p>{data.markdownRemark.frontmatter.footerdesc4}</p>
           </div>
+        </div>
+        <div
+          className="copyright"
+          style={{
+            paddingRight: "102px",
+            color: "#000066",
+            textAlign: "center",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <p style={{ maxWidth: "375px" }}>
+            ©2020 Walbrook Wealth Management. All rights reserved.
+          </p>
         </div>
       </footer>
     </div>

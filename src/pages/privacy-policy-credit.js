@@ -51,7 +51,7 @@ const PrivacyPolicyCredit = () => {
       <Header />
       <div className="privacy-title">
         <div className="container">
-          <h1>Privacy Policy Credit</h1>
+          <h1>Privacy - Credit</h1>
         </div>
       </div>
       <div className="container">
