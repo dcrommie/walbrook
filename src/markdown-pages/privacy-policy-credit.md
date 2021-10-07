@@ -77,11 +77,11 @@ policy: >-
 
   | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
 
-  | -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+  | ------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
 
-  | <font color="#000066">GPO Box 1717                                | <font color="#000066">info@walbrook.com.au                | <font color="#000066">+61 3 9013 6262                               |
+  | <font color="#000066">GPO Box 1717                            | <font color="#000066">info@walbrook.com.au           | <font color="#000066">+61 3 9013 6262                           |
 
-  | <font color="#000066">Melbourne VIC 3001                       |                                                       |                             |
+  | <font color="#000066">Melbourne VIC 3001                      |                                                      |                                                                 |
 
 
   </br>
@@ -90,7 +90,7 @@ policy: >-
   We do not charge for receiving a request for access to personal information or for complying with a correction request.
 
 
-  ## **Your consent**
+  ## Your consent
 
 
   By asking us to assist with your credit needs, you consent to the collection and use of the information you have provided to us for the purposes described above.
@@ -104,22 +104,22 @@ policy: >-
 
   | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
 
-  | -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+  | ------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
 
-  | <font color="#000066">GPO Box 1717                                | <font color="#000066">info@walbrook.com.au                | <font color="#000066">+61 3 9013 6262                               |
+  | <font color="#000066">GPO Box 1717                            | <font color="#000066">info@walbrook.com.au           | <font color="#000066">+61 3 9013 6262                           |
 
-  | <font color="#000066">Melbourne VIC 3001                       |                                                       |                             |
+  | <font color="#000066">Melbourne VIC 3001                      |                                                      |                                                                 |
 
 
   </br>
 
 
-  \--------------------------
+  **Important Information**
+
+
+  Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139, Australian Financial Services Licence No. 512465). Credit Representative Number 534783 authorised under Australian Credit Licence 389328. Liability limited by a scheme approved under Professional Standards Legislation.
 
 
   Version 1.00  Issued 7 October 2021
-
-
-  Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139, Australian Financial Services Licence No. 512465). Credit Representative (534783) authorised under Australian Credit Licence 389328.
 page: true
 ---
