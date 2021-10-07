@@ -7,6 +7,9 @@ policy: >-
   Privacy Principles.
 
 
+  Walbrook is an authorised credit representative of Australian Credit Licence 389328.  Where we engage in credit activities, this Privacy Policy should be read in conjunction with our Privacy Policy - Credit, which can be found at www.walbrook.com.au/privacy-credit.
+
+
   ### Our commitment to you
 
 
@@ -274,25 +277,22 @@ policy: >-
   ### Contact Details
 
 
-  You can find us at Level 16, 414 La Trobe Street, Melbourne, VIC 3000. If you have any questions, please contact us on +61 3 9013 62 62. If you prefer to write, our email is info@walbrook.com.au, and our postal address is:
+  | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
 
+  | -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
 
-  Walbrook Wealth Management
+  | <font color="#000066">GPO Box 1717                                | <font color="#000066">info@walbrook.com.au                | <font color="#000066">+61 3 9013 6262                               |
 
-  GPO Box 1717
+  | <font color="#000066">Melbourne VIC 3001                       |                                                       |                             |
 
-  Melbourne VIC 3001
 
 
   **Important Information**
 
 
-  Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139, Australian Financial Services Licence No. 512465) 
+  Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139, Australian Financial Services Licence No. 512465). Credit Representative Number 534783 authorised under Australian Credit Licence 389328. Liability limited by a scheme approved under Professional Standards Legislation.
 
 
-  Liability limited by a scheme approved under Professional Standards Legislation.
-
-
-  Version 1.40  Issued 14 September 2021
+  Version 1.50  Issued 7 October 2021
 page: true
 ---
