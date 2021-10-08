@@ -5,7 +5,7 @@ subtitle: Whether you are looking for advice on one topic or a more
   you need to realise your financial ambitions.
 thumbnail: ../src/images/girl.png
 packagestitle: Our Wealth Service Packages
-packagesdescription: Personal advice on a single topic starts at $550 including
+packagesdescription: Personal advice on a single topic starts at $750 including
   GST. For ongoing support, we offer simple, transparent pricing on service
   packages to suit your needs.
 firstpackage: Clarify
@@ -16,38 +16,28 @@ benefits1:
   - benefit: Record and track property and investment valuations
   - benefit: Store essential details and documents, such as wills
   - benefit: Invite other family members, your accountant and property manager
-secondpackage: NAVIGATE
-secondpackageprice: $115 per month*
-secondpackagedescription: Already have a financial plan? Activate it with the
-  support of general financial advice & coaching.
+secondpackage: Finance
+secondpackageprice: Commission only
+secondpackagedescription: Mortgage broking and advice to help purchase your home
+  or suport your wealth creation strategy.
 benefits2:
-  - benefit: "Quarterly performance reporting and research updates\r"
-  - benefit: "Quarterly investment, super and tax updates\r"
-  - benefit: "Trade handling\r"
-  - benefit: "Support with ad hoc financial queries and administration\r"
-thirdpackage: ACCELERATE
-thirdpackageprice: $275 per month*
+  - benefit: Annual mortgage review
+  - benefit: Ongoing mortgage advice
+thirdpackage: Invest
+thirdpackageprice: From 1.10% pa*
 thirdpackagedescription: Reach your goals with a comprehensive financial plan,
   clear targets and ongoing personal advice.
 benefits3:
-  - benefit: Initial comprehensive financial plan
-  - benefit: Comprehensive annual review of superannuation, pension, contribution
-      and insurance strategy
+  - benefit: Preparation of investment strategy
   - benefit: Ongoing investment advice
-  - benefit: Monthly market updates
-  - benefit: Quarterly performance reporting and research updates
-fourthpackage: SUPPORT
-fourthpackageprice: From $400 per month*
-fourthpackagedescription: Assist all households in your family with an
-  extensive, multi-generational personal financial advice service.
+fourthpackage: Accelerate
+fourthpackageprice: From $275 per month*
+fourthpackagedescription: Reach your goals with a comprehensive financial plan,
+  clear targets and ongoing personal advice.
 benefits4:
-  - benefit: Multi-generational approach
   - benefit: Initial comprehensive financial plan (1 per household)
-  - benefit: Comprehensive annual review of superannuation, pension, contribution
-      and insurance strategy
+  - benefit: Initial comprehensive financial plan
   - benefit: Ongoing investment advice
-  - benefit: Monthly market updates
-  - benefit: Quarterly performance reporting and research updates
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre.
 videolink: https://player.vimeo.com/video/462506518
