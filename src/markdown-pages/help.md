@@ -23,12 +23,12 @@ helplist5:
   - title: Industry and Retail Superannuation
   - title: Self Managed Superannuation Funds (SMSF)
   - title: Lump Sum & Income Stream Strategies
-helptitle6: Expatriates
+helptitle6: Finance
 helplist6:
-  - title: Currency hedging
-  - title: Inbound / outbound expatriate planning
-  - title: Cross border network of solution providers
-  - title: Multi-currency deposits, portfolios & lending
+  - title: Residential Mortgages
+  - title: Commercial Mortgages
+  - title: Development Finance
+  - title: SMSF Lending
 helpmain: How we help
 help1: Tailored
 helpdesc1: No two clients are the same, so we implement an individual, tailored
