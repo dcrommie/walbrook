@@ -36,7 +36,7 @@ helpdesc1: No two clients are the same, so we implement an individual, tailored
 help2: Holistic
 helpdesc2: Extensive experience advising clients on investment, retirement,
   insurance and mortgages allows for a genuinely holistic service.
-helpnewtitle: Turn goals into actions.
+helpnewtitle: Turn goals into actions...
 helpnewdesc: Whether you are 30 or 50, looking to pay down the mortgage quicker
   or save for retirement, now is the time to take action. With investment,
   insurance and lending advice, we can help you to create and protect your
@@ -47,11 +47,11 @@ helpdesc3: We apply an advisory framework to advise and plan for our clients
 help4: Collaborative
 helpdesc4: Everchanging circumstances and needs call for the skilled
   coordination of professionals and financial institutions.
-helplasttitle: Turn actions into outcomes.
+helplasttitle: ... and actions into outcomes.
 thumbnail: ../src/images/help.png
-helplasdesc: Life's path is a maze, not a straight line. We help you navigate
-  change and uncertainty, reviewing plans and priorities as circumstances change
-  to keep you on track.
+helplasdesc: The only constant in life is change. We help you navigate change
+  and uncertainty, reviewing plans and priorities as circumstances change to
+  ensure your investments, mortgage and insurance remain suitable.
 page: true
 contactdesc: Get in touch and we'll get you started
 helplist1:
