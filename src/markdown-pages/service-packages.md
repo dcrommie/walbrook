@@ -34,8 +34,6 @@ benefits3:
   - benefit: Comprehensive annual review of superannuation, pension, contribution
       and insurance strategy
   - benefit: Ongoing investment advice
-  - benefit: Monthly market updates
-  - benefit: Quarterly performance reporting and research updates
 fourthpackage: PRIVATE WEALTH
 fourthpackageprice: From $400 per month*
 fourthpackagedescription: Assist all households in your family with an
@@ -46,8 +44,6 @@ benefits4:
   - benefit: Comprehensive annual review of superannuation, pension, contribution
       and insurance strategy
   - benefit: Ongoing investment advice
-  - benefit: Monthly market updates
-  - benefit: Quarterly performance reporting and research updates
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre.
 videolink: https://player.vimeo.com/video/462506518
