@@ -39,7 +39,7 @@ const PrivacyPolicyCredit = () => {
 
   return (
     <div>
-      <SEO title="PrivacyPolicyCredit" />
+      <SEO title="Privacy Credit" />
       <Helmet>
         <link
           rel="stylesheet"

@@ -84,6 +84,13 @@ const Footer = () => {
                   <p style={{ maxWidth: "46px", color: "#FFFFFF" }}>Privacy</p>
                 </Link>
               </div>
+              <div className="cdc-policy">
+                <Link to="/privacy-credit">
+                  <p style={{ maxWidth: "315px", color: "#FFFFFF" }}>
+                    Privacy Credit
+                  </p>
+                </Link>
+              </div>
               <div className="policy-link">
                 <Link to="/financial-services-guide">
                   <p style={{ color: "#FFFFFF", fontSize: "13px" }}>
@@ -105,13 +112,6 @@ const Footer = () => {
                   </p>
                 </Link>
               </div>{" "}
-              <div className="cdc-policy">
-                <Link to="/privacy-credit">
-                  <p style={{ maxWidth: "315px", color: "#FFFFFF" }}>
-                    Privacy Credit
-                  </p>
-                </Link>
-              </div>
             </div>
           </div>
         </div>
