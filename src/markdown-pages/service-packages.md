@@ -18,9 +18,11 @@ benefits1:
   - benefit: Invite other family members, your accountant and property manager
 secondpackage: Finance
 secondpackageprice: Commission only
-secondpackagedescription: XXXXXXX
+secondpackagedescription: Borrow for a new home or investment purchase, or
+  refinance existing facilities to better support your wealth creation strategy.
 benefits2:
   - benefit: Annual mortgage review
+  - benefit: Ongoing mortgage advice
 thirdpackage: Invest
 thirdpackageprice: From 1.10% pa*
 thirdpackagedescription: Reach your goals with a comprehensive financial plan,
