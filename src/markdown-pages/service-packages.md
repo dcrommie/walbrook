@@ -20,7 +20,7 @@ secondpackage: Finance
 secondpackageprice: Commission only
 secondpackagedescription: XXXXXXX
 benefits2:
-  - benefit: Annual loan review
+  - benefit: Annual mortgage review
 thirdpackage: Invest
 thirdpackageprice: From 1.10% pa*
 thirdpackagedescription: Reach your goals with a comprehensive financial plan,
