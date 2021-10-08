@@ -106,7 +106,7 @@ const Footer = () => {
                 </Link>
               </div>{" "}
               <div className="cdc-policy">
-                <Link to="/privacy-policy-credit">
+                <Link to="/privacy-credit">
                   <p style={{ maxWidth: "315px", color: "#FFFFFF" }}>
                     Privacy Credit
                   </p>
