@@ -16,33 +16,24 @@ benefits1:
   - benefit: Record and track property and investment valuations
   - benefit: Store essential details and documents, such as wills
   - benefit: Invite other family members, your accountant and property manager
-secondpackage: INVESTMENT
-secondpackageprice: $115 per month*
-secondpackagedescription: Already have a financial plan? Activate it with the
-  support of general financial advice & coaching.
-benefits2:
-  - benefit: "Quarterly performance reporting and research updates\r"
-  - benefit: "Quarterly investment, super and tax updates\r"
-  - benefit: "Trade handling\r"
-  - benefit: "Support with ad hoc financial queries and administration\r"
-thirdpackage: FINANCIAL PLANNING
-thirdpackageprice: $275 per month*
+secondpackage: Finance
+secondpackageprice: Commission only
+secondpackagedescription: XXXXXXX
+benefits2: []
+thirdpackage: Invest
+thirdpackageprice: From 1.10% pa*
 thirdpackagedescription: Reach your goals with a comprehensive financial plan,
   clear targets and ongoing personal advice.
 benefits3:
-  - benefit: Initial comprehensive financial plan
-  - benefit: Comprehensive annual review of superannuation, pension, contribution
-      and insurance strategy
+  - benefit: Preparation of investment strategy
   - benefit: Ongoing investment advice
-fourthpackage: PRIVATE WEALTH
-fourthpackageprice: From $400 per month*
-fourthpackagedescription: Assist all households in your family with an
-  extensive, multi-generational personal financial advice service.
+fourthpackage: Accelerate
+fourthpackageprice: From $275 per month*
+fourthpackagedescription: Reach your goals with a comprehensive financial plan,
+  clear targets and ongoing personal advice.
 benefits4:
-  - benefit: Multi-generational approach
   - benefit: Initial comprehensive financial plan (1 per household)
-  - benefit: Comprehensive annual review of superannuation, pension, contribution
-      and insurance strategy
+  - benefit: Initial comprehensive financial plan
   - benefit: Ongoing investment advice
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre.
