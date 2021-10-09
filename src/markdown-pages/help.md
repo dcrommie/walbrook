@@ -38,9 +38,9 @@ helpdesc2: Extensive experience advising clients on investment, retirement,
   insurance and mortgages allows for a genuinely holistic service.
 helpnewtitle: Turn goals into actions...
 helpnewdesc: Whether you are 30 or 50, looking to pay down the mortgage quicker
-  or save for retirement, now is the time to take action. With investment,
-  insurance and lending advice, we can help you to create and protect your
-  wealth.
+  or save for retirement, it's never too early to start taking action. With
+  investment, insurance and mortgage advice, we can help you to create and
+  protect your wealth.
 help3: Diversified
 helpdesc3: We apply an advisory framework to advise and plan for our clients
   across asset classes, structures and jurisdictions.
