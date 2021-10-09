@@ -45,8 +45,8 @@ help3: Diversified
 helpdesc3: We apply an advisory framework to advise and plan for our clients
   across asset classes, structures and jurisdictions.
 help4: Collaborative
-helpdesc4: Everchanging circumstances and needs call for the skilled
-  coordination of professionals and financial institutions.
+helpdesc4: We co-ordinate with other professionals and financial insitutions, to
+  accomodate changing circumstances and ensure alignment with plan.
 helplasttitle: ... and actions into outcomes.
 thumbnail: ../src/images/help.png
 helplasdesc: The only constant in life is change. We help you navigate change
