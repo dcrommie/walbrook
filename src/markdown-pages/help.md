@@ -23,10 +23,10 @@ helplist5:
   - title: Industry and Retail Superannuation
   - title: Self Managed Superannuation Funds (SMSF)
   - title: Lump Sum & Income Stream Strategies
-helptitle6: Finance
+helptitle6: Mortgage Broking
 helplist6:
   - title: Residential Mortgages
-  - title: Commercial Mortgages
+  - title: Commercial Loans
   - title: Development Finance
   - title: SMSF Lending
 helpmain: How we help
