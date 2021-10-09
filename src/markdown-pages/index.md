@@ -15,7 +15,7 @@ desc3: We draw upon our network of local and international experts to help
 services: Our services
 servicestitle: Creating wealth and planning for change over the long term
 service2: Retirement Planning
-service5: Mortgage Advice & Broking
+service5: Mortgage Broking
 service6: Expatriates
 advisorydesc: Supported by great technology and institutional investment
   management, our advisory framework guides our conversations and actions from
