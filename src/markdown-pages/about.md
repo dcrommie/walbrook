@@ -1,12 +1,8 @@
 ---
 title: About us
-subtitle: >-
-  With a strong belief in the impact that holistic advice has on the financial
-  wellbeing of clients, Damien Crommie CA established Walbrook in 2019 to
-  provide high-quality financial advice on an open-architecture basis.
-
-
-  Damien enjoys building strategies for clients, utilising extensive investment, lending and wealth advisory experience gained in nearly twenty years working for local and global investment managers and banks.
+subtitle: "After nearly twenty years working for local and global investment
+  managers and banks, Damien Crommie CA established Walbrook in 2019 to help
+  clients build and protect their wealth.  "
 thumbnail: ../src/images/dc-v1-11_2020-png-3x.png
 buttontext: "Email Damien "
 buttonemail: damien.crommie@walbrook.com.au
