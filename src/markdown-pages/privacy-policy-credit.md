@@ -114,18 +114,6 @@ policy: >-
   </br>
 
 
-  ### Complaints
-
-
-  #### Internal Dispute Resolution
-
-
-  If you do have a complaint, please let us know by email, because if we don’t know about it we can’t fix it. You may also contact us by email addressed to; The Complaints Officer at <insert name and/or title, telephone and email of Privacy Officer>, please make sure you include as much information as you can.
-
-
-  You should explain the details of your complaint as clearly as you can. You must do this in writing. When we receive a complaint, we will attempt to resolve it promptly.
-
-
   **Important Information**
 
 
