@@ -9,7 +9,7 @@ policy: >-
   At Walbrook Wealth Management, we are committed to protecting your privacy in accordance with the Privacy Act 1988 (Cth). This Privacy Policy - Credit describes our current policies and practices in relation to the handling and use of personal information. It should be read in conjunction with our Privacy Policy, located at www.walbrook.com.au/privacy. 
 
 
-  ## What information do we collect and how do we use it?
+  ### What information do we collect and how do we use it?
 
 
   We will ask you for personal information when we assist you with your finance. Personal information may include any sensitive information (including health information) and may include any information you tell us about any vulnerability you may have. We use the information you provide to advise about and assist with your credit needs. We only provide your information to the companies with whom you choose to deal (and their representatives).
@@ -24,13 +24,13 @@ policy: >-
   We may also use your information internally to help us improve our services and help resolve any problems.
 
 
-  ## What if you don’t provide some information to us?
+  ### What if you don’t provide some information to us?
 
 
   If you don’t provide us with full information, we can’t properly advise or assist you with your credit needs.
 
 
-  ## How do we hold and protect your information?
+  ### How do we hold and protect your information?
 
 
   We strive to maintain the reliability, accuracy, completeness, and currency of the personal information we hold and to protect its privacy and security. We keep personal information only for as long as is reasonably necessary for the purpose for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements
@@ -39,7 +39,7 @@ policy: >-
   We take all reasonable steps to protect your personal information from misuse, interference, loss, unauthorised access, modification or disclosure. We have physical, electronic and procedural safeguards to protect your information held by us. For example, we store your personal information in secured office premises and encrypted electronic databases requiring logins and passwords for access. We require all staff to maintain the confidentiality of your personal information.
 
 
-  ## Will we disclose the information we collect to anyone?
+  ### Will we disclose the information we collect to anyone?
 
 
   We do not sell, trade, or rent your personal information to others.
@@ -51,7 +51,7 @@ policy: >-
   We may also provide your information to others if we are required to do so by law or under some unusual other circumstances which the Privacy Act permits.
 
 
-  ## Disclosures to overseas recipients
+  ### Disclosures to overseas recipients
 
 
   Some of the recipients to whom we disclose your personal information may be based overseas. It is not practicable to list every country in which such recipients are located but it is likely that such countries will include the Philippines, India, and Nepal.
@@ -66,7 +66,7 @@ policy: >-
   The information we obtain from you is used, subject to compliance with Australia’s privacy and credit reporting laws, only for the purposes listed in this Consent and is not disclosed to any other person except with your permission or as permitted, or required, by law.
 
 
-  ## How can you check, update or change the information we are holding?
+  ### How can you check, update or change the information we are holding?
 
 
   Upon receipt of your written request and enough information to allow us to identify the information, we will disclose to you the personal information we hold about you. We will also correct, amend or delete any personal information that we agree is inaccurate.
@@ -90,13 +90,13 @@ policy: >-
   We do not charge for receiving a request for access to personal information or for complying with a correction request.
 
 
-  ## Your consent
+  ### Your consent
 
 
   By asking us to assist with your credit needs, you consent to the collection and use of the information you have provided to us for the purposes described above.
 
 
-  ## Tell us what you think
+  ### Tell us what you think
 
 
   We welcome your questions and comments about privacy. If you have any concerns or complaints, please contact us using the details below.

@@ -1,6 +1,7 @@
 ---
 title: Let’s get you started
-subtitle: Whether you are looking for advice on one topic or a more
+subtitle: Whether you are looking for advice on a single topic such as
+  refinancing your mortgage or investing your superannuation, or a more
   comprehensive plan for your future, we can provide the level of support that
   you need to realise your financial ambitions.
 thumbnail: ../src/images/girl.png
@@ -17,27 +18,29 @@ benefits1:
   - benefit: Store essential details and documents, such as wills
   - benefit: Invite other family members, your accountant and property manager
 secondpackage: Finance
-secondpackageprice: Commission only
-secondpackagedescription: Mortgage broking and advice to help purchase your home
-  or suport your wealth creation strategy.
+secondpackageprice: No cost (commission based)
+secondpackagedescription: Mortgage advice to help you purchase a new home or
+  support your wealth creation strategy.
 benefits2:
+  - benefit: Initial Mortgage Advice and Implementation
   - benefit: Annual mortgage review
-  - benefit: Ongoing mortgage advice
+  - benefit: Optional annual financial 'health-check'
 thirdpackage: Invest
 thirdpackageprice: From 1.10% pa*
-thirdpackagedescription: Reach your goals with a comprehensive financial plan,
-  clear targets and ongoing personal advice.
+thirdpackagedescription: Get your savings working with a tailored investment
+  strategy and ongoing investment advice.
 benefits3:
-  - benefit: Preparation of investment strategy
+  - benefit: Initial Investment Advice and Implementation
   - benefit: Ongoing investment advice
+  - benefit: Optional annual financial 'health-check'
 fourthpackage: Accelerate
 fourthpackageprice: From $275 per month*
 fourthpackagedescription: Reach your goals with a comprehensive financial plan,
   clear targets and ongoing personal advice.
 benefits4:
-  - benefit: Initial comprehensive financial plan (1 per household)
-  - benefit: Initial comprehensive financial plan
-  - benefit: Ongoing investment advice
+  - benefit: Initial Comprehensive Financial Plan
+  - benefit: Annual Financial Plan Review
+  - benefit: Ongoing Financial Planning Advice
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre.
 videolink: https://player.vimeo.com/video/462506518

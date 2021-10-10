@@ -4,7 +4,7 @@ policy: >-
   clients. 
 
 
-  If for any reason, you do not feel that you have received the highest standard of care, we encourage you to share this with us. By listening to your feedback, we can address any concerns and continually improve our service.
+  If, for any reason, you do not feel that you have received the highest standard of care, we encourage you to share this with us. By listening to your feedback, we can address any concerns and continually improve our service.
 
 
   Should you require assistance to lodge your complaint, you can contact us and we will arrange the necessary support.
@@ -15,11 +15,11 @@ policy: >-
 
   | <div style="width:200px"><font color="#000066">Postal Address</font> | <div style="width:200px"><font color="#000066">Email</font> |     |
 
-  | --------------------------------------------------------------------- | ------------------------------------------------------------ | --- |
+  | -------------------------------------------------------------------- | ----------------------------------------------------------- | --- |
 
-  | <font color="#000066">GPO Box 1717</font>                             | <font color="#000066">info@walbrook.com.au</font>            |     |
+  | <font color="#000066">GPO Box 1717</font>                            | <font color="#000066">info@walbrook.com.au</font>           |     |
 
-  | <font color="#000066">Melbourne VIC 3001</font>                       |                                                              |     |
+  | <font color="#000066">Melbourne VIC 3001</font>                      |                                                             |     |
 
 
   </br>
@@ -52,11 +52,11 @@ policy: >-
 
   | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
 
-  | -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+  | ------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
 
-  | <font color="#000066">GPO Box 3                                | <font color="#000066">info@afca.org.au                | <font color="#000066">1800 931 678                               |
+  | <font color="#000066">GPO Box 3                               | <font color="#000066">info@afca.org.au               | <font color="#000066">1800 931 678                              |
 
-  | <font color="#000066">Melbourne VIC 3001                       |                                                       | <font color="#000066">(free call)                                |
+  | <font color="#000066">Melbourne VIC 3001                      |                                                      | <font color="#000066">(free call)                               |
 
 
   </br>

@@ -5,30 +5,31 @@ subtitle: With tailored investment advice and expertise, we help our clients to
 mainImage: ../src/images/help.png
 helptitle3: Wealth Creation
 helplist3:
-  - title: Cash flow planning
-  - title: Contribution strategies
-  - title: |
-      Tax efficient investment
-  - title: Geared investment strategies
+  - title: Asset Allocation
+  - title: Superannuation Contribution Strategies
+  - title: Cashflow Planning
+  - title: Geared Investment Strategies
 helptitle4: Risk Management
 helplist4:
   - title: Life Insurance
-  - title: Trauma / TPD
-  - title: Income Protection
+  - title: Total & Permanent Disablement (TPD) Insurance
+  - title: Trauma / Critical Illness Insurance
+  - title: Income Protection Insurance
   - title: Currency / Equity / Interest Rate Hedging
 helptitle5: Retirement Planning
 helplist5:
   - title: Strategy Reviews
-  - title: Asset protection and transfer
+  - title: Retirement and Transition to Retirement Strategies
   - title: Industry and Retail Superannuation
   - title: Self Managed Superannuation Funds (SMSF)
   - title: Lump Sum & Income Stream Strategies
-helptitle6: Finance
+helptitle6: Mortgage Broking
 helplist6:
   - title: Residential Mortgages
-  - title: Commercial Mortgages
+  - title: Commercial Loans
   - title: Development Finance
   - title: SMSF Lending
+  - title: Reverse Mortgages
 helpmain: How we help
 help1: Tailored
 helpdesc1: No two clients are the same, so we implement an individual, tailored
@@ -38,15 +39,15 @@ helpdesc2: Extensive experience advising clients on investment, retirement,
   insurance and mortgages allows for a genuinely holistic service.
 helpnewtitle: Turn goals into actions...
 helpnewdesc: Whether you are 30 or 50, looking to pay down the mortgage quicker
-  or save for retirement, now is the time to take action. With investment,
-  insurance and lending advice, we can help you to create and protect your
-  wealth.
+  or save for retirement, it's never too early to start taking action. With
+  investment, insurance and mortgage advice, we can help you to create and
+  protect your wealth.
 help3: Diversified
 helpdesc3: We apply an advisory framework to advise and plan for our clients
   across asset classes, structures and jurisdictions.
 help4: Collaborative
-helpdesc4: Everchanging circumstances and needs call for the skilled
-  coordination of professionals and financial institutions.
+helpdesc4: We co-ordinate with other professionals and financial insitutions, to
+  accomodate changing circumstances and ensure alignment with plan.
 helplasttitle: ... and actions into outcomes.
 thumbnail: ../src/images/help.png
 helplasdesc: The only constant in life is change. We help you navigate change
