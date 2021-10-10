@@ -5,11 +5,10 @@ subtitle: With tailored investment advice and expertise, we help our clients to
 mainImage: ../src/images/help.png
 helptitle3: Wealth Creation
 helplist3:
-  - title: Cash flow planning
-  - title: Contribution strategies
-  - title: |
-      Tax efficient investment
-  - title: Geared investment strategies
+  - title: Asset Allocation
+  - title: Superannuation Contribution Strategies
+  - title: Cashflow Planning
+  - title: Geared Investment Strategies
 helptitle4: Risk Management
 helplist4:
   - title: Life Insurance
