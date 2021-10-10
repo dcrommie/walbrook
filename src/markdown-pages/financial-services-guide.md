@@ -1019,6 +1019,15 @@ policy: "### Why you are receiving this document
 
   | <font
   color=\"#000066\">Australia                                                                            \
-  |"
+  |
+
+
+  Australian Financial Services Licence number 512465.
+
+  Credit Representative Number (534783) authorised under Australian Credit
+  Licence 389328.
+
+  Liability limited by a scheme approved under Professional Standards
+  legislation."
 page: true
 ---
