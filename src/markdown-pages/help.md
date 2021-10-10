@@ -13,13 +13,14 @@ helplist3:
 helptitle4: Risk Management
 helplist4:
   - title: Life Insurance
-  - title: Trauma / TPD
-  - title: Income Protection
+  - title: Total & Permanent Disablement (TPD) Insurance
+  - title: Trauma / Critical Illness Insurance
+  - title: Income Protection Insurance
   - title: Currency / Equity / Interest Rate Hedging
 helptitle5: Retirement Planning
 helplist5:
   - title: Strategy Reviews
-  - title: Asset protection and transfer
+  - title: Retirement and Transition to Retirement Strategies
   - title: Industry and Retail Superannuation
   - title: Self Managed Superannuation Funds (SMSF)
   - title: Lump Sum & Income Stream Strategies
@@ -29,6 +30,7 @@ helplist6:
   - title: Commercial Loans
   - title: Development Finance
   - title: SMSF Lending
+  - title: Reverse Mortgages
 helpmain: How we help
 help1: Tailored
 helpdesc1: No two clients are the same, so we implement an individual, tailored
