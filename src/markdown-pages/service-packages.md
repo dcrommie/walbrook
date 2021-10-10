@@ -18,8 +18,8 @@ benefits1:
   - benefit: Invite other family members, your accountant and property manager
 secondpackage: Finance
 secondpackageprice: Commission only
-secondpackagedescription: Mortgage broking and advice to help purchase your home
-  or suport your wealth creation strategy.
+secondpackagedescription: Mortgage broking and advice to help you purchase a new
+  home or support your wealth creation strategy.
 benefits2:
   - benefit: Annual mortgage review
   - benefit: Ongoing mortgage advice
@@ -28,16 +28,33 @@ thirdpackageprice: From 1.10% pa*
 thirdpackagedescription: Reach your goals with a comprehensive financial plan,
   clear targets and ongoing personal advice.
 benefits3:
-  - benefit: Preparation of investment strategy
+  - benefit: |-
+      Preparation of investment strategy, including:
+
+      * Risk Profiling
+      * Asset Allocation
+      * Investment Selection
   - benefit: Ongoing investment advice
 fourthpackage: Accelerate
 fourthpackageprice: From $275 per month*
 fourthpackagedescription: Reach your goals with a comprehensive financial plan,
   clear targets and ongoing personal advice.
 benefits4:
-  - benefit: Initial comprehensive financial plan (1 per household)
-  - benefit: Initial comprehensive financial plan
-  - benefit: Ongoing investment advice
+  - benefit: |-
+      Prepation of Comprehensive Financial Plan, including:
+
+      * Investment Strategy
+      * Optimal Holding Structures
+      * Insurance Strategy
+      * Superannuation Contribution Strategy
+      * Estate Planning consideration
+  - benefit: |-
+      Preparation of investment strategy, including:
+
+      * Risk Profiling
+      * Asset Allocation
+      * Investment Selection
+  - benefit: Ongoing investment advice and execution
 wealthportaltitle: Wealth Portal
 wealthportaldescription: Welcome to your new financial command centre.
 videolink: https://player.vimeo.com/video/462506518
