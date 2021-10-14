@@ -5,10 +5,10 @@ subtitle: With tailored investment advice and expertise, we help our clients to
 mainImage: ../src/images/help.png
 helptitle3: Wealth Creation
 helplist3:
-  - title: Asset Allocation
-  - title: Superannuation Contribution Strategies
+  - title: Asset Allocation Advice
   - title: Cashflow Planning
   - title: Geared Investment Strategies
+  - title: Superannuation Contribution Strategies
 helptitle4: Risk Management
 helplist4:
   - title: Life Insurance
@@ -18,9 +18,9 @@ helplist4:
   - title: Currency / Equity / Interest Rate Hedging
 helptitle5: Retirement Planning
 helplist5:
-  - title: Strategy Reviews
-  - title: Retirement and Transition to Retirement Strategies
-  - title: Industry and Retail Superannuation
+  - title: Pre-Retirement Strategies
+  - title: Retirement and TTR Strategies
+  - title: Retail & Industry Superannuation Advice
   - title: Self Managed Superannuation Funds (SMSF)
   - title: Lump Sum & Income Stream Strategies
 helptitle6: Finance
