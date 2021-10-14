@@ -23,13 +23,13 @@ helplist5:
   - title: Industry and Retail Superannuation
   - title: Self Managed Superannuation Funds (SMSF)
   - title: Lump Sum & Income Stream Strategies
-helptitle6: Mortgage Broking
+helptitle6: Finance
 helplist6:
   - title: Residential Mortgages
   - title: Commercial Loans
-  - title: Development Finance
   - title: SMSF Lending
-  - title: Reverse Mortgages
+  - title: First Home Buyers
+  - title: Expatriate Mortgages
 helpmain: How we help
 help1: Tailored
 helpdesc1: No two clients are the same, so we implement an individual, tailored
