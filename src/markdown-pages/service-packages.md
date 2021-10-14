@@ -18,7 +18,7 @@ benefits1:
   - benefit: Store essential details and documents, such as wills
   - benefit: Invite other family members, your accountant and property manager
 secondpackage: Finance
-secondpackageprice: No cost (commission based)
+secondpackageprice: Commission-based
 secondpackagedescription: Mortgage advice to help you purchase a new home or
   support your wealth creation strategy.
 benefits2:
