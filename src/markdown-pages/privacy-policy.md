@@ -42,12 +42,12 @@ policy: >-
 
   * Your occupation, employment history, employment circumstances, family commitments, and social security eligibility.
 
-  * Your superannuation and insurance details, including transaction history
+  * Your superannuation and insurance details, including transaction history.
 
-  * Your investment preferences, risk ability, risk tolerance, investment knowledge and investment experience
+  * Your investment preferences, risk ability, risk tolerance, investment knowledge and investment experience.
 
 
-  All information that we request is for our business purposes, which are summarised in this document and more specifically in forms and disclosure documents, e.g. Financial Services Guides and Statements of Advice. Any form used to collect your information may give further details about the way we use your data.
+  All information that we request is for our business purposes, which are summarised in this document and more specifically in forms and disclosure documents, e.g., Financial Services Guides and Statements of Advice. Any form used to collect your information may give further details about the way we use your data.
 
 
   ### Sensitive Information
@@ -279,11 +279,12 @@ policy: >-
 
   | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
 
-  | -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
+  | ------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
 
-  | <font color="#000066">GPO Box 1717                                | <font color="#000066">info@walbrook.com.au                | <font color="#000066">+61 3 9013 6262                               |
+  | <font color="#000066">GPO Box 1717                            | <font color="#000066">info@walbrook.com.au           | <font color="#000066">+61 3 9013 6262                           |
 
-  | <font color="#000066">Melbourne VIC 3001                       |                                                       |                             |
+  | <font color="#000066">Melbourne VIC 3001                      |                                                      |                                                                 |
+
 
   </br>
 
