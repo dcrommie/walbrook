@@ -1,6 +1,6 @@
 ---
 title: Plan. Invest. Protect.
-subtitle: Take care of your future, today
+subtitle: Take care of your future, today.
 thumbnail: ../src/images/family.png
 title2: We help our clients to create wealth and plan for change
 desc1: With institutional knowledge and expertise, we help you to navigate
