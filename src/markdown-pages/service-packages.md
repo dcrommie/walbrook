@@ -9,7 +9,7 @@ packagesdescription: We offer simple, transparent pricing on service packages to
   suit your needs.  For ad-hoc personal or general financial advice needs, we
   charge an hourly rate, agreed and fixed in advance.
 firstpackage: Clarify
-firstpackageprice: Complimentary
+firstpackageprice: No cost
 firstpackagedescription: Clarify your current position and take control of your
   financial journey with access to our personal wealth portal.
 benefits1:
