@@ -1,9 +1,8 @@
 ---
 title: Plan. Invest. Protect.
-subtitle: Whether you are looking for help refinancing your mortgage, require
-  advice on how to invest your superannuation, or need a more comprehensive plan
-  covering these topics and more, we can provide the level of support that you
-  need to realise your financial ambitions.
+subtitle: Whether you are just looking for mortgage advice or need a more
+  comprehensive financial plan to help you grow and protect your wealth, we can
+  help.
 thumbnail: ../src/images/girl.png
 packagestitle: Service Packages
 packagesdescription: We offer simple, transparent pricing on service packages to
