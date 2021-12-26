@@ -1,14 +1,14 @@
 ---
-title: Let’s get you started
-subtitle: Whether you are looking for advice on a single topic such as
-  refinancing your mortgage or investing your superannuation, or a more
-  comprehensive plan for your future, we can provide the level of support that
-  you need to realise your financial ambitions.
+title: Plan. Invest. Protect.
+subtitle: Whether you are looking for help refinancing your mortgage, require
+  advice on how to invest your superannuation, or need a more comprehensive plan
+  covering these topics and more, we can provide the level of support that you
+  need to realise your financial ambitions.
 thumbnail: ../src/images/girl.png
-packagestitle: Our Wealth Service Packages
-packagesdescription: Personal advice on a single topic starts at $750 including
-  GST. For ongoing support, we offer simple, transparent pricing on service
-  packages to suit your needs.
+packagestitle: Service Packages
+packagesdescription: We offer simple, transparent pricing on service packages to
+  suit your needs.  For ad-hoc personal or general financial advice needs, we
+  charge an hourly rate, agreed and fixed in advance.
 firstpackage: Clarify
 firstpackageprice: Complimentary
 firstpackagedescription: Clarify your current position and take control of your
