@@ -55,14 +55,12 @@ const Header = props => {
             </li>
 
             <li>
-              <Link to="/insight" >
-                Insights
-              </Link>
+              <Link to="/insight">Insights</Link>
             </li>
 
             <li>
               <Link
-                to="https://www.adviserlogic.com/Default.aspx"
+                to="https://myprosperity.com.au/accounts/signin?cobrand=walbrookwealthmanagement"
                 target="_blank"
               >
                 Login

@@ -52,13 +52,13 @@ const Footer = () => {
                   <Link to="/education">
                     <li>Education</li>
                   </Link>
-                  <Link to="/wholesale">
+                  {/* <Link to="/wholesale">
                     {" "}
                     <li>Wholesale Clients</li>
                   </Link>
                   <Link to="/risk-profile/ ">
                     <li> Risk Profile</li>
-                  </Link>
+                  </Link> */}
                 </ul>
               </div>
               <div className="address">
