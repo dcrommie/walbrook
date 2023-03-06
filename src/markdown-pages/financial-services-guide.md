@@ -377,7 +377,7 @@ policy: >-
   The monthly fee is set at the commencement of the engagement, is based on the amount invested and the complexity of the advice and service required, and is invoiced monthly in advance. 
 
 
-  The minimum fee is AUD 50 per month, including GST.  The maximum fee is 2.00% pa, including GST, on the assets under advice at the commencement of the engagement.
+  The minimum fee is AUD 100 per month, including GST.  The maximum fee is 1.00% pa, including GST, on the assets under advice at the commencement of the engagement.
 
 
   </td>
@@ -407,10 +407,7 @@ policy: >-
   The fee is set at the commencement of the engagement, is based on the complexity of the advice and required services, and invoiced monthly in advance. 
 
 
-  The minimum fee is AUD 275 per month (AUD 3,300 pa), including GST, and the maximum fee is AUD 1,250 per month (AUD 15,000 pa), including GST.   
-
-
-  Fees may be reduced or offset by any commissions received by us during the engagement period, and this will be agreed with you before the engagement commences.
+  The minimum fee is AUD 275 per month (AUD 3,300 pa), including GST, and the maximum fee is AUD 1,250 per month (AUD 15,000 pa), including GST.
 
 
   </td>
@@ -509,9 +506,6 @@ policy: >-
   Walbrook may receive payments of initial commissions and ongoing commissions from the life insurance providers for any product that we have recommended and you elect to use. 
 
 
-  We may rebate some or all of this to you. 
-
-
   You do not make these payments to us, however, the life insurance provider incorporates these distribution costs in the premiums you pay. 
 
 
@@ -555,9 +549,6 @@ policy: >-
 
 
   If authorised by an Australian Credit Licence holder as a Corporate Credit Representative, Walbrook may receive payments of initial commission and ongoing commission from lenders for any credit product that we have recommended and you have successfully applied for. 
-
-
-  We may rebate some or all of this to you. 
 
 
   You do not make these payments to us, however, the lender typically incorporates these distribution costs in their quoted interest rates and product fees. 
@@ -747,7 +738,7 @@ policy: >-
 
   | ------------------------------------------------------ | --------------------------------------------------------- |
 
-  | <font color="#000066">1.50                             | <font color="#000066">13 September 2021                   |
+  | <font color="#000066">1.70                             | <font color="#000066">30 January 2023                     |
 
 
   </br>
