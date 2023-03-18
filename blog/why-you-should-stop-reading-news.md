@@ -4,7 +4,7 @@ path: why-you-should-stop-reading-the-news
 date: 2023-09-01T12:35:39.256Z
 author: Farnham Street Blog (fs.blog)
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/why-you-should-stop-reading-the-news.png
 ---
 A controversial title, but the premise is sound and we think it's very relevant when it comes to financial news  and thinking about investment.
 
