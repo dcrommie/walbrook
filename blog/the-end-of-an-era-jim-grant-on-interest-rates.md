@@ -4,7 +4,7 @@ path: the-end-of-an-era-jim-grant-on-interest-rates
 date: 2022-04-04T12:28:28.369Z
 author: Richard Hurowitz - The Octavian Report
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/the-end-of-an-era-jim-grant-on-interest-raes.png
 ---
 The most important price in the world is the price of money: namely, interest rates. And interest rates are suddenly on everyone’s minds, as rates shoot upward for the first time in decades.
 
