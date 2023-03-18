@@ -1,14 +1,14 @@
 ---
 blogtitle: Why you should stop reading the news
 path: why-you-should-stop-reading-the-news
-date: 2023-09-01T12:35:39.256Z
+date: 2022-09-01T12:35:39.256Z
 author: Farnham Street Blog (fs.blog)
 blogpage: true
 thumbnail: ../src/images/why-you-should-stop-reading-the-news.png
 ---
 A controversial title, but the premise is sound and we think it's very relevant when it comes to financial news  and thinking about investment.
 
-\-﻿--------------------------------------------------------
+Below text is from the Farnham Street Blog (fs.blog).
 
 We spend hours consuming news because we want to be informed. The problem is news doesn’t make us informed, just the opposite. The more news we consume the more misinformed we become. And our obsession with being informed makes it hard to think long-term.
 
