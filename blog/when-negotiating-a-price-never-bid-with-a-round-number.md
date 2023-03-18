@@ -4,7 +4,7 @@ path: when-negotiating-a-price-never-bid-with-a-round-number
 date: 2022-08-04T12:47:53.940Z
 author: Carmen Nobel - Harvard Business School
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/when-negotiating-a-price-never-bid-with-a-round-number.png
 ---
 Here’s an easy tip for anyone negotiating to buy a car, a house, or even a company. When you make an initial offer, don’t bid with a round number like $10,000 or $1 million or $15 per share. Rather, bid with a more precise number, like $9,800 or $1.03 million or $14.80 per share.
 
