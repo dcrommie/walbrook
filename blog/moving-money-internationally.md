@@ -4,7 +4,7 @@ path: moving-money-internationally
 date: 2022-03-12T11:37:13.593Z
 author: Patrick McKenzie - Stripe (Bits About Money)
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/moving-money-internationally.png
 ---
 **Patrick McKenzie (Stripe)**\
 **[Bits About Money](https://bam.kalzumeus.com/archive/moving-money-internationally/)**
