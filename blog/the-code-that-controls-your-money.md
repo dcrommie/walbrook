@@ -4,7 +4,7 @@ path: the-code-that-controls-your-money
 date: 2022-08-04T12:41:08.021Z
 author: Clive Thompson - Wealthsimple Magazine
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/the-code-that-controls-your-money.png
 ---
 Clive Thompson
 
