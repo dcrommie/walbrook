@@ -4,7 +4,7 @@ path: inflation-infatuation
 date: 2022-05-21T12:49:50.987Z
 author: Tyler Hay - Evergreen Gavekal
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/inflation-infatuation.png
 ---
 After over a decade of "passive investing" dominance, a shift is underway. Active management rewards investors who can skillfully blend between and shift within different asset classes, a seemingly fruitless exercise until recently. When everything is going up in value, there's little-to-no value in doing so.
 
