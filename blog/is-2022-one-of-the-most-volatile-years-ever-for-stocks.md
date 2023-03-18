@@ -4,7 +4,7 @@ path: is-2022-one-of-the-most-volatile-years-ever-for-stocks
 date: 2022-09-02T12:31:45.362Z
 author: George Smith, Portfolio Strategist - LPL Financial
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/is-2022-one-of-the-most-volatile-years-for-stocks.png
 ---
 George Smith, Portfolio Strategist\
 [LPL Financial](https://lplresearch.com/2022/09/01/is-2022-one-of-the-most-volatile-years-ever-for-stocks/)
