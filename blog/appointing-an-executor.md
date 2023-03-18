@@ -4,7 +4,7 @@ path: appointing-an-executor
 date: 2022-09-06T12:30:06.594Z
 author: Krista Fitzgerald & Georgie Cape - Moores
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/appointing-an-executor.png
 ---
 We frequently meet with clients who have put off dealing with their [estate planning](https://www.moores.com.au/expertise/private-clients/wills-estate-planning-and-structuring/) because they don’t know who to appoint as executors. When this is the case there are a range of benefits in considering appointing an independent professional executor to handle your estate.
 
