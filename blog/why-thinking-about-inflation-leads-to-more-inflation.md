@@ -4,7 +4,7 @@ path: why-thinking-about-inflation-leads-to-more-inflation
 date: 2022-08-04T12:45:00.778Z
 author: Mark Dent & Zachary Crockett - The Hustle
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/why-thinking-about-inflation-leads-to-more-inflation.png
 ---
 Our clients may be tired of us talking about how hard it is to get the inflation "genie" back into the bottle, but this article from The Hustle provides a great explanation of inflationary psychology and inflation expectations.  As consumers and businesses become more aware of inflation, higher inflation expectations are set and they act / price accordingly, making it more difficult to bring inflation under control.  It is why we see such strong language from the RBA, in addition to actual rate rises, as they attempt to contain expectations.
 
