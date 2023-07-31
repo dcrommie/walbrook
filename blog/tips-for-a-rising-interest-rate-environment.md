@@ -4,7 +4,7 @@ path: tips-for-a-rising-interest-rate-environment
 date: 2022-08-04T12:39:07.829Z
 author: Damien Crommie - Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/tips-for-rising-interest-rate-environment.png
 ---
 Global interest rates have soared since we published our November 2021 post, [Should you fix your mortgage interest rate? | Walbrook Wealth Management](https://news.walbrook.com.au/should-you-fix-your-mortgage-interest-rate/).
 
