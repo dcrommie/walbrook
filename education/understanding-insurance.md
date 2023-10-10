@@ -62,9 +62,9 @@ Various types of insurance can help protect the financial future of you and your
 
 Below we provide more information on each type of insurance.
 
-## Term Life Insurance
+## Life Insurance
 
-Term life insurance, or life insurance, is the most common type of insurance.
+Life insurance is the most common type of insurance.
 
 If the insured person dies or becomes terminally ill, the insurance company will pay the policyholder a lump sum, which can be used for any purpose but typically to clear debt and replace lost income.
 
