@@ -1,5 +1,5 @@
 ---
-blogtitle: Understanding Risk
+blogtitle: Understanding Risk and Return
 path: understanding-risk
 date: 2020-09-18T23:58:05.727Z
 author: Walbrook Wealth Management
