@@ -1,5 +1,5 @@
 ---
-blogtitle: Understanding Insurance in Superannuaion
+blogtitle: Understanding Insurance in Superannuation
 path: understanding-insurance-in-superannuation
 date: 2022-08-10T13:29:34.716Z
 author: Walbrook Wealth Management
