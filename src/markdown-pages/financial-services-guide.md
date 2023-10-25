@@ -110,9 +110,9 @@ policy: >-
 
   | ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
-  | <font color="#000066">Level 9                                          | <font color="#000066">GPO Box 1717                                   |
+  | <font color="#000066">Level 2, Rialto Podium East                      | <font color="#000066">GPO Box 1717                                   |
 
-  | <font color="#000066">505 Little Collins Street                        | <font color="#000066">Melbourne VIC 3001</font>                      |
+  | <font color="#000066">525 Collins Street                               | <font color="#000066">Melbourne VIC 3001</font>                      |
 
   | <font color="#000066">Melbourne VIC 3000</font>                        |                                                                      |
 
@@ -750,9 +750,9 @@ policy: >-
 
   | <font color="#000066">Barbacane Advisors Pty Ltd (A.C.N 626 694 139) trading as Walbrook Wealth Management |
 
-  | <font color="#000066">Level 9                                                                              |
+  | <font color="#000066">Level 2, Rialto Podium East                                                          |
 
-  | <font color="#000066">505 Little Collins Street                                                            |
+  | <font color="#000066">525 Collins Street                                                                   |
 
   | <font color="#000066">Melbourne VIC 3000                                                                   |
 
