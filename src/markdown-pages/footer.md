@@ -1,6 +1,6 @@
 ---
-office: Level 9
-officestreet: 505 Little Collins Street
+office: Level 2, Rialto Podium East
+officestreet: 525 Collins Street
 officecity: Melbourne VIC 3000
 postalgpo: "GPO Box 1717 "
 postalcity: Melbourne VIC 3001
