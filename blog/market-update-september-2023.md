@@ -2,7 +2,7 @@
 blogtitle: Market Update - September 2023
 path: market-update-september-2023
 date: 2023-11-08T02:14:34.993Z
-author: Walbrook Wealth Management
+author: Lonsec / Walbrook Wealth Management
 blogpage: true
 thumbnail: wholesale.png
 ---
