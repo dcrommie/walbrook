@@ -11,6 +11,8 @@ thumbnail: wholesale.png
 * During August, the Australian equity market declined by 0.7%. Most sectors finished the month lower, except for Consumer Discretionary (+5.7%), Property (+2.3%) and Energy (0.5%). 
 * Overseas markets also declined, Asian markets in particular finishing the month substantially softer. The Hang Seng Index (HKD) and the CSI 300 Index (CNY) declined by 8.2% and 6.0%, respectively. While most equity markets have generated moderate to strong returns over the one-year period, the Asian indices are outliers with declines of 4.4% and 5.3%.
 
+![](../src/images/market-returns-august-2023.jpg "Market Returns - August 2023")
+
 ### Australian equities
 
 The S&P/ASX 200 Accumulation Index fell 0.7% in August, as earnings results dampened market returns. Of the 11 sectors, only Consumer Discretionary (+5.7%), Property (+2.3%) and Energy (+0.5%) had positive returns for the month, while Utilities (-3.9%) and Consumer Staples (-3.2%) were the biggest drags on the Index.
