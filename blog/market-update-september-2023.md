@@ -1,13 +1,11 @@
 ---
 blogtitle: Market Update - September 2023
 path: market-update-september-2023
-date: 2023-11-08T02:14:34.993Z
+date: 2023-09-13T03:14:34.993Z
 author: Lonsec / Walbrook Wealth Management
 blogpage: true
 thumbnail: wholesale.png
 ---
-## Market Update – September 2023
-
 ### Key Points
 
 * During August, the Australian equity market declined by 0.7%. Most sectors finished the month lower, except for Consumer Discretionary (+5.7%), Property (+2.3%) and Energy (0.5%). 
