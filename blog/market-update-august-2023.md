@@ -4,14 +4,12 @@ path: market-update-august-2023
 date: 2023-08-15T03:30:07.699Z
 author: Lonsec / Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/market-update-august-2023.png
 ---
 ### Key Points
 
 * The Australian equity market finished July up 2.9%. Most sectors delivered strong returns led by energy (+8.8%), Financials ex-Property (4.9%) and Information Technology (4.5%), while Health Care (-1.5%) and Consumer Staples (-1.0%) were the only laggards.
 * With the exception of Japan, most global markets finished July stronger. The S&P 500 (USD) returned 3.2%, while the Nikkei 225 Index (JPY) was flat. European markets were softer over the month, with FTSE 100 Index (GBP) (2.4%), and FTSE Europtop 100 Index (EUR) (1.5%). Chinese markets, as represented by the CSI 300 Index (CNY) finished the month 5.4% higher.
-
-![](../src/images/market-returns-august-2023.jpg "Market Returns - August 2023")
 
 ### Australian equities
 
