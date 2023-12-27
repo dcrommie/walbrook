@@ -4,7 +4,7 @@ path: understanding-personal-insurance
 date: 2022-08-10T13:26:14.857Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/understanding-insurance.png
 ---
 **Financial planning is about more than just investing for the future. It’s also about protecting wealth.**
 
