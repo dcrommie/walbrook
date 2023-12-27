@@ -4,7 +4,7 @@ path: understanding-insurance-in-superannuation
 date: 2022-08-10T13:29:34.716Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/understanding-insurance-in-superannuation.png
 ---
 ***Owning insurance inside superannuation can be a tax-effective way to structure the insurance cover you need.***
 
