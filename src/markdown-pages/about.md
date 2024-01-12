@@ -13,10 +13,10 @@ careerdescription: Damien started working with private clients and their
   Management before joining the Swiss wealth manager Julius Baer in 2015 as an
   Executive Director in the London office.
 lifedescription: Damien is Treasurer and Board Member of The Lab Network, an
-  Australian not-for-profit running gaming & technology clubs for neurodiverse
-  young people. He was previously a founding trustee of Akwaaba, a London-based
-  charity supporting refugees, asylum seekers and other migrants. He now lives
-  in Melbourne with his wife and two sons.
+  Australian not-for-profit supporting neurodiverse young people with an
+  interest in technology. He was previously a founding trustee of Akwaaba, a
+  London-based charity supporting refugees, asylum seekers and other migrants.
+  He now lives in Melbourne with his wife and two sons.
 page: true
 careertitle: Work
 lifetitle: Life
