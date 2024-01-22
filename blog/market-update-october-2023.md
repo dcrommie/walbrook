@@ -8,8 +8,9 @@ thumbnail: ../src/images/market-update-october-2023.png
 ---
 ##Market Key Points
 
-• During September, the Australian equity market declined by 2.8%. Most sectors finished the month lower, with the exception of Energy (+1.6%). Property (-8.6%), Information Technology (-7.9%) and Health Care (-6.2%) had the largest declines.
-• Overseas markets declined, except for the FTSE 100 Index (GBP), which finished 2.4% higher. While acknowledging recent volatility, most global equity markets have generated solid returns over the past twelve months.
+* During September, the Australian equity market declined by 2.8%. Most sectors finished the month lower, with the exception of Energy (+1.6%). Property (-8.6%), Information Technology (-7.9%) and Health Care (-6.2%) had the largest declines. 
+
+* Overseas markets declined, except for the FTSE 100 Index (GBP), which finished 2.4% higher. While acknowledging recent volatility, most global equity markets have generated solid returns over the past twelve months. 
 
 ###Australian equities
 
