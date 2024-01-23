@@ -4,19 +4,9 @@ path: market-update-november-2023
 date: 2023-11-15T00:14:17.267Z
 author: Lonsec / Walbrook Wealth Management
 blogpage: true
-thumbnail: '<div style="position: relative; width: 100%; height: 0; padding-top:
-  38.5714%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
-  margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px;
-  will-change: transform;">  <iframe loading="lazy" style="position: absolute;
-  width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin:
-  0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?embed"
-  allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a
-  href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?utm_content=DAF6qAjFW6s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link"
-  target="_blank" rel="noopener">Banner - November 2023</a> by Damien Crommie'
+thumbnail: ../src/images/banner-november-2023.png
 ---
-<div style="position: relative; width: 100%; height: 0; padding-top: 38.5714%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?utm_content=DAF6qAjFW6s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Banner - November 2023</a> by Damien Crommie
-
-## Key Points
+## Market summary
 
 * The Australian market continued its decline in October finishing the month lower by 3.8% with heavy falls in Information Technology, Health Care and Industrials, Utilities the only sector in the black.
 
@@ -68,7 +58,7 @@ The fluctuations in the AUD throughout the month were linked to various factors,
 
 Relative to the AUD, the Euro (EUR) led the pack in October, appreciating by 1.5%. Conversely, the Japanese Yen (JPY) was the laggard of the month, albeit appreciating in relative terms by 0.1% against the AUD. Year-on-year, the AUD remains behind the Pound Sterling (GBP), EUR and USD by -6.4%, -7.3% and -0.9% respectively, whilst ahead of the JPY by 1.0%.
 
-## Economic key points
+## Economic summary
 
 * RBA maintained the cash rate at 4.1% but higher than expected inflation and retail sales in September points to a rate rise in November.
 
