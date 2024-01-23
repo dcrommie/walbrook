@@ -6,6 +6,8 @@ author: Lonsec / Walbrook Wealth Management
 blogpage: true
 thumbnail: https://www.canva.com/design/DAF6qAjFW6s/9X0J9OMxNWS-0HJNtnz6Gg/view?utm_content=DAF6qAjFW6s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 ---
+<https://www.canva.com/design/DAF6qAjFW6s/9X0J9OMxNWS-0HJNtnz6Gg/view?utm_content=DAF6qAjFW6s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel>
+
 \## Key Points
 
 \* The Australian market continued its decline in October finishing the month lower by 3.8% with heavy falls in Information Technology, Health Care and Industrials, Utilities the only sector in the black.
