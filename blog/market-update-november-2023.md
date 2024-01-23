@@ -1,20 +1,20 @@
 ---
 blogtitle: Market Update - November 2023
 path: market-update-november-2023
-date: 2024-01-23T00:14:17.267Z
+date: 2023-11-15T00:14:17.267Z
 author: Lonsec / Walbrook Wealth Management
 blogpage: true
 thumbnail: https://www.canva.com/design/DAF6qAjFW6s/9X0J9OMxNWS-0HJNtnz6Gg/view?utm_content=DAF6qAjFW6s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 ---
 <https://www.canva.com/design/DAF6qAjFW6s/9X0J9OMxNWS-0HJNtnz6Gg/view?utm_content=DAF6qAjFW6s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel>
 
-\## Key Points
+## Key Points
 
-\* The Australian market continued its decline in October finishing the month lower by 3.8% with heavy falls in Information Technology, Health Care and Industrials, Utilities the only sector in the black.
+* The Australian market continued its decline in October finishing the month lower by 3.8% with heavy falls in Information Technology, Health Care and Industrials, Utilities the only sector in the black.
 
-\* Overseas markets also declined, with falls across both developed and emerging markets.
+* Overseas markets also declined, with falls across both developed and emerging markets.
 
-\### Australian equities
+### Australian equities
 
 October saw the ASX 200 finish down 3.8%, marking the third consecutive month of negative returns.
 
@@ -26,7 +26,7 @@ Expectations for a November RBA rate rise were high following accelerating retai
 
 In all, the ASX 200 retreated in October, indicative of the significant headwinds that the local market continues to face.
 
-\### Global Equities
+### Global Equities
 
 Global equities had another negative month across the board.  Developed markets outperformed emerging markets counterparts returning -1.0% (MSCI World Ex-Australia Index (AUD)) versus a -2.0% return according to the MSCI Emerging Markets Index (AUD).
 
@@ -34,7 +34,7 @@ Investor concerns continue around interest rates remaining higher for longer. US
 
 Equities across Asia were also predominantly negative. China’s economic growth recovery plans have seen relative slowdown, with headwinds in the real estate sector and investor pessimism around the levels of Government involvement. This was reflected by the CSI 300 Index, returning -3.1% (in local currency terms) for the month.
 
-\### Property
+### Property
 
 Local and Global REITs continued to sell off during October.
 
@@ -44,7 +44,7 @@ October saw some activity on the M&A front across the A-REIT sector. Mirvac (ASX
 
 The Australian residential property market experienced a +0.9% change month on month represented by Core Logic’s five capital city aggregate. Perth (+1.6%), Brisbane (+1.4%) and Adelaide (+1.3%) were the best performers. Notably, all five cities experienced positive change month on month through October.
 
-\### Fixed Income
+### Fixed Income
 
 Michele Bullock has kept the cash rate at 4.10% in her first meeting as Governor of the RBA.
 
@@ -52,7 +52,7 @@ The month saw bond yields rise, with Australian 10- and 2- Year Government Bond 
 
 Yields in the US continued to rise this month with US 10-Year Treasury note yields rising 36bps and 2-Year Treasury note yields rising 5bps. Strong economic data has kept central banks hawkish, and a peak this month in yields represented the highest yields for US 10-Year Treasury since 2007. However, the strong job market has maintained higher consumer spending levels and future rate hikes may lead to further rate hikes from the Fed.
 
-\### Currencies & Commodities
+### Currencies
 
 The Australian dollar (AUD) depreciated over the month of October, closing -1.5% lower in trade weighted terms to 60.2, depreciating against all four referenced currencies in this update.
 
@@ -60,17 +60,17 @@ The fluctuations in the AUD throughout the month were linked to various factors,
 
 Relative to the AUD, the Euro (EUR) led the pack in October, appreciating by 1.5%. Conversely, the Japanese Yen (JPY) was the laggard of the month, albeit appreciating in relative terms by 0.1% against the AUD. Year-on-year, the AUD remains behind the Pound Sterling (GBP), EUR and USD by -6.4%, -7.3% and -0.9% respectively, whilst ahead of the JPY by 1.0%.
 
-\## Economic key points
+## Economic key points
 
-\* RBA maintained the cash rate at 4.1% but higher than expected inflation and retail sales in September points to a rate rise in November.
+* RBA maintained the cash rate at 4.1% but higher than expected inflation and retail sales in September points to a rate rise in November.
 
-\* US GDP for 3Q23 was 4.9%, contrasting with the Eurozone’s -0.1% for the same period.
+* US GDP for 3Q23 was 4.9%, contrasting with the Eurozone’s -0.1% for the same period.
 
-\* Eurozone inflation unexpectedly dropped to 2.9%, with the US steady at 3.7%.
+* Eurozone inflation unexpectedly dropped to 2.9%, with the US steady at 3.7%.
 
-\* The UK remains the outlier with a stubbornly high rate of 6.7%.
+* The UK remains the outlier with a stubbornly high rate of 6.7%.
 
-\### Australia
+### Australia
 
 The RBA held the cash rate at 4.1% in October but higher than expected inflation and retail spending data in September increases the likelihood of a rise in November.
 
@@ -80,11 +80,11 @@ The Westpac-Melbourne Institute Index of Consumer Sentiment rose to 82 in Octobe
 
 Retail sales increased by 0.9% in September, largely due to a warmer than usual start to Spring, while annual sales rose 2.0%. The Composite PMI fell to 47.6 in October, driven by a solid decline in private sector activity. The NAB business confidence index also fell to 1 in September, well below the average. The trade surplus came in at a 30 month low of $6.79 billion in September, well below market forecasts of $9.4 billion.
 
-\### Global
+### Global
 
 In its World Economic Outlook, the IMF revised down its forecast for global growth in 2024 to 2.9%, with the 2023 figure remaining at 3.0% - both below the 3.8% historical average. Advanced economies are expected to have growth rates of 1.5% in 2023 and 1.4% in 2024, amid stronger-than-expected US momentum but weaker-than-expected growth in the euro area. Emerging market and developing economies are projected to grow 4.0% in both 2023 and 2024, with a downward revision of 0.1% in 2024, reflecting the property sector crisis in China.
 
-\### US
+### US
 
 GDP growth for 3Q23 came in at 4.9%, well ahead of expectations and the prior quarter result, with consumer spending rising the most since 4Q21, led by housing and utilities.
 
@@ -94,7 +94,7 @@ The economy added 150,000 jobs in October, below the anticipated 180,000, with t
 
 Consumers remain unsure about the economic outlook with confidence dropping to 63.8 in October. Retail sales in September increased 0.7%, well above the 0.3% forecast, with the annual rate increasing 3.75%. The S&P Global Composite PMI rose to 50.7 in October, a marginal increase on the previous month despite fragile demand conditions.
 
-\### Eurozone
+### Eurozone
 
 The European Central Bank maintained the main interest rate at 4.5% at its October meeting, pausing at a 22-year high following ten consecutive rate hikes since July 2022.
 
@@ -102,13 +102,13 @@ GDP shrank by 0.1% in 3Q23 while annual inflation slowed to +2.9% for October, i
 
 Consumer confidence dropped to -17.9 in October, as the continued sticky inflation has eroded purchasing power. Retail sales fell 0.3% in September, exceeding the market expectations of a 0.2% suggesting that consumer demand is continuing to face challenges due to high interest rates and sticky inflation. The Composite PMI was lower at 46.5 in October, with a pronounced deterioration in the services sector.
 
-\### UK
+### UK
 
 UK annual inflation remained at 6.7% in September, above the expected 6.6%, with core inflation dropping to 6.1%. Both these figures remain significantly above the Bank of England's 2% target, further complicating the task for policymakers who are expected to keep interest rates unchanged in November. PPI fell to 0.1% in September, compared to market expectations of a 0.2% decline.
 
 Consumer confidence fell sharply to -30 in September as the high cost of living and economic uncertainty weighed on sentiment. Retail sales dropped 0.9% in September, against an anticipated 0.2% fall. Annual sales fell 1.0%, more than the expected -0.1%.
 
-\### China
+### China
 
 The Chinese economy expanded by 4.9% in 3Q23, beating market forecasts of 4.4% and offering hopes that it will meet the official annual target of around 5% this year, as sustained stimulus from Beijing offset the impact of a prolonged property crisis and weak trade.
 
@@ -116,18 +116,18 @@ Chinese manufacturing data for October was well below market expectations. Both 
 
 Annual inflation remained unchanged at 0% in September, ahead of the anticipated 0.2%. Annual retail sales grew 5.5% in September, exceeding market estimates of 4.9%. This is the ninth consecutive month of increases and the highest in four months.
 
-\### Japan
+### Japan
 
 The Bank of Japan modified its yield curve control policy, but not as much as investors had expected. The central bank had maintained a 1.0% upper limit on the 10 year government bond yield since July, but has now withdrawn its pledge to defend that level with unlimited bond buying, which leaves it more as a loose reference point rather than a rigid cap.
 
 The annual inflation rate fell to 3.0% in September, below the market forecast of 3.1%. This is the lowest reading in a year and core inflation dropped to a 13 month low of 2.8%. The unemployment rate fell to 2.6% in September and in line with market expectations. The consumer confidence index rose to 35.7 in October, with sentiment increasing in most components. Retail sales fell 0.1% in September, with the annual rate rising 5.8%, just below the forecast 5.9%. The composite PMI came 50.5 in October, While this represents the tenth month of expansion, it is the weakest reading.
 
-\*This article contains information first published by Lonsec. Voted Australia’s #1 Research House for 2019.\*
+*This article contains information first published by Lonsec. Voted Australia’s #1 Research House for 2019.\*
 
-\## General Advice Warning
+## General Advice Warning
 
 The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
 
-\## Important Information
+## Important Information
 
 Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465, Credit Representative Number 534783 authorised under Australian Credit Licence 389328). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
