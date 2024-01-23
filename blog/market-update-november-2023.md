@@ -4,9 +4,17 @@ path: market-update-november-2023
 date: 2023-11-15T00:14:17.267Z
 author: Lonsec / Walbrook Wealth Management
 blogpage: true
-thumbnail: https://www.canva.com/design/DAF6qAjFW6s/9X0J9OMxNWS-0HJNtnz6Gg/view?utm_content=DAF6qAjFW6s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+thumbnail: '<div style="position: relative; width: 100%; height: 0; padding-top:
+  38.5714%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
+  margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px;
+  will-change: transform;">  <iframe loading="lazy" style="position: absolute;
+  width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin:
+  0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?embed"
+  allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a
+  href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?utm_content=DAF6qAjFW6s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link"
+  target="_blank" rel="noopener">Banner - November 2023</a> by Damien Crommie'
 ---
-<https://www.canva.com/design/DAF6qAjFW6s/9X0J9OMxNWS-0HJNtnz6Gg/view?utm_content=DAF6qAjFW6s&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel>
+<div style="position: relative; width: 100%; height: 0; padding-top: 38.5714%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF6qAjFW6s&#x2F;view?utm_content=DAF6qAjFW6s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Banner - November 2023</a> by Damien Crommie
 
 ## Key Points
 
