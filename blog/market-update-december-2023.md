@@ -4,7 +4,7 @@ path: market-update-december-2023
 date: 2023-12-12T22:27:04.464Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/market-update-december-2023.png
 ---
 
 
