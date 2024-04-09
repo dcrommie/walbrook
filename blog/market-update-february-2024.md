@@ -4,7 +4,7 @@ path: Market Update - February 2024
 date: 2024-03-12T22:16:52.893Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/market-update-february-2024.png
 ---
 
 
