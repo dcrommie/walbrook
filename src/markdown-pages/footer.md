@@ -2,8 +2,8 @@
 office: Level 2, Rialto Podium East
 officestreet: 525 Collins Street
 officecity: Melbourne VIC 3000
-postalgpo: "GPO Box 1717 "
-postalcity: Melbourne VIC 3001
+postalgpo: Level 2, Rialto Podium East
+postalcity: Melbourne VIC 3000
 email: info@walbrook.com.au
 number: +61 3 9013 6262
 footerdesc1: Walbrook Wealth Management is a trading name of Barbacane Advisors
