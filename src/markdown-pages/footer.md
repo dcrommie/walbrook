@@ -2,7 +2,7 @@
 office: Level 2, Rialto Podium East
 officestreet: 525 Collins Street
 officecity: Melbourne VIC 3000
-postalgpo: Level 2, Rialto Podium East
+postalgpo: L2, Rialto Podium East, 525 Collins Street
 postalcity: Melbourne VIC 3000
 email: info@walbrook.com.au
 number: +61 3 9013 6262
