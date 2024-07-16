@@ -1,7 +1,7 @@
 ---
 blogtitle: Market Update - March 2024
 path: market-update-march-2024
-date: 2024-04-09T22:55:18.388Z
+date: 2024-03-09T21:55:18.388Z
 author: Walbrook Wealth Management
 blogpage: true
 thumbnail: ../src/images/market-update-march-2024.png
