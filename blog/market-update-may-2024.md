@@ -4,7 +4,7 @@ path: market-update-may-2024
 date: 2024-05-15T03:36:23.823Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/market-update-may-2024.png
 ---
 ## Market Key Points
 
@@ -50,7 +50,7 @@ The Australian residential property market experienced an increase of +0.6% Mont
 
 April was a tough month for bond markets, both locally and internationally. Yields were back at levels last seen in December 2023. 
 
-Over the month, price pressures remained stubborn, with CPI printing being higher than expected and house prices continuing to rise.
+Over the month, price pressures remained stubborn, with CPI printing higher than expected and house prices continuing to rise.
 
 Against this backdrop, Australian 2—and 10-year bond yields rose 33 and 41 basis points, respectively, over the course of the month, and the Australian bond market, as measured by BloombCoreLogic's Composite 0+ Yr Index, fell 1.98%.
 
