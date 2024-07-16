@@ -4,7 +4,7 @@ path: market-update-july-2024
 date: 2024-07-10T13:53:55.960Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: https://www.canva.com/design/DAGLEeDdOag/vBsG34N2eVqPzgg8ZmF-vQ/view?utm_content=DAGLEeDdOag&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ---
 \## Market Key Points
 
