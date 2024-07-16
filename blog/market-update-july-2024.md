@@ -6,13 +6,13 @@ author: Walbrook Wealth Management
 blogpage: true
 thumbnail: https://www.canva.com/design/DAGLEeDdOag/vBsG34N2eVqPzgg8ZmF-vQ/view?utm_content=DAGLEeDdOag&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ---
-\## Market Key Points
+## Market Key Points
 
-\* The Australian market continued to make gains, rising 1.0% during June with mixed returns across underlying sectors.
+* The Australian market continued to make gains, rising 1.0% during June with mixed returns across underlying sectors.
 
-\* The U.S. and Japanese markets were the strongest overseas markets, finishing the month up 3.1% and 2.0%, respectively (S&P 500 Index (USD) and Nikkei 225 Index (JPY)).
+* The U.S. and Japanese markets were the strongest overseas markets, finishing the month up 3.1% and 2.0%, respectively (S&P 500 Index (USD) and Nikkei 225 Index (JPY)).
 
-\### Australian equities
+### Australian equities
 
 June saw the ASX 200 Accumulation Index rise by 1.0%. Following May's mixed results, June was another month of a wide range of returns at the sector level. Financials ex-Property recorded the strongest returns (+5.1%), followed by Consumer Staples (+4.6%), Utilities (+4.6%) and Health Care (+4.4%). Laggards for the month were Materials (-6.5%), Energy (-1.6%) and Industrials (- 0.2%).
 
@@ -24,7 +24,7 @@ The softening of commodity prices, especially iron ore, also weighed into the se
 
 As the 2023/24 Australian Financial Year wrapped up, the ASX 200 posted total returns of 12.1%. After a solid finish to the year, Financials ex-property was the leading sector, gaining 29.2%. Three other sectors posted returns greater than 20%: Information Technology (+28.4%), Property (+24.7%) and Consumer Discretionary (+22.7%).
 
-\### Global Equities
+### Global Equities
 
 Both Emerging and Developed markets rallied in June to a positive finish for the first half of 2024. Emerging markets outperformed developed markets in June, returning 3.51% (MSCI Emerging Markets Index (AUD)) versus a 2.34% return (MSCI World Ex-Australia Index (AUD)).
 
@@ -34,7 +34,7 @@ European Equity markets were mostly lower, with the DAX 30 Index (EUR) dropping 
 
 Taiwanese markets were the best performing in the Asia-Pacific region for the first half of 2024 with the Taiex gaining 28.45% (in local currency terms). Largely boosted by Taiwan Semiconductors (TPE:2330) which gained 63% over the same period, as excitement around A.I. continues to drive sentiment. Japan also continued to gain with the Nikkei 225 Index up 2.01% in June (in local currency terms) after hitting all-time highs earlier in the year.
 
-\### Property
+### Property
 
 The S&P/ASX 200 A-REIT Accumulation index progressed in June, finishing the month 0.39% higher. Global real estate equities (represented by the FTSE EPRA/NAREIT Developed Ex Australia Index (AUD Hedged)) also advanced, up 0.83% for the month.
 
@@ -42,13 +42,13 @@ Australian infrastructure continued to perform strongly during June, with the S&
 
 The Australian residential property market experienced an increase of +0.7% Month on Month (as represented by CoreLogic's five capital city aggregate). Perth was the biggest riser (+2%), followed by Adelaide (+1.7%) and Brisbane (+1.2%). In contrast, Melbourne experienced a fall in value (-0.2%) and was the worst performer, producing the only negative result during June.
 
-\### Fixed Income
+### Fixed Income
 
 Following a surge in bond markets during the first half of June, a quick sell-off in the latter half of the month swiftly reversed any gains. From month-end to month-end, Australian 2-year Bond yields rose four basis points whilst Australian 10-year Bond yields fell ten basis points. The Australian bond market, measured by the Bloomberg AusBond Composite 0+ Yr Index, rose 0.77% over the course of June. At its June meeting, the RBA board voted to leave the cash rate target unchanged at 4.35%, with the market pricing in a 2026 trough in the cash rate. Inflation remains sticky, with the Australian Bureau of Statistics releasing higher-than-expected inflation figures – 4% for the year to May. Electricity and food prices were amongst the sectors with the highest price increases.
 
 The global backdrop in June was a large driver of Australian bond market performances. The European Central Bank was one of the first to lower interest rates - reducing by 25 basis points, French elections were called, and U.S. presidential campaigns were well underway, including the presidential campaign debate this month. Additionally, geopolitical uncertainties remain elevated – such as the heightened conflicts and tensions in the Middle East and Ukraine – and continue to have the potential to affect supply chains. Against this backdrop, U.S. 2-year and 10-year Treasury Note yields fell 11 and 10 basis points, respectively.
 
-\### Currencies & Commodities
+### Currencies & Commodities
 
 The Australian dollar (AUD) appreciated over the month of June, closing 0.3% higher in trade weighted terms to 63.3, appreciating against all four referenced currencies in this update.
 
@@ -56,15 +56,15 @@ The AUD/USD exchange rate experienced its least volatile month since December 20
 
 Relative to the AUD, the USD depreciated the least during the month, closing 0.2% lower. The laggard of the month was the JPY, depreciating in relative terms against the AUD by 2.7%. Year-on-year, the AUD is ahead of the USD, Pound Sterling (GBP), Euro (EUR) and JPY by 0.8%, 0.8%, 2.7% and 12.5%, respectively.
 
-\## Economic key points
+## Economic key points
 
-\* The RBA left the cash rate at 4.35% in its May meeting.
+* The RBA left the cash rate at 4.35% in its May meeting.
 
-\* Australian annual inflation came in above expectations at 4.0% in May.
+* Australian annual inflation came in above expectations at 4.0% in May.
 
-\* The ECB cut interest rates by 0.25 to 4.25%.
+* The ECB cut interest rates by 0.25 to 4.25%.
 
-\### Australia
+### Australia
 
 As expected, the RBA left the interest rate unchanged at 4.35% in its June meeting but retained the option for further increases if inflation remains stubbornly above the 2-3% target rate.
 
@@ -80,7 +80,7 @@ The NAB business confidence index fell to -3 in May, suggesting that the subdued
 
 The trade surplus narrowed to $5.77 billion in May, well below the market forecast of $6.68 billion.
 
-\### US
+### US
 
 The Federal Reserve kept the target range for the federal funds rate unchanged at 5.25%-5.50% during its June meeting, with policymakers are unlikely to reduce rates until there is greater confidence that inflation is moving sustainably towards 2%. Annual inflation unexpectedly eased to 3.3% in May, below the forecast 3.4% as inflation eased for food, shelter, and transportation.
 
@@ -92,7 +92,7 @@ Composite PMI rose to 54.6 in June, with services showing significant improvemen
 
 The trade deficit widened to US$75.1 billion in May, below forecasts of a US$76.2 billion gap.
 
-\### Eurozone
+### Eurozone
 
 The European Central Bank cut interest rates by 0.25% to 4.25% in its June meeting in response to inflation declining by more than 2.5 percentage points since September 2023.
 
@@ -104,7 +104,7 @@ Retail sales increased 0.1% in May, below the anticipated 0.2%, while annual sal
 
 The Composite PMI fell to 50.8 in June, significantly below expectations, with services growth offset by a deep contraction in manufacturing output.
 
-\### UK
+### UK
 
 The Bank of England left interest rates unchanged at 5.25%, which was in line with market expectations. Two out of the nine policymakers voted in favour of a cut to 5.0%, with a decision to cut more 'finely balanced'.
 
@@ -116,7 +116,7 @@ Retail sales for the month of May rose to 2.9%, ahead of the 1.5% expected and r
 
 Composite PMI fell to 52.3 in June, as activity in both services and manufacturing slowed for the second month in a row.
 
-\### China
+### China
 
 Inflation in China dropped 0.1% in May, with the annual rate coming in at 0.3%, slightly below market expectations of 0.4%.
 
@@ -126,7 +126,7 @@ The composite PMI came in at 52.8 in June, with output growth accelerating in th
 
 Annual retail sales improved by 3.7% in May, ahead of the expected reading of 3.0% and the prior month's rise of 2.3%.
 
-\### Japan
+### Japan
 
 The inflation rate rose to 2.8% in May, overshooting the market forecast of 2.5%, whilst the core inflation rate also rose to 2.5%, below the 2.6% expected. Retail sales increased 1.7% in May, well above the forecast of -0.5%, with annual sales growing 3.0%, also well above the 2.0% forecast.
 
@@ -134,12 +134,12 @@ Consumer confidence increased marginally to 36.4 in June, just below market expe
 
 Composite PMI dropped to 49.7 in June as the rise in manufacturing output was outweighed by a fall in services activity.
 
-\*This article contains information first published by Lonsec. Voted Australia’s #1 Research House for 2024.\*
+*This article contains information first published by Lonsec. Voted Australia’s #1 Research House for 2024.\*
 
-\## General Advice Warning
+## General Advice Warning
 
 The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
 
-\## Important Information
+## Important Information
 
 Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. Walbrook Wealth Management (Credit Representative Number 534783) is authorised under Australian Credit Licence 389328.  We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
