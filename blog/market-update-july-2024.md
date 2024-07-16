@@ -4,7 +4,30 @@ path: market-update-july-2024
 date: 2024-07-10T13:53:55.960Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: https://www.canva.com/design/DAGLEeDdOag/vBsG34N2eVqPzgg8ZmF-vQ/view?utm_content=DAGLEeDdOag&utm_campaign=designshare&utm_medium=link&utm_source=editor
+thumbnail: "<div style=\"position: relative; width: 100%; height: 0;
+  padding-top: 38.5714%;\r
+
+  \ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
+  margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\r
+
+  \ border-radius: 8px; will-change: transform;\">\r
+
+  \  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height:
+  100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\r
+
+  \    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGLEeDdOag&#x2\
+  F;5UJtAcMGEzytJvnPeKuE9g&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\"
+  allow=\"fullscreen\">\r
+
+  \  </iframe>\r
+
+  </div>\r
+
+  <a
+  href=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGLEeDdOag&#x2F;5UJt\
+  AcMGEzytJvnPeKuE9g&#x2F;view?utm_content=DAGLEeDdOag&amp;utm_campaign=designs\
+  hare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\"
+  rel=\"noopener\">Market Update - July 2024</a> by Damien Crommie"
 ---
 ## Market Key Points
 
