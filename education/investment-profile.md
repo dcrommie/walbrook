@@ -6,13 +6,13 @@ author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/understanding-risk.png
 ---
-It is fundamental to the quality and relevance of our advice that we have a shared, in-depth understanding of your financial position and investment profile.
+Understanding your financial position and investment profile in depth is fundamental to the quality and relevance of our advice.
 
-We regularly check that your investment profile is up to date to ensure that we continue to serve you in your best interests and that we keep abreast of any changes that may have a bearing on the advice that we provide.
+We regularly check your current investment profile to ensure our advice remains suitable amidst changing circumstances.
 
-This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
+This fact sheet provides additional information to help you understand the investment, tax, and other financial planning concepts we discussed with you or included in your Statement of Advice.
 
-Please contact your adviser if there is any aspect on which you need further information or clarification.
+Please get in touch with your adviser if there is any aspect on which you need further information or clarification.
 
 ## What is your investment profile?
 
@@ -22,130 +22,116 @@ Your investment profile has three components:
 * Risk Profile
 * Investment Strategy
 
-You should bear in mind that specific institutions, such as your superannuation fund, may have their distinctive investment objectives and risk characteristics which do not precisely correlate with those set out below.
+Please remember that specific institutions, such as your superannuation fund, may have distinctive investment objectives and risk characteristics that do not precisely correlate with those below.
 
-You should always read the Statement of Advice and Product Disclosure Statements to gain a proper understanding of the unique investment objectives and associated risks.
+### Primary Investment Objective
 
-## Primary Investment Objective
+The primary investment objective captures a preliminary understanding of your intentions and goals for wealth and may differ between different elements, e.g., retirement and non-retirement savings.
 
-The primary investment objective captures a preliminary understanding of your intentions and goals for your wealth and may differ between different elements, e.g. retirement savings and non-retirement savings.
-
-### Capital preservation
+#### Capital preservation
 
 You want to preserve your capital with the least possible risk and high liquidity. You recognise that this offers minimal growth potential.
 
-### Balanced growth
+#### Balanced growth
 
-You want to achieve regular income from interest and dividend earnings, which may be reinvested, and generate modest capital growth. You prefer medium-risk investments, recognising that there may be limited growth potential, and you are willing to accept some risk of capital loss.
+You want to earn regular interest and dividends, which you may reinvest or require for living expenses, and generate modest capital growth. You prefer medium-risk investments but recognise that there may be limited growth potential and are willing to accept some risk of capital loss.
 
-### Dynamic Growth
+#### Dynamic Growth
 
-You want to grow the value of your investments and accumulate wealth over time through price appreciation. You prefer medium to high-risk investments, recognising that the potential to accumulate wealth is much greater. You are willing to accept more risk, short term loss of a higher magnitude and greater variance in annual returns to achieve above-average growth.
+You want to grow the value of your investments and accumulate wealth over time through price appreciation. You prefer medium to high-risk investments, recognising that the potential to accumulate wealth is much greater. You are willing to accept more risk, short-term unrealised loss of a higher magnitude and more significant variance in annual returns to achieve above-average growth.
 
-## Risk Profile
+### Risk Profile
 
-Your risk profile is primarily an estimation of your willingness to accept fluctuations in your investment values over time. Your ability to bear financial risks is also taken into account when determining an appropriate level of risk exposure.
+Your risk profile primarily estimates your willingness to accept fluctuations in your investment values over time. We consider your ability to bear financial risks when determining an appropriate level of risk exposure.
 
-For example, while you may be comfortable with taking the risk of a 33% fall in your portfolio, your need for income, high debt levels, a short investment horizon or large pending capital expenditures may mean you are not able to bear that risk.
+For example, while you may be comfortable with taking the risk of a 33% fall in your portfolio, your need for income, high debt levels, a short investment horizon or large pending capital expenditures may mean you cannot bear that risk.
 
-### Risk Group 1
+#### Secure
 
-Investors in Risk Group 1 are not typically comfortable losing any of their portfolio value over a given year. In exchange for this risk, they generally expect their portfolio to generate the same return as low-risk assets, such as Term Deposits, over the same period.
+Investors with a **Secure** risk profile typically seek to generate income and preserve the nominal value of their assets. They are only willing or able to accept minimal fluctuations in the value of their portfolio and expect to be able to realise their investment at short notice.
 
-A portfolio suitable for an investor in Risk Group 1 produces regular interest income with minimal volatility of capital.
+A portfolio suitable for an investor with a Secure risk profile produces regular interest income with minimal capital volatility. It usually contains around 100% in defensive assets such as online savings accounts and bank term deposits. Exposure to high-quality fixed-income instruments, such as government bonds, may also be incorporated.
 
-### Risk Group 2
+*As at 31 August 2022, the long-term absolute return objective for the Secure asset allocation is 2.40% pa, commensurate with cash products such as savings accounts and term deposits.*
 
-In the event of a severe downturn, investors in Risk Group 2 can typically bear a 10% drop in the value of their portfolio over a given year. In exchange for this risk, they generally expect their portfolio to return 1 - 1.5 times the rate that risk-free assets, such as Term Deposits, return over the same period.
+The minimum suggested investment timeframe is less than one year. 
 
-A portfolio suitable for an investor in Risk Group 2 produces regular interest, dividend and rental income, with some capital growth and minimal volatility of capital.
+#### Defensive
 
-### Risk Group 3
+Investors with a **Defensive** risk profile typically seek to generate income and preserve the nominal value of their assets. They are more concerned with potential losses than potential gains. Still, they are willing and able to accept occasional short-term losses in the value of their investment in return for some protection against the effects of inflation.
 
-In the event of a severe downturn, investors in Risk Group 3 can typically bear a 15% drop in the value of their portfolio over a given year. In exchange for this risk, they generally expect their portfolio to return 1.5 times the rate that low-risk assets, such as Term Deposits, return over the same period.
+A portfolio suitable for an investor with a Defensive risk profile generates interest, dividend and rental income, modest capital growth and minimal volatility in capital values.
 
-A portfolio suitable for an investor in Risk Group 3 generates interest, dividend and rental income, along with modest capital growth and moderate volatility of capital values.
+The portfolio will usually invest 80% in defensive assets such as fixed income and cash, with the remaining 20% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure and hedge funds.
 
-### Risk Group 4
+As of 31 August 2022, the long-term absolute return objective for the Defensive asset allocation is 3.20% pa, or 0.8% above expected returns on cash.
 
-In the event of a severe downturn, investors in Risk Group 4 can typically bear a 25% drop in the value of their portfolio over a given year. In exchange for this risk, they generally expect their portfolio to return 1.5 - 2 times the rate that low-risk assets, such as Term Deposits, return over the same period.
+In the twenty years to 30 June 2024, the maximum peak-to-trough fall on the Lonsec 20% Growth index has been 7.47%, reached in September 2022 following 13 months of declines and ongoing.
 
-A portfolio suitable for an investor in Risk Group 4 produces a mix of both capital growth and income, with a moderate level of expected volatility and return.
+The minimum suggested investment timeframe is two years. 
 
-### Risk Group 5
+#### Conservative
 
-In the event of a severe downturn, investors in Risk Group 5 can typically bear a 33% drop in the value of their portfolio over a given year. In exchange for this risk, they generally expect their portfolio to return two times the rate that low-risk assets, such as Term Deposits, return over the same period.
+Investors with a **Conservative** risk profile are typically seeking to generate income and some capital growth, aiming to preserve the inflation-adjusted value of their assets. They are willing and able to accept some investment risk for potentially higher capital growth and income returns.
 
-A portfolio suitable for an investor in Risk Group 5 produces capital growth, from both capital gains and reinvested income. Expected levels of volatility and return are above average, with riskier segments of defensive asset classes that have some positive correlation to growth asset classes, e.g. high yield debt, enhancing returns.
+A portfolio suitable for an investor with a Conservative risk profile generates a mix of both capital growth and income, with a moderate level of expected volatility and return.
 
-### Risk Group 6
+The portfolio will usually contain around 60% in defensive assets such as fixed-interest and cash, with the remaining 40% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure and hedge funds.
 
-In the event of a severe downturn, investors in Risk Group 6 can typically bear a 40% drop in the value of their portfolio over a given year. In exchange for this risk, they generally expect their portfolio to return 2 - 2.5 times the rate that low-risk assets, such as Term Deposits, return over the same period.
+As at 31 August 2022, the long-term absolute return objective for the Conservative asset allocation is 4.00% pa, or 1.60% above expected returns on cash.
 
-A portfolio suitable for an investor in Risk Group 6 generates capital growth, from both capital gains and reinvested income. Expected levels of volatility and return are high, with greater weighting to growth assets and riskier segments of defensive asset classes.
+In the twenty years to 30 September 2022, the maximum peak to trough fall on the Lonsec 40% Growth index was 15.71%, reached in February 2009 following 16 months of declines.  It took 18 months for the index to regain its previous peak.  
 
-### Risk Group 7
+The minimum suggested investment timeframe is three years. 
 
-In the event of a severe downturn, investors in Risk Group 7 can typically bear a 50% drop in the value of their portfolio over a given year. In exchange for this risk, they generally expect their portfolio to return three times the rate that low-risk assets, such as Term Deposits, return over the same period.
+#### Balanced
 
-A portfolio suitable for an investor in Risk Group 7 aims to produce capital gains, with some incidental income from growth asset classes and expectations of very high volatility.
+Investors with a **Balanced** risk profile typically seek to generate capital growth and income, which they may reinvest or withdraw. A balanced risk portfolio suitable for an investor produces both capital growth and income, with above-average expected return and volatility. 
 
-## Investment Strategy
+The portfolio will usually contain around 40% in defensive assets such as fixed-interest and cash, with the remaining 60% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure and hedge funds. 
 
-Determining a suitable investment strategy relies on multiple factors, including your overall investment objectives and risk profile. Personal circumstances may also mean that your investment strategy, and the risks that you bear, differ between portfolios and investment structures.
+As at 31 August 2022, the long-term absolute return objective for the Balanced asset allocation is 4.80% pa, or 2.40% above expected returns on cash.
 
-### Enhanced Cash
+In the twenty years to 30 September 2022, the maximum peak to trough fall on the Lonsec 60% Growth index was 24.65%, reached in February 2009 following 16 months of declines. It took 37 months for the index to regain its previous peak.  
 
-Investors in the Enhanced Cash strategy are typically seeking to generate an income and preserve the nominal value of their assets. They are only willing or able to accept very low fluctuations in the value of their portfolio and expect to be able to realise their investment at short notice.
+The minimum suggested investment timeframe is five years. 
 
-The Enhanced Cash strategy will usually contain around 100% in defensive assets such as online savings accounts and bank term deposits. Exposure to high quality fixed income instruments, such as government bonds, may be incorporated.
+#### Growth
 
-### Conservative
+Investors with a **Growth** risk profile are typically seeking to generate capital growth. They are less concerned with potential losses than with potential gains.
 
-Investors in the Conservative strategy are typically seeking to generate an income and preserve the nominal value of their assets. They are more concerned with potential losses than potential gains, but willing and able to accept occasional short-term losses in the value of their investment, in return for some protection against the effects of inflation.
+A portfolio suitable for an investor with a Growth risk profile generates capital growth, with some incidental income that is typically available for reinvestment.  Expected levels of volatility and return are high.  
 
-The Conservative strategy will usually contain around 85% in defensive assets such as fixed-interest and cash, with the remaining 15% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
+The portfolio will usually contain around 20% in defensive assets such as fixed-interest and cash as well as riskier defensive assets such as high-yield credit, with the remaining 80% allocated to growth-oriented investments such as shares or property.
 
-The minimum suggested investment timeframe is three years.
+Other assets that exhibit both growth and defensive characteristics, including high yield and emerging market debt, infrastructure and hedge funds may be included in the portfolio.
 
-### Moderate
+As at 31 August 2022, the long-term absolute return objective for the Growth asset allocation is 5.60% pa, or 3.20% above expected returns on cash.
 
-Investors in the Moderate strategy are typically seeking to generate an income and some capital growth, to aim to preserve the inflation-adjusted value of their assets. They are willing and able to accept some investment risk for potentially higher capital growth and income returns.
+In the twenty years to 30 September 2022, the maximum peak to trough fall on the Lonsec 80% Growth index was 32.63%, reached in February 2009 following 16 months of declines.  It took 47 months for the index to regain its previous peak.  
 
-The Moderate strategy will usually contain around 70% in defensive assets such as fixed-interest and cash, with the remaining 30% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
+The minimum suggested investment timeframe is six years. 
 
-The minimum suggested investment timeframe is three years.
+#### High Growth
 
-### Balanced
+Investors with a **High Growth** risk profile seek to generate capital growth. They are significantly less concerned with potential losses than gains, and able to accept significant risk, including the permanent loss of principal, to maximise long-term returns.
 
-Investors in the Balanced strategy are typically seeking to generate both capital growth and income, which they may reinvest or withdraw for spending.
+A portfolio suitable for an investor with a High Growth risk profile aims to produce capital gains, with some incidental income from growth asset classes and expectations of very high volatility.
 
-The Balanced strategy will usually contain around 50% in defensive assets such as fixed-interest and cash, with the remaining 50% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
+The portfolio usually allocates 95% to 100% to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics, such as high-yield and emerging market debt, infrastructure and hedge funds, may be included. The portfolio may contain a minimal cash allocation for operational reasons.
 
-The minimum suggested investment timeframe is five years.
+As at 31 August 2022, the long-term absolute return objective for the High Growth asset allocation is 6.40% pa, or 4.00% above expected returns on cash.
 
-### Growth
-
-Investors in the Growth strategy are typically seeking to generate capital growth. They are less concerned with potential losses than with potential gains.
-
-The Growth strategy will usually contain around 30% in defensive assets such as fixed-interest and cash, with the remaining 70% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
+Over the twenty years to 30 September 2022, the maximum peak to trough fall on the Lonsec 100% Growth index was 42.30%, reached in February 2009 after 16 months of declines. It took 54 months for the index to regain its previous peak.  
 
 The minimum suggested investment timeframe is seven years.
 
-### High Growth
+## Summary
 
-Investors in the High Growth strategy are typically seeking to generate capital growth. They are significantly less concerned with potential losses than potential gains.
+Determining a suitable investment strategy relies on multiple factors, including your overall investment objectives and risk profile.
 
-The High Growth strategy will usually contain around 15% in defensive assets such as fixed-interest and cash, with the remaining 85% allocated to growth-oriented investments such as shares or property. Other assets that exhibit both growth and defensive characteristics may be included, including infrastructure, derivatives and hedge funds.
+Personal circumstances also mean that your investment strategy and the risks you bear may differ between portfolios and investment structures.
 
-The minimum suggested investment timeframe is seven years.
+Risk profiling tools, such as questionnaires, should not be used in isolation. When setting and reviewing your investment profile, your adviser will always consider results from these tools alongside your broader objectives and financial circumstances.
 
-### Maximum Growth
-
-Investors in the Maximum Growth strategy are typically seeking to maximise the capital growth potential of their portfolio. They are willing and able to accept significant risk, including the permanent loss of principal, for the possibility to maximise long-term returns.
-
-The Maximum Growth strategy will usually contain a maximum of 5% in cash, with the remaining 95% - 100% allocated to growth-oriented investments such as listed shares, private equity or property. Other assets that exhibit both growth and defensive characteristics may be included, including high-yield and emerging market debt, derivatives and hedge funds.
-
-The minimum suggested investment timeframe is seven years.
-
-*Please let us know if you have any questions, or if there are any changes to your financial goals or circumstances that may impact your current investment profile.*
+*Please let us know if you have any questions or if your financial goals or circumstances change, which may impact your current investment profile.*
