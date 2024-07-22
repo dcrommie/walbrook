@@ -49,3 +49,11 @@ The following practical tips will help you keep on top of your obligations:
 
 Disclaimer: Technical Papers contain factual information only and are prepared without considering particular objectives, financial circumstances and needs. The information provided is not a substitute for legal, tax and financial product advice. The information contained in this document does not constitute advice given by the SMSF Association to you. If you rely on this information yourself or to provide advice to other persons, then you do so at your own risk. The SMSF Association is not licensed to provide financial product advice, legal advice or taxation advice. We recommend that you seek appropriate professional advice before relying upon the information in this technical paper. While the SMSF Association believes that the information provided is accurate, no warranty is given as to its accuracy and persons who rely on this information do so at their own risk. The information provided in this paper is not considered financial advice for the purposes of the Corporations Act 2001. © SMSF Association
 
+## General Advice Warning
+
+The information on this website contains general information and does not take into account your personal objectives, financial situation or needs. You should consider whether the information and any general advice provided is appropriate for your personal circumstances and where uncertain, seek further professional advice before taking any action.
+
+## Important Information
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. Walbrook Wealth Management (Credit Representative Number 534783) is authorised under Australian Credit Licence 389328.  We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
+
