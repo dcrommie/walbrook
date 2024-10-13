@@ -1,7 +1,7 @@
 ---
 blogtitle: Understanding Superannuation Contributions
 path: understanding-superannuation-contributions
-date: 2020-09-20T09:51:36.867Z
+date: 2024-10-13T08:51:36.867Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/superannuation-contributions-blog-post.png
@@ -17,21 +17,22 @@ You may contribute to your superannuation balance, or that of your spouse, subje
 There are two main types of contributions:
 
 * Concessional contributions, which are made by you or your employer and on which the contributor claims a tax deduction (before-tax contributions)
+
 * Non-concessional contributions, which are made by you and on which you do not claim a tax deduction (after-tax contributions)
 
 ## Concessional contributions
 
 The government offers generous tax concessions to encourage you to save for your retirement.
 
-Concessional contributions are tax-deductible contributions made to superannuation funds which comply with government regulations. If eligible, the contributor can use concessional contributions to reduce income tax payable on income or net capital gains.
+Concessional contributions are tax-deductible contributions made to superannuation funds that comply with government regulations. If eligible, the contributor can use concessional contributions to reduce income tax payable on income or net capital gains.
 
 Concessional contributions derive their name from the lower rate of tax that is applied when compared with the company tax rate and personal marginal tax rates.
 
 Generally, concessional contributions are subject to a 15% contribution tax payable by the superannuation fund. Low-income earners may receive a tax offset.
 
-Legislation limits the concessional contributions which can be made for individuals by an employer, or by an eligible person for themselves, in any one financial year. You can find current contribution cap levels [here](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Super-contributions---too-much-can-mean-extra-tax/).
+Legislation limits the concessional contributions which can be made for individuals by an employer, or by an eligible person for themselves, in any one financial year. You can find current contribution cap levels \[here](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Super-contributions---too-much-can-mean-extra-tax/).
 
-Unused concessional contribution capacity can be carried forward for five years, commencing 1 July 2018. To be eligible to use the carry-forward rule in a financial year, your total superannuation balance must have been below $500,000 at the end of the preceding financial year.
+Unused concessional contribution capacity can be carried forward for five years, commencing 1 July 2018. To be eligible to use the carry-forward rule in a financial year, your Total Superannuation Balance (TSB) must have been below $500,000 at the end of the preceding financial year.  You can find your TSB in the ATO section of your MyGov portal under Superannuation.
 
 ### Employer superannuation contributions
 
@@ -41,21 +42,21 @@ The Superannuation Guarantee (SG) contributions paid by your employer are conces
 
 The government introduced the SG system in the early 1990s.
 
-Employers are required to pay a percentage of an employee's earnings to the employee's superannuation fund, at least quarterly. You can find current SG rates [here](https://www.ato.gov.au/Rates/Key-superannuation-rates-and-thresholds/?anchor=Superguaranteepercentage#Superguaranteepercentage).
+Employers are required to pay a percentage of an employee's earnings to the employee's superannuation fund, at least quarterly. You can find current SG rates \[here](https://www.ato.gov.au/Rates/Key-superannuation-rates-and-thresholds/?anchor=Superguaranteepercentage#Superguaranteepercentage).
 
-The government caps the level of earnings on which the employer must base the contribution, limiting the amount of the required contribution, and employers are not required to contribute for employees earning under a certain amount per month.
+The government caps the level of earnings on which the employer must base the contribution, limiting the amount of the required contribution.
 
 Some employers elect to make contributions above the legislated amounts, as part of their overall employee benefits offering. Because these additional contributions also count towards the concessional contribution cap, high-income earners may wish to negotiate with their employer to take these amounts as salary.
 
 #### Salary sacrifice
 
-An employee may ask their employer to direct part of their pre-tax salary to superannuation, rather than have it paid to them as salary, known as salary sacrifice. The contributions are known as salary sacrifice contributions.
+An employee may ask their employer to direct part of their pre-tax salary to superannuation, rather than have it paid to them as salary.  This is typically known as superannuation salary sacrifice, and the contributions are known as salary sacrifice contributions.
 
 Salary sacrifice contributions are subject to 15% tax, which is generally a much lower rate than an individual's marginal tax rate, helping reduce their tax liability while building wealth for their retirement. While an individual who earns more than $250,000 per annum has their contributions taxed at 30%, this still provides a tax saving.
 
 ### Personal concessional contributions
 
-You are not limited to making concessional contributions via your employer. Any eligible person can make a personal concessional contribution to their superannuation fund, and claim a tax deduction on their personal tax return. A disadvantage of this approach, when compared with salary sacrifice, is having to fund your contributions from after-tax salary, then wait until the end of the financial year to lodge your tax return and receive your refund.
+You are not limited to making concessional contributions via your employer. Any eligible person can make a personal concessional contribution to their superannuation fund, and claim a tax deduction on their personal tax return. A disadvantage of this approach when compared with salary sacrifice, is the need to to fund your contributions from after-tax salary.  You must then wait until the end of the financial year to lodge your tax return and receive your refund.
 
 To determine your eligibility to make a concessional contribution, consult with your financial adviser or tax professional.
 
@@ -68,18 +69,20 @@ Examples of non-concessional contributions, other than contributions made person
 These contributions may attract benefits such as:
 
 * Government co-contributions
+
 * Spouse contribution tax offsets
+
 * Tax concessions in retirement and on death
 
 As with concessional contributions, non-concessional contributions are subject to a cap. The legislation sets the non-concessional limit at four times the concessional contribution limit.
 
-The amount allowed under the annual cap can be 'brought-forward' three years, as long as the individual has not triggered the 'bring-forward' rule in the previous two years and their total superannuation balance was below $1,400,000 at the end of the last financial year. You can find further information on the caps and treatment where the total superannuation balance is above $1,400,000 [here](https://www.ato.gov.au/Rates/Key-superannuation-rates-and-thresholds/?page=4#Non_concessional_contributions_cap).
+The amount allowed under the annual cap can be 'brought-forward' three years, as long as the individual has not triggered the 'bring-forward' rule in the previous two years and their total superannuation balance was below the relevant threshold at the end of the last financial year. You can find further information on the current TSB threshold for bring-forward contributions \[here.](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/growing-and-keeping-track-of-your-super/caps-limits-and-tax-on-super-contributions/non-concessional-contributions-cap)
 
 ### Government co-contributions
 
 By making a non-concessional superannuation contribution of $1,000, you may be eligible for a co-contribution from the government.
 
-You can find the eligibility requirements [here](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Super-co-contribution/?anchor=Eligibilityforthesupercocontribution#Eligibilityforthesupercocontribution). Once eligible, the income test determines the amount of co-contribution you may receive.
+You can find the eligibility requirements \[here](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Super-co-contribution/?anchor=Eligibilityforthesupercocontribution#Eligibilityforthesupercocontribution). Once eligible, the income test determines the amount of co-contribution you may receive.
 
 You do not need to apply for the government co-contribution. The ATO automatically calculates whether you are entitled to it, using information from your superannuation fund and your tax return.
 
@@ -115,16 +118,22 @@ Given the potential consequences of breaching the contribution limits, it is ess
 
 There are two key components of your superannuation balance:
 
-* The tax-free component of your superannuation balance typically derives from the non-concessional contributions that you have made.
+* The tax-free component of your superannuation balance is typically derived from the non-concessional contributions that you have made.
+
 * The taxable component is the total value of your superannuation, less the tax-free balance. The taxable part typically consists of concessional contributions, made by you or your employer, as well as investment earnings.
 
 The taxable component can be split further, into:
 
 * a taxed element, which has incurred contributions and earnings tax.
+
 * an untaxed element, which is not as common but arises from public sector superannuation schemes and insurance benefits that have not incurred any tax.
+
+
 
 Due to differing tax treatments, before consolidating or making significant contributions to your superannuation balances, you should speak to your financial adviser.
 
-#### **Important Information**
 
-Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. This post is general information only and is not intended to provide you with financial advice as it does not consider your investment objectives, financial situation or needs, unless expressly indicated otherwise. You should consider whether the information is suitable for your circumstances and where uncertain, seek further professional advice. The author has based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
+
+#### \*\*Important Information\*\*
+
+Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139; AFSL No. 512465). Barbacane Advisors Pty Ltd is authorised to provide financial services and advice. Walbrook Wealth Management (Credit Representative Number 534783) is authorised under Australian Credit Licence 389328.  We have based this communication on information from sources believed to be reliable at the time of its preparation. Despite our best efforts, no guarantee can be given that all information is accurate, reliable and complete. Any opinions expressed in this email are subject to change without notice, and we are not under any obligation to notify you with changes or updates to these opinions. To the extent permitted by law, we accept no liability for any loss or damage as a result of any reliance on this information.
