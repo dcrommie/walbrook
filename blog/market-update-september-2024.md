@@ -4,7 +4,7 @@ path: market-update-september-2024
 date: 2024-11-18T05:03:48.017Z
 author: "Walbrook Wealth Management "
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/copy-of-banner-for-insight-and-education-blogs-1-.png
 ---
 ## Market Key Points
 
