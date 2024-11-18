@@ -1,7 +1,7 @@
 ---
 blogtitle: Market Update - October 2024
 path: market-update-october-2024
-date: 2024-11-18T05:06:28.363Z
+date: 2024-10-10T05:06:28.363Z
 author: "Walbrook Wealth Management "
 blogpage: true
 thumbnail: ../src/images/copy-of-banner-for-insight-and-education-blogs-2-.png
