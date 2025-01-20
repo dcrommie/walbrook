@@ -9,7 +9,7 @@ thumbnail: ../src/images/copy-of-banner-for-insight-and-education-blogs.png
 ## Market Key Points
 
 * The Australian equity market rebounded in 
-November returning 3.8% over the month.e
+November returning 3.8% over the month.
 * Global developed markets had a strong month, 
 US equity markets buoyed by the presidential 
 election results.
