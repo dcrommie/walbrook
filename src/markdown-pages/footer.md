@@ -15,8 +15,8 @@ footerdesc2: The Chartered Accountants Australia and New Zealand logo is a
   permission.
 footerdesc3: Liability limited by a scheme approved under Professional Standards
   Legislation.
-footerdesc4: This page provides general information only and has been prepared
-  without taking into account your objectives, financial situation or needs. We
+footerdesc4: This page provides general only and has been prepared without
+  taking into account your objectives, financial situation or needs. We
   recommend that you consider whether it is appropriate for your circumstances
   and your full financial situation will need to be reviewed prior to acceptance
   of any offer or product. It does not constitute legal, tax or financial advice
