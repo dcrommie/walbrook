@@ -1,7 +1,7 @@
 ---
 blogtitle: "Understanding Multi-Generational Home Loans "
 path: understanding-multi-generational-home-loans
-date: 2025-03-03T02:57:04.233Z
+date: 2021-12-01T02:57:04.233Z
 author: Walbrook Wealth Management
 educationpage: true
 thumbnail: ../src/images/home-loans.jpg
