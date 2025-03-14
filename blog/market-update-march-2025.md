@@ -9,8 +9,8 @@ thumbnail: ../src/images/march-banner.jpg
 ## Market Key Points
 
 * The Australian equity market had a challenging month returning -3.8% dragged down by growth and cyclical sectors while defensives did well. 
-*The S&P 500 Index (USD) also finished the month lower returning -1.3%. The Japanese market (Nikkei 225 Index (JPY)) was one of the weakest markets globally with a return of -6.1%.
-*Chinese markets were a bright spot, as was some of the European region.
+* The S&P 500 Index (USD) also finished the month lower returning -1.3%. The Japanese market (Nikkei 225 Index (JPY)) was one of the weakest markets globally with a return of -6.1%.
+* Chinese markets were a bright spot, as was some of the European region.
 
 ### Australian equities
 
