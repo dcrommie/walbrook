@@ -8,9 +8,9 @@ thumbnail: ../src/images/april-banner-2025.jpg
 ---
 ## Market Key Points
 
-* The Australian equity market had an exceptionally strong month rising 4.2%. All sectors with the exception of Utilities, Energy and Materials finished the month higher.
-* Australian equity performance outshone global counterparts. The S&P 500 Index (USD) rose 1.2%, the FTSE Eurotop 100 Index (EUR) rose 0.5% and the CSI 300 Index (CNY) rose 0.6%. 
-* The Japanese and Hong Kong markets were some of the few to finish the month lower with returns of -1.2% and -1.0%.
+* It was a challenging month with domestic and international markets experiencing a sell-off.
+* Local markets finished the month 3.4% lower, while the S&P 500 Index was off by 5.6%.
+* Fixed income markets adjusted to news about tariffs and their implications for inflation and growth.
 
 ### Australian equities
 
@@ -25,133 +25,106 @@ Weakening metals and brent crude oil prices led to Materials and Energy shares f
 
 ### Global Equities
 
-Both Emerging and Developed markets continued to rally in July. Developed markets outperformed emerging markets returning 4.08% (MSCI World Ex-Australia Index (AUD)) versus a 2.58% return (MSCI Emerging Markets Index (AUD)).
+The ASX 200 Accumulation Index fell a further 3.4% in March, marking the second consecutive month of losses. Concerns over impending tariffs from the Trump Administration were a major factor in the sell-off, as investors continued to derisk. Although the market recovered some losses mid-month due to soft employment and inflation data, which fuelled hopes for a rate cut in May, overall caution remained.
 
-Smal Cap growth came back into focus in July over optimism US Rate cuts could drive growth for smaller companies. The Russell 2000 Index gained 10.2% and the Russell MicroCap Index gained 11.9%, outperforming the S&P500 which rose 1.2% (in local currency terms). Meanwhile the Nasdaq-100 fell -1.6% (in local currency terms) with Tech and Communications sectors dragging the Index down.
+Utilities (+1.5%) was again the lone sector with positive returns, continuing to be a haven during market volatility. Meanwhile, Information Technology (-9.7%) was the biggest laggard for the second straight month, tracking the losses of the tech-heavy US Nasdaq Index. Other sectors with significant losses included Consumer Discretionary (-6.3%), Property (-4.9%), and Health Care (-4.6%).
 
-Japanese markets fell in the second half of July after hitting all-time highs as speculation around the Bank of Japan’s monetary policy meeting cautioned the market and strengthened the Yen. The Nikkei 225 Index fell 1.21% in July (in local currency terms).
+While Materials (-0.3%) saw a slight downturn, gold mining stocks performed well. Increased demand for gold as a hedge against economic uncertainty boosted shares in companies such as Spartan Resources (ASX: SPR), which gained 45% over the month.
 
-Chinese equities were mixed in July as continued troubles in the real-estate sector dragged the market down, while Chinese authorities have cut the reverse repo rate and benchmark loan prime rate in a bid to stimulate the economy. The Hang Seng Index fell 1.02% and CSI 300 Index gained 0.60% (in local currency terms).
-
+March was a challenging month for the ASX 200, with significant losses driven by tariff concerns and cautious investor sentiment.  
 
 ### Property
 
-The S&P/ASX 200 A-REIT Accumulation index TR performed strongly in July, with the index finishing the month 6.83% higher and up 17.70% YTD. Global real estate equities continued the strong trend (represented by the FTSE EPRA/NAREIT Developed Ex Australia Index (AUD Hedged)) advancing 5.54% for the month. 
+The S&P/ASX 200 A-REIT Accumulation Index TR continued to fall in March, finishing the month down 4.9%. The Index is in negative territory YTD, down 6.8%. Global real estate equities fell, decreasing by 2.5% (represented by the FTSE EPRA/NAREIT Developed Ex Australia Index (AUD Hedged)). Australian infrastructure bounced back after a negative month, with a return of 1.7%. The index has delivered a return of 2.2% YTD.
 
-Australian infrastructure began to moderate during July, with the S&P/ASX Infrastructure Index TR returning 0.34% for the month and up 5.63% YTD.
+Against a global backdrop filled with uncertainty, March saw very little activity on the M&A front. The Hotel Property Investments (HPI) and Charter Hall Retail REIT (CQR) chapter has closed, with Charter Hall confirming compulsory acquisition of all outstanding ordinary securities on 25 March.
 
-July saw muted activity on the M&A front across the A-REIT sector. Region Group (RGN) has reached an agreement with GIC to establish Metro Fund 2, with RGN holding a 20% equity interest and acting as the manager of the Fund. The ACCC has raised preliminary concerns relating to Stockland’s (SGP) acquisition of 12 Lendlease residential Masterplan community projects. 
+Goodman Group (GMG) notified the market of the successful completion of its Security Purchase Plan (SPP) and $4bn institutional placement, which was announced on 19 February. 152,057 securities will be issued under the SPP at the same price as issued to Institutional investors on 20 March.
 
-The concern revolves around the competitive supply of housing lots in four regions. Centuria Capital Group (CNI) has entered into an agreement to acquire a 50% interest in a new-generation data service provider, Reset Data Ptd Ltd for $21m. Centuria Bass, the real estate finance division of Centuria Capital Group (CNI) has secured a new $150m warehouse facility, with a $100m initial senior secured commitment from UBS.
+The Australian residential property market experienced an increase of 0.4% Month on Month (as represented by CoreLogic’s five capital city aggregate). Growth was felt in all capitals outside of Hobart. After a negative month in February, Darwin was the biggest riser (+1.0%). Melbourne continues to rise but remains in negative territory over the previous 12-month period (+0.5%, -2.6% YoY).
 
-The Australian residential property market experienced an increase of +0.5% Month on Month (as represented by CoreLogic’s five capital city aggregate). Perth was the biggest riser (+2%), followed by Adelaide (+1.6%) and Brisbane (+0.9%). In contrast, Melbourne continued to experience a fall in value (-0.5%) alongside Darwin (-0.1%) while Hobart (-0.8%) was the worst performer.
-
+Perth is moderating (+0.2%, 11.9% YoY), with most remaining capitals seeing monthly growth around the same.
 
 ### Fixed Income
 
-July markets experienced notable shifts with investors navigating a landscape of cautious optimism amid ongoing economic uncertainties.
+The Commonwealth Federal Budget revealed tax cuts and subsidies in the energy and health sectors. Coupled with slowing inflation and expectations of potential rate cuts, this led to an improvement in consumer sentiment. However, news of tariffs overseas caused concern among local investors, resulting in rising yields at the longer end of the yield curve while yields at the short end decreased, further steepening the curve.
 
-Much awaited June 2024 quarter ABS CPI data recorded an annual inflation figure of 3.8%, resulting in expectations of a rate pause in the August RBA Board meeting. The sectors with the highest percent changes include alcohol and tobacco (6.8%), insurance and financial services (6.4%), and education (5.6%). 
+This could indicate short-term uncertainty, with a flight to safety driving up demand for short term treasuries and, as a result, reducing yields. Meanwhile, future economic growth and inflation expectations are being priced into longer term treasuries. Amid this backdrop, the Australian 2-year Treasury decreased from 3.74% to 3.69%, representing a 5 basis point drop, while the Australian 10-year Treasury rose from 4.29% to 4.38%, reflecting a 9 basis point increase.
 
-The Australian Bond market rallied in July with Australian 2-Year and 10-Year bond yields dropping 28 basis points and 19 basis points, respectively. The Australian bond market, as measured by the Bloomberg AusBond Composite 0+ Yr Index, returned 1.48% over the course of July.
+It's no surprise that the tariffs announced by the U.S. continued to dominate headlines, adding more uncertainty to the market. Investors were seeking clarity on Trump's tariff threats but were left dissatisfied, as more uncertainty was priced into the yield curve. Despite softer inflation data, with the headline rate dropping from 3.0% to 2.8%, consumer confidence weakened due to concerns about higher prices and the potential impact of future tariffs. The Fed maintained a neutral stance, keeping the cash rate unchanged and indicating that it would focus only on key inflation data.
 
-Globally, markets saw significant gains, with the Bloomberg Barclays Global Aggregate Index (AUD) returning 5.10% over the month against the backdrop of several economic and political developments. 
-
-The Federal Reserve signalled a pause in interest rate hikes, announcing at its July Federal Open Market Committee that the target cash rate will remain unchanged at 5.25%-5.5%. A combination of a weakening US labour market and CPI figures that were weaker than expected led to increased convictions of rate cuts from the Fed in 2024 and 2025. 
-
-This boosted US Treasuries with US 2- and 10-Year bond yields dropping 50 and 37 basis points over the month.
+The yield curve in the U.S. is the steepest it has been in recent years, with the yield on the U.S. 2-year Treasury decreasing from 4.01% to 3.90%, representing a 11 basis point drop, while the yield on the U.S. 10-year Treasury remained unchanged at 4.21%.
 
 
-### Currencies & Commodities
+### Currencies 
 
-The Australian dollar (AUD) depreciated in July, closing 3% lower in trade-weighted terms to 61.4, depreciating against all four referenced currencies in this update.
+The Australian dollar (AUD) appreciated over the month of March, closing 0.2% higher in trade weighted terms to 59.6, appreciating against the US Dollar (USD) and the Japanese Yen, whilst depreciating against the Pound Sterling (GBP) and the Euro (EUR).
 
-The AUD saw its first monthly decline against the USD since April, despite earlier gains from solid Australian economic data and USD weakness. Market sentiment worsened in late July, leading to a sell-off, particularly after Australian CPI aligned with RBA forecasts, diminishing near-term rate hike prospects. 
+The Australian dollar strengthened against the USD primarily due to a weakening USD, led by uncertain economic conditions globally. Capital flows shifted from the US towards the Eurozone, with their currencies also seeing a change in strength respectively. Australian economic data was improving relatively for the month of March, with the RBA expected to further cut interest rates in relation to further potential tariffs.
 
-The Japanese Yen (JPY) was the strongest in July, rebounding swiftly from its lowest level against the AUD since 1990, reached earlier in the month.
-
-Relative to the AUD, the JPY led in August, appreciating by 8.4%. Conversely, the USD was the laggard of the month, albeit appreciating in relative terms by 2.1% against the AUD. 
-
-Year-on-year, the AUD remains behind the Pound Sterling (GBP), Euro (EUR), and USD by -2.7%, -1.1%, and -2.9%, respectively, while ahead of the JPY by 0.2%.
-
+Relative to the AUD, the Euro was the highest performer of the month, appreciating in relative terms by 3.5% against the AUD. Year-on-year, the AUD remains behind the USD, EUR, GBP and the JPY by 4.3%, 4.4%, 6.3% and 5.1% respectively, in relative terms.
 
 ## Economic key points
 
-* Australian annual inflation eased to 3.8% in June, quelling expectations of the RBA raising rates again this year
+* Australian Q4 2024 GDP rose to 1.3%.
 
-* USA’s GDP growth for the Q2 was 2.8%, ahead of market expectations
+* Federal budget included $17bn tax cut over two years.
+
+* The FED kept its cash interest rate at 4.25-4.5%.
 
 ### Australia
 
-The quarterly CPI inflation to June was lower than had been feared, with the RBA’s preferred trimmed mean annualised rate easing slightly to 3.9% from 4.0% back in March. This result has quelled expectations that the RBA could raise interest rates again this year. Financial markets are now pricing in a 60% chance of an RBA rate cut by December.
+Australia's Q4 GDP growth rose quarter-on-quarter, up from 0.3% in Q3, bringing the annual rate to 1.3% from 0.8%. The main contributor was household consumption, which rebounded 0.4% from the previous quarter’s flat result. 
 
-Retail sales rose 0.5% in June, well ahead of the 0.2% forecast. Annual retail sales were up 2.9% with increases across all categories driven by mid-year/EOFY sales.
+Discretionary spending growth climbed to 0.4% from 0.1%, driven by year-end promotions and income tax cuts that boosted disposable incomes, outpacing consumption. This GDP result supports the RBA’s view that consumption growth picked up in Q4, with recovery expected to continue into 2025, supporting GDP growth. However, the central bank remains cautious about the slow pace of disinflation in a tight labour market, which influenced its decision to limit further easing following February’s rate cut.
 
-The unemployment rate rose to 4.1% in July and above the anticipated 7%. The Westpac-Melbourne Institute Consumer Sentiment Index fell to 82.7 in July as fears of persistent inflation and higher borrowing costs have offset any tax cut boost.
+Mid-month, federal treasurer Jim Chalmers announced a wide range of fiscal stimulus initiatives in the leadup to the national election, including a $17 billion tax cut from reducing the lowest tax rate from 16% to 14% over two years. Efforts to ease the rising cost of living included the extension of energy rebates for households and small business, and lowering the cap on PBS drug pricing. Other notable changes included incremental spending on transport infrastructure around Sydney and Melbourne, a ban on purchase of existing homes by foreign buyers and a ban on non-compete clauses for workers earning up to $175,000.
 
-Composite PMI fell to 49.9 in July, slipping below the neutral 50 as manufacturing activity contracted and services expansion slowed. The NAB business confidence index jumped to +4 in June, well above expectations as increases in sentiment were recorded in seven out of eight industries.
+Critics of the government’s proposals claimed that it locked in future budget deficits and growing debt without delivering meaningful financial impact in the tax cuts, and that it relied on overly optimistic economic forecasts. Headline inflation dropped to 2.4% over the year to February. The RBA’s preferred trimmed mean inflation rate dropped slightly to +2.7%. These results are within the bank’s target range of 2-3%.
 
-The trade surplus increased to $5.59 billion in July, from the revises $5.05 billion in May and well ahead of the forecast $5 billion.
+The ABS Labour Force report for February showed the economy losing 53,000 jobs, a disappointment compared to expectations for an increase of 30,000 roles. However, the unemployment rate held at 4.1% due to a fall in the participation rate. Retail sales increased 0.2% in February, softer than the expected 0.3%. Annual sales increased 3.6% in February, down from the 3.8% increase in January.
+
+The Westpac Consumer Confidence Index came rose to 95.9 in March, while the –NAB Business Confidence fell to -2 in March. ,.Composite PMI rose to 51.6 in March, driven by both a surge in services activity and a rebound in manufacturing output. 
+
+The trade surplus decreased to $2.97bn in February, well below the market expectations of $5.6bn.
 
 ### US
 
-The USA’s GDP growth for the second quarter was an annualised rate of 2.8%, a major improvement on the first quarter and slightly ahead of market expectations, but still representing a deceleration from late 2023. Inflation, based on the Federal Reserve’s preferred measure, the Core PCE price index, was 2.9% to the end of June, a slowdown from the first quarter which keeps the rate on track towards the Fed’s 2% target. Financial markets are now pricing in at least two rate cuts by year end.
+Headline CPI inflation also eased to +2.8% for the 12 months to February, while the Core CPI slowed to +3.1%. Both results were a relief after a surprising acceleration of price gains in January. However, there is growing awareness that these historical datapoints don’t capture the impact of the new tariffs announced by the Trump administration, and the potential retaliation from other countries. The Federal Reserve kept its cash interest rate at 4.25-4.5%, as widely expected. However, accompanying commentary from Chairman Jerome Powell highlighted the increased uncertainty resulting from the spate of new policies from the Trump administration. An updated “dot plot” trajectory, representing the central banks’ economic forecasts, showed that the median policymaker’s now expects lower GDP growth for the next three years, and higher inflation for the next two, compared to December projections. The board members continue to anticipate two more 0.25% interest rate cuts by the end of 2025, and a further two in 2026.
 
-July nonfarm payrolls rose 114,000, well below the 175,000 forecast and the lowest level in three months. Unemployment rate rose to 4.3% from 4.1%, as expected amid a slight rise in the participation rate.
+Non-farm payroll added 228,000 jobs in March, well above the revised February number of 117,000 and the forecast 135,000. The unemployment rate rose to 4.2% in March, above the market expectation of 4.1%
+In March, the Conference Board’s consumer confidence indicator fell to its lowest level in 4 years, with future expectations at a 12 year low. This data follows the University of Michigan’s own consumer sentiment indicator which at is at a two and a half year low of 57. Key concerns for respondents to the latest survey were the risk of a US recession and potential for new tariffs to exacerbate inflation. Composite PMI rose to 53.5 in March, with growth driven by services activity.
 
-Retail sales for the month of May were flat as expected, whereas annual retail sales grew 2.3% for the year to June, just above the expected 2.1% increase. Consumer sentiment dropped to 66.4 in July, above the anticipated 66, but the lowest in eight months.
+The trade deficit narrowed to $122.7bn in February, below the expected $123.5bn shortfall.
 
-Composite PMI dropped marginally to 54.3 in July, but still signalled strong services sector growth.
-
-The trade deficit narrowed to US$73.1 billion in June, above forecasts of a US$72.5 billion gap.
+Tariffs continued to dominate as Commerce Secretary Lutnick flagged partial tariff relief for Canada and Mexico. Lutnick said he believes Trump will work out a longer-term compromise with tariffs on goods covered by USMCA likely settling "somewhere in the middle." Latest twist follows ramp in trade war concerns after Canada, Mexico and China announced plans to retaliate against Trump's tariffs. Still, Trump’s unpredictability remains a factor after the president later said there was no room left for compromise on tariffs, taking aim at what he believes are insufficient efforts by Canada and Mexico to stem flow of fentanyl into US. This unpredictability was shown when a 25% tariff on cars was announced in late March, with everyone waiting for the so called ‘Liberation Day’ announcement of further tariffs due on 2 April.
 
 ### Eurozone
 
-The European Central Bank held its interest rates at 3.75% in its July meeting, but accompanying commentary from ECB President Christine Lagarde indicated that a move in September was wide open and repeated that it will not pre-commit to any rate path as data will guide a decision.
+Annual inflation eased to 2.2% in March, slightly below the market expectation of 2.3%. Services inflation slowed to a 33-month low (3.4% vs. 3.7% in February), while energy costs declined (-0.7% vs. 0.2%). Core inflation felt to 204%, below the forecast 2.5%.
 
-The inflation rate in the Euro area unexpectedly lifted to 2.6% in July and above the forecast 2.4%.
+Retail sales grew 0.3% in February, while annual sales exceeded market expectations of a 1.8%, coming in at 2.3%. Consumer confidence fell 0.9 points to -14.5 in March as consumers became more pessimistic about the economy.
+The unemployment came in at 6.1% in January, below the anticipated 6.2%.
 
-The unemployment rate rose to 6.5% in June, above the forecast 6.4%.
-
-Retail sales fell 0.3% in June, more than the expected 0.1% decrease, while annual sales dropped 0.3%, well below the anticipated 0.2% rise. Consumer confidence rose to -13.0 in June, likely driven by the ECB’s rate cut in June and expectations for further cuts later in the year.
-
-The Composite PMI fell to 50.2 in July as a significant contraction in manufacturing output and subdued services growth led to a loss in momentum.
+The Composite PMI rose to 50.9 in March, with goods production increasing for the first time in two years.
 
 ### UK
 
-Annual inflation in June was steady at 2.0%, slightly above the expected 1.9% but remaining at the Bank of England target.
+The Bank of England kept interest rates at 4.5% during its March meeting with policymakers adopting a wait-and-see approach to stubbornly high inflation and global economic uncertainties. The bank highlighted that, given the medium-term inflation outlook, a gradual and cautious approach to further withdrawal of monetary policy restraint remains appropriate. Inflation came in at 2.8 in February, below market forecasts but in line with the Bank of England forecast. The largest downward contribution came from prices of clothing which declined for the first time since October 2021.
 
-Consumer confidence improved to -13 in July, up from -14 in June, but missing the -12 forecast. The July figure suggests a note of caution as people wait to see exactly how the UK's new government will affect the wider economy and their personal finances.
+The unemployment rate was steady at 4.4% for the three months to January, meeting market expectations of.
 
-Retail sales dropped 1.2% in June, well below the expected -0.4%, hurt by election uncertainty, poor weather, and low footfall. Annual retail sales fell 0.2%, against an anticipated 0.4% increase.
+Consumer confidence increased by two points to -20 in February as consumers benefited from lower borrowing costs. Retail sales increased 1% in February, well ahead of the predicted 0.3% fall, with sales of household goods surging 6.8%.
 
-Composite PMI rose to 52.8 in July, supported by increased demand for both goods and services.
-
-Labour was elected with a landslide majority in the General Election on July 4. Prime Minister Keir Starmer appointed Rachel Reeves as the Chancellor of the
+Composite PMI increased to 51.5 in March, driven by an increase in services activity.
 
 ### China
 
-The Chinese economy grew by a seasonally adjusted 0.7% in Q2, after a marginally revised 1.5% increase in Q1. 
+The National People’s Congress was held in early March, unveiling its economic plans for 2025, with the growth target unchanged. China’s economy continues to face substantial headwinds from the property sector downturn, subdued domestic demand, demographic decline and growing trade barriers.
 
-While indicating the eighth straight period of quarterly rise, the latest result was the softest since Q2 of 2023, reflecting multiple headwinds at home such as extreme weather, weak consumption, high local government debts, and ongoing property weakness. Inflation in China rose 0.5% in July, matching the annual rate which was above market expectations of 0.3%.
+In mid-March, China’s State Council unveiled a 30-point plan to boost consumption. While there are some positive sentiments in this proposal, it remains unclear how this plan will actually be implemented and there is a risk that it could further expand the existing imbalances in China’s economy. Consumer prices dropped 0.1% for the year to March, below the expected +0.1% as the ongoing trade dispute with the US threatens to further dampen process.
 
-China’s unemployment rate was flat at 5.0% in June, matching forecasts.
-
-Composite PMI came in at 51.2 in July with services activity rising more than expected but dragged down by a fall in factory activity for the first time since October 2023.
-
-Annual retail sales rose 2% in June, well short of the anticipated 3.3% and below the 3.7% gain in June.
-
-### Japan
-
-The Bank of Japan raised its cash rate from 0.10% to 0.25%, just four months after lifting it out of negative territory, and taking another step towards normalising its monetary policy.
-
-Annual inflation held steady at 2.8% in June, in line with market forecasts, whilst core inflation rose to 2.6% in the same period. PPI increased to 2.9% in June, from 2.6% in May and meeting market estimates. 
-
-Retail sales increased 0.6% in June, above market expectations of a 0.4% increase with annual sales growing 3.7%, also exceeding forecasts.
-
-Consumer confidence increased to 36.7 in July, beating expectations of 36.5, as sentiment improved for most components.
-
-Composite PMI jumped to 52.5 in July largely due to the solid expansion of services activity while manufacturing activity unexpectedly fell.
+Composite PMI increased to 51.8 in March, driven by strong expansion in manufacturing and a three month peak in services output. The unemployment rate rose to 5.4% in February, up from 5.2% in January and above the expected 5.1%..
 
 *This article contains information first published by Lonsec. Voted Australia’s #1 Research House for 2019.*
 
