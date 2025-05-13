@@ -14,17 +14,6 @@ thumbnail: ../src/images/april-banner-2025.jpg
 
 ### Australian equities
 
-The ASX 200 Accumulation Index finished July month up 4.2%, marking its strongest monthly performance this year and reaching a new all-time high in the process. Despite expectations for earnings contractions, the strong level of market sentiment and a wave of momentum pushed shares higher.
-
-The market saw positive returns across a wide range of sectors, with eight out of eleven finishing higher. Consumer discretionary led the way with a gain of 9.1%, followed by Property (+6.6%), Financials (+6.3%), Industrials (+5.6%), and Communication Services (+5.3%). Conversely, the Utilities (-2.9%), Energy (-0.4%), and Materials (-0.1%) sectors weighed on the Index, ending the month with negative returns.
-
-Despite June quarter inflation data remaining sticky, investors were encouraged by the slowing core inflation number. Positive data in a UBS survey on consumer spending, coupled with undemanding valuations and overall underperformance in the sector, helped drive Consumer Discretionary companies. Meanwhile, the ‘Big Four’ Banks again pushed the Financials sector up.
-
-Weakening metals and brent crude oil prices led to Materials and Energy shares falling, which included losses of 11.9% from Fortescue (ASX: FMG), one of the largest iron ore miners in the Index.
-
-
-### Global Equities
-
 The ASX 200 Accumulation Index fell a further 3.4% in March, marking the second consecutive month of losses. Concerns over impending tariffs from the Trump Administration were a major factor in the sell-off, as investors continued to derisk. Although the market recovered some losses mid-month due to soft employment and inflation data, which fuelled hopes for a rate cut in May, overall caution remained.
 
 Utilities (+1.5%) was again the lone sector with positive returns, continuing to be a haven during market volatility. Meanwhile, Information Technology (-9.7%) was the biggest laggard for the second straight month, tracking the losses of the tech-heavy US Nasdaq Index. Other sectors with significant losses included Consumer Discretionary (-6.3%), Property (-4.9%), and Health Care (-4.6%).
@@ -32,6 +21,16 @@ Utilities (+1.5%) was again the lone sector with positive returns, continuing to
 While Materials (-0.3%) saw a slight downturn, gold mining stocks performed well. Increased demand for gold as a hedge against economic uncertainty boosted shares in companies such as Spartan Resources (ASX: SPR), which gained 45% over the month.
 
 March was a challenging month for the ASX 200, with significant losses driven by tariff concerns and cautious investor sentiment.  
+
+### Global Equities
+
+Global equities fell in March as tariff tensions, inflation surprises and tech volatility spooked markets. 
+
+Developed Markets declined 4.67% (MSCI World Ex-Australia Index AUD)), while Emerging Markets edged up 0.42% (MSCI Emerging Markets Index (AUD)), buoyed by policy support in key regions. 
+
+US markets corrected, with the S&P 500 down 5.63%, as investors reacted to the looming “Liberation Day” tariff rollout. Consumer sentiment fell for a third month, and core inflation surprised to the upside. The Fed hinted at future easing but held steady, awaiting clearer signs of economic weakness. 
+
+Europe declined, with the FTSE Eurotop 100 down 4.49%. Trade concerns overshadowed Germany’s €1t fiscal boost, though the ECB cut rates to 2.5% and signalled more easing ahead. The FTSE 100 fell 2.04%, underperforming as global volatility weighed on sentiment.
 
 ### Property
 
@@ -41,9 +40,7 @@ Against a global backdrop filled with uncertainty, March saw very little activit
 
 Goodman Group (GMG) notified the market of the successful completion of its Security Purchase Plan (SPP) and $4bn institutional placement, which was announced on 19 February. 152,057 securities will be issued under the SPP at the same price as issued to Institutional investors on 20 March.
 
-The Australian residential property market experienced an increase of 0.4% Month on Month (as represented by CoreLogic’s five capital city aggregate). Growth was felt in all capitals outside of Hobart. After a negative month in February, Darwin was the biggest riser (+1.0%). Melbourne continues to rise but remains in negative territory over the previous 12-month period (+0.5%, -2.6% YoY).
-
-Perth is moderating (+0.2%, 11.9% YoY), with most remaining capitals seeing monthly growth around the same.
+The Australian residential property market experienced an increase of 0.4% Month on Month (as represented by CoreLogic’s five capital city aggregate). Growth was felt in all capitals outside of Hobart. After a negative month in February, Darwin was the biggest riser (+1.0%). Melbourne continues to rise but remains in negative territory over the previous 12-month period (+0.5%, -2.6% YoY). Perth is moderating (+0.2%, 11.9% YoY), with most remaining capitals seeing monthly growth around the same.
 
 ### Fixed Income
 
@@ -55,8 +52,7 @@ It's no surprise that the tariffs announced by the U.S. continued to dominate he
 
 The yield curve in the U.S. is the steepest it has been in recent years, with the yield on the U.S. 2-year Treasury decreasing from 4.01% to 3.90%, representing a 11 basis point drop, while the yield on the U.S. 10-year Treasury remained unchanged at 4.21%.
 
-
-### Currencies 
+### Currencies
 
 The Australian dollar (AUD) appreciated over the month of March, closing 0.2% higher in trade weighted terms to 59.6, appreciating against the US Dollar (USD) and the Japanese Yen, whilst depreciating against the Pound Sterling (GBP) and the Euro (EUR).
 
@@ -67,9 +63,7 @@ Relative to the AUD, the Euro was the highest performer of the month, appreciati
 ## Economic key points
 
 * Australian Q4 2024 GDP rose to 1.3%.
-
 * Federal budget included $17bn tax cut over two years.
-
 * The FED kept its cash interest rate at 4.25-4.5%.
 
 ### Australia
