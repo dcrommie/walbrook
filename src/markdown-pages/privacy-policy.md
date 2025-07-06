@@ -151,7 +151,7 @@ policy: >-
   ### When we disclose your personal information
 
 
-  Generally, we must obtain your consent before we tell anyone about you or your investments. You can give us your consent expressly (by telephone or writing to us), or your conduct may imply it.
+  Generally, we must obtain your consent before we tell anyone about you or your investments and financial products. You can give us your consent expressly (by telephone or writing to us), or your conduct may imply it.
 
 
   Sometimes the law requires or allows us to give out information about you. For example, we may be required to give your information to AUSTRAC or product providers for anti-money laundering purposes. If you are involved in legal proceedings, we may be required under subpoena to provide your information to a court.
@@ -160,7 +160,7 @@ policy: >-
   We may also disclose your personal information to the entities described below.
 
 
-  * Our external service providers, including but not limited to organisations that provide us with financial, advisory, paraplanning, administrative, client relationship management, information technology or other services.
+  * Our external service providers, including but not limited to organisations that provide us with financial, advisory, paraplanning, administrative, client relationship management, information technology or other services. This includes establishing data feeds from financial product providers to our financial planning software and client portal e.g. Hub 24 to Xplan and MyProsperity, and data feeds from financial product providers to the client portals of other financial product providers e.g Macquarie Bank to Hub 24.
 
   * The product issuers of products and services that you have elected to acquire, vary or dispose of using our assistance, and other organisations who support the products and services we offer.
 
@@ -277,16 +277,7 @@ policy: >-
   ### Contact Details
 
 
-  | <div style="width:200px"><font color="#000066">Postal Address | <div style="width:200px"><font color="#000066">Email | <div style="width:200px"><font color="#000066">Telephone</font> |
-
-  | ------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
-
-  | <font color="#000066">GPO Box 1717                            | <font color="#000066">info@walbrook.com.au           | <font color="#000066">+61 3 9013 6262                           |
-
-  | <font color="#000066">Melbourne VIC 3001                      |                                                      |                                                                 |
-
-
-  </br>
+  O﻿ur postal address is Level 2, Rialto Podium East, 525 Collins Street, Melbourne VIC 3000.  Alternatively, you can email us at info@walbrook.com.au or call +61 3 9013 6262.
 
 
   **Important Information**
@@ -295,6 +286,6 @@ policy: >-
   Walbrook Wealth Management is a trading name of Barbacane Advisors Pty Ltd (ABN 32 626 694 139, Australian Financial Services Licence No. 512465). Credit Representative Number 534783 authorised under Australian Credit Licence 389328. Liability limited by a scheme approved under Professional Standards Legislation.
 
 
-  Version 1.50  Issued 7 October 2021
+  Version 1.9  Issued 7 July 2025
 page: true
 ---
