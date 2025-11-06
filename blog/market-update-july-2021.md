@@ -4,7 +4,7 @@ path: market-update-july-2021
 date: 2021-07-14T23:50:59.544Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/market-update-july.png
+thumbnail: ../src/images/placeholder.png
 ---
 Key economic indicators continue to improve, with several leading economies beginning to report modest increases in inflation. High-frequency indicators, such as business surveys, are off their peak readings but remain elevated in a historical context. 
 
