@@ -4,7 +4,7 @@ path: market-update-june-2020
 date: 2020-06-12T04:27:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/june-2020-blog-banner.png
+thumbnail: ../src/images/placeholder.png
 ---
 Major economies avoided a resurgence in COVID-19 cases in May, though it continues to spread rapidly in some regions and health authorities warn of a possible second wave.
 
