@@ -4,7 +4,7 @@ path: market-update-april-2021
 date: 2021-04-14T11:15:13.542Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/april-2021-blog-banner.png
+thumbnail: ../src/images/placeholder.png
 ---
 As vaccines continue to roll out globally, the rebound has shifted to cyclical sectors that the market expects will perform strongly as the world returns to normal. 
 
