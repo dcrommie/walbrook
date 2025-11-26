@@ -1,7 +1,7 @@
 ---
 blogtitle: Market Update - September 2025
 path: market-update-september-2025
-date: 2025-11-26T01:53:33.877Z
+date: 2025-09-18T02:53:33.877Z
 author: "Walbrook Wealth Management "
 blogpage: true
 thumbnail: ../src/images/sept-2025.jpg
