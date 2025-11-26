@@ -1,7 +1,7 @@
 ---
 blogtitle: Market Update - June 2025
 path: market-update-june-2025
-date: 2025-11-26T00:34:05.785Z
+date: 2025-06-21T01:34:05.785Z
 author: Walbrook Wealth Management
 blogpage: true
 thumbnail: ../src/images/june-2025.jpg
