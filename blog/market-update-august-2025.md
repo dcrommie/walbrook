@@ -4,7 +4,7 @@ path: market-update-august-2025
 date: 2025-08-18T02:41:55.203Z
 author: "Walbrook Wealth Management "
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/aug-2025.jpg
 ---
 ## Market Key Points
 
