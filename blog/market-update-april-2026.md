@@ -4,7 +4,7 @@ path: market-update-april-2026
 date: 2026-04-08T10:59:35.143Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: wholesale.png
+thumbnail: ../src/images/banner-image-april-2-2026-canva.png
 ---
 ## Market Key Points
 
