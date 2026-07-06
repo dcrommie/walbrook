@@ -53,7 +53,7 @@ policy: >-
   ### Sensitive Information
 
 
-  We do not collect sensitive information unless we need it to provide you with the financial services that you have requested. For example, sensitive information includes details of your medical history or criminal record.
+  We do not collect sensitive information unless we need it to provide you with the financial services that you have requested. For example, sensitive information includes details of your medical history or criminal record.   This may also include information about your public roles or associations where required to comply with anti-money laundering and counter-terrorism financing laws.
 
 
   If we do have to collect sensitive information, we will only collect, use and disclose it in accordance with privacy laws.
@@ -75,6 +75,9 @@ policy: >-
 
 
   Where we obtain information from you directly, this is generally accomplished in meetings, by phone, by email, forms and when you visit our website or those of our external service providers.
+
+
+  With your consent, we may also collect financial information about you from your financial institutions using data sharing or aggregation services, including Cashdeck and Open Banking services provided through Frollo. This may include transaction history, account balances and other financial data. These services allow us to obtain up-to-date financial information to assist in providing financial advice and related services.
 
 
   Sometimes we act as an intermediary for others when collecting information about you, such as to assist you to apply for insurance. We will inform you when we do this.
@@ -160,7 +163,7 @@ policy: >-
   We may also disclose your personal information to the entities described below.
 
 
-  * Our external service providers, including but not limited to organisations that provide us with financial, advisory, paraplanning, administrative, client relationship management, information technology or other services. This includes establishing data feeds from financial product providers to our financial planning software and client portal e.g. Hub 24 to Xplan and MyProsperity, and data feeds from financial product providers to the client portals of other financial product providers e.g Macquarie Bank to Hub 24.
+  * Our external service providers, including but not limited to organisations that provide us with financial, advisory, paraplanning, administrative, client relationship management, information technology or other services. This includes establishing data feeds from financial product providers to our financial planning software and client portal e.g. Hub 24 to Xplan, and data feeds from financial product providers to the client portals of other financial product providers e.g. Macquarie Bank to Hub 24.
 
   * The product issuers of products and services that you have elected to acquire, vary or dispose of using our assistance, and other organisations who support the products and services we offer.
 
@@ -175,7 +178,11 @@ policy: >-
   * Government and regulatory authorities and other organisations, as required or authorised by law.
 
 
-  With your consent, we may also share your full name, date of birth, residential address and contact details with an identity agent to help us verify your identity against government and non-government electronic data sources. 
+  With your consent, we may also share your full name, date of birth, residential address and contact details with an identity agent to help us verify your identity against government and non-government electronic data sources. These services may also be used to assess financial crime risk, including screening against government and international sanctions lists and identifying whether you are a politically exposed person (PEP), in order to comply with our obligations under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth).\
+
+  \
+
+  We may also, with your consent, collect financial information about you via data sharing services, including Cashdeck and Open Banking services provided through Frollo. This may include transaction data, account balances and other financial information held by your financial institutions. These services are used to assist us in understanding your financial position and providing financial advice.
 
 
   For insurance products, where required by law, we may disclose personal information about you to the Insurer without getting your consent. These parties are required to comply with the privacy laws in using any such information.
@@ -184,11 +191,13 @@ policy: >-
   ### Overseas Disclosure and Storage of Personal Information
 
 
-  We use cloud infrastructure that is physically located in Australia and have carried out suitable due diligence on our cloud service providers.
+  We use cloud infrastructure that is physically located in Australia and have carried out suitable due diligence on our cloud service providers.\
 
+  \
 
-  We may offer you access to a personal wealth portal provided by myprosperity Aust Pty Ltd (‘myprosperity’). Data provided to myprosperity by you, Walbrook and financial institutions linked to your personal wealth portal is stored with Yodlee Inc in the United States of America.
+  We may provide Atlas Outsourcing Pty Ltd with access to your personal data for them to provide us with administration and paraplanning support.  In this case your data remains in Australian servers but is viewed from the Philippines.\
 
+  \
 
   We may transfer personal information to other financial product and service providers in locations outside Australia when using or disclosing it for one of the purposes referred to above. We may need your consent before this occurs. When transferring personal information to foreign jurisdictions, we take reasonable steps to ensure the overseas recipient does not breach the Australian Privacy Principles.
 
