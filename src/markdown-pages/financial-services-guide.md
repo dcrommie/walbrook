@@ -366,10 +366,13 @@ policy: >-
   You may elect to enter into an ongoing engagement to receive regular investment advice and administration services. 
 
 
-  The monthly fee is set with reference to teh amount invested and the complexity of the advice and service required, and is invoiced monthly in advance. 
+  Our standard fee is 0.55% per annum (including GST) of the assets under advice.  The fee is calculated daily based on the value of the assets under advice and is deducted from your investment account monthly in arrears unless otherwise agreed.
 
 
-  The minimum fee is AUD 100 per month, including GST.  The maximum fee is 1.50% pa, including GST, on the assets under advice at the commencement of the engagement.
+  A minimum fee of AUD 200 per month (AUD 2,400 per annum) including GST, applies.  For reference, the minimum fee generally applies where the assets under advice are less than approximately AUD 327,000.
+
+
+  The actual fee payable will depend on the value of the assets under advice and the complexity of the advice and services provided.
 
 
   </td>
@@ -393,13 +396,25 @@ policy: >-
   <td valign="top" div style="width:425px">
 
 
-  You may elect to enter into an ongoing engagement to receive comprehensive advice and administration services, including investment advice. 
+  You may elect to enter into an ongoing engagement to receive comprehensive advice (including investment advice), implementation and associated administration services.
 
 
-  The monthly fee is based on the complexity of the advice and required services, and invoiced monthly in advance. 
+  Strategic advice engagements may include advice relating to investments, superannuation, retirement planning, personal insurance, estate planning, taxation considerations, aged care and other financial planning matters.
 
 
-  The minimum fee is AUD 275 per month (AUD 3,300 pa), including GST, and the maximum fee is AUD 3,000 per month (AUD 36,000 pa), including GST.
+  Under this engagement, we may agree a fixed monthly fee, an asset-based fee or a combination of both.  Where an account contains borrowed funds, we will charge a fixed monthly fee.
+
+
+  Any fixed monthly fee will generally be based on the complexity of the advice and services required and will be invoiced monthly in advance.  
+
+
+  Where an asset-based fee is used, the fee will generally be calculated at 0.75% per annum (including GST) of the assets under advice.  The fee is calculated daily based on the value of the assets under advice and deducted from your investment account monthly in arrears.
+
+
+  The minimum ongoing fee under this engagement is AUD 275 per month (AUD 3,300 per annum) for individuals and AUD 400 per month (AUD 4,800 per annum) for couples.  All fees are inclusive of GST.
+
+
+  The actual fee payable will depend on the value of the assets under advice, the complexity of the advice and services provided, and the engagement arrangement agreed with you.
 
 
   </td>
@@ -513,10 +528,7 @@ policy: >-
   If your premium is AUD 500 per annum and the applicable commission rate is 33%, Walbrook will receive an ongoing commission of AUD 165 per annum. 
 
 
-  Your Statement of Advice will disclose the actual commission that Walbrook and your Adviser will receive. 
-
-
-  In accordance with APES 230: Financial Planning, we must write to you each year to disclose the commissions that we expect to receive.
+  Your Statement of Advice will disclose the actual commission that Walbrook and your Adviser will receive.
 
 
   </td>
@@ -561,8 +573,9 @@ policy: >-
   </table>
 
 
-  If you receive ongoing services from us over a period of more than 12 months, then we are also required to provide you with an annual Fee Disclosure Statement which will set out the fees paid, and the services offered and provided in the previous 12 months. 
+  If you receive ongoing services from us, we will provide any fee disclosures, fee consents and service confirmations required by law from time to time. These documents will explain the fees payable for our services and the services to be provided.\
 
+  \
 
   You can settle your fees by deduction from your investment portfolio or via bank transfer. In certain circumstances, you may be able to have charges deducted from your superannuation balance.
 
@@ -585,7 +598,11 @@ policy: >-
   **Approved Product List**
 
 
-  Our investment Approved Product List (APL) is based on research conducted by the third-party provider Lonsec. As Lonsec receives payments from financial product providers to be rated, this has the effect of limiting our investable universe to products whose issuers have paid Lonsec a fee. Our advice process provides clear guidelines for your adviser to recommend a product or security that is not on the APL, to avoid situations where the APL is unduly restrictive.
+  Our investment Approved Product List (APL) is based on research conducted by the third-party provider Lonsec. As Lonsec receives payments from financial product providers to be rated, this has the effect of limiting our investable universe to products whose issuers have paid Lonsec a fee. \
+
+  \
+
+  Our advice process provides clear guidelines for your adviser to recommend a product or security that is not on the APL, to avoid situations where the APL is unduly restrictive.
 
 
   **Adviser remuneration**
@@ -618,17 +635,28 @@ policy: >-
   ### How we protect your personal information
 
 
-  Protecting your privacy is important to us and central to our commitment to meeting the highest level of professional standards. We will handle your personal information per our Privacy Policy, which outlines how the information we collect from you is used, stored and disclosed. 
+  Protecting your privacy is important to us and central to our commitment to meeting the highest level of professional standards. We handle your personal information in accordance with our Privacy Policy and Privacy Collection Statement which explain how we collect, use, store and disclose personal information.\
 
+  \
 
-  We will collect your personal information from the conversations you have and forms you complete with our representatives. As a financial service provider, we are obligated to verify your identity and the source of any funds, pursuant to the Anti-Money Laundering and Counter-Terrorism Financing Act (AML/CTF Act) and its corresponding rules and regulations. 
+  We will collect your personal information from the conversations you have and forms you complete with our representatives. As a financial service provider, we are obligated to verify your identity and the source of any funds, pursuant to the Anti-Money Laundering and Counter-Terrorism Financing Act (AML/CTF Act) and its corresponding rules and regulations. \
 
+  \
 
   Accordingly, we will request identification documents, such as your passport or drivers’ licence, and may hold certified copies of these documents on file. 
 
 
-  With your consent, we may also share your full name, date of birth, residential address and contact details with an identity agent to help us verify your identity against government and non-government electronic data sources. Electronic verification allows us to verify your identity by using electronic tools and external data sources. 
+  We may disclose your personal information to electronic identity verification and customer due diligence providers engaged by us, including providers such as FAAA SafeID, InfoTrack and their underlying service providers, to verify your identity and comply with our legal obligations.\
 
+  \
+
+  These services may include identity verification, Australian Government Document Verification Service (DVS) checks, sanctions screening, politically exposed person (PEP) screening and other customer due diligence measures required under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth).\
+
+  \
+
+  With your consent, we may collect financial information from financial institutions using data aggregation and Open Banking services, including services such as Cashdeck and Open Banking services provided through Frollo. Information collected may include account balances, transaction history and other financial information relevant to providing financial advice and related services.\
+
+  \
 
   The main reason we collect, use and disclose your personal information, is to provide you with the products and services that you request. This reason may also include the following related purposes:
 
@@ -642,8 +670,9 @@ policy: >-
   * to provide you with information about other products and services that may be suitable for you. 
 
 
-  We may be required to obtain information about you at the time of providing financial services to you and from time to time in order to meet our legal obligations. We have certain reporting obligations pursuant to the AML/CTF Act, and information obtained from or about you may be provided to external third parties and regulators in accordance with the requirements imposed on us. 
+  We may be required to obtain information about you at the time of providing financial services to you and from time to time to meet our legal obligations. We have certain reporting obligations pursuant to the AML/CTF Act, and information obtained from or about you may be provided to external third parties and regulators in accordance with the requirements imposed on us.\
 
+  \
 
   We may also disclose your information to external parties, some of whom act on your or our behalf. These parties may include:
 
@@ -654,7 +683,13 @@ policy: >-
 
   * Insurers and reinsurers and their claims agents and assessors  
 
-  * Product providers; and
+  * Product providers
+
+  * Identity verification and customer due diligence providers
+
+  * Open Banking and financial data aggregation providers.
+
+  * Technology providers that support the delivery of our services; and
 
   * Mail houses.
 
