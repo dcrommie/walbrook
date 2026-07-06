@@ -213,7 +213,7 @@ policy: >-
   ### How you pay for the financial services we provide to you
 
 
-  If you receive personal advice from us, we will tell you about any fees, commissions and any other benefits, in actual dollar amounts (where possible) in the Statement of Advice or orally when providing further advice to you.  
+  If you receive personal advice from us, we will disclose any fees, commissions and other benefits associated with our services in the manner required by law and appropriate to the advice being provided. 
 
 
   There are several ways that Walbrook may be paid for the services we provide to you, including:
@@ -282,14 +282,14 @@ policy: >-
   The fees will depend on the complexity of your personal circumstances and the advice required to meet your objectives.
 
 
-  * The minimum fee charged for scaled or single issue advice is AUD 750, inclusive of GST.
+  * The minimum fee charged for scaled or single issue advice is AUD 880, inclusive of GST.
 
-  * The minimum comprehensive advice fee is AUD 3,300, inclusive of GST.
+  * The minimum comprehensive advice fee is AUD 3,600, inclusive of GST.
 
-  * The maximum comprehensive advice fee is AUD 11,000, inclusive of GST.
+  * The maximum comprehensive advice fee is AUD 13,200, inclusive of GST.
 
 
-  For example, complex advice that contains multiple goals, strategies and/or tax structures such as Self Managed Superannuation Funds, Family Trusts and Companies are likely to be charged closer to the maximum fee. 
+  For example, complex advice that contains multiple objectives, strategies and/or tax structures such as Self Managed Superannuation Funds, Family Trusts and Companies are likely to be charged closer to the maximum fee. 
 
 
   </td>
