@@ -108,7 +108,7 @@ policy: >-
 
   | ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
-  | <font color="#000066">Level 2, Rialto Podium East                      | <font color="#000066">Level 2, Rialto Podium East                    |
+  | <font color="#000066">L2, Rialto Podium East                           | <font color="#000066">L2, Rialto Podium East                         |
 
   | <font color="#000066">525 Collins Street                               | <font color="#000066">525 Collins Street                             |
 
@@ -710,7 +710,7 @@ policy: >-
 
   | -------------------------------------------------------------------- | ----------------------------------------------------------- | --- |
 
-  | <font color="#000066">Level 2, Rialto Podium East</font>             | <font color="#000066">info@walbrook.com.au</font>           |     |
+  | <font color="#000066">L2, Rialto Podium East</font>                  | <font color="#000066">info@walbrook.com.au</font>           |     |
 
   | <font color="#000066">525 Collins Street</font>                      |                                                             |     |
 
@@ -768,7 +768,7 @@ policy: >-
 
   | ------------------------------------------------------ | --------------------------------------------------------- |
 
-  | <font color="#000066">1.90                             | <font color="#000066">11 June 2024                        |
+  | <font color="#000066">2.00                             | <font color="#000066">1 July 2026                         |
 
 
   </br>
