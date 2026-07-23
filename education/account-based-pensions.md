@@ -4,7 +4,7 @@ path: understanding-account-based-pensions
 date: 2020-09-25T01:15:58.372Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: ../src/images/account-based-pension-blog-banner.png
+thumbnail: ../src/images/understanding-account-based-pensions-canva-.png
 ---
 This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
 
