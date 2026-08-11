@@ -10,13 +10,13 @@ According to credit rating agency Moody's, consumers worldwide have stockpiled a
 
 Households worldwide accumulated the excess — defined as the additional savings compared with the 2019 spending pattern and equating to more than 6 per cent of global gross domestic product — by the end of the first quarter of this year, paving the way for a strong rebound in spending as businesses re-open.
 
-![Household Savings](../src/images/household-savings.png "Household Savings")
+![Household Savings]( "Household Savings")
 
 The International Monetary Fund has revised its projections for GDP growth upwards, with the US expected to grow by 6.4% in 2021 and China by 8.4% over the same period.
 
 As confidence in the economic outlook increases, this is tempered by increasing inflation concerns, with near-term supply chain bottlenecks and google searches for "inflation" at the highest level since 2004.
 
-![Inflation Google Searches](../src/images/inflation-google.jpg "Inflation Google Searches")
+![Inflation Google Searches]( "Inflation Google Searches")
 
 ## Australia
 
@@ -94,11 +94,11 @@ Unless some unforeseen tail risk event occurs, we expect business and consumer c
 
 The US S&P 500 rose 3.5% over April as optimism about corporate earnings offset concerns regarding rising Covid-19 infections.
 
-![SPX Forward PE](../src/images/spx-forward-pe.jpg "SPX Forward PE")
+![SPX Forward PE]( "SPX Forward PE")
 
 After a market-beating rally, European equities have already raced past strategists' predictions for the year-end, with much of the support coming from consumer cyclical and industrial companies.
 
-![European Equities](../src/images/european-qeuities.png "European Equities")
+![European Equities]( "European Equities")
 
 The rise in European equities and optimistic economic data came despite a sluggish vaccine rollout and fears of a third wave of the virus across much of the eurozone, sparking tighter restrictions.
 
@@ -132,7 +132,7 @@ Since December, the central bank has said the economy must make "substantial fur
 
 Reflecting higher risk appetites and preference for yield and low duration spreads on high yield, or junk, bonds tightened to new post-2007 lows.
 
-![US HY Spreads](../src/images/us-hy-debt.png "US HY Spreads")
+![US HY Spreads]( "US HY Spreads")
 
 ## Commodities
 
