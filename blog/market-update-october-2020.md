@@ -68,7 +68,7 @@ The Australian government forecasts China’s growth to be 1.75% in 2020 and to 
 
 Global shares were down in September as rising infections in Europe and uncertainty around further fiscal support in the US dampened the outlook.  The MSCI World Ex-Australia Index fell 0.3% in Australian dollar terms, and the MSCI Emerging Markets Index rose 1.5%, while global small indices traded at the most significant discount to large caps in 17 years.
 
-![MSCI AC World Small Cap v MSCI AC World](../src/images/glbl-smaller-companies.png "MSCI AC World Small Cap v MSCI AC World")
+![MSCI AC World Small Cap v MSCI AC World]( "MSCI AC World Small Cap v MSCI AC World")
 
 Australian shares followed global markets down as the focus shifted to the uncertain path of recovery and the ongoing public health risks due to the pandemic. 
 In early October, President Trump walked back his pledge of no additional stimulus cash before the presidential election, giving the market hope for further support.
@@ -95,7 +95,7 @@ The market volatility throughout the pandemic has seen global sovereign bond yie
 
 Governments have embarked on a series of large-scale fiscal programs that have resulted in substantial sovereign bond issuance, while capital markets have also seen strong investment grade corporate issuance.  Yet all this issuance has been soaked up by massive central bank bond-buying, which has reduced the cost of funding for governments and their banking systems.
 
-![US IG issuance](../src/images/debt-issuance.jpg "US IG issuance")
+![US IG issuance]( "US IG issuance")
 
 In Australia, the RBA flagged that the high rate of unemployment was now a national priority and would keep interest rates at the record low of 0.25% and continue to buy government bonds and provide banks with cheap credit for quite some time to stimulate the economy out of recession. 
 
@@ -103,7 +103,7 @@ Financial markets continue to speculate that the RBA may have to consider a furt
 
 In the US, minutes from the September FOMC meeting revealed members were pricing in additional fiscal stimulus from Congress. The staff projections “assumed the enactment of some additional fiscal policy support this year,” adding “without that additional policy action, the pace of the economic recovery would likely be slower.”
 
-![5 Year UST](../src/images/5-year-yield.jpg "5 Year UST")
+![5 Year UST]( "5 Year UST")
 
 ## Commodities
 
@@ -119,7 +119,7 @@ The Australian dollar fell 3.4% in September to USD 0.71 as risk aversion return
 
 The Australian dollar was also down against the Japanese yen (-3.4%) and euro (-1.9%), while the British pound suffered as fears of an eventual hard Brexit increased.
 
-![GBP fears](../src/images/gbp-suffering.png "GBP fears")
+![GBP fears]( "GBP fears")
 
 **Sources**
 
