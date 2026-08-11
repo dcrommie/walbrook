@@ -10,7 +10,7 @@ The COVID-19 pandemic continues to spread, with data from the World Health Organ
 
 Globally, the economic recovery continues following severe contractions in the first half of 2020. Shipping volumes are already back at levels that took more than a year to reach following the collapse of Lehman Brothers. Still, growth is uneven across countries and regions, with fears of a second wave dampening hopes of a sustained rebound. 
 
-![Shipping volumes](../src/images/faster-recovery-than-post-lehman.png "Shipping volumes")
+![Shipping volumes]( "Shipping volumes")
 
 ## Australia
 
@@ -48,7 +48,7 @@ Key economic indicators suggest that Europe’s recovery is losing momentum this
 
 Fears of resurgent COVID-19 infection rates, most notably in Spain and Italy, is leading to greater caution from consumers, while the spectre of deflation is reemerging for the first time since the euro crisis. Inflation in the eurozone is estimated to be -0.2% year-on-year in August, missing against the expected positive 0.2% rate and down from 0.4% in the previous month.
 
-![Eurozone Deflation](../src/images/euro-deflation.jpg "Eurozone Deflation")
+![Eurozone Deflation]( "Eurozone Deflation")
 
 The Markit Composite PMI for the eurozone slipped from 54.9 to 51.9 in August, with the services PMI falling to 50.5. Both measures are still in expansion territory but slowing on the previous month.
 
@@ -70,7 +70,7 @@ The S&P 500 Index rose 7.2% in US dollar terms, ending August at record highs an
 
 The rebound in global equities has been led by large-cap growth companies, which have benefited from the persistent low rate, low growth environment.
 
-![Real Rates and Value - Growth Ratio](../src/images/real-rates-and-value-growth-ratio.jpg "Real Rates and Value - Growth Ratio")
+![Real Rates and Value - Growth Ratio]( "Real Rates and Value - Growth Ratio")
 
 One of the heroes of remote work, Zoom Communications, released its June quarter results at the end of August, which included a 355% rise in revenue on the prior corresponding period, soundly beating expectations. Zoom’s share price rose 28.0% in August but fell 19.2% in the first week of September.
 
@@ -100,7 +100,7 @@ The US Federal Reserve issued a revised Statement on Longer-Run Goals and Moneta
 
 This change represents a relaxation of the inflation target in the short to medium term, and real yields on some high-quality US corporate bonds slipped below zero in August. The real yield on a bond is the basic nominal yield adjusted for inflation expectations.  Maturities of 1-3 years printed negative real yields for the first time since 2017, when expectations of massive tax cuts boosted inflation expectations, while for 5-7 year maturities the last time we saw negative real yields was 2013.  
 
-![Real US IG Rates](../src/images/real-ig-rates.png "Real US IG Rates")
+![Real US IG Rates]( "Real US IG Rates")
 
 ## Commodities
 
@@ -110,7 +110,7 @@ Metals were positive over the month, with increases in Nickel (+11.5%), Zinc (+8
 
 Gold softened over August, falling from US $1,975.86 per ounce to $1,971.90 after pushing above $2,000 earlier in the month.
 
-![Gold ETF Holdings v Central Banks](../src/images/gold-etf-bullion-holdings-v-central-banks.jpg "Gold ETF Holdings v Central Banks")
+![Gold ETF Holdings v Central Banks]( "Gold ETF Holdings v Central Banks")
 
 ## FX
 
