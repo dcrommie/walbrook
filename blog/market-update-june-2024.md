@@ -86,10 +86,6 @@ The unemployment rate rose to 4.1% in April, above the anticipated 3.9%. The Wes
 Composite PMI decreased to 52.1 in May, indicating a slower pace of growth than previous months. The NAB business confidence index remained at 1 in April, with sentiment weak in retail, wholesale and mining.
 The trade surplus widened to $6.55 billion in April, well below the market forecast of $7.3 billion.
 
-### Global
-
-Insert Global section here.
-
 ### US
 
 The GDP growth rate for Q1 2023 was 1.3%, in line with forecasts, down from 3.4% in the previous quarter. The primary driver of this result was a downward revision in consumer spending.
