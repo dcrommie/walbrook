@@ -4,7 +4,7 @@ path: responsible-investment
 date: 2020-02-21T09:25:00.000Z
 author: Walbrook Wealth Management
 blogpage: true
-thumbnail: ../src/images/wind-farm-ri-strategy-blog.png
+thumbnail: ../src/images/understanding-responsible-investment-canva-.png
 ---
 Substantial and sustained flows into Responsible Investment (RI) strategies in recent years are commanding the attention of company boards and their key stakeholders.
 
