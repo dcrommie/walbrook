@@ -16,8 +16,6 @@ According to the IMF, the global growth rate is forecast to be a significantly n
 
 The soured relationship between Canberra and Beijing continued to have real implications for trade, with China suspending purchases of Australian coal and advising power stations and steel mills to stop using Australian coal immediately. The strained relationship has also impacted copper ore and concentrate, sugar, timber, wine and lobster. Beijing has already imposed tariffs on Australian barley.
 
-![Australia Coal to China]( "Australia Coal to China")
-
 On Melbourne Cup Day the RBA lowered interest rates to an all-time low of 0.10% and committed to further quantitative easing (QE) with the purchase of $100 million worth of 5-year and 10-year government bonds over the next six months.
 
 Economists expect the Australian economy to contract by 4.0% in 2020 before increasing by around 5.0% in 2021 and 4.0% in 2022. Retail sales fell 1.1% in September, following a 4.0% fall in August, while headline inflation jumped 1.6% in the September quarter, mostly in line with expectations of a 1.5% rise.
@@ -76,19 +74,13 @@ In October, the MSCI World Ex-Australia Index fell 1.1% in Australian dollar ter
 
 In Europe, the STOXX Europe 600 Index fell 5.7% in euro terms in October, with the largest losses coming from the Technology and Health Care sectors. In Asia, Hong Kong’s Hang Seng Index rose 2.8% and China’s CSI 300 Index rose 2.4%, while Japan’s Nikkei 225 Index fell 0.9%.
 
-![Europe Trading Range]( "Europe Trading Range")
-
 Australian shares bucked the global trend to post a 1.9% return in October as easing restrictions, low case numbers, and a highly supportive federal budget bolstered confidence. Information Technology (+9.0%) was the top-performing sector, followed by Financials (+6.3%).
 
 Although politics largely overshadowed earnings reports, company earnings are on track to soundly beat expectations. As at 6 November, 89% of S&P 500 companies had reported for 3Q20, of which 86% reported actual EPS above estimates. Apple reported its 4Q20 results, with revenue of US$64.7 billion and EPS of US$0.73, beating expectations.
 
-![Tech SPX Market Share]( "Tech SPX Market Share")
-
 Technology companies are poised to end 2020 with their greatest share of the stock market ever, topping a dot-com era peak. Companies that do everything from manufacturing phones to operating social-media platforms now account for nearly 40% of the S&P 500, on pace to eclipse a record of 37% from 1999.
 
 However, a lurch higher in 10-year yields would hit the valuations of technology companies and other growth stocks that have led the stock market rally since March, given the negative effect of a higher discount rate on future earnings.
-
-![Growth Yield Curve Issue]( "Growth Yield Curve Issue")
 
 ## Property
 
@@ -116,8 +108,6 @@ In the US, the yield on 10-year Treasuries pushed higher through October from 0.
 
 Yields have been under pressure due to large-scale fiscal programs driving a substantial sovereign bond issuance. This issuance has been soaked up by massive central bank bond-buying, which has reduced the cost of funding for governments and their banking systems.
 
-![Europe Social Bond Issuance]( "Europe Social Bond Issuance")
-
 The European Union’s first offering of social bonds, aimed at providing funding for a job support program, was said to receive orders of more than 233 billion euros ($275 billion), a record in the euro area. The sale marks the arrival of a significant new benchmark, with investors drawn to a AAA credit rating and the fastest-growing part of sustainable finance. The offering is also the EU’s first joint debt since the bloc agreed on a landmark pandemic recovery deal.
 
 ## Commodities
@@ -128,8 +118,6 @@ The Brent crude price fell 9.9% to US$36.33 per barrel, and the WTI crude price 
 
 Metals moved higher in October, with gains in Zine (+5.0%), Aluminium (+4.6%), Nickel (+4.4%), Tin (+1.3%) and Copper (+0.7%) while Lead (-0.3%) was down.
 
-![Central banks were net sellers of gold for the first time in a decade]( "Central banks were net sellers of gold for the first time in a decade")
-
 The Gold spot price was down over the month by 1.0%, finishing October at US$1,878.81 per ounce. Some gold producing nations have been taking advantage of near-record prices to soften the blow from the pandemic. Sales in October were driven by Uzbekistan and Turkey, while Russia was a net seller for the first time in 13 years.
 
 ## FX
@@ -139,8 +127,6 @@ The Australian dollar weakened slightly against the US dollar in October, fallin
 The Australian dollar was down against other major currencies in October, including GBP (-1.5%), EUR (-0.5%), and JPY (-2.0%).
 
 Brexit is sending GBP hedging costs soaring again, with traders and investors now looking for less crowded ways to trade the never-ending political drama.
-
-![1M GBPUSD ATM Volatility]( "1M GBPUSD ATM Volatility")
 
 **Sources**
 
