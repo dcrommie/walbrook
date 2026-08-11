@@ -84,7 +84,7 @@ However, while vaccine announcements are positive for sentiment, until there is 
 
 Though much will depend on the supply side.  In the US, prices are squeezing in some markets with just 389,000 single-family homes on the market in the US, while in Canada there are less than 100,000 active listings.  That is the lowest inventory on record.
 
-![Inventory](../src/images/inventory-home-sales.jpg "Inventory")
+![Inventory]( "Inventory")
 
 ### Rates and Credit
 
@@ -100,7 +100,7 @@ As measured by the spread between the 10-year and 2-year government bond yields,
 
 The curve may steepen further due to supply alone unless the Fed keeps the QE programme's pace up in Q1.  There is a lot of bond issuance yet to be absorbed by the market.
 
-![Issuance outpacing QE](../src/images/issuance-outpacing-qe.jpg "Issuance outpacing QE")
+![Issuance outpacing QE]( "Issuance outpacing QE")
 
 In Australia, the CPI increased by just 0.9% over the year to the December quarter, and wages are rising at the slowest rate on record. In the US, the core PCE inflation rate (the Federal Reserve's preferred inflation measure) was 1.5% year-on-year to December.
 
@@ -108,7 +108,7 @@ While current inflation rates remain low, 10-year breakeven inflation rates at t
 
 The gap between five-year inflation breakevens and the core PCE price index is at the highest in almost eight years, however, which may resolve with expectations falling back in line with core inflation.
 
-![USHY Record Lows](../src/images/us-junk-bond-yields-below-4-for-first-time-ever.jpg "USHY Record Lows")
+![USHY Record Lows]( "USHY Record Lows")
 
 ### Commodities
 
@@ -118,17 +118,17 @@ As the coronavirus loosens its grip on the global economy, oil demand is likely 
 
 Brent and WTI crude prices both gained in January, ending the month at US$55.25 per barrel and US$52.16 per barrel respectively before breaching the US$60 mark in early February for the first time in almost a year.
 
-![Brent Price](../src/images/brent.jpg "Brent Price")
+![Brent Price]( "Brent Price")
 
 Base metals were mostly stronger in January, with gains in Tin (+12.1%), Nickel (+6.5%), Lead (+1.5%) and Copper (+1.2%) and falls in Zinc (-6.2%) and Aluminium (-0.1%). 
 
 Gold fell 2.5% to end the month at US$1,847.65 per ounce. 
 
-![Silver Move](../src/images/silver-moves.jpg "Silver Move")
+![Silver Move]( "Silver Move")
 
 Silver had its biggest intraday move since 2008, with the Reddit army posting about executing a short squeeze in the metal.  The gains were far away from the big swings of the late 1970s / early 1980s when the Hunt brothers attempted to corner the market, however the Gold/Silver ratio has been driven to the lowest level since 2014.
 
-![Gold/Silver Ratio](../src/images/gold-silver-ratio.jpg "Gold/Silver Ratio")
+![Gold/Silver Ratio]( "Gold/Silver Ratio")
 
 ### FX
 
