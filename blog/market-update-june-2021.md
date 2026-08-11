@@ -108,7 +108,7 @@ In the May Reserve Bank meeting, members noted the continued strength of the Aus
 
 The amount of negative yield debt is shrinking and that's a good sign that the global economic recovery is well underway.
 
-![Negative-Yielding_Debt](../src/images/negative-yielding-debt.png "Negative-Yielding-Debt")
+![Negative-Yielding_Debt]( "Negative-Yielding-Debt")
 
 Since the significant movements in bond yields we experienced late in 2020 and early 2021, global nominal yields have generally traded sideways since March due to ongoing inflationary uncertainty and central bankers monetary response. 
 
