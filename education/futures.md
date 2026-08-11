@@ -4,7 +4,7 @@ path: understanding-futures
 date: 2020-09-25T06:29:15.341Z
 author: Walbrook Wealth Management
 educationpage: true
-thumbnail: ../src/images/futures-education-banner.png
+thumbnail: ../src/images/futures-education-banner-updated-canva-.png
 ---
 This fact sheet provides additional information to help with understanding the investment, tax and other financial planning concepts that we have discussed with you or included in your Statement of Advice.
 
