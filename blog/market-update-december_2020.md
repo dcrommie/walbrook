@@ -10,7 +10,7 @@ The global recovery is underway and is looking sufficiently V-shaped, but recent
 
 Globally there were over 60 million confirmed Covid-19 cases at the start of December and numbers continue to rise in the US, South America and Europe. The UK has begun rolling out the Pfizer-BioNTech vaccine, while Australia and the US are preparing to do the same once the vaccine is approved. 
 
-![Global Growth](../src/images/global-growth.png "Global Growth")
+![Global Growth]( "Global Growth")
 
 ### Australia
 
@@ -72,7 +72,7 @@ Globally, the MSCI World ex Australia Index rose 7.4%, and the MSCI Emerging Mar
 
 The average correlation of S&P 500 stocks to the index itself has come down markedly from high of 0.86 in March.  The current level of 0.5 is mainly in line with the average since the late-1980s.
 
-![SPX Correlation](../src/images/correlation.jpg "SPX Correlation")
+![SPX Correlation]( "SPX Correlation")
 
 The ASX 200 Index posted a return of 10.2% in November, building on October’s momentum as the rotation into cyclical sectors continued. The easing of Covid-19 restrictions, a string of better-than-expected economic data, and positive news from vaccine trials all contributed to the rally. 
 
@@ -98,13 +98,13 @@ US REITs also had a strong month, posting 9.1% in US dollar terms, with large ga
 
 Yields came under pressure in November, with investors mapping out the impact of rising rates on markets ranging from stocks to corporate bonds. The US 10-year Treasury yield rose early in the month from 0.88% to 0.98% on renewed optimism for US stimulus talks, before retreating to 0.84% by month-end. 
 
-![US10Y](../src/images/us-10-year.jpg "US10Y")
+![US10Y]( "US10Y")
 
 November was a solid month for credit, with global high yield credit gaining 4.3% and global investment-grade credit gaining 2.1% in Australian dollar hedged terms.  
 
 In emerging market credit, a spate of Chinese corporate bond failures sparked a sell-off in riskier debt. Yields on three-year AA rated yuan-denominated Chinese corporate bonds, considered by some analysts as junk debt in the onshore market, surged during the month.
 
-![China Junk](../src/images/china-junk.jpg "China Junk")
+![China Junk]( "China Junk")
 
 ### Commodities
 
@@ -118,7 +118,7 @@ Metals also moved higher in November, with gains in Lead (+13.7%), Copper (+12.8
 
 The Gold spot price continued to fall over the month, dropping 5.4% to US$1778.10 per ounce.
 
-![Bitcoin Gold](../src/images/bitcoin-gold.jpg "Bitcoin Gold")
+![Bitcoin Gold]( "Bitcoin Gold")
 
 ### FX
 
