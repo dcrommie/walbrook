@@ -20,7 +20,7 @@ The AiG Manufacturing PMI rose 3.5 points in February to 58.8.  According to AiG
 
 Sentiment remains strong, with the Westpac-MI Consumer Sentiment Index lifting to 109.1 in February from 107.0 in January.  The ‘time to buy a dwelling’ index fell 3.1% and is now 8.6% below its peak in November. The decline in recent months suggests that house price increases may already be starting to weigh on the purchasing sentiment. 
 
-![Consumer Confidence](../src/images/consumer-confidence.png "Consumer Confidence")
+![Consumer Confidence]( "Consumer Confidence")
 
 ## United States
 
@@ -46,7 +46,7 @@ The race to inoculate has been derailed by logistical challenges and shortages. 
 
 Prime minister Johnson announced a four-stage plan to lift restrictions in England, expecting to lift all restrictions on social conduct by June. 
 
-![Britain Outlook](../src/images/britain.jpg "Britain Outlook")
+![Britain Outlook]( "Britain Outlook")
 
 Overall, the recovery story remains intact, albeit dilated. The eurozone’s economic sentiment index improved in February as the outlook for vaccine rollouts and easing of restrictions bolstered confidence. The IHS Markit Eurozone Manufacturing PMI also surprised to the upside, while January’s retail sales came in well below expectations and the unemployment rate held steady at 8.1%. 
 
@@ -78,7 +78,7 @@ Reaching the end of reporting season, S&P 500 companies reported positive earnin
 
 The VIX remains at elevated levels, with the futures curve in steep contango, implying expectations of volatility over the medium term that are higher than pre-COVID.
 
-![VIX Futures](../src/images/4monthvixfutures.jpg "VIX Futures")
+![VIX Futures]( "VIX Futures")
 
 Value shares continued their rally through the start of 2021. Still, performance has not been uniform, with cyclical stocks benefitting enormously from renewed confidence while value with a quality bias has struggled. 
 
@@ -94,7 +94,7 @@ CoreLogic data showed Australian house prices rose 2.1% in February—their fast
 
 According to the ABS, the value of new housing loans rose 10.5% in January and 76% since its May 2020 low. 
 
-![Australian House Prices](../src/images/australian-residential-real-estate.png "Australian House Prices")
+![Australian House Prices]( "Australian House Prices")
 
 In the US Real Estate Investment Trust (REIT) sector, the post-covid rotation has been the prevailing theme as investors favour reopening-sensitive sectors such as retail, hotels and offices over ‘essential’ sectors like housing, industrial and technology. 
 
@@ -114,7 +114,7 @@ This purchase is the first departure from the program since it commenced in Nove
 
 In the US, Treasury yields rose from 1.11% to 1.44% over February and continued to push higher in early March.   Deutsche Bank noted that it had been the third worst start to a year for the benchmark US 10 Year Treasury since 1830.
 
-![UST Third Worst Start 1830](../src/images/us10y-total-return-1830.jpg "UST Third Worst Start 1830")
+![UST Third Worst Start 1830]( "UST Third Worst Start 1830")
 
 Spreads on riskier fixed-income investments like high yield credit and corporate loans have narrowed notably as fund managers sell assets that trade more in line with government debt.  
 
@@ -122,7 +122,7 @@ Issuers have raced to meet this demand with sales of new Collateralised Loan Obl
 
 Indicators of stress in bond markets have also been observed, with bid/ask spreads in US Treasuries widening across the curve to their highest levels since the March 2020 sell-off.
 
-![UST Spreads](../src/images/treasury-bidask.png "UST Spreads")
+![UST Spreads]( "UST Spreads")
 
 ## Commodities
 
@@ -132,11 +132,11 @@ Base metals were stronger in February, Tin (+12.7%), Aluminium (+9.0%), Zinc (+8
 
 Copper gained 15.5%, reaching levels reached in 2007-08 during the first phase of the commodities super-cycle.
 
-![Copper](../src/images/copper.jpg "Copper")
+![Copper]( "Copper")
 
 The gold price fell 6.1% to US $1,734.04 per ounce.  Higher inflation expectations were exceeded by higher nominal yields, resulting in higher real yields.  As an asset that pays no income, higher real yields are a Gold headwind.
 
-![Gold](../src/images/gold-v-nominal-yields.jpg "Gold")
+![Gold]( "Gold")
 
 ## FX
 
